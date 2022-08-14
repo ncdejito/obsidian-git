@@ -1,0 +1,18 @@
+{
+  "todoPageName": "todo\ntasks",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "tag",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "a->z",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Daily/2021-03-07.md",
+    "Daily/2022-07-16.md"
+  ],
+  "_hiddenTags": []
+}

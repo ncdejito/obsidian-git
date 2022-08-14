@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "589a9ddf0a721f99",
+    "type": "split",
+    "children": [
+      {
+        "id": "476f51d9b6e0e477",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C++.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "572ce02c674ddc2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "746170149682e0f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "898587cf9270f866",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d12c7ab0a01470f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fbe02f1db96385e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e53c00e69354e9f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "623bde824f1dd645",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "903a81507dd44faa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d933abc357b4cd46",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5f8ee9b026535d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53bd56e96f5bfed8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "476f51d9b6e0e477",
+  "lastOpenFiles": [
+    "Python.md",
+    "C++.md",
+    "Algorithms.md",
+    "NodeJS + npm.md",
+    "Git.md",
+    "Untitled.md",
+    "Obsidian.md",
+    "Docker.md",
+    "Workspace.md",
+    "How to Build Expertise in a New Field.md"
+  ]
+}
