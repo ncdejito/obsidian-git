@@ -61,6 +61,11 @@ git rebase -it hashkeyajsdhfasjd~1
 git rebase --continue
 ```
 
+Set origin to new repo
+```
+git remote set-url origin git://new.url.here
+```
+
 Add commit push in one command
 ```
 # https://simplernerd.com/git-alias-add-commit-push/

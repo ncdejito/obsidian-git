@@ -10,6 +10,16 @@ chmod a+x hello
 ```
 
 ## Objects
+Unordered map - hashmap, dict
+```
+    unordered_map<string, int> umap;
+  
+    // inserting values by using [] operator
+    umap["GeeksforGeeks"] = 10;
+    umap["Practice"] = 20;
+    umap["Contribute"] = 30;
+```
+
 Struct
 ```
 struct Player
@@ -26,7 +36,8 @@ int main()
     me.position.x = me.position.y = me.position.z = 0;
 }
 ```
-Pointers
+
+Pointers - manipulate the variable that is pointed to through the pointer. Otherwise you'll get heap-buffer-overflow error
 ```
     Player *ptrMe;
     ptrMe = &me;
@@ -42,9 +53,13 @@ class Player
 };
 ```
 
+Structured bindings (since c++17)
+> Like a reference, a structured binding is an alias to an existing object. Unlike a reference, a structured binding does not have to be of a reference type.
 
-## Dynamic memory allocation
-performing memory allocation manually by programmer
+
+## Concepts
+
+Dynamic memory allocation - performing memory allocation manually by programmer
 ```
 int main()
 { // "dynamic allocation" – using keyword new!
@@ -52,6 +67,28 @@ int main()
     delete player; // deletion invokes dtor
 }
 ```
+
+Stack vs Heap Memory Allocation
+Stack
+> allocation happens on contiguous blocks of memory. We call it a stack memory allocation because the allocation happens in the function call stack. The size of memory to be allocated is known to the compiler and whenever a function is called, its variables get memory allocated on the stack.
+
+Heap
+> memory is allocated during the execution of instructions written by programmers. Note that the name heap has nothing to do with the heap data structure. It is called heap because it is a pile of memory space available to programmers to allocated and de-allocate.
+
+malloc - allocates a block of uninitialized memory to a pointer
+```
+  // allocate memory of int size to an int pointer
+  int* ptr = (int*) malloc(sizeof(int));
+
+  // assign the value 5 to allocated memory
+  *ptr = 5;
+```
+
+Buffer - denotes a computer memory block that acts as a temporary placeholder
+```
+Char* buff = new char [ ]
+```
+[source](https://www.educba.com/c-plus-plus-buffer/)
 
 ## Advanced
 STL
