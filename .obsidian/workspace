@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++.md",
-            "mode": "source",
+            "file": "Linux.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++.md"
+                "file": "Linux.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "476f51d9b6e0e477",
   "lastOpenFiles": [
-    "Web stuff.md",
     "Git.md",
-    "C++.md",
     "Python.md",
+    "Heroku.md",
+    "PostgreSQL.md",
+    "C++.md",
+    "Web stuff.md",
     "Algorithms.md",
     "NodeJS + npm.md",
     "Untitled.md",
-    "Obsidian.md",
-    "Docker.md",
-    "Workspace.md"
+    "Obsidian.md"
   ]
 }

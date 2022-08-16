@@ -39,6 +39,11 @@ int main()
 
 Pointers - manipulate the variable that is pointed to through the pointer. Otherwise you'll get heap-buffer-overflow error
 ```
+	int num;
+    int* ptr = (int*) malloc(sizeof(int));
+    ptr = &num;
+    *ptr = newval; // change variable content
+    
     Player *ptrMe;
     ptrMe = &me;
     ptrMe->name = "John"; // changed name to John
