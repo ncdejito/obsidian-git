@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Linux.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -131,15 +131,15 @@
   },
   "active": "476f51d9b6e0e477",
   "lastOpenFiles": [
-    "Git.md",
+    "VSCode.md",
     "Python.md",
+    "Linux.md",
+    "Git.md",
     "Heroku.md",
     "PostgreSQL.md",
     "C++.md",
     "Web stuff.md",
     "Algorithms.md",
-    "NodeJS + npm.md",
-    "Untitled.md",
-    "Obsidian.md"
+    "NodeJS + npm.md"
   ]
 }

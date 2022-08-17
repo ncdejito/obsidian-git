@@ -42,3 +42,12 @@ screen -S jl
 screen -ls
 screen -r 10835
 ```
+
+Make bashes have env variables based on .env in current dir
+```
+sudo apt install direnv
+vim ~/.bashrc
+eval "$(direnv hook bash)"
+cd dir
+direnv allow
+```
