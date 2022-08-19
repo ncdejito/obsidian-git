@@ -23,7 +23,10 @@ poetry init
 poetry shell
 poetry add pandas
 poetry install
-poetry export -f requirements.txt --output requirements.txt
+
+
+# https://github.com/python-poetry/poetry/issues/3472#issuecomment-744356551
+poetry export -f requirements.txt --output requirements.txt --without-hashes
 
 ```
 

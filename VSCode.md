@@ -13,3 +13,7 @@ Update VSCode
         "80"
     ],
 ```
+
+#fix [[Git]] no anonymous write access
+Source of error is VSCode CLI authentication
+[instructions](https://stackoverflow.com/questions/60757334/git-push-from-visual-studio-code-no-anonymous-write-access-authentication-fai)
