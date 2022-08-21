@@ -27,6 +27,11 @@ unzip -d landuse landuse.zip
 sudo apt install p7zip
 7z x /content/TH.2020.2021.wdwe-4h.csv.7z
 ```
+* unzip an xz file
+```
+sudo apt install p7zip-full
+
+```
 
 * start screen session named jl
 
