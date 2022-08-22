@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Raspberry Pi (RPi).md",
+            "file": "Docker.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raspberry Pi (RPi).md",
+                "file": "Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raspberry Pi (RPi).md",
+                "file": "Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raspberry Pi (RPi).md"
+                "file": "Docker.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "476f51d9b6e0e477",
   "lastOpenFiles": [
-    "Linux.md",
+    "Vim.md",
     "VSCode.md",
-    "Python.md",
-    "Git.md",
-    "Heroku.md",
-    "PostgreSQL.md",
-    "C++.md",
-    "Web stuff.md",
-    "Algorithms.md",
+    "Linux.md",
+    "Arduino.md",
+    "Docker WSL.md",
+    "Frontend.md",
+    "Programming Languages.md",
+    "Docker.md",
+    "Distributed Systems.md",
     "NodeJS + npm.md"
   ]
 }

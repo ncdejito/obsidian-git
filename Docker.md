@@ -1,5 +1,6 @@
-### Routines
-*  open image and bash
+
+### Routines 
+* open image and bash
 ```
 docker run -it --entrypoint /bin/bash image:tag
 ```
