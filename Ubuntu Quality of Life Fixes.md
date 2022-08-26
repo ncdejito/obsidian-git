@@ -17,3 +17,9 @@ sudo vim /usr/share/applications/libreoffice-calc_csv.desktop
 sudo vim /etc/gnome/defaults.list
 # replace application/csv,text/commaseparated,text/csv default with _csv
 ```
+
+rotate display
+```
+xrandr -o left
+xrandr -o normal
+```
