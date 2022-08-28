@@ -56,3 +56,15 @@ eval "$(direnv hook bash)"
 cd dir
 direnv allow
 ```
+
+## Install Flatpak
+```
+flatpak remote-add --if-not-exists flathub https://flathub.org/apps/details/org.winehq.Wine
+flatpak install flathub org.winehq.Wine
+
+```
+
+## Run windows programs
+```
+flatpak run org.winehq.Wine RoboStudio/robostudio.exe
+```

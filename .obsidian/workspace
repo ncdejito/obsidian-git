@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ubuntu Quality of Life Fixes.md",
+            "file": "Linux.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ubuntu Quality of Life Fixes.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ubuntu Quality of Life Fixes.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ubuntu Quality of Life Fixes.md"
+                "file": "Linux.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "476f51d9b6e0e477",
   "lastOpenFiles": [
+    "Ubuntu Quality of Life Fixes.md",
     "Linux.md",
     "Docker.md",
     "Vim.md",
@@ -139,7 +140,6 @@
     "Docker WSL.md",
     "Frontend.md",
     "Programming Languages.md",
-    "Distributed Systems.md",
-    "NodeJS + npm.md"
+    "Distributed Systems.md"
   ]
 }
