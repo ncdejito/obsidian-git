@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux.md",
+            "file": "Data Structures.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md"
+                "file": "Data Structures.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "476f51d9b6e0e477",
   "lastOpenFiles": [
-    "Ubuntu Quality of Life Fixes.md",
-    "Linux.md",
-    "Docker.md",
-    "Vim.md",
-    "VSCode.md",
-    "Arduino.md",
-    "Docker WSL.md",
-    "Frontend.md",
+    "C++.md",
+    "ROS.md",
     "Programming Languages.md",
-    "Distributed Systems.md"
+    "Haskell.md",
+    "Web engg.md",
+    "PostgreSQL.md",
+    "Heroku.md",
+    "NodeJS + npm.md",
+    "React-Native.md",
+    "Mobile Apps.md"
   ]
 }

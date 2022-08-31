@@ -1,4 +1,4 @@
-[[Robotics]] [[Workspace]]  
+[[Hardware]] [[Workspace]]  
 
 ```
 # # added to local machine ~/.bashrc

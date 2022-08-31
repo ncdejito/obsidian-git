@@ -1,4 +1,4 @@
-[[Robotics]]
+[[Hardware]]
 
 raspberry pi vs smartphone
 smartphone

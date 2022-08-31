@@ -1,7 +1,7 @@
 # SubT exploration
 
 hello world code doesnt run anymore after my modifications to base
-[[Robotics]]
+[[Hardware]]
 
 [[Docker]] commands
 ```

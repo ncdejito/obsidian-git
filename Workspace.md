@@ -1,5 +1,4 @@
 
-
 ### Software
 Note taking
 * Tasks -> Google Keep
