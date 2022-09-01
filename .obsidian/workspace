@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Data Structures.md",
+            "file": "Ubuntu Core 22.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures.md",
+                "file": "Ubuntu Core 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures.md",
+                "file": "Ubuntu Core 22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures.md"
+                "file": "Ubuntu Core 22.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "476f51d9b6e0e477",
   "lastOpenFiles": [
+    "Raspberry Pi (RPi).md",
+    "Ubuntu Core 22.md",
+    "Docker.md",
+    "Linux.md",
+    "Algorithms.md",
+    "Python.md",
+    "Data Structures.md",
     "C++.md",
     "ROS.md",
-    "Programming Languages.md",
-    "Haskell.md",
-    "Web engg.md",
-    "PostgreSQL.md",
-    "Heroku.md",
-    "NodeJS + npm.md",
-    "React-Native.md",
-    "Mobile Apps.md"
+    "Programming Languages.md"
   ]
 }

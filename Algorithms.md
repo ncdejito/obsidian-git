@@ -25,5 +25,5 @@ Ex. Find a word in a dictionary
 16. Backtracking
 is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point in time (by time, here, is referred to the time elapsed till reaching any level of the search tree)
 
-Dynamic programming
+Dynamic programming = recursion + memoization
 >simplifying a complicated problem by breaking it down into simpler sub-problems in a recursive manner.
