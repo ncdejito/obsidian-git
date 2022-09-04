@@ -12,7 +12,10 @@ docker ps # separate terminal
 
 docker commit 52a9200a3ad8 osrf/subt-virtual-testbed:latest
 ```
-
+* copy a file from a container to the host 
+```
+docker cp <containerId>:/file/path/within/container /host/path/target
+```
 
 ### Best practices
 

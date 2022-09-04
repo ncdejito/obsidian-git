@@ -1,6 +1,10 @@
 [[Hardware]] [[Workspace]]  
 
 ```
+source /opt/ros/humble/setup.bash
+```
+
+```
 # # added to local machine ~/.bashrc
 # export DISPLAY=:0.0
 # xhost +local:docker
