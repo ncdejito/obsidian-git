@@ -34,7 +34,7 @@ NVIDIA Driver
 https://www.acer.com/ac/en/ID/content/support-product/4281;-;
 From official Acer website > VGA Driver > NVIDIA GeForce 640M LE
 
-[[ROS]]
+[[ROS2]]
 
 
 [Increase Virtual Memory](https://thegeekpage.com/increase-ram/) - 1.5 * 1024 * Installed RAM
