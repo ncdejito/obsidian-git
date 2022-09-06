@@ -31,7 +31,13 @@ docker commit 2994909db49c a:workspace
 ros2 topic info -v /topic
 
 ros2 param set slam_toolbox max_laser_range 3.5
+
+export ROS_DOMAIN_ID=0
+echo "export ROS_DOMAIN_ID=0" >> ~/.bashrc
+
 ```
+
+Continue ROS2 Tutorials at [colcon build](https://docs.ros.org/en/galactic/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html)
 
 ## Concepts
 Node - e.g. motor controller, laser range finder
@@ -41,11 +47,34 @@ Node - e.g. motor controller, laser range finder
 - Publishers - node publishes to these topics (feeds posted to like IG/FB feed)
 	- Topic1
 - Services - send request and wait for response
-	- Server - other nodes send request to this node
+	- Server - this node sends responses to requests from other nodes
 	- Client - this node sends request to other nodes
 - Action - long running tasks, can be async
 	- Server
+		- Goal Service Server - responds to goals
+		- Feedback Publisher - sends feedback to topic
+		- Results Service Server
 	- Client
+		- Goal Service Client - sends goals
+		- Feedback Subscriber
+		- Results Service Client
+- Parameters - variables with values inside a node (like [[Python]] class)
+
+```
+$ ros2 action list -t
+/action [action-type]
+$ ros2 interface show <action-type>
+structure of goal request
+---
+structure of result request
+---
+structure of feedback
+
+$
+```
+
+
+
 
 ## Gotchas
 * if you close a docker terminal, the process running there is still running on your docker image

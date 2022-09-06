@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ROS2.md",
+            "file": "Distributed Systems.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROS2.md",
+                "file": "Distributed Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROS2.md",
+                "file": "Distributed Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROS2.md"
+                "file": "Distributed Systems.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "476f51d9b6e0e477",
   "lastOpenFiles": [
+    "ROS2.md",
+    "Lidar.md",
+    "Git.md",
+    "VSCode.md",
     "Docker.md",
     "C++.md",
-    "ROS2.md",
     "Ubuntu Core 22.md",
     "Raspberry Pi (RPi).md",
     "Linux.md",
-    "Algorithms.md",
-    "Python.md",
-    "Data Structures.md",
-    "Programming Languages.md"
+    "Algorithms.md"
   ]
 }

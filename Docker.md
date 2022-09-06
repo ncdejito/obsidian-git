@@ -26,8 +26,11 @@ e.g.
 ```
 docker pull osrf/ros:humble-desktop-full
 docker pull osrf/ros@sha256:6f719213030a8823179152d2caa4b39093bd3ae71b8f6b885413abff3536cd18
-```
 
+# List digests in local images
+docker images --digests
+```
+* When developing use Dockerfiles to record commands ran, to ensure replicability later - Isaac Wilder
 
 ## VM
 ```

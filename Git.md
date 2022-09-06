@@ -28,8 +28,10 @@ git reset HEAD~1
 # revert to a specific commit in github
 # First, check out the commit you wish to go back to (get sha-1 from git log)
 git reset --hard fe07c2fc093edb10ae6ec5c0abb43e5c3dd0f153
+
 # Then do a forced update.
 git push origin +fe07c2fc093edb10ae6ec5c0abb43e5c3dd0f153^:branch
+
 # Push specific commit
 git push origin fe07c2fc093edb10ae6ec5c0abb43e5c3dd0f153:branch
 ```
