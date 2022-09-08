@@ -1,7 +1,11 @@
 [[Theory]]!
 Used in [[Robotics Conferences]]
-Network in ROSCON
-in IROS 2022
+
+Build foundational knowledge to support debugging intuition: Graph-SLAM, Behavior Trees, ROS2 Middleware Framework, Nav2 Navigation Framework  
+quickstart on openrmf, ros2control, rclUE4  
+Journal of field robotics - read  
+one liners for papers in obsidian  
+watch email ITU seminar and take notes on obsidian
 
 slam navigation for autonomous mobile robots, 
 interplanetary wireless communication and control, 

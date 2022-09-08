@@ -87,6 +87,9 @@ Locus test on kubernetes gcp - JMeter, Gatling
 Why Messaging model (RabbitMQ) for microservice communication?
 
 [Stability for high throughput](https://particular.net/blog/rpc-vs-messaging-which-is-faster)
+AMQP (RabbitMQ) - for fast transactional messages
+DDS (FastDDS in ROS) - for fanning out data across embedded
+[Source](https://www.electronicdesign.com/technologies/embedded-revolution/article/21796186/whats-the-difference-between-dds-and-amqp)
 
   
 

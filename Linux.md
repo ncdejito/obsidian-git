@@ -43,6 +43,15 @@ screen -S jl
 
 * detach using ctrl+a d
 
+* log to file
+```
+command >> logfile.log
+```
+* run in background
+```
+command &
+```
+
 * reattach to screen
 
 ```
