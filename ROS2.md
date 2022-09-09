@@ -37,6 +37,13 @@ echo "export ROS_DOMAIN_ID=0" >> ~/.bashrc
 
 ```
 
+Switch to CycloneDDS
+```
+sudo apt install ros-humble-rmw-cyclonedds-cpp
+export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
+ros2 launch two_wheeled_robot office_world_v1.launch.py >> office_world_v1_launch.log &
+```
+
 Continue ROS2 Tutorials at [colcon build](https://docs.ros.org/en/galactic/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html)
 
 ## Concepts

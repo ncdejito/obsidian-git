@@ -79,3 +79,7 @@ flatpak install flathub org.winehq.Wine
 ```
 flatpak run org.winehq.Wine RoboStudio/robostudio.exe
 ```
+
+## Errors
+#fix sudo apt update results in >> E: Failed to fetch http://ph.archive.ubuntu.com/ubuntu/dists/focal/InRelease 403 Forbidden
+Solution: https://askubuntu.com/a/192388

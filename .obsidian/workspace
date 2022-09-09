@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "476f51d9b6e0e477",
+        "id": "06c501283db22604",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++.md",
+            "file": "RPi + Arduino + Smartphone.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++.md",
+                "file": "RPi + Arduino + Smartphone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++.md",
+                "file": "RPi + Arduino + Smartphone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++.md"
+                "file": "RPi + Arduino + Smartphone.md"
               }
             }
           }
@@ -126,20 +127,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "476f51d9b6e0e477",
+  "active": "06c501283db22604",
   "lastOpenFiles": [
-    "Linux.md",
-    "Distributed Systems.md",
-    "Git.md",
-    "Nav2.md",
-    "Finite State Machines.md",
+    "Arduino.md",
+    "PyFirmata.md",
     "ROS2.md",
+    "Distributed Systems.md",
+    "Rust.md",
     "Python.md",
-    "C++.md",
-    "Robot papers.md",
-    "Lidar.md"
+    "Linux.md",
+    "Ubuntu Quality of Life Fixes.md",
+    "Git.md",
+    "Workspace.md"
   ]
 }
