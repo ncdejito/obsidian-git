@@ -1,4 +1,4 @@
-[[DevOps]]
+[[DevOps]] [[System Design]]
 
 Distributed systems - focus on cross-task coordination, communication, synchronization, and failure modes. 
 System design - managing the complexity of large bodies of software
@@ -17,7 +17,10 @@ How do you measure good performance for each?
 ## Small steps
 1. come up with one-line google searches for all unfamiliar terms in zulip thread, log to obsidian distributed systems page
 1. do distributed key value store in go via oreilly book
-1. [TicTacToe but for many players](https://github.com/recursecenter/wiki/wiki/System-Design)
+2. read codebase for docker
+read netflix example - https://github.com/wesen/summer-pasture-netflix/tree/main
+message queue - https://github.com/wesen/summer-pasture-netflix/blob/main/message-queue.py
+3. [TicTacToe but for many players](https://github.com/recursecenter/wiki/wiki/System-Design)
 
 
 
@@ -101,13 +104,9 @@ can I choose not to use ros??
 
 ## References
 15min intro to distributed systems - https://www.youtube.com/watch?v=k10_trKtKNk
-read codebase for docker
-Books on System Design - https://github.com/Nitin96Bisht/System-Design/
-read netflix example - https://github.com/wesen/summer-pasture-netflix/tree/main
-build state machines from code - https://stately.ai/viz
 distributed systems from the ground up! (Go) https://www.oreilly.com/library/view/cloud-native-go/9781492076322/
 distributed services with go - https://pragprog.com/titles/tjgo/distributed-services-with-go/
 patterns in distributed systems - https://martinfowler.com/articles/patterns-of-distributed-systems/
 Patterns of Enterprise Applications - https://martinfowler.com/books/eaa.html
-message queue - https://github.com/wesen/summer-pasture-netflix/blob/main/message-queue.py
 Raft consensus algorithm with viz - https://raft.github.io/
+

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "06c501283db22604",
+        "id": "c3c6bf9dfb53ca95",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RPi + Arduino + Smartphone.md",
+            "file": "Distributed Systems.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPi + Arduino + Smartphone.md",
+                "file": "Distributed Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPi + Arduino + Smartphone.md",
+                "file": "Distributed Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPi + Arduino + Smartphone.md"
+                "file": "Distributed Systems.md"
               }
             }
           }
@@ -127,19 +127,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "06c501283db22604",
+  "active": "c3c6bf9dfb53ca95",
   "lastOpenFiles": [
-    "Arduino.md",
-    "PyFirmata.md",
-    "ROS2.md",
+    "System Design.md",
     "Distributed Systems.md",
-    "Rust.md",
-    "Python.md",
-    "Linux.md",
-    "Ubuntu Quality of Life Fixes.md",
-    "Git.md",
-    "Workspace.md"
+    "Workspace.md",
+    "Web engg.md",
+    "ROS2.md",
+    "Full-Stack Software Engineering.md",
+    "Robot papers.md",
+    "DevOps.md",
+    "Design Patterns.md",
+    "RPi + Arduino + Smartphone.md"
   ]
 }
