@@ -27,6 +27,12 @@ docker ps
 docker commit 2994909db49c a:workspace
 ```
 
+Location of ROS2 scripts
+```
+cd /opt/ros/galactic/share
+ls turtlebot3_bringup
+```
+
 ```
 ros2 topic info -v /topic
 
@@ -81,7 +87,9 @@ $
 ```
 
 
-
+## Next generation
+* Ros2 on microk8s
+* Rxros - Functional, reactive
 
 ## Gotchas
 * if you close a docker terminal, the process running there is still running on your docker image

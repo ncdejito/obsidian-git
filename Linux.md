@@ -35,12 +35,6 @@ sudo apt install p7zip-full
 
 ```
 
-* start screen session named jl
-
-```
-screen -S jl
-```
-
 * detach using ctrl+a d
 
 * log to file
@@ -52,12 +46,6 @@ command >> logfile.log
 command &
 ```
 
-* reattach to screen
-
-```
-screen -ls
-screen -r 10835
-```
 
 Make bashes have env variables based on .env in current dir
 ```
@@ -66,6 +54,40 @@ vim ~/.bashrc
 eval "$(direnv hook bash)"
 cd dir
 direnv allow
+```
+
+
+## Processes
+* List processes
+```
+ps
+```
+* Kill process
+```
+kill -9 processIDakaPID
+```
+* check process output
+```
+tail -f /proc/<pid>/fd/1
+# `1` = stdout, `2` = stderr
+```
+
+
+* start screen session named jl
+
+```
+screen -S jl
+```
+* reattach to screen
+
+```
+screen -ls
+screen -r 10835
+```
+
+* kill screen
+```
+screen -X -S [session # you want to kill] quit
 ```
 
 ## Install Flatpak
@@ -80,6 +102,12 @@ flatpak install flathub org.winehq.Wine
 flatpak run org.winehq.Wine RoboStudio/robostudio.exe
 ```
 
+## Concepts
+How do processes work? Why cant I access processes inside a screen?
+
 ## Errors
 #fix sudo apt update results in >> E: Failed to fetch http://ph.archive.ubuntu.com/ubuntu/dists/focal/InRelease 403 Forbidden
 Solution: https://askubuntu.com/a/192388
+
+## References
+[Expert-level linux commands](https://peterlyons.com/leveling-up/)

@@ -1,30 +1,21 @@
 [[DevOps]] [[System Design]]
 
+## Definitions
 Distributed systems - focus on cross-task coordination, communication, synchronization, and failure modes. 
 System design - managing the complexity of large bodies of software
-
-Things to think about
-Resiliency
-Scalability
-Maintainability
-
-Questions
-How does Go address these well?
-What major factors do you need to take into account?
-How do you measure good performance for each?
+Microservices - example of a distributed systems where each component is modelled as a service which can be deployed independently
 
 
-## Small steps
+## Small releases
 1. come up with one-line google searches for all unfamiliar terms in zulip thread, log to obsidian distributed systems page
 1. do distributed key value store in go via oreilly book
-2. read codebase for docker
+2. github repo Kubernetes the Hard Way on GCP 
+3. read codebase for docker
 read netflix example - https://github.com/wesen/summer-pasture-netflix/tree/main
 message queue - https://github.com/wesen/summer-pasture-netflix/blob/main/message-queue.py
 3. [TicTacToe but for many players](https://github.com/recursecenter/wiki/wiki/System-Design)
 
 
-
-**
 
 [Why distributed?](https://microservices.io/patterns/microservices.html)
 -   Resilience against high throughput via auto-scaling, self-healing processes
@@ -32,7 +23,22 @@ message queue - https://github.com/wesen/summer-pasture-netflix/blob/main/messag
 -   Easy to delegate components to separate teams for autonomous development
 -   Take advantage of new emerging technology for each component
 
+Categories
+Distributed Data Stores - databases, Cassandra, MongoDB
+Distributed computing - Hadoop
+Distributed file systems - Hadoop FS
+Distributed messaging - activeMQ, rabbitMQ, kafka, amazon sqs
+Distributed Applications
+Distributed Ledgers - bitcoin ethereum
+
+
   
+## Factors to consider
+
+1. Reliability - errors of hardware, software, human
+1. Scalability - load, performance
+1. Maintainability - operability, simplicity, evolvability
+
 
 Factors not usually taken into account by new distributed programmers: [Fallacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 
@@ -110,3 +116,16 @@ patterns in distributed systems - https://martinfowler.com/articles/patterns-of-
 Patterns of Enterprise Applications - https://martinfowler.com/books/eaa.html
 Raft consensus algorithm with viz - https://raft.github.io/
 
+Designing Data Intensive Applications - Martin Kleppmann
+[Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+[Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) - James Quigley 
+[MIT 6.824](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+[DockerSwarm vs Kubernetes](https://circleci.com/blog/docker-swarm-vs-kubernetes/)
+[Thorough Introduction to Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
+Paper on [Software Technologies for Developing Distributed Systems: Objects and Beyond ](https://www.dre.vanderbilt.edu/~schmidt/PDF/CSI-article.pdf)
+
+Topics in distributed systems https://youtu.be/BkSdD5VtyRM
+
+Existing Tech
+Docker Swarm - is a lightweight, easy-to-use orchestration tool with limited offerings compared to Kubernetes
+Kubernetes - is complex but powerful and provides self-healing, auto-scaling capabilities out of the box

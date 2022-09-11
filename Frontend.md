@@ -1,4 +1,4 @@
-[[Full-Stack Software Engineering]]
+[[Software Engineering]]
 
 Exercises
 https://github.com/felipefialho/frontend-challenges

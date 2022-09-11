@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Distributed Systems.md",
+            "file": "Linux.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distributed Systems.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distributed Systems.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distributed Systems.md"
+                "file": "Linux.md"
               }
             }
           }
@@ -132,15 +131,15 @@
   },
   "active": "c3c6bf9dfb53ca95",
   "lastOpenFiles": [
-    "System Design.md",
-    "Distributed Systems.md",
-    "Workspace.md",
-    "Web engg.md",
     "ROS2.md",
-    "Full-Stack Software Engineering.md",
+    "Linux.md",
+    "Workspace.md",
+    "Reinforcement Learning.md",
     "Robot papers.md",
-    "DevOps.md",
-    "Design Patterns.md",
-    "RPi + Arduino + Smartphone.md"
+    "Robotics Conferences.md",
+    "VSCode.md",
+    "Typescript.md",
+    "Frontend.md",
+    "Design Patterns.md"
   ]
 }

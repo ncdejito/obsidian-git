@@ -1,6 +1,8 @@
 [[Workspace]]
 
-
+## How to use
+When to add - you found the need to review it more than once
+When to link - seeing connections as a group makes sense
 
 ### Why
 Why need better personal knowledge management  

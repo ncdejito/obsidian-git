@@ -1,4 +1,4 @@
-[[Theory]]
+[[Robotics Theory]]
 
 Send blurb with ideas from [[Robot papers]]
 

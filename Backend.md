@@ -1,3 +1,3 @@
-[[Full-Stack Software Engineering]]
+[[Software Engineering]]
 
 https://github.com/CollabCodeTech/backend-challenges
