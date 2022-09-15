@@ -46,6 +46,10 @@ command >> logfile.log
 command &
 ```
 
+* delete all files inside a folder except a few files
+```
+rm -v !("filename1"|"filename2")
+```
 
 Make bashes have env variables based on .env in current dir
 ```

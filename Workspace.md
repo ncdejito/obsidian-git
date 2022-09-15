@@ -7,3 +7,6 @@ Note taking
 
 Coding
 * [[Docker]] VM - TODO: install python3, vim, wget
+
+Things to try
+* Emacs Doom

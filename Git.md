@@ -75,3 +75,11 @@ git config --global alias.acp '!f() { git add . && git commit -m "$@" && git pus
 
 git acp "commit message"
 ```
+
+
+## Errors
+#fix [[Git]] no anonymous write access
+Source of error is VSCode CLI authentication
+[instructions](https://stackoverflow.com/a/70035832)
+
+#fix 
