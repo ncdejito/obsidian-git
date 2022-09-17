@@ -82,4 +82,5 @@ git acp "commit message"
 Source of error is VSCode CLI authentication
 [instructions](https://stackoverflow.com/a/70035832)
 
-#fix 
+#fix error: update_ref failed for ref 'refs/remotes/origin/main': cannot lock ref 'refs/remotes/origin/main': Unable to create '/.git/refs/remotes/origin/main.lock': Permission denied
+* delete folder and re-clone repo
