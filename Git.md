@@ -1,7 +1,5 @@
 Configure git on a new computer
 ```
-# Git 2FA 4b2302f817077a4dbc220fdd3329632a7455271a
-
 # Add SSH key to VM so no need to ask for username and password ----
 # Check if has files like id_rsa.pub
 ls -al ~/.ssh
@@ -18,6 +16,9 @@ cat ~/.ssh/id_rsa.pub
 
 # test connection if working
 ssh -T git@github.com
+
+# for each repo you push to, 
+git remote set-url origin git@github.com:ncdejito/repo
 ```
 
 revert back 1 commit
