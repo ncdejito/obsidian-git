@@ -157,3 +157,9 @@ copy constructor
 
 move constructor
 > work on the r-value references and move semantics(move semantics involves pointing to the already existing object in the memory)
+
+
+CMakeLists.txt
+> defines instructions, source files and target executables in compiling c++ code
+
+h file vs c file - header file, like a set of params shared across files

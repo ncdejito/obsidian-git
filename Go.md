@@ -19,6 +19,7 @@ Questions
 1. [Demo of goroutines and channels](https://www.youtube.com/watch?v=oV9rvDllKEg)
 2. [Concurrency patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 3. [Advanced concurrency patterns](https://www.youtube.com/watch?v=QDDwwePbDtw)
+4. [100 Go Mistakes](https://www.manning.com/books/100-go-mistakes-and-how-to-avoid-them)
 
 Tools
 [Tour of Go](https://go.dev/tour/welcome/1)

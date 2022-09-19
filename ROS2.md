@@ -1,4 +1,4 @@
-[[Hardware]] [[Workspace]]  [[Distributed Systems]]
+[[Hardware]] [[Distributed Systems]]
 
 ## Gists
 ```

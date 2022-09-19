@@ -6,7 +6,7 @@ Note taking
 * Long term memory -> Obsidian
 
 Coding
-* [[Docker]] VM - TODO: install python3, vim, wget
+* Docker VM - TODO: install python3, vim, wget
 
 Things to try
 * Emacs Doom
