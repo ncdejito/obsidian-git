@@ -1,4 +1,4 @@
-[[Hardware]] [[Distributed Systems]]
+[[Hardware]] [[Distributed Systems]] [[Nav2]]
 
 ## Gists
 ```
@@ -74,6 +74,15 @@ Node - e.g. motor controller, laser range finder
 - Parameters - variables with values inside a node (like [[Python]] class)
 
 ```
+$ ros2 service list -t
+/service [service-type]
+$ ros2 interface show <service-type>
+structure of request
+---
+structure of response
+```
+
+```
 $ ros2 action list -t
 /action [action-type]
 $ ros2 interface show <action-type>
@@ -82,8 +91,6 @@ structure of goal request
 structure of result request
 ---
 structure of feedback
-
-$
 ```
 
 

@@ -15,5 +15,21 @@
       "key": "]"
     }
   ],
-  "file-explorer:new-file": []
+  "file-explorer:new-file": [],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ]
 }

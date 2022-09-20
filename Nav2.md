@@ -1,4 +1,10 @@
 
+## Components
+* [[Nav2 Nodes]]
+* [[Nav2 Topics]]
+* [[Nav2 Services]]
+* [[Nav2 Actions]]
+
 ## Concepts
 * [[ROS2]]
 	* Lifecycle Nodes
@@ -11,8 +17,7 @@
 	* Waypoint following - tells our system how to use navigation to get to multiple destinations
 * State Estimation
 * Environmental representation
+* [Configurable items](https://navigation.ros.org/configuration/index.html)
 
 
-## Components
-[list](https://navigation.ros.org/configuration/index.html)
 

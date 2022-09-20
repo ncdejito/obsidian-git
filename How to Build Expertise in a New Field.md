@@ -1,4 +1,4 @@
-[[Robotics Theory]]
+[[Learning]]
 
 ARTICLE: How to Learn in 2 days what normally takes 6mos
 - Learn and do - knowledge sticks once it is applied (context based learning)

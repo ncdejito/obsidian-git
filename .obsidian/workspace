@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sensor fusion.md",
+            "file": "Databases.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sensor fusion.md",
+                "file": "Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sensor fusion.md",
+                "file": "Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sensor fusion.md"
+                "file": "Databases.md"
               }
             }
           }
@@ -126,20 +127,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c3c6bf9dfb53ca95",
   "lastOpenFiles": [
-    "C++.md",
-    "RPi + Arduino + Smartphone.md",
-    "Docker.md",
-    "Workspace.md",
-    "Git.md",
+    "Nav2.md",
+    "Nav2 Nodes.md",
+    "Nav2 Topics.md",
+    "Nav2 Services.md",
+    "Nav2 Actions.md",
     "ROS2.md",
-    "Vim.md",
-    "Behavior Trees.md",
-    "Nand2Tetris.md",
-    "AWS.md"
+    "Python.md",
+    "Docker.md",
+    "SubT exploration.md",
+    "How to Build Expertise in a New Field.md"
   ]
 }
