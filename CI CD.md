@@ -17,3 +17,7 @@
 	- A: 1. Frequent release cadence, 2. potential for many bug fix
 	- A: depends on need for multiple iterations in code
 	- A: critical bugs and need to deploy, you expect more bugs
+
+Tools
+conan-io [[C++]] package manager for easier CI
+[[Go]] has easy devops

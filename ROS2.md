@@ -97,6 +97,8 @@ structure of feedback
 ## Next generation
 * Ros2 on microk8s
 * Rxros - Functional, reactive
+* vulcanexus all in one ros2
+* Prometheus export ros discourse
 
 ## Gotchas
 * if you close a docker terminal, the process running there is still running on your docker image

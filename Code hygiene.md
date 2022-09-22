@@ -1,4 +1,4 @@
-[[Software Engineering]]
+[[Software Eng Best Practices]]
 
 Principle: Quickfixes first then if gone back to, refactor to cleaner ones
 - Nonredundant - no copy paste of blocks of text

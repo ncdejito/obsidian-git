@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Databases.md",
+            "file": "DevOps.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "teac",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases.md",
+                "file": "DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases.md",
+                "file": "DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases.md"
+                "file": "DevOps.md"
               }
             }
           }
@@ -131,15 +132,15 @@
   },
   "active": "c3c6bf9dfb53ca95",
   "lastOpenFiles": [
-    "Nav2.md",
-    "Nav2 Nodes.md",
-    "Nav2 Topics.md",
-    "Nav2 Services.md",
-    "Nav2 Actions.md",
-    "ROS2.md",
-    "Python.md",
-    "Docker.md",
-    "SubT exploration.md",
-    "How to Build Expertise in a New Field.md"
+    "Distributed Systems.md",
+    "DevOps.md",
+    "Software Engineering.md",
+    "Backend.md",
+    "Reactive Programming.md",
+    "Theory.md",
+    "Reinforcement Learning.md",
+    "Machine Learning.md",
+    "Robotics Theory.md",
+    "Programming Theory.md"
   ]
 }

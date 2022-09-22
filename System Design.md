@@ -1,4 +1,4 @@
-
+[[Software Engineering]] [[Design Patterns]]
 
 Tradeoffs to consider
 Latency vs Bandwidth vs Jitter

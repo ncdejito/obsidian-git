@@ -1,4 +1,4 @@
-[[Software Engineering]]
+[[Software Eng Tools]]
 
 Configure git on a new computer
 ```

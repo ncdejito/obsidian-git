@@ -1,4 +1,4 @@
-[[Distributed Systems]]
+[[Backend]], [[Distributed Systems]]
 
 Why Messaging model (RabbitMQ) for microservice communication?
 [Stability for high throughput](https://particular.net/blog/rpc-vs-messaging-which-is-faster)
