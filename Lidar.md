@@ -3,7 +3,8 @@
 https://github.com/babakhani/rplidar_ros2
 
 ```
-docker run -it --net=host --device /dev/dri/ --device /dev/ttyUSB0 -e DISPLAY=$DISPLAY -v $HOME/.Xauthority:/root/.Xauthority:ro a:workspace
+## connect to usb
+docker run -it --net=host --device /dev/dri/ --device /dev/ttyUSB0 -e DISPLAY=$DISPLAY -v $HOME/.Xauthority:/root/.Xauthority:ro rplidar:latest
 
 /dev/ttyUSB0
 
