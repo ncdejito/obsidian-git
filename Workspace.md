@@ -11,6 +11,7 @@ Coding
 
 Things to try
 * Emacs Doom
+* [Virtual Coworking](https://www.focusmate.com/)
 
 ## Acer Laptop Setup
 
