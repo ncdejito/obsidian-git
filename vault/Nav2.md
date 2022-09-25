@@ -5,6 +5,7 @@
 * [[Nav2 Services]]
 * [[Nav2 Actions]]
 
+
 ## Concepts
 * [[ROS2]]
 	* Lifecycle Nodes
@@ -20,4 +21,7 @@
 * [Configurable items](https://navigation.ros.org/configuration/index.html)
 
 
-
+## Errors
+usual problems  
+Different topic name  
+Different frame name

@@ -1,5 +1,6 @@
 {
   "fileSortOrder": "alphabeticalReverse",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current"
 }

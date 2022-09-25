@@ -9,5 +9,5 @@ Zach Wilson's [curriculum](https://www.linkedin.com/posts/eczachly_softwareengin
 
 
 Resources
+[Roadmap sh](https://github.com/kamranahmedse/developer-roadmap) - curriculum with double-click answers
 [Github list](https://github.com/charlax/professional-programming)
-[Roadmap sh](https://github.com/kamranahmedse/developer-roadmap)

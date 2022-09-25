@@ -5,6 +5,7 @@ Implementations
 
 Best practices
 [FastAPI]([https://github.com/zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices))
+GraphQL
 
 Resources
 [Little Manual of API Design](https://www.cs.vu.nl/~jbe248/api-design.pdf)

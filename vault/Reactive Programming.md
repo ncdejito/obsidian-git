@@ -6,6 +6,7 @@ Why use it
 * prevent nested callbacks in asynchronous processes
 
 How it works 
+* [[Functional Programming]] + Observer pattern
 - an observer subscribes to an Observable. Then that observer reacts to whatever item or sequence of items the Observable emits  
 * Composition prevents nested [[Callbacks]]
 

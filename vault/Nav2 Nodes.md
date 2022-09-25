@@ -192,6 +192,7 @@ Other nodes:
 
 
 ## SLAM
+[[SLAM Toolbox]]
 ### /slam_toolbox
   Subscribers:
     /clock: rosgraph_msgs/msg/Clock

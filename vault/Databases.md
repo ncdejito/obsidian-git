@@ -1,5 +1,10 @@
 [[Backend]] [[System Design]]
 
+## Tools
+Dbeaver
+Jdbc odbc connectors
+
+## Concepts
 ACID - What databases must have/be
 - Atomicity - each transaction is treated as a single "unit"
 - Consistency - a transaction can only bring the database from one valid state to another
