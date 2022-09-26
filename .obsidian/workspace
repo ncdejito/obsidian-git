@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/Data Structures.md",
+            "file": "vault/Software Engineering.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Data Structures.md",
+                "file": "vault/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Data Structures.md",
+                "file": "vault/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Data Structures.md"
+                "file": "vault/Software Engineering.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4c77e6432e11f09e",
   "lastOpenFiles": [
+    "vault/System Design.md",
+    "vault/Software Engineering.md",
+    "vault/Backend.md",
+    "vault/Data Structures.md",
     "vault/Algorithms.md",
     "vault/C++.md",
     "vault/Signed Integers.md",
-    "vault/Backend.md",
-    "vault/Software Engineering.md",
-    "vault/System Design.md",
     "vault/Distributed Systems.md",
     "vault/Design Patterns.md",
-    "vault/Ubuntu Core 22.md",
-    "vault/Workspace.md"
+    "vault/Ubuntu Core 22.md"
   ]
 }

@@ -2,7 +2,6 @@
 
 # Data Structures
 
-
 ## Array
 - collection of multiple items under a single variable name
 ```
