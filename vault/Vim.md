@@ -12,3 +12,8 @@ Type the search pattern.
 Press Enter to perform the search.
 Press n to find the next occurrence or N to find the previous occurrence.
 [source](https://linuxize.com/post/vim-search/)
+
+Delete all lines in script
+```
+:1,$d
+```

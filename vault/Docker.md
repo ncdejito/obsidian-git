@@ -105,3 +105,8 @@ https://navigation.ros.org/getting_started/index.html
 1. Settings > Resources > WSL Integration > Disable Ubuntu > Apply and Restart
 1. Enable Ubuntu > Apply and Restart
 
+#fix permisison denied
+```
+sudo groupadd docker
+sudo usermod -aG docker $USER
+```
