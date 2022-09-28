@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/Docker.md",
+            "file": "vault/Caching.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Docker.md",
+                "file": "vault/Caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Docker.md",
+                "file": "vault/Caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Docker.md"
+                "file": "vault/Caching.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4c77e6432e11f09e",
   "lastOpenFiles": [
-    "vault/Git.md",
-    "vault/Vim.md",
-    "vault/Docker.md",
-    "vault/Ubuntu Core 22.md",
-    "vault/Raspberry Pi (RPi).md",
-    "vault/Computer networking.md",
-    "vault/Software Engineering.md",
+    "vault/Databases.md",
+    "vault/Distributed Systems.md",
     "vault/System Design.md",
-    "vault/Software Eng Best Practices.md",
-    "README.md"
+    "vault/Backend.md",
+    "vault/Software Engineering.md",
+    "vault/DevOps.md",
+    "vault/Computer networking.md",
+    "vault/Zerotier.md",
+    "vault/Docker.md",
+    "vault/Git.md"
   ]
 }
