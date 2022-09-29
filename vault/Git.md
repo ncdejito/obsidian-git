@@ -74,6 +74,7 @@ git remote set-url origin git://new.url.here
 Add commit push in one command
 ```
 # https://simplernerd.com/git-alias-add-commit-push/
+# can be seen in ~/.gitconfig
 git config --global alias.acp '!f() { git add . && git commit -m "$@" && git push origin HEAD; }; f'
 
 git acp "commit message"

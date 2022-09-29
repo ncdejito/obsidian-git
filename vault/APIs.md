@@ -4,7 +4,7 @@ Implementations
 [[Python]] FastAPI 
 
 Best practices
-[FastAPI]([https://github.com/zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices))
+[[FastAPI]]
 GraphQL
 
 Resources
