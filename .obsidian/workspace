@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/Javascript.md",
+            "file": "vault/Elixir.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Javascript.md",
+                "file": "vault/Elixir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Javascript.md",
+                "file": "vault/Elixir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Javascript.md"
+                "file": "vault/Elixir.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4c77e6432e11f09e",
   "lastOpenFiles": [
+    "vault/Behavior Trees.md",
     "vault/FastAPI.md",
-    "vault/APIs.md",
     "vault/Python.md",
+    "vault/Javascript.md",
+    "vault/APIs.md",
     "vault/Git.md",
     "vault/Caching.md",
     "vault/Databases.md",
     "vault/Distributed Systems.md",
-    "vault/System Design.md",
-    "vault/Backend.md",
-    "vault/Software Engineering.md"
+    "vault/System Design.md"
   ]
 }
