@@ -1,11 +1,12 @@
 [[DevOps]]
 
 ### Routines
-* empty file in vi
 
+* Insert line to bashrc
 ```
-:1,$d
+echo "export PATH=\"/root/.local/bin:$PATH\"" >> ~/.bashrc
 ```
+
 * Empty linux recycle bin
 
 ```

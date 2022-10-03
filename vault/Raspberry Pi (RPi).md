@@ -1,10 +1,14 @@
 [[Hardware]]
 
-ssh
+ssh check address at phone hotspot
 ```
-ssh ncdejito@192.168.100.141
+ssh ncdejito@ip.ad.dr.ess
 ```
 
+Enter docker
+```
+sudo docker run -it --net=host --entrypoint /bin/bash pyfirmata:latest
+```
 
 Specs
 * Raspberry Pi Model 4

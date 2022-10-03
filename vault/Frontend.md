@@ -1,7 +1,15 @@
 [[Software Engineering]]
 
+## Gists
+```
+npm init
+npm start
+node module.js
+npm install rxjs
+```
+
 ## Frameworks
- - [[React]]
+- [[React]]
 - [[React-Native]]
 * [[P5JS]]
 

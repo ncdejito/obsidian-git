@@ -1,6 +1,7 @@
-[[Frontend]] [[Backend]]
+## Definition
+Javascript runtime designed to run on the server [[Backend]]. can be used to serve a [[Frontend]] js file
 
-Javascript runtime designed to run on the server
+## Routines
 
 Install
 ```
@@ -11,5 +12,7 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 nvm install node
-
 ```
+
+
+

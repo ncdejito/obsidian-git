@@ -43,6 +43,15 @@ delete branch
 git branch –delete old-branch
 ```
 
+rename master to main
+```
+git branch -M main
+```
+
+Delete git in a folder (if subfolder of repo is cloned from somewhere)
+```
+rm -rf .git
+```
 git_routines.sh
 ```
 # list files changed for specific commit

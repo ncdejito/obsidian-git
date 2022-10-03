@@ -4,11 +4,6 @@ apt install python3
 apt install python-is-python3
 ```
 
-Run simple webserver
-```
-python3 -m http.server
-```
-
 Create virtual env
 ```
 python -m venv venv/
@@ -16,18 +11,11 @@ source venv/bin/activate
 deactivate
 ```
 
-Manage dependencies with poetry
+Manage dependencies with [[Poetry]]
+
+Run simple webserver
 ```
-cd my_app/
-poetry init
-poetry shell
-poetry add pandas
-poetry install
-
-
-# https://github.com/python-poetry/poetry/issues/3472#issuecomment-744356551
-poetry export -f requirements.txt --output requirements.txt --without-hashes
-
+python3 -m http.server
 ```
 
 Find source file for specific object
