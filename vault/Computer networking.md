@@ -11,10 +11,11 @@ WebSockets - is a computer communications protocol, providing full-duplex (2-way
 
 Broadcast address - network address used to transmit to all devices connected to a multiple-access communications network. A message sent to a broadcast address may be received by all network-attached hosts. (like a group list email)
 
-
 Datagram - basic unit associated with a packet-switched network (packet switching is a method of grouping data into packets that are transmitted over a digital network)
 
 Endpoint - an interface exposed by a communicating party or by a communication channel. An example of the latter type of a communication endpoint is a publish-subscribe topic or a group in group communication systems.
+
+Webhooks [tutorial](https://www.youtube.com/watch?v=41NOoEz3Tzc)
 
 ## Protocols
 Protocols - defines the rules, syntax, semantics and synchronization of communication and possible error recovery methods.
