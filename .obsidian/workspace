@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/Static Typing.md",
+            "file": "vault/Learning How to Learn.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Static Typing.md",
+                "file": "vault/Learning How to Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Static Typing.md",
+                "file": "vault/Learning How to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,12 +117,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Static Typing.md"
+                "file": "vault/Learning How to Learn.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,15 +129,15 @@
   },
   "active": "4c77e6432e11f09e",
   "lastOpenFiles": [
-    "vault/Software Eng Best Practices.md",
-    "vault/Immutability.md",
-    "vault/Static Typing.md",
-    "vault/Finite State Machines.md",
-    "vault/Elixir.md",
-    "vault/Computer networking.md",
-    "vault/Design Patterns.md",
-    "vault/Poetry.md",
-    "vault/FastAPI.md",
-    "vault/Raspberry Pi (RPi).md"
+    "vault/Learning.md",
+    "vault/How to Build Expertise in a New Field.md",
+    "vault/Signed Integers.md",
+    "vault/Home Servers.md",
+    "vault/Hardware.md",
+    "vault/Field Programmable Gate Arrays (FPGAs).md",
+    "vault/DevOps.md",
+    "vault/Serverless.md",
+    "vault/Functional Programming.md",
+    "vault/Immutability.md"
   ]
 }
