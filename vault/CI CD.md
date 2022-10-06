@@ -1,5 +1,6 @@
 [[DevOps]]
 
+## Definition
 - Alron: ci/cd 3 things to learn
 	- Version control - git workflows (ways to structure the project)
 		- Github flow - basic branch then merge, good for small projects
@@ -18,6 +19,15 @@
 	- A: depends on need for multiple iterations in code
 	- A: critical bugs and need to deploy, you expect more bugs
 
-Tools
+## Way to do it
+make docker
+push to docker registry
+deploy k8s pod
+k8s pod pulls from registry
+[source](https://www.youtube.com/watch?v=sH-trYwjkkY)
+
+cicd with github actions [source](https://nicwortel.nl/blog/2022/05/27/continuous-deployment-to-kubernetes-with-github-actions)
+
+## Tools
 conan-io [[C++]] package manager for easier CI
 [[Go]] has easy devops

@@ -24,6 +24,11 @@ import inspect
 inspect.getsource(Object)
 ```
 
+Load dict as variables to runtime
+```
+locals().update(_dict)
+```
+
 python_routines.py
 ```
 docker run -it -v `pwd`:`pwd` -w `pwd` -p 8888:8888 jupyter/datascience-notebook:latest

@@ -21,6 +21,15 @@ docker exec -it 7b43e08f6350 /bin/bash
 docker cp <containerId>:/file/path/within/container /host/path/target
 ```
 
+* build from dockerfile
+```
+docker build -t image:latest .
+```
+* retag
+```
+docker tag backend:latest backend:local
+```
+
 ### Best practices
 
 * [Don't use Docker for ROS, does not provide interfaces to low-level hardware, use Snapcraft](https://ubuntu.com/blog/ros-docker)

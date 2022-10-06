@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/Learning How to Learn.md",
+            "file": "vault/Kubernetes (k8s).md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Learning How to Learn.md",
+                "file": "vault/Kubernetes (k8s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Learning How to Learn.md",
+                "file": "vault/Kubernetes (k8s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Learning How to Learn.md"
+                "file": "vault/Kubernetes (k8s).md"
               }
             }
           }
@@ -125,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "active": "4c77e6432e11f09e",
   "lastOpenFiles": [
-    "vault/Learning.md",
-    "vault/How to Build Expertise in a New Field.md",
+    "vault/Microk8s.md",
+    "vault/Kubernetes (k8s).md",
+    "vault/Computer networking.md",
+    "vault/Docker.md",
     "vault/Signed Integers.md",
-    "vault/Home Servers.md",
-    "vault/Hardware.md",
-    "vault/Field Programmable Gate Arrays (FPGAs).md",
-    "vault/DevOps.md",
-    "vault/Serverless.md",
-    "vault/Functional Programming.md",
-    "vault/Immutability.md"
+    "vault/Python.md",
+    "vault/CI CD.md",
+    "vault/Closures.md",
+    "vault/Learning How to Learn.md",
+    "vault/Learning.md"
   ]
 }

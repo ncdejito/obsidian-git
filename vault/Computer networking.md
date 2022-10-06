@@ -1,5 +1,10 @@
 [[DevOps]]
 
+## Special addresses
+127.0.0.1 - your computer (localhost)
+255.255.255.255 - broadcast address (group email address)
+0.0.0.0 - default or placeholder
+
 ## Definitions
 
 Packets - small segment of a larger message. Data sent over computer networks*, such as the Internet, is divided into packets. 
@@ -47,8 +52,6 @@ Handshaking - automated process of negotiation between two participants (example
 * `ifconfig` - "interface configuration." It is used to view and change the configuration of the network interfaces on your system.
 
 
-## Special addresses
-127.0.0.1 - your computer (localhost)
-255.255.255.255 - broadcast address (group email address)
+
 
 ## References
