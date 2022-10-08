@@ -26,6 +26,11 @@ Why NoSQL? (not only SQL)
 - Developers can structure how data looks like
 - Scalable for traffic and zero downtime
 
+Structures
+* btree - generalizes binary search tree with >2 children nodes
+* lsm - log-structured merge tree - good performance for high insert volume
+
+Vector search database - [milvus](https://milvus.io/)
 
 References
 [When to Use NoSQL](https://www.mongodb.com/nosql-explained/when-to-use-nosql)

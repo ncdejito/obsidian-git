@@ -1,3 +1,7 @@
+Why
+* enables faster content delivery 
+* reduces main server network traffic
+
 Why use one global cache?
 
 Antithesis: [Each service should have its own database](https://microservices.io/patterns/data/database-per-service.html) so that

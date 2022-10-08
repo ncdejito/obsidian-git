@@ -8,8 +8,11 @@ Why functional -
 Personal experience
 - easier unit tests, better interfaces
 
-Monad
+[Monad](http://www.jerf.org/iri/post/2958)
 Monad transformer
+Dependent types - a type whose definition depends on a value
+
 
 Implementations
 [[Haskell]]
+[Lean](https://leanprover.github.io/about/)

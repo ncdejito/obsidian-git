@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/Kubernetes (k8s).md",
+            "file": "vault/Rust.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Kubernetes (k8s).md",
+                "file": "vault/Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Kubernetes (k8s).md",
+                "file": "vault/Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,28 +118,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Kubernetes (k8s).md"
+                "file": "vault/Rust.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "active": "4c77e6432e11f09e",
   "lastOpenFiles": [
+    "vault/Databases.md",
+    "vault/Nav2 Nodes.md",
+    "vault/Caching.md",
+    "vault/Nav2.md",
+    "vault/Test-Driven Development.md",
+    "vault/Zig.md",
+    "vault/Functional Programming.md",
     "vault/Microk8s.md",
     "vault/Kubernetes (k8s).md",
-    "vault/Computer networking.md",
-    "vault/Docker.md",
-    "vault/Signed Integers.md",
-    "vault/Python.md",
-    "vault/CI CD.md",
-    "vault/Closures.md",
-    "vault/Learning How to Learn.md",
-    "vault/Learning.md"
+    "vault/Computer networking.md"
   ]
 }
