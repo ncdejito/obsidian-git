@@ -213,17 +213,6 @@ Pose pose
 ### /plan
 nav_msgs/msg/Path
 ```
-std_msgs/Header header
-        builtin_interfaces/Time stamp
-                int32 sec
-                uint32 nanosec
-        string frame_id
-# Setting speed limit in percentage if true or in absolute values in false case
-bool percentage
-# Maximum allowed speed (in percent of maximum robot speed or in m/s depending
-# on "percentage" value). When no-limit it is set to 0.0
-float64 speed_limit
-root@nexus-0:/# ^C
 root@nexus-0:/# ros2 interface show nav_msgs/msg/Path
 # An array of poses that represents a Path for a robot to follow.
 

@@ -11,5 +11,6 @@ How it works
 * Composition prevents nested [[Callbacks]]
 
 
+ROS2 DDS seems reactive already
 ReactiveX API - Rxpy Rxgo
 [RxROS](https://research.tudelft.nl/en/publications/reactive-programming-of-robots-with-rxros)

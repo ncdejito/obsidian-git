@@ -5,6 +5,9 @@ easy devops
 Good for CLI tools because:
 easy devops, elegant interfaces
 
+Go has garbage collection
+Good for cloud services
+
 Go provides:
 * concurrent execution (goroutines)
 * synchronization and messaging (channels)

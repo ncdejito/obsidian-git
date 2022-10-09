@@ -2,6 +2,7 @@
 ## Components
 * [[Nav2 Nodes]]
 * [[Nav2 Topics]]
+* [[Nav2 Messages]]
 * [[Nav2 Services]]
 * [[Nav2 Actions]]
 
