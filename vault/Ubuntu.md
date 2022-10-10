@@ -23,3 +23,8 @@ rotate display
 xrandr -o left
 xrandr -o normal
 ```
+
+#fix Need to run fsck manually
+```
+fsck /dev/sda8
+```

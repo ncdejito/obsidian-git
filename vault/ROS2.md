@@ -50,6 +50,11 @@ export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
 ros2 launch two_wheeled_robot office_world_v1.launch.py >> office_world_v1_launch.log &
 ```
 
+Activate python
+```
+python3
+```
+
 Continue ROS2 Tutorials at [colcon build](https://docs.ros.org/en/galactic/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html)
 
 ## Concepts

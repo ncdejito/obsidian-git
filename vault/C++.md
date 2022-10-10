@@ -2,14 +2,21 @@
 
 Why
 >C++ is faster than Python because **it is statically typed**, which leads to a faster compilation of code. Python is slower than C++, it supports dynamic typing, and it also uses the interpreter, which makes the process of compilation slower.
+* Much of robotics is written in C++ - if you want to contribute Nav2, MoveIt2, speak the language
 
 [[Signed Integers]]
 
 ## Intro
-How to learn
+How to learn (start anywhere!)
+* Robotics with Sina recos
+* Top 10 courses for beginners [medium](https://medium.com/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e)
 * learncpp.com
 * Learn c++ by making games in Unreal Engine4!
 * Effective Modern C++ (book)
+* Functional c++ [blogpost](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/august/c-functional-style-programming-in-c)
+* How to program functionally in c++ [blogpost](https://medium.com/swlh/doing-it-the-functional-way-in-c-5c392bbdd46a)
+* CTest CMake
+* GDB
 
 
 Compile program and run (Linux)

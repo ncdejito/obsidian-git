@@ -1,9 +1,9 @@
 [[DevOps]]
 
 ## Special addresses
-127.0.0.1 - your computer (localhost)
+127.0.0.1 - your computer (localhost) 'fake' local only network - it can only be accessed internally (ie. not from outside the machine)
 255.255.255.255 - broadcast address (group email address)
-0.0.0.0 - default or placeholder
+0.0.0.0 - use for dockerizing stuff, default or placeholder, 0.0.0.0 is all ports on the machine
 
 ## Definitions
 

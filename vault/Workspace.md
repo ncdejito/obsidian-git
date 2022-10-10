@@ -49,6 +49,10 @@ From official Acer website > VGA Driver > NVIDIA GeForce 640M LE
 ROS2
 just use docker image
 
+Jupyter Lab
+```
+pip install jupyterlab
+```
 
 [Increase Virtual Memory](https://thegeekpage.com/increase-ram/) - 1.5 * 1024 * Installed RAM
 

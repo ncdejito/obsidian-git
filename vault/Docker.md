@@ -62,6 +62,8 @@ export DISPLAY=:0.0
 xhost +local:docker
 ```
 
+#fix docker: Error response from daemon: mkdir /var/lib/docker/overlay2/-init: read-only file system.
+- restart the system, might run into fsck manually (check [[Ubuntu]] for fix)
 
 ## WSL
 
