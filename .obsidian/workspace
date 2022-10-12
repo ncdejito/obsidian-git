@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/Nav2 Topics.md",
+            "file": "vault/Linux.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Nav2 Topics.md",
+                "file": "vault/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Nav2 Topics.md",
+                "file": "vault/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Nav2 Topics.md"
+                "file": "vault/Linux.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "4c77e6432e11f09e",
   "lastOpenFiles": [
+    "vault/Motor Drivers.md",
     "vault/Nav2 Nodes.md",
     "vault/Nav2 Topics.md",
     "vault/Learning a large code base.md",
@@ -139,7 +140,6 @@
     "vault/CI CD.md",
     "vault/C++.md",
     "vault/ROS2.md",
-    "vault/Linux.md",
-    "vault/Odometry.md"
+    "vault/Linux.md"
   ]
 }
