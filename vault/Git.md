@@ -1,3 +1,4 @@
+
 [[Software Eng Tools]]
 
 Configure git on a new computer
@@ -89,6 +90,11 @@ git config --global alias.acp '!f() { git add . && git commit -m "$@" && git pus
 git acp "commit message"
 ```
 
+Display image in readme
+```
+# in README.md
+![](assets/proof.png)
+```
 
 ## Errors
 #fix [[Git]] no anonymous write access

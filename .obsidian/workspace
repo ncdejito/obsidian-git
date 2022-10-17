@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/Linux.md",
+            "file": "vault/ROS2.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Linux.md",
+                "file": "vault/ROS2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Linux.md",
+                "file": "vault/ROS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Linux.md"
+                "file": "vault/ROS2.md"
               }
             }
           }
@@ -131,15 +131,15 @@
   },
   "active": "4c77e6432e11f09e",
   "lastOpenFiles": [
-    "vault/Motor Drivers.md",
-    "vault/Nav2 Nodes.md",
-    "vault/Nav2 Topics.md",
-    "vault/Learning a large code base.md",
-    "vault/Learning.md",
-    "vault/Computer networking.md",
-    "vault/CI CD.md",
-    "vault/C++.md",
+    "vault/Git.md",
+    "vault/Poetry.md",
+    "vault/Linux.md",
+    "vault/Maze Generation.md",
+    "vault/Clojure.md",
     "vault/ROS2.md",
-    "vault/Linux.md"
+    "vault/Motor Drivers.md",
+    "vault/Electronics Theory.md",
+    "vault/Nav2 Nodes.md",
+    "vault/Nav2 Topics.md"
   ]
 }

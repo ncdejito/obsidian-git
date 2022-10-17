@@ -65,7 +65,7 @@ direnv allow
 ## Processes
 * List processes
 ```
-ps
+ps -v
 ```
 * Kill process
 ```
