@@ -3,8 +3,9 @@
 ### Routines 
 * open image and bash
 ```
-docker run -it --entrypoint /bin/bash image:tag
+docker run --rm -it --entrypoint /bin/bash image:tag
 ```
+--rm Automatically remove the container when it exits
 -v /dev/input:/dev/input --privileged osrf/subt-virtual-testbed:latest
 * saving
 ```
@@ -28,6 +29,15 @@ docker build -t image:latest .
 * retag
 ```
 docker tag backend:latest backend:local
+```
+* clean up system (warning: deletes all images!)
+```
+docker system prune -a
+```
+
+* map container port to host port
+```
+docker run -p host:container
 ```
 
 ### Best practices
@@ -54,7 +64,13 @@ apt install python-is-python3
 
 ```
 
+## Multi-arch
+docker buildx for multi-arch
+
 ### Fixes
+#fix /bin/bash/exec format error
+different architecture, try multi-arch steps
+
 #fix qt.qpa.xcb: could not connect to display :0
 run the ff:
 ```
