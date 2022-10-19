@@ -1,9 +1,9 @@
 [[DevOps]]
 
 ## Special addresses
-127.0.0.1 - your computer (localhost) 'fake' local only network - it can only be accessed internally (ie. not from outside the machine)
-255.255.255.255 - broadcast address (group email address)
-0.0.0.0 - use for dockerizing stuff, default or placeholder, 0.0.0.0 is all ports on the machine
+* 127.0.0.1 - your computer (localhost) 'fake' local only network - it can only be accessed internally (ie. not from outside the machine)
+* 255.255.255.255 - broadcast address (group email address)
+* 0.0.0.0 - use for dockerizing stuff, default or placeholder, 0.0.0.0 is all ports on the machine
 
 ## Definitions
 
@@ -40,7 +40,6 @@ Handshaking - automated process of negotiation between two participants (example
 * `telnet` - used to establish the connections between different machines.This command allows us to manage the remote devices using the CLI (command-line interface).  It uses TCP port 23 which is assigned to the telnet protocol, [source](https://linuxhint.com/linux-telnet-command/)
 
 * `dig` - used to gather DNS information (Domain Information Groper) [source with examples](https://www.geeksforgeeks.org/dig-command-in-linux-with-examples/)
-
 * `nslookup` - enter a host name (for example, "whatis.com") and find out the corresponding IP address or domain name system (DNS) record
 
 * `netstat` - Displays active TCP connections, ports on which the computer is listening, Ethernet statistics, the IP routing table, IPv4 statistics (for the IP, ICMP, TCP, and UDP protocols), and IPv6 statistics (for the IPv6, ICMPv6, TCP over IPv6, and UDP over IPv6 protocols). Used without parameters, this command displays active TCP connections [source](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/netstat)

@@ -51,6 +51,10 @@ command &
 ```
 rm -v !("filename1"|"filename2")
 ```
+* check architecture i.e. arm64, amd64
+```
+uname -a
+```
 
 Make bashes have env variables based on .env in current dir
 ```

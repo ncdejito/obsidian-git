@@ -17,3 +17,6 @@ Specs
 
 Setup
 * [Instructions](https://ubuntu.com/download/raspberry-pi-core)
+
+#fix Rpi imager windows opengl error  
+[stackoverflow](https://raspberrypi.stackexchange.com/questions/137481/how-to-run-raspberry-pi-imager-in-old-windows-computer-without-opengl-2-0-or-wit)

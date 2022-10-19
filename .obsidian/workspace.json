@@ -129,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,15 +140,15 @@
   },
   "active": "44b2918031b6f0d8",
   "lastOpenFiles": [
-    "vault/Virtualization.md",
+    "vault/Computer networking.md",
     "vault/Docker.md",
-    "vault/Poetry.md",
+    "vault/Raspberry Pi (RPi).md",
+    "vault/Ubuntu Core 22.md",
+    "vault/Home Servers.md",
+    "vault/DevOps.md",
     "vault/Linux.md",
-    "vault/ROS2.md",
-    "vault/Git.md",
-    "vault/Maze Generation.md",
-    "vault/Clojure.md",
-    "vault/Motor Drivers.md",
-    "vault/Electronics Theory.md"
+    "vault/Virtualization.md",
+    "vault/Poetry.md",
+    "vault/ROS2.md"
   ]
 }

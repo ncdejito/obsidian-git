@@ -1,5 +1,7 @@
 [[DevOps]] [[Hardware]]
 
+aarch64 is same as arm64
+
 Why
 Cheaper in the long run vs cloud costs
 
