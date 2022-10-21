@@ -17,3 +17,7 @@ Delete all lines in script
 ```
 :1,$d
 ```
+
+## Intro
+[Vim Adventures](https://vim-adventures.com/)
+[VimGolf](https://www.vimgolf.com/)
