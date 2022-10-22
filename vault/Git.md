@@ -103,3 +103,7 @@ Source of error is VSCode CLI authentication
 
 #fix error: update_ref failed for ref 'refs/remotes/origin/main': cannot lock ref 'refs/remotes/origin/main': Unable to create '/.git/refs/remotes/origin/main.lock': Permission denied
 * delete folder and re-clone repo
+
+## Github alternatives
+Sourcehut - barebones
+Gitlab - slow

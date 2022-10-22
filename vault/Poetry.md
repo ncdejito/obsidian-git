@@ -29,3 +29,10 @@ Create requirements.txt
 # https://github.com/python-poetry/poetry/issues/3472#issuecomment-744356551
 poetry export -f requirements.txt --output requirements.txt --without-hashes
 ```
+
+Use jupyter lab with Poetry
+```
+poetry add ipykernel
+poetry run python -m ipykernel install --user --name poetry_kernel
+jupyter lab --notebook-dir=.
+```

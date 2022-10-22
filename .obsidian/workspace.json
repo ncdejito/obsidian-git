@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Motors.md",
+                "file": "vault/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Motors.md",
+                "file": "vault/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Motors.md",
+                "file": "vault/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Motors.md"
+                "file": "vault/Git.md"
               }
             }
           }
@@ -140,15 +140,15 @@
   },
   "active": "44b2918031b6f0d8",
   "lastOpenFiles": [
-    "vault/Vim.md",
     "vault/Docker.md",
+    "vault/Poetry.md",
+    "vault/Vim.md",
+    "vault/Virtualization.md",
+    "vault/Zig.md",
+    "vault/Databases.md",
+    "vault/Motors.md",
     "vault/Git.md",
     "vault/ROS2.md",
-    "vault/Motor Drivers.md",
-    "vault/Computer networking.md",
-    "vault/Raspberry Pi (RPi).md",
-    "vault/Ubuntu Core 22.md",
-    "vault/Home Servers.md",
-    "vault/DevOps.md"
+    "vault/Motor Drivers.md"
   ]
 }
