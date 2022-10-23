@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Git.md",
+                "file": "vault/UI UX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Git.md",
+                "file": "vault/UI UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Git.md",
+                "file": "vault/UI UX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Git.md"
+                "file": "vault/UI UX.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   },
   "active": "44b2918031b6f0d8",
   "lastOpenFiles": [
+    "vault/Git.md",
     "vault/Docker.md",
     "vault/Poetry.md",
     "vault/Vim.md",
@@ -147,7 +148,6 @@
     "vault/Zig.md",
     "vault/Databases.md",
     "vault/Motors.md",
-    "vault/Git.md",
     "vault/ROS2.md",
     "vault/Motor Drivers.md"
   ]
