@@ -111,6 +111,10 @@ flatpak install flathub org.winehq.Wine
 flatpak run org.winehq.Wine RoboStudio/robostudio.exe
 ```
 
+## Info on OS
+```
+uname -a
+```
 ## Concepts
 How do processes work? Why cant I access processes inside a screen?
 
