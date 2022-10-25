@@ -1,4 +1,4 @@
-[[Electronics Theory]]
+[[Electronics Theory]] [[Hardware]]
 
 Questions
 How do you draw a circuit diagram

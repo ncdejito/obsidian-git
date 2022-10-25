@@ -7,3 +7,8 @@ Understand core concepts
 Try solving another problem
 
 Gdb
+lldb
+```
+breakpoint set -f file.zig -l 156
+thread backtrace
+```

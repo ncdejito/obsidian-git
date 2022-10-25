@@ -1,5 +1,7 @@
 [[Backend]], [[Algorithms]], [[Algorithmic Analysis]]
 
+[Illustrated](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
+
 # Data Structures
 
 ## Array

@@ -4,6 +4,7 @@
 model for plan execution, 
 describe switchings between a finite set of tasks in a modular fashion
 main building block of a behavior is a task rather than a state
+Emergent behavior - whole has properties that its individual parts do not have: programming theory, system design
 
 ## Components
 Nodes

@@ -2,6 +2,7 @@
 
 ## Tutorials
 [freeCodeCamp](https://www.freecodecamp.org/news/learn-docker-and-kubernetes-hands-on-course/)
+[Zine](https://wizardzines.com/zines/containers/) docker containers
 
 ### Routines 
 * open image and bash

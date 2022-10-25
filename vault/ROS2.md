@@ -110,6 +110,8 @@ structure of feedback
 * Rxros - Functional, reactive
 * vulcanexus all in one ros2
 * Prometheus export ros discourse
+* Microros - use ros2 on microcontrollers
+* Fogros2 - cloud robotics, run listener talker example aws local cloud?
 
 ## Gotchas
 * if you close a docker terminal, the process running there is still running on your docker image

@@ -26,3 +26,7 @@
 usual problems  
 Different topic name  
 Different frame name
+
+## Resources
+Nav2 Diagrams by NVIDIA [blog](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/tutorial_ros2_navigation.html)
+Nav2 Training worth 140k per person [blog](https://www.theconstructsim.com/ros2-navigation-training/?utm_source=youtu.be/BmyCi2lcdJY&utm_medium=Description)
