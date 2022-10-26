@@ -11,12 +11,8 @@
             "id": "44b2918031b6f0d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault/Flyio.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Flyio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Flyio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "vault/Flyio.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,15 +132,15 @@
   },
   "active": "44b2918031b6f0d8",
   "lastOpenFiles": [
+    "vault/DevOps.md",
+    "vault/Docker.md",
+    "vault/Flyio.md",
+    "vault/Virtualization.md",
+    "vault/Cron.md",
+    "vault/Heroku.md",
     "vault/Circuit Diagrams.md",
     "vault/Hardware.md",
     "vault/URDF.md",
-    "vault/Reinforcement Learning.md",
-    "vault/Learning How to Learn.md",
-    "vault/Learning.md",
-    "vault/Microk8s.md",
-    "vault/Behavior Trees.md",
-    "vault/Programming Theory.md",
-    "vault/Nav2.md"
+    "vault/Reinforcement Learning.md"
   ]
 }
