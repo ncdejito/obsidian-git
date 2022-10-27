@@ -11,11 +11,28 @@
             "id": "44b2918031b6f0d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vault/ROS2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18a5fcc9c445c802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/String interning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vault/String interning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vault/String interning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vault/String interning.md"
+              }
             }
           }
         ]
@@ -127,20 +148,17 @@
     "direction": "horizontal",
     "width": 224.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "44b2918031b6f0d8",
+  "active": "18a5fcc9c445c802",
   "lastOpenFiles": [
-    "vault/DevOps.md",
+    "vault/ROS2.md",
+    "vault/Learning a large code base.md",
+    "vault/Lidar.md",
+    "vault/tf2.md",
     "vault/Docker.md",
+    "vault/Odometry.md",
+    "vault/DevOps.md",
     "vault/Flyio.md",
     "vault/Virtualization.md",
-    "vault/Cron.md",
-    "vault/Heroku.md",
-    "vault/Circuit Diagrams.md",
-    "vault/Hardware.md",
-    "vault/URDF.md",
-    "vault/Reinforcement Learning.md"
+    "vault/Cron.md"
   ]
 }

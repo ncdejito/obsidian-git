@@ -1,8 +1,9 @@
 [[Hardware]]
 
 From LIDAR
+* ROS2 Laser Scan matcher - [code](https://github.com/AlexKaravaev/ros2_laser_scan_matcher)
 * rf2o_laser_odometry - [code](https://github.com/Adlink-ROS/rf2o_laser_odometry)
-* Andrea Censi's Canonical Scan Matcher - [code](http://wiki.ros.org/laser_scan_matcher)
+
 
 Wheel encoders
 

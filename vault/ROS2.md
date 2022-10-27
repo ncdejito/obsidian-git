@@ -5,7 +5,7 @@
 colcon build --symlink-install
 source install/setup.bash
 ```
-
+* --symlink-install - updates urdf file automatically when saved, but if you add new files you need to build it again
 ```
 source /opt/ros/humble/setup.bash
 ```
@@ -60,8 +60,13 @@ Activate python
 python3
 ```
 
-Continue ROS2 Tutorials at [colcon build](https://docs.ros.org/en/galactic/Tutorials/Beginner-Client-Libraries/Colcon-Tutorial.html)
-* --symlink-install - updates urdf file automatically when saved, but if you add new files you need to build it again
+Searching binaries for launch files
+```
+ls /opt/ros/galactic/share/rplidar_ros/launch
+```
+## Introspection
+[[tf2]]
+View node graph - `rqt`
 
 ## Concepts
 Node - e.g. motor controller, laser range finder
