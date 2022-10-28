@@ -7,7 +7,7 @@ source install/setup.bash
 ```
 * --symlink-install - updates urdf file automatically when saved, but if you add new files you need to build it again
 ```
-source /opt/ros/humble/setup.bash
+source /opt/ros/galactic/setup.bash
 ```
 
 ```

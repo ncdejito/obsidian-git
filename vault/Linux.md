@@ -33,14 +33,18 @@ sudo apt install p7zip
 * unzip an xz file
 ```
 sudo apt install p7zip-full
-
 ```
 
 * detach using ctrl+a d
 
 * log to file
 ```
-command >> logfile.log
+command >> logfile.log # append
+command > logfile.log # overwrite
+```
+* string replace
+```
+sed 's/unix/linux/g' geekfile.txt
 ```
 * run in background
 ```

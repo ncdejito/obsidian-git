@@ -10,3 +10,7 @@
 [[Typescript]] - Javascript with types
 
 [[Haskell]] - functional programming
+
+
+
+Speed comparisons [chart](https://github.com/niklas-heer/speed-comparison) - C++ is fastest

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/String interning.md",
+                "file": "vault/Kubernetes (k8s).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/String interning.md",
+                "file": "vault/Kubernetes (k8s).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/String interning.md",
+                "file": "vault/Kubernetes (k8s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/String interning.md"
+                "file": "vault/Kubernetes (k8s).md"
               }
             }
           }
@@ -151,14 +151,14 @@
   "active": "18a5fcc9c445c802",
   "lastOpenFiles": [
     "vault/ROS2.md",
-    "vault/Learning a large code base.md",
-    "vault/Lidar.md",
-    "vault/tf2.md",
     "vault/Docker.md",
-    "vault/Odometry.md",
-    "vault/DevOps.md",
-    "vault/Flyio.md",
-    "vault/Virtualization.md",
-    "vault/Cron.md"
+    "vault/Git.md",
+    "vault/Linux.md",
+    "vault/Programming Languages.md",
+    "vault/Programming Theory.md",
+    "vault/CI CD.md",
+    "vault/ROS networking.md",
+    "vault/String interning.md",
+    "vault/Learning a large code base.md"
   ]
 }
