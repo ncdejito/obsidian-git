@@ -14,7 +14,7 @@ ssh-add ~/.ssh/id_rsa
 # for wsl, edit wsl_config with: https://github.com/Microsoft/WSL/issues/81#issuecomment-400597679
 # chmod 400 ~/.ssh/id_rsa
 
-# paste this to Github/Settings/SSH and GPG keys
+# paste this to Github/Settings/SSH and GPG keys https://github.com/settings/keys
 cat ~/.ssh/id_rsa.pub
 
 # test connection if working
