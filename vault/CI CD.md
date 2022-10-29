@@ -33,3 +33,6 @@ InfraCost CI
 conan-io [[C++]] package manager for easier CI
 [[Go]] has easy devops
 [Earthly](https://earthly.dev/) - dockerfile + makefile for easier CI CD
+
+Tutorials
+[ACloudGuru](https://acloudguru.com/course/implementing-a-full-ci-cd-pipeline)
