@@ -12,7 +12,7 @@ sudo docker run -it --net=host --entrypoint /bin/bash pyfirmata:latest
 
 Specs
 * Raspberry Pi Model 4
-* [[Ubuntu Core 22]].04.1 Jammy
+* [[Ubuntu Core]].04.1 Jammy
 * arm64
 
 Setup

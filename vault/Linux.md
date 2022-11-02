@@ -102,6 +102,10 @@ screen -r 10835
 ```
 screen -X -S [session # you want to kill] quit
 ```
+* delete apt repo
+```
+sudo add-apt-repository --remove https://ppa.hub.org
+```
 
 ## Install Flatpak
 ```
