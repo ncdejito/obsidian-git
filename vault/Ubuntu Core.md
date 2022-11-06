@@ -1,3 +1,10 @@
+[Install on RPi](https://itsfoss.com/connect-wifi-terminal-ubuntu/)
+* in login.ubuntu.com/ssh-keys add ssh key of dev machine
+```
+cd ~/.ssh
+cat id_rsa.pub # paste output to webpage
+```
+
 Connect to Wifi
 [instructions](https://itsfoss.com/connect-wifi-terminal-ubuntu/)
 location: /etc/netplan/00-snapd-config.yaml
@@ -12,7 +19,8 @@ network:
           password: VhN264s7
       dhcp4: true
 ```
-
+sudo netplan apply
+check ip `hostname ip -I`
 
 Install docker as a snap
 ```

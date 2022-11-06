@@ -81,7 +81,7 @@ Set origin to new repo
 git remote set-url origin git://new.url.here
 ```
 
-Add commit push in one command
+Add commit push in one command [git utils](https://github.com/ncdejito/config)
 ```
 # https://simplernerd.com/git-alias-add-commit-push/
 # can be seen in ~/.gitconfig

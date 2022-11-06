@@ -7,10 +7,10 @@ Why use it
 
 How it works 
 * [[Functional Programming]] + Observer pattern
-- an observer subscribes to an Observable. Then that observer reacts to whatever item or sequence of items the Observable emits  
+- an observer subscribes to an Observable. Then that observer reacts to whatever item or sequence of items the Observable emits
 * Composition prevents nested [[Callbacks]]
 
 
 ROS2 DDS seems reactive already
-ReactiveX API - Rxpy Rxgo
+ReactiveX API - Rxpy Rxcpp Rxgo
 [RxROS](https://research.tudelft.nl/en/publications/reactive-programming-of-robots-with-rxros)
