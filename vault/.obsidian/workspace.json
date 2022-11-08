@@ -147,15 +147,15 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
-    "Linux.md",
+    "Debugging.md",
     "C++.md",
+    "Linux.md",
     "Reactive Programming.md",
     "Mesh Networks.md",
     "Named Data Networking.md",
     "Docker.md",
     "Podman.md",
     "Git.md",
-    "Ubuntu Core.md",
-    "Control Theory.md"
+    "Ubuntu Core.md"
   ]
 }
