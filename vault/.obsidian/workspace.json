@@ -11,12 +11,8 @@
             "id": "3be6d8392754a06d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,15 +139,15 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
-    "Debugging.md",
+    "3D Navigation.md",
+    "Wireless.md",
+    "Mesh Networks.md",
+    "Computer networking.md",
+    "Learning a large code base.md",
     "C++.md",
+    "Debugging.md",
     "Linux.md",
     "Reactive Programming.md",
-    "Mesh Networks.md",
-    "Named Data Networking.md",
-    "Docker.md",
-    "Podman.md",
-    "Git.md",
-    "Ubuntu Core.md"
+    "Named Data Networking.md"
   ]
 }
