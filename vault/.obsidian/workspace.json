@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flyio.md",
+                "file": "C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flyio.md",
+                "file": "C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flyio.md",
+                "file": "C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flyio.md"
+                "file": "C++.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3be6d8392754a06d",
+  "active": "69335826179cbbb0",
   "lastOpenFiles": [
-    "CI CD.md",
+    "PyTorch.md",
+    "GPUs.md",
+    "Functional Programming.md",
     "Flyio.md",
+    "CI CD.md",
     "Docker.md",
     "Python.md",
     "Poetry.md",
     "Kubernetes (k8s).md",
-    "3D Navigation.md",
-    "Wireless.md",
-    "Mesh Networks.md",
-    "Computer networking.md"
+    "3D Navigation.md"
   ]
 }

@@ -10,17 +10,17 @@ Why
 
 ## Intro
 How to learn (start anywhere!)
-* Robotics with Sina recos
-* Top 10 courses for beginners [medium](https://medium.com/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e)
 * learncpp.com
 * Learn c++ by making games in Unreal Engine4!
 * Effective Modern C++ (book)
 * FunctionalPlus [code](https://github.com/Dobiasd/FunctionalPlus)
-* obsevable [code](https://github.com/ddinu/observable)
+* observable [code](https://github.com/ddinu/observable)
 * Functional c++ [blogpost](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/august/c-functional-style-programming-in-c)
 * How to program functionally in c++ [blogpost](https://medium.com/swlh/doing-it-the-functional-way-in-c-5c392bbdd46a)
 * CTest CMake
 * GDB
+* Robotics with Sina recos
+* Top 10 courses for beginners [medium](https://medium.com/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e)
 
 
 Compile program and run (Linux)
