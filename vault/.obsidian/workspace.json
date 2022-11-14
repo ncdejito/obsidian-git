@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++.md",
+                "file": "Mesh Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++.md",
+                "file": "Mesh Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++.md",
+                "file": "Mesh Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++.md"
+                "file": "Mesh Networks.md"
               }
             }
           },
@@ -145,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69335826179cbbb0",
+  "active": "3be6d8392754a06d",
   "lastOpenFiles": [
+    "C++.md",
     "PyTorch.md",
     "GPUs.md",
     "Functional Programming.md",
@@ -155,7 +156,6 @@
     "Docker.md",
     "Python.md",
     "Poetry.md",
-    "Kubernetes (k8s).md",
-    "3D Navigation.md"
+    "Kubernetes (k8s).md"
   ]
 }
