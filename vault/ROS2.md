@@ -117,6 +117,7 @@ structure of feedback
 * Prometheus export ros discourse
 * Microros - use ros2 on microcontrollers
 * Fogros2 - cloud robotics, run listener talker example aws local cloud?
+* OpenRMF  multi-robot traffic management system [slides](https://docs.google.com/presentation/d/1Lt79xlM_XkITmURSbI5hkAAgnjSX8dHKBkgvz3x3Uzw/edit)
 
 ## Gotchas
 * if you close a docker terminal, the process running there is still running on your docker image

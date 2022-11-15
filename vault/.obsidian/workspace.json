@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mesh Networks.md",
+                "file": "ROS2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mesh Networks.md",
+                "file": "ROS2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mesh Networks.md",
+                "file": "ROS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mesh Networks.md"
+                "file": "ROS2.md"
               }
             }
           },
@@ -148,14 +148,14 @@
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
     "C++.md",
+    "Arduino.md",
+    "Algorithmic Analysis.md",
+    "Mesh Networks.md",
     "PyTorch.md",
     "GPUs.md",
     "Functional Programming.md",
     "Flyio.md",
     "CI CD.md",
-    "Docker.md",
-    "Python.md",
-    "Poetry.md",
-    "Kubernetes (k8s).md"
+    "Docker.md"
   ]
 }
