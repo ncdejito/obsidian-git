@@ -13,6 +13,7 @@ How to learn (start anywhere!)
 * learncpp.com
 * Learn c++ by making games in Unreal Engine4!
 * Effective Modern C++ (book)
+* [Rockstar](https://github.com/avinassh/rockstar) Learn c++ with python
 * FunctionalPlus [code](https://github.com/Dobiasd/FunctionalPlus)
 * observable [code](https://github.com/ddinu/observable)
 * Functional c++ [blogpost](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/august/c-functional-style-programming-in-c)

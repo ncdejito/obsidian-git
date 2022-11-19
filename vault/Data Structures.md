@@ -2,6 +2,11 @@
 
 [Illustrated](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
 
+## Test Cases
+Array -> empty array, out of range limits, out of range numbers.
+Linked List -> Empty linked list, last node linked list scenarios, in case multiple lists are involved handling both of them(adding numbers, merging linked list, pairwise swap etc.)
+Trees -> Empty tree, single left, single right, empty leaf nodes.
+
 # Data Structures
 
 ## Array

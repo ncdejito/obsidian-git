@@ -18,3 +18,6 @@ Issus/altium library
 EAGLE
 KiCAD https://youtu.be/zK3rDhJqMu0
 Lindzey's [blogpost](https://lindzey.github.io/blog/2019/02/09/my-first-pcb/)
+
+Open source hardware google dreams
+Arduino plc
