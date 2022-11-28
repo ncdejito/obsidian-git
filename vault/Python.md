@@ -9,6 +9,7 @@ Create virtual env
 python -m venv venv/
 source venv/bin/activate
 deactivate
+pip freeze > requirements.txt
 ```
 
 Manage dependencies with [[Poetry]]
