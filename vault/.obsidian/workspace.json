@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "Data Structures.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
+    "Machine Learning.md",
+    "Object Detection.md",
+    "Test-Driven Development.md",
+    "Python.md",
     "Git.md",
     "PyTorch.md",
-    "Python.md",
     "Learning a large code base.md",
     "Data Structures.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "C++.md",
-    "Flyio.md",
-    "Typescript.md"
+    "Untitled.md"
   ]
 }
