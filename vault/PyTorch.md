@@ -1,4 +1,4 @@
-[[Machine Learning]]
+[[Neural Networks]]
 
 [Torch puzzles](https://github.com/srush/Tensor-Puzzles)
 

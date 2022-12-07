@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures.md",
+                "file": "Computer Vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures.md",
+                "file": "Computer Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures.md",
+                "file": "Computer Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures.md"
+                "file": "Computer Vision.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
-    "Machine Learning.md",
-    "Object Detection.md",
-    "Test-Driven Development.md",
-    "Python.md",
-    "Git.md",
     "PyTorch.md",
-    "Learning a large code base.md",
-    "Data Structures.md",
-    "Untitled 1.md",
-    "Untitled.md"
+    "Machine Learning.md",
+    "Classical ML.md",
+    "Neural Networks.md",
+    "Computer Vision.md",
+    "Object Detection.md",
+    "3D Navigation.md",
+    "Reinforcement Learning.md",
+    "Natural Language Processing.md",
+    "Theory.md"
   ]
 }

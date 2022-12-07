@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "web",
+      "query": "machine learning",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.699967111211463,
-  "close": true
+  "scale": 0.8372425158803488,
+  "close": false
 }

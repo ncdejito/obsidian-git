@@ -16,3 +16,4 @@ Dependent types - a type whose definition depends on a value
 Implementations
 [[Haskell]]
 [Lean](https://leanprover.github.io/about/)
+[[Clojure]]
