@@ -11,12 +11,8 @@
             "id": "3be6d8392754a06d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Vision.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Vision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Vision.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,15 +139,15 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
-    "PyTorch.md",
     "Machine Learning.md",
+    "Ubuntu.md",
+    "Computer Vision.md",
+    "PyTorch.md",
     "Classical ML.md",
     "Neural Networks.md",
-    "Computer Vision.md",
     "Object Detection.md",
     "3D Navigation.md",
     "Reinforcement Learning.md",
-    "Natural Language Processing.md",
-    "Theory.md"
+    "Natural Language Processing.md"
   ]
 }

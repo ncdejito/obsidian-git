@@ -28,3 +28,10 @@ xrandr -o normal
 ```
 fsck /dev/sda8
 ```
+
+#fix Pending update of snap-store 
+[solution](https://askubuntu.com/a/1429871)
+```
+killall snap-store
+sudo snap refresh
+```
