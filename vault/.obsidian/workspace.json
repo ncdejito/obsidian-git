@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python.md",
+                "file": "Data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "Data Structures.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
+    "Python.md",
     "Machine Learning.md",
     "Ubuntu.md",
     "Computer Vision.md",
@@ -155,7 +156,6 @@
     "Neural Networks.md",
     "Object Detection.md",
     "3D Navigation.md",
-    "Reinforcement Learning.md",
-    "Natural Language Processing.md"
+    "Reinforcement Learning.md"
   ]
 }
