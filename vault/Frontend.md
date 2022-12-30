@@ -20,7 +20,15 @@ npm install rxjs
 - Taskrunner - run scripts like a bash script i.e. test, build, deploy
 [source](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
 
-
+## Make a landing page
+Designing a front page with webflow
+Yc webflow tutorial in yt
+Value prop clear - video bg looks great
+Demo
+Features
+How it works
+Personas
+Social proof - ceo testimonials, press quotes
 
 ## Exercises
 https://github.com/felipefialho/frontend-challenges
