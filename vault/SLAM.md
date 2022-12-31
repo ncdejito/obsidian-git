@@ -13,6 +13,10 @@ ROS1 algos
 [ndt-map](http://wiki.ros.org/ndt_map)
 [loam-velodyne](http://wiki.ros.org/loam_velodyne)
 
+[VSLAM by Macenski](https://arxiv.org/pdf/2107.07589.pdf)
+[AstroSLAM](https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-enable-autonomous-spacecraft-deep-space-missions.amp)
+[Cheatsheet for VisualSLAM](https://www.linkedin.com/posts/terrywu777_vslam-computervision-imageprocessing-activity-7002272675603619840-j9eL?utm_source=share&utm_medium=member_desktop)
+
 SLAM Toolbox in [[Nav2]]
 Modes
 - Offline - Mapping is done without realtime data, for instamnce using bag files
