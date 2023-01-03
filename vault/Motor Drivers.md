@@ -13,3 +13,5 @@ L298n [tutorial](https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino
 VHN2SP30 [tutorial](https://www.instructables.com/Monster-Motor-Shield-VNH2SP30/)
 * speed control is PWM pins
 * [schematic](http://cdn.sparkfun.com/datasheets/Dev/Arduino/Shields/MonsterMoto-Shield-v12.pdf)
+
+L293D [tutorial](https://lastminuteengineers.com/l293d-motor-driver-shield-arduino-tutorial/)

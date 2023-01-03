@@ -26,10 +26,6 @@ After I [CURRENT HABIT], I will [NEW HABIT].
 Use temptation bundling
 Linking an action you want to do with an action you need to do.
 
-How to Stop Procrastinating and Boost Your Willpower by Using "Temptation Bundling"
-Ronan Byrne, an electrical engineering student in Dublin, Ireland, enjoyed watching Netflix, but he also knew that he…
-jamesclear.com
-
 Join a culture
 We tend to imitate the habits of three social groups: the close (family and friends), the many (the tribe), and the powerful (those with status and prestige)
 
