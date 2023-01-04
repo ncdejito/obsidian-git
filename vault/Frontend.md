@@ -22,13 +22,15 @@ npm install rxjs
 
 ## Make a landing page
 Designing a front page with webflow
-Yc webflow tutorial in yt
+[Yc webflow tutorial in yt](https://www.youtube.com/watch?v=B2JpZPSHaVM)
 Value prop clear - video bg looks great
 Demo
 Features
 How it works
 Personas
 Social proof - ceo testimonials, press quotes
+
+Add fb messenger plugin [tutorial](https://www.youtube.com/watch?v=NCM0f0uChQQ)
 
 ## Exercises
 https://github.com/felipefialho/frontend-challenges

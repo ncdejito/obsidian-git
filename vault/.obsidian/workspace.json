@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motor Drivers.md",
+                "file": "SLAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Motor Drivers.md",
+                "file": "SLAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Motor Drivers.md",
+                "file": "SLAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Motor Drivers.md"
+                "file": "SLAM.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
-    "How to Build a Habit.md",
     "Frontend.md",
+    "Startup Idea.md",
+    "Motor Drivers.md",
+    "How to Build a Habit.md",
     "Project Management.md",
     "How to Make Money.md",
     "Google Apps Script.md",
     "Negotiation.md",
-    "Startup Idea.md",
     "PHDs.md",
-    "SLAM.md",
-    "Recommendation Algorithms.md"
+    "SLAM.md"
   ]
 }

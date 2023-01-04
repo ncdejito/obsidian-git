@@ -17,6 +17,11 @@ ROS1 algos
 [AstroSLAM](https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-enable-autonomous-spacecraft-deep-space-missions.amp)
 [Cheatsheet for VisualSLAM](https://www.linkedin.com/posts/terrywu777_vslam-computervision-imageprocessing-activity-7002272675603619840-j9eL?utm_source=share&utm_medium=member_desktop)
 
+camera models, multi-view geometry, and structure-from motion
+UKF, EKF, Factor Graphs
+ROVIO, VINS-MONO, SVO, DSO, or DTAM
+visual odometry, bundle adjustment, place recognition / loop detection algorithms
+
 SLAM Toolbox in [[Nav2]]
 Modes
 - Offline - Mapping is done without realtime data, for instamnce using bag files
