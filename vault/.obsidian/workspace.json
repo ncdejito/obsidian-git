@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SLAM.md",
+                "file": "Backend.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SLAM.md",
+                "file": "Backend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SLAM.md",
+                "file": "Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SLAM.md"
+                "file": "Backend.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
+    "How to Make Money.md",
+    "SLAM.md",
+    "Machine Learning.md",
     "Frontend.md",
     "Startup Idea.md",
     "Motor Drivers.md",
     "How to Build a Habit.md",
     "Project Management.md",
-    "How to Make Money.md",
     "Google Apps Script.md",
-    "Negotiation.md",
-    "PHDs.md",
-    "SLAM.md"
+    "Negotiation.md"
   ]
 }
