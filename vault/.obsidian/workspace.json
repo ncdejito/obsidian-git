@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend.md",
+                "file": "Debugging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c808a46ec850c68c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Learn a New Subject.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend.md",
+                "file": "How to Learn a New Subject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend.md",
+                "file": "How to Learn a New Subject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend.md"
+                "file": "How to Learn a New Subject.md"
               }
             }
           },
@@ -137,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,17 +167,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3be6d8392754a06d",
+  "active": "8f8de1c5b077e358",
   "lastOpenFiles": [
+    "How to Build Expertise in a New Field.md",
+    "Learning.md",
+    "How to Learn a New Subject.md",
+    "Debugging.md",
+    "Behavior Trees.md",
+    "Backend.md",
     "How to Make Money.md",
     "SLAM.md",
     "Machine Learning.md",
-    "Frontend.md",
-    "Startup Idea.md",
-    "Motor Drivers.md",
-    "How to Build a Habit.md",
-    "Project Management.md",
-    "Google Apps Script.md",
-    "Negotiation.md"
+    "Frontend.md"
   ]
 }
