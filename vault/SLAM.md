@@ -20,6 +20,7 @@ ROS1 algos
 [VSLAM by Macenski](https://arxiv.org/pdf/2107.07589.pdf)
 [AstroSLAM](https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-12-enable-autonomous-spacecraft-deep-space-missions.amp)
 [Cheatsheet for VisualSLAM](https://www.linkedin.com/posts/terrywu777_vslam-computervision-imageprocessing-activity-7002272675603619840-j9eL?utm_source=share&utm_medium=member_desktop)
+[Acoustic SLAM](https://towardsdatascience.com/acoustic-slam-state-of-the-art-review-3e5f45aeb345)
 
 camera models, multi-view geometry, and structure-from motion
 UKF, EKF, Factor Graphs

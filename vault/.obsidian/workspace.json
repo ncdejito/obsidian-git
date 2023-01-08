@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debugging.md",
+                "file": "Frontend.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Learn a New Subject.md",
+                "file": "Frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Learn a New Subject.md",
+                "file": "Frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Learn a New Subject.md"
+                "file": "Frontend.md"
               }
             }
           },
@@ -167,16 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f8de1c5b077e358",
+  "active": "3be6d8392754a06d",
   "lastOpenFiles": [
+    "SLAM.md",
+    "Debugging.md",
     "How to Build Expertise in a New Field.md",
     "Learning.md",
     "How to Learn a New Subject.md",
-    "Debugging.md",
     "Behavior Trees.md",
     "Backend.md",
     "How to Make Money.md",
-    "SLAM.md",
     "Machine Learning.md",
     "Frontend.md"
   ]
