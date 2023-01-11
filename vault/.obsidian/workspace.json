@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend.md",
+                "file": "Mesh Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend.md",
+                "file": "Mesh Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend.md",
+                "file": "Mesh Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend.md"
+                "file": "Mesh Networks.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
+    "How to Learn a New Subject.md",
+    "Mesh Networks.md",
+    "Machine Learning.md",
+    "Classical ML.md",
+    "Frontend.md",
     "SLAM.md",
     "Debugging.md",
     "How to Build Expertise in a New Field.md",
     "Learning.md",
-    "How to Learn a New Subject.md",
-    "Behavior Trees.md",
-    "Backend.md",
-    "How to Make Money.md",
-    "Machine Learning.md",
-    "Frontend.md"
+    "Behavior Trees.md"
   ]
 }
