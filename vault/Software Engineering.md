@@ -7,6 +7,7 @@ Zach Wilson's [curriculum](https://www.linkedin.com/posts/eczachly_softwareengin
 - [[Frontend]]
 - [[Software Eng Best Practices]]
 
+Books to read [LinkedIn](https://www.linkedin.com/posts/nick-singh-tech_read-3-books-to-land-these-jobs-software-activity-7010865169106964482--FHv?utm_source=share&utm_medium=member_desktop)
 
 Resources
 [Roadmap sh](https://github.com/kamranahmedse/developer-roadmap) - curriculum with double-click answers

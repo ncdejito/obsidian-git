@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mesh Networks.md",
+                "file": "Assessing your ability.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mesh Networks.md",
+                "file": "Assessing your ability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mesh Networks.md",
+                "file": "Assessing your ability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mesh Networks.md"
+                "file": "Assessing your ability.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "3be6d8392754a06d",
   "lastOpenFiles": [
-    "How to Learn a New Subject.md",
+    "SLAM.md",
+    "How to use ChatGPT.md",
+    "Software Engineering.md",
+    "Data Analysis.md",
     "Mesh Networks.md",
+    "How to Learn a New Subject.md",
     "Machine Learning.md",
     "Classical ML.md",
     "Frontend.md",
-    "SLAM.md",
-    "Debugging.md",
-    "How to Build Expertise in a New Field.md",
-    "Learning.md",
-    "Behavior Trees.md"
+    "Debugging.md"
   ]
 }
