@@ -40,7 +40,7 @@ needs
 - capture ephemeral thoughts
 - formalize to long-lasting bodies of knowledge
 
-BenCodeZen - prevent siloed notes by replacing create new note with search notes
+prevent siloed notes by replacing create new note with search notes (BenCodeZen)
 
 Bugs encountered section in ros nav2 page  
   

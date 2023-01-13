@@ -1,5 +1,11 @@
 [[Software Eng Best Practices]] [[Learning]]
 
+Dealing with clashes against your understanding
+Deep breath
+What are you trying to do again?
+How might you be wrong?
+What other things can you try?
+
 Debugging strategies  
 When stuck:  
 Break down smaller subtasks  

@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "machine learning",
+      "query": "robot papers",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0014399522064084,
+  "scale": 0.585199565818179,
   "close": false
 }
