@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Negotiation.md",
+                "file": "Xacro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Negotiation.md",
+                "file": "Xacro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Negotiation.md",
+                "file": "Xacro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Negotiation.md"
+                "file": "Xacro.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "0c3d1d357cd5893c",
   "lastOpenFiles": [
-    "Robot papers.md",
-    "2023-01-13.md",
-    "Debugging.md",
-    "Learning.md",
-    "How to Learn a New Subject.md",
-    "Data Analysis.md",
-    "Linux.md",
-    "Git.md",
-    "Obsidian.md",
-    "How to Make Money.md"
+    "URDF.md",
+    "Algorithm Interview Tips.md",
+    "Electronics Theory.md",
+    "CNC Machining.md",
+    "Zerotier.md",
+    "Clojure.md",
+    "Nav2 Topics.md",
+    "CLI Tools.md",
+    "Signed Integers.md",
+    "Control Theory.md"
   ]
 }

@@ -8,3 +8,6 @@ Definition
 
 Voltmeters are hooked in parallel - measure charge difference between two points
 Ammeters (current) are hooked in series - measure flow of electric charge
+
+Lessons
+[Allaboutcircuits](https://www.allaboutcircuits.com/textbook)
