@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xacro.md",
+                "file": "Software Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xacro.md",
+                "file": "Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Xacro.md",
+                "file": "Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xacro.md"
+                "file": "Software Engineering.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "0c3d1d357cd5893c",
   "lastOpenFiles": [
+    "Message Brokers or Queues.md",
+    "How to use ChatGPT.md",
+    "Xacro.md",
     "URDF.md",
     "Algorithm Interview Tips.md",
     "Electronics Theory.md",
     "CNC Machining.md",
     "Zerotier.md",
     "Clojure.md",
-    "Nav2 Topics.md",
-    "CLI Tools.md",
-    "Signed Integers.md",
-    "Control Theory.md"
+    "Nav2 Topics.md"
   ]
 }
