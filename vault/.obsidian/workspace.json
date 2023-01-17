@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c3d1d357cd5893c",
+            "id": "057bc3a4551e465b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering.md",
+                "file": "Data Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering.md",
+                "file": "Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering.md",
+                "file": "Data Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering.md"
+                "file": "Data Analysis.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c3d1d357cd5893c",
+  "active": "057bc3a4551e465b",
   "lastOpenFiles": [
-    "Message Brokers or Queues.md",
-    "How to use ChatGPT.md",
-    "Xacro.md",
-    "URDF.md",
-    "Algorithm Interview Tips.md",
-    "Electronics Theory.md",
-    "CNC Machining.md",
-    "Zerotier.md",
-    "Clojure.md",
-    "Nav2 Topics.md"
+    "Machine Learning.md",
+    "Data Analysis.md",
+    "Poetry.md",
+    "Databases.md",
+    "Linux.md",
+    "Python.md",
+    "Character Invention.md",
+    "APIs.md",
+    "Algorithmic Analysis.md",
+    "Data Structures.md"
   ]
 }
