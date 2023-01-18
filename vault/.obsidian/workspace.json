@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Analysis.md",
+                "file": "SLAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Analysis.md",
+                "file": "SLAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Analysis.md",
+                "file": "SLAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Analysis.md"
+                "file": "SLAM.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "057bc3a4551e465b",
   "lastOpenFiles": [
-    "Machine Learning.md",
+    "Maze Generation.md",
+    "Learning.md",
     "Data Analysis.md",
+    "Theory.md",
+    "React-Native.md",
+    "Vim.md",
+    "Machine Learning.md",
     "Poetry.md",
     "Databases.md",
-    "Linux.md",
-    "Python.md",
-    "Character Invention.md",
-    "APIs.md",
-    "Algorithmic Analysis.md",
-    "Data Structures.md"
+    "Linux.md"
   ]
 }
