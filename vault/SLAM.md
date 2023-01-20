@@ -34,5 +34,8 @@ Modes
 - Asynchronous - It processes incoming laser measurements in real time
 - Lifelong - It allows to build a map partially over time. For instance, get a 1st version of a map and update it.
 
+Logistics robots: Grid markers for autonomous navigation  
+[https://medium.com/black-coffee-robotics/localization-for-warehouse-autonomous-robots-e89a29a5f936](https://medium.com/black-coffee-robotics/localization-for-warehouse-autonomous-robots-e89a29a5f936)
+
 Tools
 [ImMesh](https://github.com/hku-mars/ImMesh) - An Immediate LiDAR Localization and Meshing Framework

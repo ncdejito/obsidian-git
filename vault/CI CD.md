@@ -33,6 +33,8 @@ InfraCost CI
 conan-io [[C++]] package manager for easier CI
 [[Go]] has easy devops
 [Earthly](https://earthly.dev/) - dockerfile + makefile for easier CI CD
+Argo is great for kubernetes CD  
+Source: Bytebytego cicd in 5mins
 
 Tutorials
 [ACloudGuru](https://acloudguru.com/course/implementing-a-full-ci-cd-pipeline)
