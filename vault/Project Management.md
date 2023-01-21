@@ -1,9 +1,4 @@
 
-Agile principles  
-Small releases  
-Tasks outputs as unit tests  
-Early Customer involvement  
-  
 Long term - 3mo  
 Objectives  
 Key Results - gdocs, projects delivered  
@@ -26,3 +21,12 @@ Asana
 GCalendar  
 Gdocs  
 GithubProjects
+
+Theory
+Agile principles  
+Small releases  
+Tasks outputs as unit tests  
+Early Customer involvement  
+
+-iron triangle - budget, scope, schedule
+-waterfall vs agile
