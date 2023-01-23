@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Management.md",
+                "file": "Zerotier.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Management.md",
+                "file": "Zerotier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Management.md",
+                "file": "Zerotier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Management.md"
+                "file": "Zerotier.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "057bc3a4551e465b",
   "lastOpenFiles": [
-    "How to Make Money.md",
-    "C++.md",
-    "FastAPI.md",
-    "Chrome.md",
-    "Nav2.md",
-    "Robotics Visualization.md",
-    "CI CD.md",
-    "SLAM.md",
-    "Generative AI.md",
-    "GPUs.md"
+    "GCP.md",
+    "Zerotier.md",
+    "Nav2 Actions.md",
+    "Programming Languages.md",
+    "Software Engineering.md",
+    "Vim.md",
+    "Regulators.md",
+    "Functional Programming.md",
+    "Project Management.md",
+    "How to Make Money.md"
   ]
 }
