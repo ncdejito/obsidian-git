@@ -1,4 +1,11 @@
 
+What makes it a discipline
+Testing
+Code quality
+Automated deployment
+Typing
+
+
 Zach Wilson's [curriculum](https://www.linkedin.com/posts/eczachly_softwareengineering-activity-6959571816235368448-XYuE)
 
 - [[Backend]]
@@ -12,3 +19,10 @@ Books to read [LinkedIn](https://www.linkedin.com/posts/nick-singh-tech_read-3-b
 Resources
 [Roadmap sh](https://github.com/kamranahmedse/developer-roadmap) - curriculum with double-click answers
 [Github list](https://github.com/charlax/professional-programming)
+
+Choosing technologies  
+Main reasons for using  
+Quickstart  
+Alternatives  
+Scalability/Deployability  
+Usability/Community support

@@ -23,6 +23,8 @@ How to learn (start anywhere!)
 * Robotics with Sina recos
 * Top 10 courses for beginners [medium](https://medium.com/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e)
 
+Modern C++  
+[https://github.com/facebook/folly](https://github.com/facebook/folly)
 
 Compile program and run (Linux)
 ```

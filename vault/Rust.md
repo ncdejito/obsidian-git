@@ -1,4 +1,5 @@
 https://github.com/rust-lang/rustlings
+https://github.com/google/comprehensive-rust
 
 Why
 Rust is faster than Go

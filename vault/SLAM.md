@@ -1,4 +1,4 @@
-[[Robotics Theory]]
+[[Robotics]]
 
 ## Theory
 [Principles of Robot Autonomy](https://stanfordasl.github.io//aa274a/)

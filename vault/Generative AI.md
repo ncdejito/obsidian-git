@@ -16,3 +16,6 @@ https://www.linkedin.com/posts/zainkahn_how-to-launch-a-business-with-ai-ugcPost
 
 GenerativeAI Landscape
 https://www.linkedin.com/posts/erika-fille-legara_ai-digital-innovation-activity-7020037338193936385-cBnc?utm_source=share&utm_medium=member_android
+
+SOTA Paper Generative
+https://www.linkedin.com/posts/tanuj-jain-10_230104655pdf-activity-7023215916872015872-LRjJ/?utm_source=share&utm_medium=member_android

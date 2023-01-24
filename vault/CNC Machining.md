@@ -1,3 +1,3 @@
-[[Robotics Theory]]
+[[Robotics]]
 
 [Intro](https://lcamtuf.coredump.cx/gcnc/)

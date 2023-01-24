@@ -16,3 +16,5 @@ Retrieve it
 - 
 - Varied practice
 - Observe experts in action - watch them while they’re working
+
+Something weird to associate thing with thing e.g. japanese symbols

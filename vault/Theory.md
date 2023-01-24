@@ -1,4 +1,4 @@
 - [[Computer Science]]
-- [[Robotics Theory]]
+- [[Robotics]]
 - [[Electronics Theory]]
 - [[Learning]]

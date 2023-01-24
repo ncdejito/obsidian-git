@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zerotier.md",
+                "file": "Self-Driving Cars.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zerotier.md",
+                "file": "Self-Driving Cars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zerotier.md",
+                "file": "Self-Driving Cars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zerotier.md"
+                "file": "Self-Driving Cars.md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "057bc3a4551e465b",
   "lastOpenFiles": [
-    "GCP.md",
-    "Zerotier.md",
-    "Nav2 Actions.md",
-    "Programming Languages.md",
     "Software Engineering.md",
-    "Vim.md",
-    "Regulators.md",
-    "Functional Programming.md",
-    "Project Management.md",
-    "How to Make Money.md"
+    "Negotiation.md",
+    "Robotics.md",
+    "Data Analysis.md",
+    "How to Communicate.md",
+    "C++.md",
+    "How to Learn.md",
+    "How to Write a Resume.md",
+    "Marine Robotics.md",
+    "Security Robotics.md"
   ]
 }
