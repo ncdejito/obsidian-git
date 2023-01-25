@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-Driving Cars.md",
+                "file": "Field Programmable Gate Arrays (FPGAs).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Driving Cars.md",
+                "file": "Field Programmable Gate Arrays (FPGAs).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-Driving Cars.md",
+                "file": "Field Programmable Gate Arrays (FPGAs).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-Driving Cars.md"
+                "file": "Field Programmable Gate Arrays (FPGAs).md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "057bc3a4551e465b",
   "lastOpenFiles": [
+    "Character Invention.md",
+    "Theory.md",
+    "Typescript.md",
+    "Poetry.md",
+    "Linux.md",
+    "Databases.md",
+    "Self-Driving Cars.md",
     "Software Engineering.md",
     "Negotiation.md",
-    "Robotics.md",
-    "Data Analysis.md",
-    "How to Communicate.md",
-    "C++.md",
-    "How to Learn.md",
-    "How to Write a Resume.md",
-    "Marine Robotics.md",
-    "Security Robotics.md"
+    "Robotics.md"
   ]
 }

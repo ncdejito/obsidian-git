@@ -30,6 +30,7 @@ Structures
 * btree - generalizes binary search tree with >2 children nodes
 * lsm - log-structured merge tree - good performance for high insert volume
 [lsm vs btree]([https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6988884641034158080-CSq_](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6988884641034158080-CSq_))
+[8 data structures that power databases](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7023329797674037251-0UxN?utm_source=share&utm_medium=member_android)
 
 Vector search database - [milvus](https://milvus.io/)
 
