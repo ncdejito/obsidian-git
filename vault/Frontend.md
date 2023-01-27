@@ -12,6 +12,8 @@ npm install rxjs
 - [[React]]
 - [[React-Native]]
 * [[P5JS]]
+* [Streamlit](https://streamlit.io/)
+* [Gradio](https://github.com/gradio-app/gradio/)
 
 ## Definition
 - [[Javascript]] Library - collection of scripts e.g. React, P5JS

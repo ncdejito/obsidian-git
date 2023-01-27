@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field Programmable Gate Arrays (FPGAs).md",
+                "file": "Kubernetes (k8s).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Field Programmable Gate Arrays (FPGAs).md",
+                "file": "Kubernetes (k8s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Field Programmable Gate Arrays (FPGAs).md",
+                "file": "Kubernetes (k8s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Field Programmable Gate Arrays (FPGAs).md"
+                "file": "Kubernetes (k8s).md"
               }
             }
           },
@@ -159,15 +159,15 @@
   },
   "active": "057bc3a4551e465b",
   "lastOpenFiles": [
+    "Backend.md",
+    "Obsidian.md",
+    "Maze Generation.md",
+    "Xacro.md",
+    "Kubernetes (k8s).md",
+    "Frontend.md",
+    "Field Programmable Gate Arrays (FPGAs).md",
     "Character Invention.md",
     "Theory.md",
-    "Typescript.md",
-    "Poetry.md",
-    "Linux.md",
-    "Databases.md",
-    "Self-Driving Cars.md",
-    "Software Engineering.md",
-    "Negotiation.md",
-    "Robotics.md"
+    "Typescript.md"
   ]
 }
