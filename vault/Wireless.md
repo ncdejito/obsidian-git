@@ -6,3 +6,6 @@ MatchX EdgeX - send video ML text/detections over LoRa
 Intro
 [vid](https://www.youtube.com/watch?v=jp_2gwBrQc8)
 [blogpost](https://www.digikey.com/en/maker/blogs/introduction-to-lora-technology)
+
+DSM RC Transmitter
+https://youtu.be/5BfRg9CUMYI
