@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Build a Habit.md",
+                "file": "GTest.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "813ec51f515a9a8c",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Build a Habit.md",
+                "file": "GTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to Build a Habit.md",
+                "file": "GTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Build a Habit.md"
+                "file": "GTest.md"
               }
             }
           },
@@ -159,15 +158,15 @@
   },
   "active": "057bc3a4551e465b",
   "lastOpenFiles": [
+    "Linux.md",
+    "Data Analysis.md",
+    "Python.md",
+    "C++.md",
+    "SLAM.md",
+    "Robotics.md",
+    "Legged Robotics.md",
+    "Communication Robots.md",
     "Construction Robotics.md",
-    "Debugging.md",
-    "Model Monitoring.md",
-    "Documentation.md",
-    "System Design.md",
-    "Wireless.md",
-    "Mesh Networks.md",
-    "Object-Oriented Programming.md",
-    "Character Invention.md",
-    "How to Build an MVP.md"
+    "Flutter.md"
   ]
 }

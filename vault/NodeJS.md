@@ -14,5 +14,10 @@ export NVM_DIR="$HOME/.nvm"
 nvm install node
 ```
 
+Run
+```
+nodemon script.js
+```
+
 
 

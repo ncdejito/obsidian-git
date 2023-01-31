@@ -1,4 +1,4 @@
-[[Hardware]]
+[[Robotics]]
 
 [Intro](https://www.youtube.com/watch?v=xGGfTgHp6Ik)
 [Industry report](https://medium.com/@ZacuaVentures/construction-robotics-the-new-frontier-in-construction-afb4fe856816)

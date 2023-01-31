@@ -1,3 +1,4 @@
+[[Hardware]]
 
 Framework for robotics
 Joshua intro to robots

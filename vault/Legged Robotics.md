@@ -1,4 +1,4 @@
-[[Hardware]]
+[[Robotics]]
 
 Quadrupedal Robot
 https://github.com/Jerome-Graves/yertle

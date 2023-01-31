@@ -34,7 +34,10 @@ sudo apt install p7zip
 ```
 sudo apt install p7zip-full
 ```
-
+* [unzip tar.gz file](https://www.tutorialrepublic.com/faq/how-to-extract-a-tar-gz-file-using-command-line-in-ubuntu.php)
+```
+tar -zxvf file.tar.gz
+```
 * detach using ctrl+a d
 
 * log to file
