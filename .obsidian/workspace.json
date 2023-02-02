@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Construction Robotics.md",
+                "file": "vault/Ubuntu.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Construction Robotics.md",
+                "file": "vault/Ubuntu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Construction Robotics.md",
+                "file": "vault/Ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Construction Robotics.md"
+                "file": "vault/Ubuntu.md"
               }
             }
           }
@@ -133,19 +134,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
   },
   "active": "44b2918031b6f0d8",
   "lastOpenFiles": [
-    "vault/ROS2.md",
-    "vault/Negotiation.md",
-    "vault/CI CD.md",
-    "Construction Robotics.md",
-    "vault/Kubernetes (k8s).md",
-    "vault/Docker.md",
-    "vault/Git.md",
-    "vault/Linux.md",
-    "vault/Programming Languages.md",
-    "vault/Programming Theory.md"
+    "vault/Communication Robots.md",
+    "vault/Immutability.md",
+    "vault/Zerotier.md",
+    "vault/NodeJS.md",
+    "vault/Sensor fusion.md",
+    "vault/Nav2 Services.md",
+    "vault/Arduino.md",
+    "vault/C++.md",
+    "vault/Robotics.md",
+    "vault/Construction Robotics.md"
   ]
 }

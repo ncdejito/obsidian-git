@@ -32,6 +32,12 @@ fsck /dev/sda8
 #fix Pending update of snap-store 
 [solution](https://askubuntu.com/a/1429871)
 ```
-killall snap-store
+snap-store --quit
 sudo snap refresh
 ```
+
+## Framework Laptop
+Framework Ubuntu 22.04 Guide - just run the 1 command, not the whole script
+https://guides.frame.work/Guide/Ubuntu+22.04+LTS+Installation+on+the+Framework+Laptop/109?lang=en
+Google Chrome blurry text on Ubuntu - fractional scaling disable
+Ubuntu base: Boot system from USB using grub - https://szymonkrajewski.pl/how-to-boot-system-from-usb-using-grub/
