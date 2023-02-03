@@ -1,4 +1,13 @@
 
+Compile program and run (Linux)
+```
+g++ -o hello hello.cpp
+chmod a+x hello
+./hello
+
+// treat warnings as error, used c++20 as standard
+g++ -Wall -Weffc++ -Wextra -Wsign-conversion -Werror -std=c++2a main.cpp io.cpp -o main
+```
 
 Why
 >C++ is faster than Python because **it is statically typed**, which leads to a faster compilation of code. Python is slower than C++, it supports dynamic typing, and it also uses the interpreter, which makes the process of compilation slower.
@@ -26,15 +35,7 @@ How to learn (start anywhere!)
 Modern C++  
 [https://github.com/facebook/folly](https://github.com/facebook/folly)
 
-Compile program and run (Linux)
-```
-g++ -o hello hello.cpp
-chmod a+x hello
-./hello
 
-// treat warnings as error, used c++20 as standard
-g++ -Wall -Weffc++ -Wextra -Wsign-conversion -Werror -std=c++2a main.cpp io.cpp -o main
-```
 
 ## Objects
 Unordered map - hashmap, dict

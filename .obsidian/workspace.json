@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Ubuntu.md",
+                "file": "vault/How to Build.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Ubuntu.md",
+                "file": "vault/How to Build.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Ubuntu.md",
+                "file": "vault/How to Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Ubuntu.md"
+                "file": "vault/How to Build.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "44b2918031b6f0d8",
   "lastOpenFiles": [
-    "vault/Communication Robots.md",
-    "vault/Immutability.md",
-    "vault/Zerotier.md",
-    "vault/NodeJS.md",
-    "vault/Sensor fusion.md",
-    "vault/Nav2 Services.md",
-    "vault/Arduino.md",
+    "vault/Robotics Visualization.md",
+    "vault/Odometry.md",
+    "vault/Control Theory.md",
+    "vault/Regulators.md",
+    "vault/GTest CTest.md",
     "vault/C++.md",
-    "vault/Robotics.md",
-    "vault/Construction Robotics.md"
+    "vault/Debugging.md",
+    "vault/Legged Robotics.md",
+    "vault/How to Make Money.md",
+    "vault/Zerotier.md"
   ]
 }
