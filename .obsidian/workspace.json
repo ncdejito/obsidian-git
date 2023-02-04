@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/How to Build.md",
+                "file": "vault/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/How to Build.md",
+                "file": "vault/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/How to Build.md",
+                "file": "vault/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/How to Build.md"
+                "file": "vault/C++.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "44b2918031b6f0d8",
   "lastOpenFiles": [
+    "vault/Callbacks.md",
+    "vault/Construction Robotics.md",
+    "vault/Serverless.md",
+    "vault/Computer Vision.md",
+    "vault/Test-Driven Development.md",
+    "vault/How to Build.md",
     "vault/Robotics Visualization.md",
     "vault/Odometry.md",
     "vault/Control Theory.md",
-    "vault/Regulators.md",
-    "vault/GTest CTest.md",
-    "vault/C++.md",
-    "vault/Debugging.md",
-    "vault/Legged Robotics.md",
-    "vault/How to Make Money.md",
-    "vault/Zerotier.md"
+    "vault/Regulators.md"
   ]
 }

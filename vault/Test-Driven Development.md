@@ -76,4 +76,4 @@ Scopes in testing
 ## Resources
 TDD by Kent Beck [Amazon](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
 [[Frontend]] testing https://www.browserstack.com/guide/front-end-testing
-
+[Robot testing framework](https://github.com/robotology/robot-testing-framework)

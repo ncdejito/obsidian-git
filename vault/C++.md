@@ -5,8 +5,20 @@ g++ -o hello hello.cpp
 chmod a+x hello
 ./hello
 
+g++ -o hello *.cpp // compile all cpp files in directory
+
 // treat warnings as error, used c++20 as standard
 g++ -Wall -Weffc++ -Wextra -Wsign-conversion -Werror -std=c++2a main.cpp io.cpp -o main
+```
+Import functions using header files
+```
+// passorfail.h
+#ifndef PASSORFAIL_H
+#define PASSORFAIL_H
+
+bool passOrFail();
+
+#endif
 ```
 
 Why
