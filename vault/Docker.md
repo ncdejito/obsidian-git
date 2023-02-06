@@ -59,15 +59,6 @@ docker images --digests
 ```
 * When developing use Dockerfiles to record commands ran, to ensure replicability later - Isaac Wilder
 
-## VM
-```
-apt install vim
-apt install wget
-apt install python3
-apt install python-is-python3
-
-```
-
 ## Multi-arch
 docker buildx for multi-arch
 
