@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Kubernetes (k8s).md",
+                "file": "vault/Distributed Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Kubernetes (k8s).md",
+                "file": "vault/Distributed Systems.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Kubernetes (k8s).md",
+                "file": "vault/Distributed Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Kubernetes (k8s).md"
+                "file": "vault/Distributed Systems.md"
               }
             }
           }
@@ -147,15 +147,15 @@
   },
   "active": "44b2918031b6f0d8",
   "lastOpenFiles": [
+    "vault/Negotiation.md",
+    "vault/Cron.md",
+    "vault/tf2.md",
+    "vault/CI CD.md",
+    "vault/SQL.md",
+    "vault/Behavior Trees.md",
+    "vault/How to Build a Chatbot.md",
+    "vault/Kubernetes (k8s).md",
     "vault/Distributed Systems.md",
-    "vault/Google Apps Script.md",
-    "vault/SSH.md",
-    "vault/Docker.md",
-    "vault/Neuro-Linguistic Programming.md",
-    "vault/C++.md",
-    "vault/Callbacks.md",
-    "vault/Construction Robotics.md",
-    "vault/Serverless.md",
-    "vault/Computer Vision.md"
+    "vault/Google Apps Script.md"
   ]
 }
