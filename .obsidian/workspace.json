@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Motors.md",
+                "file": "vault/Generative AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71633409af1b97d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/GTest CTest.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chatgpt",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Motors.md",
+                "file": "vault/GTest CTest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Motors.md",
+                "file": "vault/GTest CTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Motors.md"
+                "file": "vault/GTest CTest.md"
               }
             }
           }
@@ -145,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44b2918031b6f0d8",
+  "active": "71633409af1b97d4",
   "lastOpenFiles": [
-    "vault/Self-Driving Cars.md",
-    "vault/Circuit Diagrams.md",
-    "vault/Frontend.md",
-    "vault/Nav2 Services.md",
-    "vault/Nav2.md",
-    "vault/Regulators.md",
-    "vault/Distributed Systems.md",
-    "vault/Negotiation.md",
-    "vault/Cron.md",
-    "vault/tf2.md"
+    "vault/Raspberry Pi (RPi).md",
+    "vault/Software Eng Tools.md",
+    "vault/NodeJS.md",
+    "vault/Deep Learning.md",
+    "vault/Computer Vision.md",
+    "vault/Machine Learning.md",
+    "vault/ChatGPT.md",
+    "vault/Generative AI.md",
+    "vault/Data Analysis.md",
+    "vault/data.md"
   ]
 }

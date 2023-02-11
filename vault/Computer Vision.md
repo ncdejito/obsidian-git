@@ -1,6 +1,8 @@
-[[Machine Learning]]
+[[Deep Learning]]
 
 ## Semantic Segmentation
+No training data needed [STEGO](https://www.youtube.com/watch?v=58uhMDO7dTQ)
+
 
 ## Object Detection
 [Foundations](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/)
