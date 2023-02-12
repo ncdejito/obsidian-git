@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/GTest CTest.md",
+                "file": "vault/Static Typing.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/GTest CTest.md",
+                "file": "vault/Static Typing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/GTest CTest.md",
+                "file": "vault/Static Typing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/GTest CTest.md"
+                "file": "vault/Static Typing.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "71633409af1b97d4",
   "lastOpenFiles": [
+    "vault/Programming Languages.md",
+    "vault/React.md",
+    "vault/Rust.md",
+    "vault/GTest CTest.md",
     "vault/Raspberry Pi (RPi).md",
     "vault/Software Eng Tools.md",
     "vault/NodeJS.md",
     "vault/Deep Learning.md",
     "vault/Computer Vision.md",
-    "vault/Machine Learning.md",
-    "vault/ChatGPT.md",
-    "vault/Generative AI.md",
-    "vault/Data Analysis.md",
-    "vault/data.md"
+    "vault/Machine Learning.md"
   ]
 }
