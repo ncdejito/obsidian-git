@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44b2918031b6f0d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault/Generative AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "71633409af1b97d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Static Typing.md",
+                "file": "vault/Point of Sales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Static Typing.md",
+                "file": "vault/Point of Sales.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Static Typing.md",
+                "file": "vault/Point of Sales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Static Typing.md"
+                "file": "vault/Point of Sales.md"
               }
             }
           }
@@ -161,15 +148,15 @@
   },
   "active": "71633409af1b97d4",
   "lastOpenFiles": [
-    "vault/Programming Languages.md",
+    "vault/How to Write a Resume.md",
+    "vault/Immutability.md",
+    "vault/Neuro-Linguistic Programming.md",
     "vault/React.md",
+    "vault/Static Typing.md",
+    "vault/Programming Languages.md",
     "vault/Rust.md",
     "vault/GTest CTest.md",
     "vault/Raspberry Pi (RPi).md",
-    "vault/Software Eng Tools.md",
-    "vault/NodeJS.md",
-    "vault/Deep Learning.md",
-    "vault/Computer Vision.md",
-    "vault/Machine Learning.md"
+    "vault/Software Eng Tools.md"
   ]
 }
