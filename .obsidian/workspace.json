@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Point of Sales.md",
+                "file": "vault/Computer Vision.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Point of Sales.md",
+                "file": "vault/Computer Vision.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Point of Sales.md",
+                "file": "vault/Computer Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Point of Sales.md"
+                "file": "vault/Computer Vision.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "71633409af1b97d4",
   "lastOpenFiles": [
-    "vault/How to Write a Resume.md",
-    "vault/Immutability.md",
-    "vault/Neuro-Linguistic Programming.md",
+    "vault/GPUs.md",
     "vault/React.md",
-    "vault/Static Typing.md",
-    "vault/Programming Languages.md",
-    "vault/Rust.md",
-    "vault/GTest CTest.md",
-    "vault/Raspberry Pi (RPi).md",
-    "vault/Software Eng Tools.md"
+    "vault/Message Brokers or Queues.md",
+    "vault/Closures.md",
+    "vault/Natural Language Processing.md",
+    "vault/Machine Learning.md",
+    "vault/PyTorch.md",
+    "vault/React-Native.md",
+    "vault/Circuit Diagrams.md",
+    "vault/Point of Sales.md"
   ]
 }

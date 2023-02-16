@@ -1,5 +1,7 @@
 [[Deep Learning]]
 
+Python Rust Computer Vision - [Rerun.io](https://github.com/rerun-io)
+
 ## Semantic Segmentation
 No training data needed [STEGO](https://www.youtube.com/watch?v=58uhMDO7dTQ)
 
