@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Control Theory.md",
+                "file": "vault/How to Build.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Control Theory.md",
+                "file": "vault/How to Build.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Control Theory.md",
+                "file": "vault/How to Build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Control Theory.md"
+                "file": "vault/How to Build.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "71633409af1b97d4",
   "lastOpenFiles": [
+    "vault/Control Theory.md",
     "vault/Software Eng Best Practices.md",
     "vault/CI CD.md",
     "vault/Project Management.md",
@@ -156,7 +157,6 @@
     "vault/Signed Integers.md",
     "vault/Startup Idea.md",
     "vault/Point of Sales.md",
-    "vault/Computer Vision.md",
-    "vault/GPUs.md"
+    "vault/Computer Vision.md"
   ]
 }

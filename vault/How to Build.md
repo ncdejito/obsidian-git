@@ -9,3 +9,11 @@ Delightful
 Usable
 Reliable
 Functional
+
+How to build something from scratch
+Define goal
+Show up
+Start
+Improve
+Accomplish tasks
+Achieve
