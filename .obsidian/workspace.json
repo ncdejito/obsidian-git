@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/How to Build.md",
+                "file": "vault/Content Management System (CMS).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/How to Build.md",
+                "file": "vault/Content Management System (CMS).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/How to Build.md",
+                "file": "vault/Content Management System (CMS).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/How to Build.md"
+                "file": "vault/Content Management System (CMS).md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "71633409af1b97d4",
   "lastOpenFiles": [
-    "vault/Control Theory.md",
-    "vault/Software Eng Best Practices.md",
-    "vault/CI CD.md",
-    "vault/Project Management.md",
-    "vault/Documentation.md",
-    "vault/APIs.md",
-    "vault/Signed Integers.md",
-    "vault/Startup Idea.md",
-    "vault/Point of Sales.md",
-    "vault/Computer Vision.md"
+    "vault/Databases.md",
+    "vault/Model Monitoring.md",
+    "vault/Neuro-Linguistic Programming.md",
+    "vault/Interfaces.md",
+    "vault/Backend.md",
+    "vault/Learning a large code base.md",
+    "vault/DevOps.md",
+    "vault/Circuit Diagrams.md",
+    "vault/Nav2 Nodes.md",
+    "vault/How to Build.md"
   ]
 }
