@@ -2,6 +2,7 @@
 
 [[ChatGPT]]
 
+StableDiffusion WebUI [colab notebooks](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services#google-colab)
 
 Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-awesome-chat-gpt-prompts-activity-7015708729333403648-alUj/?originalSubdomain=ee)
 

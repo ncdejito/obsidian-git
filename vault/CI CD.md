@@ -29,6 +29,8 @@ k8s pod pulls from registry
 cicd with github actions [source](https://nicwortel.nl/blog/2022/05/27/continuous-deployment-to-kubernetes-with-github-actions)
 InfraCost CI
 
+[CICD in 5mins by Alex Xu](https://youtu.be/42UP1fxi2SY?t=327) - diagram of tools
+
 ## Tools
 conan-io [[C++]] package manager for easier CI
 [[Go]] has easy devops

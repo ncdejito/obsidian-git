@@ -6,3 +6,7 @@
 -[Zapier](https://www.linkedin.com/company/zapier/) for backend  
 -[Stripe](https://www.linkedin.com/company/stripe/) for payment gateway  
 -[Memberstack (YC S20)](https://www.linkedin.com/company/memberstack/) for subscription
+
+Venture vs Startup
+Venture - idea cannot change too much
+Startup - all about the founder, idea can change

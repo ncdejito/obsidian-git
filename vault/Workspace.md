@@ -10,9 +10,10 @@ Things to try
 * Emacs Doom
 * [Virtual Coworking](https://www.focusmate.com/)
 
-## Acer Laptop Setup
+Dual Booting
+Ubuntu 18 and Windows 10 [blog](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557)
 
-Acer Laptop Setup
+Laptop Setup
 
 Download
 Chrome

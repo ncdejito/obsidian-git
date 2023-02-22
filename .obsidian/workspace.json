@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Content Management System (CMS).md",
+                "file": "vault/CI CD.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Content Management System (CMS).md",
+                "file": "vault/CI CD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Content Management System (CMS).md",
+                "file": "vault/CI CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Content Management System (CMS).md"
+                "file": "vault/CI CD.md"
               }
             }
           }
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,15 +147,15 @@
   },
   "active": "71633409af1b97d4",
   "lastOpenFiles": [
-    "vault/Databases.md",
-    "vault/Model Monitoring.md",
-    "vault/Neuro-Linguistic Programming.md",
-    "vault/Interfaces.md",
-    "vault/Backend.md",
-    "vault/Learning a large code base.md",
-    "vault/DevOps.md",
-    "vault/Circuit Diagrams.md",
-    "vault/Nav2 Nodes.md",
-    "vault/How to Build.md"
+    "vault/Generative AI.md",
+    "vault/Startup Idea.md",
+    "vault/Recommendation Algorithms.md",
+    "vault/Deep Learning.md",
+    "vault/Text-to-Image.md",
+    "vault/Workspace.md",
+    "vault/Dual-booting.md",
+    "vault/Marine Robotics.md",
+    "vault/SQL.md",
+    "vault/Home Servers.md"
   ]
 }
