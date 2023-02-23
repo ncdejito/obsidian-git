@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d869f83de72233a",
+        "id": "c8c70690b7fa2780",
         "type": "tabs",
         "children": [
           {
-            "id": "71633409af1b97d4",
+            "id": "c4e94eba407a5857",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/CI CD.md",
+                "file": "vault/SubT exploration.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/CI CD.md",
+                "file": "vault/SubT exploration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/CI CD.md",
+                "file": "vault/SubT exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/CI CD.md"
+                "file": "vault/SubT exploration.md"
               }
             }
           }
@@ -145,17 +145,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71633409af1b97d4",
+  "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Linux.md",
+    "vault/Programming Languages.md",
+    "vault/SQL.md",
+    "vault/Object-Oriented Programming.md",
+    "vault/Home Servers.md",
     "vault/Generative AI.md",
+    "vault/Text-to-Image.md",
+    "vault/Nand2Tetris.md",
+    "vault/Arduino.md",
+    "vault/Distributed Systems.md",
+    "vault/CI CD.md",
     "vault/Startup Idea.md",
     "vault/Recommendation Algorithms.md",
     "vault/Deep Learning.md",
-    "vault/Text-to-Image.md",
-    "vault/Workspace.md",
-    "vault/Dual-booting.md",
-    "vault/Marine Robotics.md",
-    "vault/SQL.md",
-    "vault/Home Servers.md"
+    "vault/Workspace.md"
   ]
 }
