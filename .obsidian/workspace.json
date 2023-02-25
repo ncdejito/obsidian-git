@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/SubT exploration.md",
+                "file": "vault/Security Robotics.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/SubT exploration.md",
+                "file": "vault/Security Robotics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/SubT exploration.md",
+                "file": "vault/Security Robotics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/SubT exploration.md"
+                "file": "vault/Security Robotics.md"
               }
             }
           }
@@ -147,6 +147,17 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Odometry.md",
+    "vault/Reactive Programming.md",
+    "vault/Reinforcement Learning.md",
+    "vault/How to Build a Habit.md",
+    "vault/PHDs.md",
+    "vault/Point of Sales.md",
+    "vault/Marine Robotics.md",
+    "vault/Obsidian.md",
+    "vault/Data Analysis.md",
+    "vault/Machine Learning.md",
+    "vault/SubT exploration.md",
     "vault/Linux.md",
     "vault/Programming Languages.md",
     "vault/SQL.md",
