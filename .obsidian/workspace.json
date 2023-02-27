@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Security Robotics.md",
+                "file": "vault/Negotiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Security Robotics.md",
+                "file": "vault/Negotiation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Security Robotics.md",
+                "file": "vault/Negotiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,11 +127,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Security Robotics.md"
+                "file": "vault/Negotiation.md"
               }
             }
+          },
+          {
+            "id": "1326dfc4d3dce9e0",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,8 +154,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4e94eba407a5857",
+  "active": "1326dfc4d3dce9e0",
   "lastOpenFiles": [
+    "vault/Recommendation Algorithms.md",
+    "vault/React-Native.md",
+    "vault/Static Typing.md",
+    "vault/Go.md",
+    "vault/Callbacks.md",
+    "vault/Security Robotics.md",
     "vault/Odometry.md",
     "vault/Reactive Programming.md",
     "vault/Reinforcement Learning.md",
@@ -166,12 +181,6 @@
     "vault/Generative AI.md",
     "vault/Text-to-Image.md",
     "vault/Nand2Tetris.md",
-    "vault/Arduino.md",
-    "vault/Distributed Systems.md",
-    "vault/CI CD.md",
-    "vault/Startup Idea.md",
-    "vault/Recommendation Algorithms.md",
-    "vault/Deep Learning.md",
-    "vault/Workspace.md"
+    "vault/Arduino.md"
   ]
 }

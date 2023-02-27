@@ -1,12 +1,4 @@
 {
-  "obsidian-checklist-plugin:show-checklist-view": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "["
-    }
-  ],
   "obsidian-checklist-plugin:refresh-checklist-view": [
     {
       "modifiers": [
