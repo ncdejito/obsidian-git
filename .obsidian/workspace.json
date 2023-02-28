@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Negotiation.md",
+                "file": "vault/Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Negotiation.md",
+                "file": "vault/Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Negotiation.md",
+                "file": "vault/Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Negotiation.md"
+                "file": "vault/Machine Learning.md"
               }
             }
           },
@@ -154,8 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1326dfc4d3dce9e0",
+  "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/C++.md",
+    "vault/Behavior Trees.md",
+    "vault/Immutability.md",
+    "vault/Content Management System (CMS).md",
+    "vault/Construction Robotics.md",
+    "vault/P5JS.md",
+    "vault/Negotiation.md",
     "vault/Recommendation Algorithms.md",
     "vault/React-Native.md",
     "vault/Static Typing.md",
@@ -174,13 +181,6 @@
     "vault/Machine Learning.md",
     "vault/SubT exploration.md",
     "vault/Linux.md",
-    "vault/Programming Languages.md",
-    "vault/SQL.md",
-    "vault/Object-Oriented Programming.md",
-    "vault/Home Servers.md",
-    "vault/Generative AI.md",
-    "vault/Text-to-Image.md",
-    "vault/Nand2Tetris.md",
-    "vault/Arduino.md"
+    "vault/Programming Languages.md"
   ]
 }
