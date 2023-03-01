@@ -11,12 +11,8 @@
             "id": "c4e94eba407a5857",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault/Machine Learning.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chatgpt",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "vault/Machine Learning.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,19 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
-    "vault/C++.md",
+    "vault/How to Build.md",
+    "vault/How to Build a Habit.md",
+    "vault/How to Make Money.md",
+    "vault/How to Learn.md",
+    "vault/Crypto.md",
+    "vault/Text-to-Image.md",
+    "vault/Generative AI.md",
+    "vault/Marine Robotics.md",
+    "vault/Mesh Networks.md",
+    "vault/Nav2 Services.md",
     "vault/Behavior Trees.md",
+    "vault/Machine Learning.md",
+    "vault/C++.md",
     "vault/Immutability.md",
     "vault/Content Management System (CMS).md",
     "vault/Construction Robotics.md",
@@ -170,17 +173,6 @@
     "vault/Callbacks.md",
     "vault/Security Robotics.md",
     "vault/Odometry.md",
-    "vault/Reactive Programming.md",
-    "vault/Reinforcement Learning.md",
-    "vault/How to Build a Habit.md",
-    "vault/PHDs.md",
-    "vault/Point of Sales.md",
-    "vault/Marine Robotics.md",
-    "vault/Obsidian.md",
-    "vault/Data Analysis.md",
-    "vault/Machine Learning.md",
-    "vault/SubT exploration.md",
-    "vault/Linux.md",
-    "vault/Programming Languages.md"
+    "vault/Reactive Programming.md"
   ]
 }

@@ -76,6 +76,7 @@ Awesomeprompts github
 Docs
 DALL-E2 docs
 Stable Diffusion quickstart
+Prompt Engineering [repo](https://github.com/dair-ai/Prompt-Engineering-Guide)
 
 Papers
 [2023Jan4] SOTA Survey GenerativeAI - catalog of cutting edge models, including text to video/music also
