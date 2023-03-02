@@ -11,8 +11,12 @@
             "id": "c4e94eba407a5857",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vault/Finite State Machines.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vault/Finite State Machines.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vault/Finite State Machines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vault/Finite State Machines.md"
+              }
             }
           },
           {
@@ -148,6 +156,18 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Programming Languages.md",
+    "vault/Google Apps Script.md",
+    "vault/AWS.md",
+    "vault/Documentation.md",
+    "vault/Software Engineering.md",
+    "vault/Marketing.md",
+    "vault/Construction Robotics.md",
+    "vault/NodeJS.md",
+    "vault/Startup Idea.md",
+    "vault/Machine Learning.md",
+    "vault/Project Management.md",
+    "vault/tf2.md",
     "vault/How to Build.md",
     "vault/How to Build a Habit.md",
     "vault/How to Make Money.md",
@@ -159,20 +179,8 @@
     "vault/Mesh Networks.md",
     "vault/Nav2 Services.md",
     "vault/Behavior Trees.md",
-    "vault/Machine Learning.md",
     "vault/C++.md",
     "vault/Immutability.md",
-    "vault/Content Management System (CMS).md",
-    "vault/Construction Robotics.md",
-    "vault/P5JS.md",
-    "vault/Negotiation.md",
-    "vault/Recommendation Algorithms.md",
-    "vault/React-Native.md",
-    "vault/Static Typing.md",
-    "vault/Go.md",
-    "vault/Callbacks.md",
-    "vault/Security Robotics.md",
-    "vault/Odometry.md",
-    "vault/Reactive Programming.md"
+    "vault/Content Management System (CMS).md"
   ]
 }

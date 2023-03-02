@@ -5,6 +5,7 @@ Code quality
 Automated deployment
 Typing
 
+State of Software Engineering 2023 [report](https://pages.hired.email/rs/289-SIY-439/images/Hired_2023%20State%20of%20Software%20Engineers.pdf?mkt_tok=Mjg5LVNJWS00MzkAAAGKOnfbkRY0QDzwUrrjIl67YodXPaSdEBbiqzhUowWwQNLIkYpdzaRQC6kKrsnaHBkPSIKr8o-d_gggdtxg5YueTl-OHcjvwkvoIJ5-aBq-VuoENQ) by hired.com
 
 Zach Wilson's [curriculum](https://www.linkedin.com/posts/eczachly_softwareengineering-activity-6959571816235368448-XYuE)
 
