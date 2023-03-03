@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Finite State Machines.md",
+                "file": "vault/Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Finite State Machines.md",
+                "file": "vault/Deep Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Finite State Machines.md",
+                "file": "vault/Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Finite State Machines.md"
+                "file": "vault/Deep Learning.md"
               }
             }
           },
@@ -156,6 +156,15 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/SLAM.md",
+    "vault/Theory.md",
+    "vault/How to Write a Resume.md",
+    "vault/Field Programmable Gate Arrays (FPGAs).md",
+    "vault/Ubuntu.md",
+    "vault/ROS networking.md",
+    "vault/Finite State Machines.md",
+    "vault/Databases.md",
+    "vault/Python.md",
     "vault/Programming Languages.md",
     "vault/Google Apps Script.md",
     "vault/AWS.md",
@@ -172,15 +181,6 @@
     "vault/How to Build a Habit.md",
     "vault/How to Make Money.md",
     "vault/How to Learn.md",
-    "vault/Crypto.md",
-    "vault/Text-to-Image.md",
-    "vault/Generative AI.md",
-    "vault/Marine Robotics.md",
-    "vault/Mesh Networks.md",
-    "vault/Nav2 Services.md",
-    "vault/Behavior Trees.md",
-    "vault/C++.md",
-    "vault/Immutability.md",
-    "vault/Content Management System (CMS).md"
+    "vault/Crypto.md"
   ]
 }

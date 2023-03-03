@@ -13,6 +13,8 @@ pip freeze > requirements.txt
 ```
 
 Manage dependencies with [[Poetry]]
+[benchmarks](https://lincolnloop.github.io/python-package-manager-shootout/)
+[blogpost](https://aseifert.com/p/python-environments/)
 
 Run simple webserver
 ```
