@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Deep Learning.md",
+                "file": "vault/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Deep Learning.md",
+                "file": "vault/Linux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Deep Learning.md",
+                "file": "vault/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Deep Learning.md"
+                "file": "vault/Linux.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Machine Learning.md",
+    "vault/Deep Learning.md",
     "vault/SLAM.md",
     "vault/Theory.md",
     "vault/How to Write a Resume.md",
@@ -174,13 +176,11 @@
     "vault/Construction Robotics.md",
     "vault/NodeJS.md",
     "vault/Startup Idea.md",
-    "vault/Machine Learning.md",
     "vault/Project Management.md",
     "vault/tf2.md",
     "vault/How to Build.md",
     "vault/How to Build a Habit.md",
     "vault/How to Make Money.md",
-    "vault/How to Learn.md",
-    "vault/Crypto.md"
+    "vault/How to Learn.md"
   ]
 }

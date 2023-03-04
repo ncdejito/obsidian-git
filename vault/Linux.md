@@ -135,3 +135,4 @@ Solution: https://askubuntu.com/a/192388
 
 ## References
 [Expert-level linux commands](https://peterlyons.com/leveling-up/)
+Log parsing commands like sed grep [linkedin](https://www.linkedin.com/posts/sahnlam_log-parsing-commands-are-very-useful-activity-7037304369268101120-0fsU?utm_source=share&utm_medium=member_desktop)

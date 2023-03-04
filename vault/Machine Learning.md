@@ -19,3 +19,5 @@ Binance
 Zillow
 
 Monitoring Latency ML [LI post](https://www.linkedin.com/posts/aurimas-griciunas_mlops-machinelearning-dataengineering-activity-7035877628007874560-EXyk?utm_source=share&utm_medium=member_desktop)
+
+Label Annotation - LandingAI by Andrew Ng
