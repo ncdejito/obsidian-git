@@ -32,3 +32,5 @@ Load dict as variables to runtime
 locals().update(_dict)
 ```
 
+Python tips
+https://www.linkedin.com/feed/update/urn:li:activity:7026499417461469185?utm_source=share&utm_medium=member_android

@@ -7,6 +7,7 @@ easy devops, elegant interfaces
 
 Go has garbage collection
 Good for cloud services
+Latest descendant of Java family
 
 Go provides:
 * concurrent execution (goroutines)

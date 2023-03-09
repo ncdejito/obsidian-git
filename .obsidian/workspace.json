@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Virtualization.md",
+                "file": "vault/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Virtualization.md",
+                "file": "vault/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Virtualization.md",
+                "file": "vault/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Virtualization.md"
+                "file": "vault/C++.md"
               }
             }
           },
@@ -156,6 +156,19 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Docker.md",
+    "vault/How to Write a Resume.md",
+    "vault/Finite State Machines.md",
+    "vault/Python.md",
+    "vault/Finance.md",
+    "vault/Natural Language Processing.md",
+    "vault/C++.md",
+    "vault/Learning.md",
+    "vault/Named Data Networking.md",
+    "vault/Rust.md",
+    "vault/Go.md",
+    "vault/Legged Robotics.md",
+    "vault/Virtualization.md",
     "vault/Marine Robotics.md",
     "vault/CNC Machining.md",
     "vault/Project Management.md",
@@ -164,23 +177,10 @@
     "vault/Deep Learning.md",
     "vault/SLAM.md",
     "vault/Theory.md",
-    "vault/How to Write a Resume.md",
     "vault/Field Programmable Gate Arrays (FPGAs).md",
     "vault/Ubuntu.md",
     "vault/ROS networking.md",
-    "vault/Finite State Machines.md",
     "vault/Databases.md",
-    "vault/Python.md",
-    "vault/Programming Languages.md",
-    "vault/Google Apps Script.md",
-    "vault/AWS.md",
-    "vault/Documentation.md",
-    "vault/Software Engineering.md",
-    "vault/Marketing.md",
-    "vault/Construction Robotics.md",
-    "vault/NodeJS.md",
-    "vault/Startup Idea.md",
-    "vault/tf2.md",
-    "vault/How to Build.md"
+    "vault/Programming Languages.md"
   ]
 }
