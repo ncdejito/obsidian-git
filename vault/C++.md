@@ -1,3 +1,4 @@
+[[Programming Languages]]
 
 Compile program and run (Linux)
 ```
@@ -21,18 +22,12 @@ bool passOrFail();
 #endif
 ```
 
-Why
->C++ is faster than Python because **it is statically typed**, which leads to a faster compilation of code. Python is slower than C++, it supports dynamic typing, and it also uses the interpreter, which makes the process of compilation slower.
-* Much of robotics is written in C++ - if you want to contribute Nav2, MoveIt2, speak the language
-* C forces you to think how OS works (Linux is written in C, C++ is an extension of C)
-* It's the fastest programming language there is
 
-[[Signed Integers]]
 
-## Intro
+## References
 How to learn (start anywhere!)
+* C++ for everyone by Dr. Ira Pohl
 * learncpp.com
-* Learn c++ by making games in Unreal Engine4!
 * Effective Modern C++ (book)
 * [Rockstar](https://github.com/avinassh/rockstar) Learn c++ with python
 * FunctionalPlus [code](https://github.com/Dobiasd/FunctionalPlus)
@@ -185,6 +180,7 @@ Lambda expressions
 Move constructors
 l-value - memory location that identifies an object
 r-value - data value that is stored at some address in memory
+
 copy constructor
 > work with the l-value references and copy semantics(copy semantics means copying the actual data of the object to another object rather than making another object to point the already existing object in the heap)
 
