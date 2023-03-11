@@ -27,5 +27,7 @@ Other LIDARs
 linorobot bash [script](https://github.com/linorobot/linorobot2/blob/galactic/install_linorobot2.bash#L62)
 rokr - turn 2d lidar to 3d
 
+
+
 #fix Cannot start scan: '80008002'
 Remove then reconnect wire

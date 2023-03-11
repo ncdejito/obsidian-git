@@ -1,4 +1,4 @@
-[[Programming Theory]]
+[[Programming Theory]] [[Object-Oriented Programming]]
 
 Interfaces
 - description of actions that an object can do

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/C++.md",
+                "file": "vault/ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/C++.md",
+                "file": "vault/ChatGPT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/C++.md",
+                "file": "vault/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/C++.md"
+                "file": "vault/ChatGPT.md"
               }
             }
           },
@@ -156,31 +156,31 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
-    "vault/Signed Integers.md",
-    "vault/C++.md",
-    "vault/Programming Languages.md",
-    "vault/Docker.md",
-    "vault/How to Write a Resume.md",
-    "vault/Finite State Machines.md",
-    "vault/Python.md",
-    "vault/Finance.md",
-    "vault/Natural Language Processing.md",
-    "vault/Learning.md",
-    "vault/Named Data Networking.md",
-    "vault/Rust.md",
-    "vault/Go.md",
-    "vault/Legged Robotics.md",
-    "vault/Virtualization.md",
+    "vault/Generative AI.md",
+    "vault/Algorithms.md",
     "vault/Marine Robotics.md",
-    "vault/CNC Machining.md",
-    "vault/Project Management.md",
-    "vault/Linux.md",
-    "vault/Machine Learning.md",
-    "vault/Deep Learning.md",
-    "vault/SLAM.md",
-    "vault/Theory.md",
-    "vault/Field Programmable Gate Arrays (FPGAs).md",
-    "vault/Ubuntu.md",
-    "vault/ROS networking.md"
+    "vault/GCP.md",
+    "vault/Heroku.md",
+    "vault/Javascript.md",
+    "vault/Neural Networks.md",
+    "vault/Workspace.md",
+    "vault/Data Structures.md",
+    "vault/Coding Interview Tips.md",
+    "vault/Perception.md",
+    "vault/Lidar.md",
+    "vault/Time complexity.md",
+    "vault/Data Types.md",
+    "vault/Programming Languages.md",
+    "vault/String interning.md",
+    "vault/Object-Oriented Programming.md",
+    "vault/Software Eng Best Practices.md",
+    "vault/Interfaces.md",
+    "vault/Startup Idea.md",
+    "vault/How to Make Money.md",
+    "vault/How to Learn.md",
+    "vault/Zerotier.md",
+    "vault/PyTorch.md",
+    "vault/Nav2 Messages.md",
+    "vault/Home Servers.md"
   ]
 }

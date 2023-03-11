@@ -44,15 +44,16 @@ Modern C++
 
 
 
-## Objects
-Unordered map - hashmap, dict
+## Constructs
+[[Data Structures]]
+
+Class
+> There is only one difference between class and struct, and it is that the data members inside a struct keyword will be declared public by default, while in a class keyword the data members inside the class will be declared private by default.
 ```
-    unordered_map<string, int> umap;
-  
-    // inserting values by using [] operator
-    umap["GeeksforGeeks"] = 10;
-    umap["Practice"] = 20;
-    umap["Contribute"] = 30;
+class Player
+{
+    string name;
+};
 ```
 
 Struct
@@ -109,15 +110,6 @@ int main() {
  
    cout << &pNumber << endl; // Print the address of pointer variable pNumber (0x22ccec)
 }
-```
-
-Class
-> There is only one difference between class and struct, and it is that the data members inside a struct keyword will be declared public by default, while in a class keyword the data members inside the class will be declared private by default.
-```
-class Player
-{
-    string name;
-};
 ```
 
 Structured bindings (since c++17)

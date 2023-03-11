@@ -18,3 +18,5 @@ Retrieve it
 - Observe experts in action - watch them while they’re working
 
 Something weird to associate thing with thing e.g. japanese symbols
+
+Anki review cards [legend](https://docs.ankiweb.net/studying.html#review-cards)
