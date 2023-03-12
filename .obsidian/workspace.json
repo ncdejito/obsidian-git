@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ChatGPT.md",
+                "file": "vault/Reinforcement Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/ChatGPT.md",
+                "file": "vault/Reinforcement Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/ChatGPT.md",
+                "file": "vault/Reinforcement Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/ChatGPT.md"
+                "file": "vault/Reinforcement Learning.md"
               }
             }
           },
@@ -156,15 +156,19 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
-    "vault/Generative AI.md",
+    "vault/Microk8s.md",
+    "vault/System Design.md",
+    "vault/ChatGPT.md",
+    "vault/Data Structures.md",
+    "vault/C++.md",
     "vault/Algorithms.md",
+    "vault/Generative AI.md",
     "vault/Marine Robotics.md",
     "vault/GCP.md",
     "vault/Heroku.md",
     "vault/Javascript.md",
     "vault/Neural Networks.md",
     "vault/Workspace.md",
-    "vault/Data Structures.md",
     "vault/Coding Interview Tips.md",
     "vault/Perception.md",
     "vault/Lidar.md",
@@ -177,10 +181,6 @@
     "vault/Interfaces.md",
     "vault/Startup Idea.md",
     "vault/How to Make Money.md",
-    "vault/How to Learn.md",
-    "vault/Zerotier.md",
-    "vault/PyTorch.md",
-    "vault/Nav2 Messages.md",
-    "vault/Home Servers.md"
+    "vault/How to Learn.md"
   ]
 }
