@@ -10,6 +10,9 @@ g++ -o hello *.cpp // compile all cpp files in directory
 
 // treat warnings as error, used c++20 as standard
 g++ -Wall -Weffc++ -Wextra -Wsign-conversion -Werror -std=c++2a main.cpp io.cpp -o main
+
+c++14
+-std=c++14
 ```
 Import functions using header files
 ```
@@ -43,7 +46,15 @@ Modern C++
 [https://github.com/facebook/folly](https://github.com/facebook/folly)
 
 
-
+### Functional
+```
+// C++20
+vector<int> positives = {};
+auto get_positive = [](int num)
+{ return num > 0; };
+copy_if(A.begin(), A.end(), back_inserter(positives), get_positive);
+A = positives;
+```
 ## Constructs
 [[Data Structures]]
 

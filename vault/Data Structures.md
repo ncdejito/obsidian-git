@@ -26,6 +26,8 @@ int main()
 arr[0] = 1;
 arr.push_back(4); // append to end of list
 
+// loop over indices
+// for (int i = 0; i < A.size(); ++i)
 // loop over items in the list
 for (auto i = arr.begin(); i != arr.end(); ++i)
 	std::cout << *i << " ";
@@ -86,6 +88,7 @@ numpy
 pytorch
 
 cpp
+std::vector - workable but tedious
 
 ### Union-find data structure
 
