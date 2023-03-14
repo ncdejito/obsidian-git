@@ -17,11 +17,11 @@ Simulate network latency
 Stress testing
 
 
+References
 Books on System Design - https://github.com/Nitin96Bisht/System-Design/
 build state machines from code - https://stately.ai/viz
 [Twitter System from Elon](https://www.linkedin.com/posts/eric-vyacheslav-156273169_elon-just-tweeted-the-whole-twitter-back-end-activity-6999730758609170432-w-fB?utm_source=share&utm_medium=member_desktop)
 
-References
 brooker.co.za/blog - 
 Ben and Greg Linux Performance
 Every Computer Performance Book

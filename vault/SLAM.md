@@ -37,5 +37,7 @@ Modes
 Logistics robots: Grid markers for autonomous navigation  
 [https://medium.com/black-coffee-robotics/localization-for-warehouse-autonomous-robots-e89a29a5f936](https://medium.com/black-coffee-robotics/localization-for-warehouse-autonomous-robots-e89a29a5f936)
 
+[Different Nature-Inspired Techniques Applied for Motion Planning of Wheeled Robot: A Critical Review](https://www.researchgate.net/profile/Dr-Anish-Pandey-2/publication/326671343_Different_Nature-Inspired_Techniques_Applied_for_Motion_Planning_of_Wheeled_Robot_A_Critical_Review/links/5b5c81460f7e9bc79a6c3963/Different-Nature-Inspired-Techniques-Applied-for-Motion-Planning-of-Wheeled-Robot-A-Critical-Review.pdf)
+
 Tools
 [ImMesh](https://github.com/hku-mars/ImMesh) - An Immediate LiDAR Localization and Meshing Framework

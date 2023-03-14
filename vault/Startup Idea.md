@@ -13,3 +13,6 @@ Startup - all about the founder, idea can change
 
 1 person 25M/yr businesses
 https://www.linkedin.com/posts/gisenberg_i-think-were-going-to-see-many-25myr-activity-7039790795599577088-CVJI?utm_source=share&utm_medium=member_desktop
+
+No code tools for bizniz
+https://www.linkedin.com/posts/justinwelsh_11-no-code-tools-in-my-tech-stack-ugcPost-7037772455360286720-cRMS?utm_source=share&utm_medium=member_android
