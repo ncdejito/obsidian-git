@@ -5,3 +5,7 @@ Begin with the end in mind - write experience you need to build, to prove you ca
 Growth mindset
 Don't undersell yourself
 If I was a 10x engineer, what would that look like 
+
+
+Use [[ChatGPT]]
+[tips](https://www.linkedin.com/posts/brandonturp_how-to-land-your-dream-job-with-chatgpt-ugcPost-7038513771991953408-3aO-?utm_source=share&utm_medium=member_desktop)

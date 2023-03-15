@@ -21,3 +21,5 @@ Lindzey's [blogpost](https://lindzey.github.io/blog/2019/02/09/my-first-pcb/)
 
 Open source hardware google dreams
 Arduino plc
+
+Chip War by Chris Miller - SE Asia semiconductor industry

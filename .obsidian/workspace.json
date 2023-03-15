@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Marketing.md",
+                "file": "vault/Circuit Diagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Marketing.md",
+                "file": "vault/Circuit Diagrams.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Marketing.md",
+                "file": "vault/Circuit Diagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Marketing.md"
+                "file": "vault/Circuit Diagrams.md"
               }
             }
           },
@@ -156,6 +156,9 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/How to Write a Resume.md",
+    "vault/Behavior Trees.md",
+    "vault/Marketing.md",
     "vault/Obsidian.md",
     "vault/Building a Second Brain.md",
     "vault/Wheel of Life.md",
@@ -178,9 +181,6 @@
     "vault/Microk8s.md",
     "vault/Generative AI.md",
     "vault/Marine Robotics.md",
-    "vault/GCP.md",
-    "vault/Heroku.md",
-    "vault/Javascript.md",
-    "vault/Neural Networks.md"
+    "vault/GCP.md"
   ]
 }
