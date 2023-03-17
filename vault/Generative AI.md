@@ -6,7 +6,7 @@
 
 Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-awesome-chat-gpt-prompts-activity-7015708729333403648-alUj/?originalSubdomain=ee)
 
-
+[ChatGPT + Midjourney](https://www.linkedin.com/posts/petehuang_how-to-use-chatgpt-to-create-stunning-images-ugcPost-7041282824053673984-nUFB?utm_source=share&utm_medium=member_desktop)
 
 ## AI Tools for businesses
 Build a Business using AI

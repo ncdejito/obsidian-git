@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Circuit Diagrams.md",
+                "file": "vault/Robot arms.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Circuit Diagrams.md",
+                "file": "vault/Robot arms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Circuit Diagrams.md",
+                "file": "vault/Robot arms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Circuit Diagrams.md"
+                "file": "vault/Robot arms.md"
               }
             }
           },
@@ -156,16 +156,23 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Docker.md",
+    "vault/Robot arms.md",
+    "vault/SLAM.md",
+    "vault/How to Communicate.md",
+    "vault/Obsidian.md",
+    "vault/Callbacks.md",
+    "vault/React-Native.md",
+    "vault/Generative AI.md",
+    "vault/ChatGPT.md",
+    "vault/Circuit Diagrams.md",
     "vault/How to Write a Resume.md",
     "vault/Behavior Trees.md",
     "vault/Marketing.md",
-    "vault/Obsidian.md",
     "vault/Building a Second Brain.md",
     "vault/Wheel of Life.md",
     "vault/Workspace.md",
     "vault/Algorithms.md",
-    "vault/ChatGPT.md",
-    "vault/SLAM.md",
     "vault/DevOps.md",
     "vault/System Design.md",
     "vault/Raspberry Pi (RPi).md",
@@ -174,13 +181,6 @@
     "vault/How to Make Money.md",
     "vault/Vim.md",
     "vault/Security Robotics.md",
-    "vault/Startup Idea.md",
-    "vault/Data Structures.md",
-    "vault/Data Types.md",
-    "vault/Reinforcement Learning.md",
-    "vault/Microk8s.md",
-    "vault/Generative AI.md",
-    "vault/Marine Robotics.md",
-    "vault/GCP.md"
+    "vault/Startup Idea.md"
   ]
 }
