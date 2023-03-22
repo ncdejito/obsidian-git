@@ -13,7 +13,6 @@ Apply it
 Practice
 - Seek mini experiences - identify opportunities to experience in limited fashion situations that made experts valuable to organization
 Retrieve it
-- 
 - Varied practice
 - Observe experts in action - watch them while they’re working
 

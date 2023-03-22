@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Robot arms.md",
+                "file": "vault/Flyio.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Robot arms.md",
+                "file": "vault/Flyio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Robot arms.md",
+                "file": "vault/Flyio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Robot arms.md"
+                "file": "vault/Flyio.md"
               }
             }
           },
@@ -156,7 +156,15 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Linux.md",
+    "vault/Flyio.md",
+    "vault/Text-to-Image.md",
     "vault/Docker.md",
+    "vault/How to Learn.md",
+    "vault/GCP.md",
+    "vault/Ubuntu Core.md",
+    "vault/Ubuntu.md",
+    "vault/Natural Language Processing.md",
     "vault/Robot arms.md",
     "vault/SLAM.md",
     "vault/How to Communicate.md",
@@ -173,14 +181,6 @@
     "vault/Wheel of Life.md",
     "vault/Workspace.md",
     "vault/Algorithms.md",
-    "vault/DevOps.md",
-    "vault/System Design.md",
-    "vault/Raspberry Pi (RPi).md",
-    "vault/FastAPI.md",
-    "vault/C++.md",
-    "vault/How to Make Money.md",
-    "vault/Vim.md",
-    "vault/Security Robotics.md",
-    "vault/Startup Idea.md"
+    "vault/DevOps.md"
   ]
 }
