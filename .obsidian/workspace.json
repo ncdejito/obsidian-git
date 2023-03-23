@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Flyio.md",
+                "file": "vault/Data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Flyio.md",
+                "file": "vault/Data Structures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Flyio.md",
+                "file": "vault/Data Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Flyio.md"
+                "file": "vault/Data Structures.md"
               }
             }
           },
@@ -156,31 +156,31 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
-    "vault/Linux.md",
+    "vault/Algorithms.md",
+    "vault/Building a Second Brain.md",
+    "vault/How to Build.md",
+    "vault/SLAM.md",
+    "vault/Reactive Programming.md",
+    "vault/Generative AI.md",
+    "vault/How to Build a Chatbot.md",
+    "vault/Ubuntu.md",
     "vault/Flyio.md",
+    "vault/Linux.md",
     "vault/Text-to-Image.md",
     "vault/Docker.md",
     "vault/How to Learn.md",
     "vault/GCP.md",
     "vault/Ubuntu Core.md",
-    "vault/Ubuntu.md",
     "vault/Natural Language Processing.md",
     "vault/Robot arms.md",
-    "vault/SLAM.md",
     "vault/How to Communicate.md",
     "vault/Obsidian.md",
     "vault/Callbacks.md",
     "vault/React-Native.md",
-    "vault/Generative AI.md",
     "vault/ChatGPT.md",
     "vault/Circuit Diagrams.md",
     "vault/How to Write a Resume.md",
     "vault/Behavior Trees.md",
-    "vault/Marketing.md",
-    "vault/Building a Second Brain.md",
-    "vault/Wheel of Life.md",
-    "vault/Workspace.md",
-    "vault/Algorithms.md",
-    "vault/DevOps.md"
+    "vault/Marketing.md"
   ]
 }

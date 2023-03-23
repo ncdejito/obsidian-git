@@ -17,3 +17,17 @@ Start
 Improve
 Accomplish tasks
 Achieve
+
+Howto build
+https://www.linkedin.com/posts/nathan-baugh_the-best-advice-on-creating-anything-ive-activity-7043590392654565376-NZTf?utm_source=share&utm_medium=member_android
+Dream in years
+Plan in months
+Evaluate in weeks
+Ship Daily
+-
+Prototype for 1x
+Build for 10x
+Engineer for 100x
+-
+What's required to cut the timeline in 1/2
+What needs to be done to double the impact

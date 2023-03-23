@@ -69,7 +69,7 @@ int main()
     std::cout << dict["Practice"] << std::endl;
 }
 ```
-
+a Map is ordered by key in increasing order
 
 ## Linked list
 - linear collection of data elements where each element points to the next. a basic node contains: data, and a reference (in other words, a link) to the next node in the sequence
