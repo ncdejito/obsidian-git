@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Data Structures.md",
+                "file": "vault/How to Communicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Data Structures.md",
+                "file": "vault/How to Communicate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Data Structures.md",
+                "file": "vault/How to Communicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Data Structures.md"
+                "file": "vault/How to Communicate.md"
               }
             }
           },
@@ -156,10 +156,19 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Negotiation.md",
+    "vault/SLAM.md",
+    "vault/Functional Programming.md",
+    "vault/Regulators.md",
+    "vault/Model Monitoring.md",
+    "vault/Circuit Diagrams.md",
+    "vault/Finite State Machines.md",
+    "vault/Robotics Visualization.md",
+    "vault/Data Types.md",
     "vault/Algorithms.md",
+    "vault/Data Structures.md",
     "vault/Building a Second Brain.md",
     "vault/How to Build.md",
-    "vault/SLAM.md",
     "vault/Reactive Programming.md",
     "vault/Generative AI.md",
     "vault/How to Build a Chatbot.md",
@@ -172,15 +181,6 @@
     "vault/GCP.md",
     "vault/Ubuntu Core.md",
     "vault/Natural Language Processing.md",
-    "vault/Robot arms.md",
-    "vault/How to Communicate.md",
-    "vault/Obsidian.md",
-    "vault/Callbacks.md",
-    "vault/React-Native.md",
-    "vault/ChatGPT.md",
-    "vault/Circuit Diagrams.md",
-    "vault/How to Write a Resume.md",
-    "vault/Behavior Trees.md",
-    "vault/Marketing.md"
+    "vault/Robot arms.md"
   ]
 }
