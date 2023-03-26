@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/How to Communicate.md",
+                "file": "vault/AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/How to Communicate.md",
+                "file": "vault/AWS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/How to Communicate.md",
+                "file": "vault/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/How to Communicate.md"
+                "file": "vault/AWS.md"
               }
             }
           },
@@ -156,6 +156,11 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/P5JS.md",
+    "vault/Computer Science.md",
+    "vault/Nav2 Topics.md",
+    "vault/Natural Language Processing.md",
+    "vault/How to Communicate.md",
     "vault/Negotiation.md",
     "vault/SLAM.md",
     "vault/Functional Programming.md",
@@ -176,11 +181,6 @@
     "vault/Flyio.md",
     "vault/Linux.md",
     "vault/Text-to-Image.md",
-    "vault/Docker.md",
-    "vault/How to Learn.md",
-    "vault/GCP.md",
-    "vault/Ubuntu Core.md",
-    "vault/Natural Language Processing.md",
-    "vault/Robot arms.md"
+    "vault/Docker.md"
   ]
 }
