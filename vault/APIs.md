@@ -5,7 +5,7 @@ Implementations
 
 Best practices
 [[FastAPI]]
-GraphQL
+GraphQL - open-source data query language and data manipulation language for APIs, and a query runtime engine
 
 Resources
 [Little Manual of API Design](https://www.cs.vu.nl/~jbe248/api-design.pdf)

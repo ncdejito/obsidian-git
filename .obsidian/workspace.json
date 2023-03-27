@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/AWS.md",
+                "file": "vault/CI CD.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/AWS.md",
+                "file": "vault/CI CD.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/AWS.md",
+                "file": "vault/CI CD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/AWS.md"
+                "file": "vault/CI CD.md"
               }
             }
           },
@@ -156,6 +156,11 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Flyio.md",
+    "vault/Classical ML.md",
+    "vault/APIs.md",
+    "vault/Google Apps Script.md",
+    "vault/AWS.md",
     "vault/P5JS.md",
     "vault/Computer Science.md",
     "vault/Nav2 Topics.md",
@@ -176,11 +181,6 @@
     "vault/How to Build.md",
     "vault/Reactive Programming.md",
     "vault/Generative AI.md",
-    "vault/How to Build a Chatbot.md",
-    "vault/Ubuntu.md",
-    "vault/Flyio.md",
-    "vault/Linux.md",
-    "vault/Text-to-Image.md",
-    "vault/Docker.md"
+    "vault/How to Build a Chatbot.md"
   ]
 }
