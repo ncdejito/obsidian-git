@@ -1,6 +1,7 @@
 [[Software Engineering]]
 
 - [[Test-Driven Development]]
+- [[CI CD]]
 - [[Code hygiene]]
 - [[Debugging]]
 - [[Agile]]

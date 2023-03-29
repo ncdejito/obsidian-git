@@ -29,9 +29,14 @@ bool passOrFail();
 
 ## References
 How to learn (start anywhere!)
-* C++ for everyone by Dr. Ira Pohl
-* learncpp.com
-* Effective Modern C++ (book)
+* Memory management in Computer Systems Programmer's Perspective
+* C++ for the impatient
+* Effective modern c++
+* C++ for everyone coursera by Dr. Ira Pohl
+* Learncpp .com
+
+Modern C++  
+[https://github.com/facebook/folly](https://github.com/facebook/folly)
 * [Rockstar](https://github.com/avinassh/rockstar) Learn c++ with python
 * FunctionalPlus [code](https://github.com/Dobiasd/FunctionalPlus)
 * observable [code](https://github.com/ddinu/observable)
@@ -41,10 +46,6 @@ How to learn (start anywhere!)
 * GDB
 * Robotics with Sina recos
 * Top 10 courses for beginners [medium](https://medium.com/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e)
-
-Modern C++  
-[https://github.com/facebook/folly](https://github.com/facebook/folly)
-
 
 ### Functional
 ```
@@ -129,8 +130,10 @@ Structured bindings (since c++17)
 
 ## Concepts
 
-Dynamic memory allocation - performing memory allocation manually by programmer
+### Dynamic memory allocation
+performing memory allocation manually by programmer
 ```
+// C++ style
 int main()
 { // "dynamic allocation" – using keyword new!
     Player *player = new Player();
@@ -138,20 +141,16 @@ int main()
 }
 ```
 
-Stack vs Heap Memory Allocation
-Stack
-> allocation happens on contiguous blocks of memory. We call it a stack memory allocation because the allocation happens in the function call stack. The size of memory to be allocated is known to the compiler and whenever a function is called, its variables get memory allocated on the stack.
-
-Heap
-> memory is allocated during the execution of instructions written by programmers. Note that the name heap has nothing to do with the heap data structure. It is called heap because it is a pile of memory space available to programmers to allocated and de-allocate.
-
 malloc - allocates a block of uninitialized memory to a pointer
 ```
+// C style
   // allocate memory of int size to an int pointer
   int* ptr = (int*) malloc(sizeof(int));
 
   // assign the value 5 to allocated memory
   *ptr = 5;
+
+free(ptr);
 ```
 
 Buffer - denotes a computer memory block that acts as a temporary placeholder
@@ -159,6 +158,17 @@ Buffer - denotes a computer memory block that acts as a temporary placeholder
 Char* buff = new char [ ]
 ```
 [source](https://www.educba.com/c-plus-plus-buffer/)
+
+Stack vs Heap Memory Allocation
+Stack - limited memory, freed up on exit
+> allocation happens on contiguous blocks of memory. We call it a stack memory allocation because the allocation happens in the function call stack. The size of memory to be allocated is known to the compiler and whenever a function is called, its variables get memory allocated on the stack.
+
+Heap - (dynamic memory), free pool of memory, remains on exit must be freed explicity
+> memory is allocated during the execution of instructions written by programmers. Note that the name heap has nothing to do with the heap data structure. It is called heap because it is a pile of memory space available to programmers to allocate and de-allocate.
+
+[Pointers and dynamic memory - stack vs heap](https://www.youtube.com/watch?v=_8-ht2AKyH4&list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_&index=12&t=937s)
+
+C - malloc, calloc, realloc and free. C++ -  new and delete 
 
 ## Advanced
 STL
