@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Software Eng Best Practices.md",
+                "file": "vault/Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Software Eng Best Practices.md",
+                "file": "vault/Data Types.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Software Eng Best Practices.md",
+                "file": "vault/Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Software Eng Best Practices.md"
+                "file": "vault/Data Types.md"
               }
             }
           },
@@ -156,6 +156,13 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Test-Driven Development.md",
+    "vault/Coding Interview Tips.md",
+    "vault/Robot arms.md",
+    "vault/Zig.md",
+    "vault/How to Build a Habit.md",
+    "vault/P5JS.md",
+    "vault/Software Eng Best Practices.md",
     "vault/How to Learn.md",
     "vault/Obsidian.md",
     "vault/Object-Oriented Programming.md",
@@ -173,14 +180,7 @@
     "vault/APIs.md",
     "vault/Google Apps Script.md",
     "vault/AWS.md",
-    "vault/P5JS.md",
     "vault/Computer Science.md",
-    "vault/Nav2 Topics.md",
-    "vault/Natural Language Processing.md",
-    "vault/How to Communicate.md",
-    "vault/Negotiation.md",
-    "vault/SLAM.md",
-    "vault/Functional Programming.md",
-    "vault/Regulators.md"
+    "vault/Nav2 Topics.md"
   ]
 }
