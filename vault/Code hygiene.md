@@ -23,3 +23,6 @@ Code best practices
 - DRY - don’t repeat yourself
 - KISS - keep it simple stupid, keep it short and simple
 - YAGNI - you aren’t gonna need it, “Always implement things when you actually need them, never when you just foresee that you need them”
+
+Code review
+[AI-powered review](https://reviewify.io/)

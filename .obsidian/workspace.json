@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Data Types.md",
+                "file": "vault/Control Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Data Types.md",
+                "file": "vault/Control Theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Data Types.md",
+                "file": "vault/Control Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Data Types.md"
+                "file": "vault/Control Theory.md"
               }
             }
           },
@@ -156,6 +156,23 @@
   },
   "active": "c4e94eba407a5857",
   "lastOpenFiles": [
+    "vault/Computer Vision.md",
+    "vault/URDF.md",
+    "vault/Software Eng Tools.md",
+    "vault/Time complexity.md",
+    "vault/Odometry.md",
+    "vault/Motors.md",
+    "vault/Motor Drivers.md",
+    "vault/Camera Calibration.md",
+    "vault/Software Engineering.md",
+    "vault/Code hygiene.md",
+    "vault/Data Types.md",
+    "vault/C++.md",
+    "vault/Rust.md",
+    "vault/Programming Languages.md",
+    "vault/Obsidian.md",
+    "vault/Security Robotics.md",
+    "vault/Computer Science.md",
     "vault/Test-Driven Development.md",
     "vault/Coding Interview Tips.md",
     "vault/Robot arms.md",
@@ -164,23 +181,6 @@
     "vault/P5JS.md",
     "vault/Software Eng Best Practices.md",
     "vault/How to Learn.md",
-    "vault/Obsidian.md",
-    "vault/Object-Oriented Programming.md",
-    "vault/C++.md",
-    "vault/Flyio.md",
-    "vault/Docker.md",
-    "vault/Building a Second Brain.md",
-    "vault/Productivity.md",
-    "vault/Wheel of Life.md",
-    "vault/Data Structures.md",
-    "vault/Algorithms.md",
-    "vault/DevOps.md",
-    "vault/CI CD.md",
-    "vault/Classical ML.md",
-    "vault/APIs.md",
-    "vault/Google Apps Script.md",
-    "vault/AWS.md",
-    "vault/Computer Science.md",
-    "vault/Nav2 Topics.md"
+    "vault/Object-Oriented Programming.md"
   ]
 }

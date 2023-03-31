@@ -5,6 +5,7 @@ Python Rust Computer Vision - [Rerun.io](https://github.com/rerun-io)
 ## Semantic Segmentation
 No training data needed [STEGO](https://www.youtube.com/watch?v=58uhMDO7dTQ)
 
+Filed Boundary Detection [RadiantHub](https://www.linkedin.com/posts/radiant-mlhub_machinelearning-models-activity-7047212001328062465-sin_?utm_source=share&utm_medium=member_desktop)
 
 ## Object Detection
 [Foundations](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/)
