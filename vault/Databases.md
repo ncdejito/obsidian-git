@@ -12,9 +12,9 @@ ACID - What databases must have/be
 - Durability - once a transaction has been committed, it will remain committed even in the case of a system failure
 
 CAP Theorem - any system cannot be simultaneously all 3
-- Consistency - What you read and write sequentially is what is expected (remember the gotcha with the database replication a few paragraphs ago?)
+- Consistency - What you read and write sequentially is what is expected
 - Availability - the whole system does not die — every non-failing node always returns a response.
-- Partition Tolerant - The system continues to function and uphold its consistency/availability guarantees in spite of network partitions
+- Partition Tolerant - The system continues to function and uphold its consistency/ availability guarantees in spite of network partitions
 
 BASE - given CAP, best approximation of ACID
 - Basically Available — The system always returns a response
@@ -25,6 +25,8 @@ Why NoSQL? (not only SQL)
 - Can be much faster than relational
 - Developers can structure how data looks like
 - Scalable for traffic and zero downtime
+
+Database Index - improve performance of db by 
 
 Structures
 * btree - generalizes binary search tree with >2 children nodes

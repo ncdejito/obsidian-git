@@ -8,6 +8,8 @@ Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-aw
 
 [ChatGPT + Midjourney](https://www.linkedin.com/posts/petehuang_how-to-use-chatgpt-to-create-stunning-images-ugcPost-7041282824053673984-nUFB?utm_source=share&utm_medium=member_desktop)
 
+[GPT4 For writing code](https://twitter.com/codewandai?lang=en)
+
 ## AI Tools for businesses
 Build a Business using AI
 https://www.linkedin.com/posts/chatgptcommunity_chatgpt-ugcPost-7021452193371148288--xmB?utm_source=share&utm_medium=member_desktop

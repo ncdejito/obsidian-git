@@ -30,3 +30,7 @@ Usability/Community support
 
 The full stack  
 [https://www.linkedin.com/posts/mljungblad_truly-full-stack-the-tech-that-makes-minut-activity-7042049360544571392-0uqH?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/mljungblad_truly-full-stack-the-tech-that-makes-minut-activity-7042049360544571392-0uqH?utm_source=share&utm_medium=member_android)
+
+Pay
+levels.fyi
+https://www.comprehensive.io/

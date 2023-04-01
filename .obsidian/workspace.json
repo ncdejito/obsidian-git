@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Control Theory.md",
+                "file": "vault/CI CD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "531118c03ea0d8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Backend.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Control Theory.md",
+                "file": "vault/Backend.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Control Theory.md",
+                "file": "vault/Backend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Control Theory.md"
+                "file": "vault/Backend.md"
               }
             }
           },
@@ -154,33 +167,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4e94eba407a5857",
+  "active": "531118c03ea0d8a0",
   "lastOpenFiles": [
+    "vault/Perception.md",
+    "vault/CNC Machining.md",
+    "vault/Flutter.md",
+    "vault/Learning.md",
+    "vault/Xacro.md",
+    "vault/APIs.md",
+    "vault/FastAPI.md",
+    "vault/Databases.md",
+    "vault/Service Mesh.md",
+    "vault/Distributed Systems.md",
+    "vault/Computer networking.md",
+    "vault/Backend.md",
+    "vault/Software Engineering.md",
+    "vault/CI CD.md",
+    "vault/DevOps.md",
+    "vault/Docker.md",
+    "vault/Kubernetes (k8s).md",
+    "vault/ROS2.md",
+    "vault/Vim.md",
+    "vault/Podman.md",
+    "vault/C++.md",
+    "vault/Generative AI.md",
+    "vault/Control Theory.md",
     "vault/Computer Vision.md",
     "vault/URDF.md",
-    "vault/Software Eng Tools.md",
-    "vault/Time complexity.md",
-    "vault/Odometry.md",
-    "vault/Motors.md",
-    "vault/Motor Drivers.md",
-    "vault/Camera Calibration.md",
-    "vault/Software Engineering.md",
-    "vault/Code hygiene.md",
-    "vault/Data Types.md",
-    "vault/C++.md",
-    "vault/Rust.md",
-    "vault/Programming Languages.md",
-    "vault/Obsidian.md",
-    "vault/Security Robotics.md",
-    "vault/Computer Science.md",
-    "vault/Test-Driven Development.md",
-    "vault/Coding Interview Tips.md",
-    "vault/Robot arms.md",
-    "vault/Zig.md",
-    "vault/How to Build a Habit.md",
-    "vault/P5JS.md",
-    "vault/Software Eng Best Practices.md",
-    "vault/How to Learn.md",
-    "vault/Object-Oriented Programming.md"
+    "vault/Software Eng Tools.md"
   ]
 }
