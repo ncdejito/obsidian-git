@@ -31,3 +31,6 @@ Linkedin money ideas
 Yt money ideas  
 Ig money ideas
 Peer-to-peer lending
+
+1 person business ideas
+[HN](https://news.ycombinator.com/item?id=35333088&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)

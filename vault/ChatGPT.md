@@ -14,3 +14,4 @@ how it works [Linkedin post](https://www.linkedin.com/posts/hilarymason_chatgpt-
 
 Alternatives
 Poe from Quora
+[FastChat](https://github.com/lm-sys/FastChat)

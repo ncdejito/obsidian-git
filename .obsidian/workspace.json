@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Backend.md",
+                "file": "vault/How to Communicate.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Backend.md",
+                "file": "vault/How to Communicate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Backend.md",
+                "file": "vault/How to Communicate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Backend.md"
+                "file": "vault/How to Communicate.md"
               }
             }
           },
@@ -169,10 +169,19 @@
   },
   "active": "531118c03ea0d8a0",
   "lastOpenFiles": [
+    "vault/Controller Area Networks CAN.md",
+    "vault/Large Language Models LLM.md",
+    "vault/Natural Language Processing.md",
+    "vault/ChatGPT.md",
+    "vault/How to Make Money.md",
+    "vault/How to Learn.md",
+    "vault/Learning.md",
+    "vault/How to Build a Habit.md",
+    "vault/How to Build.md",
+    "vault/Backend.md",
     "vault/Perception.md",
     "vault/CNC Machining.md",
     "vault/Flutter.md",
-    "vault/Learning.md",
     "vault/Xacro.md",
     "vault/APIs.md",
     "vault/FastAPI.md",
@@ -180,20 +189,11 @@
     "vault/Service Mesh.md",
     "vault/Distributed Systems.md",
     "vault/Computer networking.md",
-    "vault/Backend.md",
     "vault/Software Engineering.md",
     "vault/CI CD.md",
     "vault/DevOps.md",
     "vault/Docker.md",
     "vault/Kubernetes (k8s).md",
-    "vault/ROS2.md",
-    "vault/Vim.md",
-    "vault/Podman.md",
-    "vault/C++.md",
-    "vault/Generative AI.md",
-    "vault/Control Theory.md",
-    "vault/Computer Vision.md",
-    "vault/URDF.md",
-    "vault/Software Eng Tools.md"
+    "vault/ROS2.md"
   ]
 }
