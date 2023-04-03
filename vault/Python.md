@@ -34,3 +34,7 @@ locals().update(_dict)
 
 Python tips
 https://www.linkedin.com/feed/update/urn:li:activity:7026499417461469185?utm_source=share&utm_medium=member_android
+
+## Next-gen
+Codon - compiled python  
+[https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-python-based-orders-of-magnitude-speedups.amp](https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-python-based-orders-of-magnitude-speedups.amp)

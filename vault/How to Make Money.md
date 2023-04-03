@@ -32,5 +32,8 @@ Yt money ideas
 Ig money ideas
 Peer-to-peer lending
 
+Idea Validation
+https://www.linkedin.com/posts/justinwelsh_idea-validation-has-never-been-easier-activity-7046526862377787392-mBQk?utm_source=share&utm_medium=member_desktop
+
 1 person business ideas
 [HN](https://news.ycombinator.com/item?id=35333088&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)

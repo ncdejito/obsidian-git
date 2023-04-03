@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/CI CD.md",
+                "file": "vault/ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "531118c03ea0d8a0",
+            "id": "e36cdfc4c0599716",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/How to Communicate.md",
+                "file": "vault/How to Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/How to Communicate.md",
+                "file": "vault/How to Learn.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/How to Communicate.md",
+                "file": "vault/How to Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/How to Communicate.md"
+                "file": "vault/How to Learn.md"
               }
             }
           },
@@ -167,33 +167,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "531118c03ea0d8a0",
+  "active": "e36cdfc4c0599716",
   "lastOpenFiles": [
-    "vault/Controller Area Networks CAN.md",
     "vault/Large Language Models LLM.md",
-    "vault/Natural Language Processing.md",
     "vault/ChatGPT.md",
-    "vault/How to Make Money.md",
+    "vault/Natural Language Processing.md",
+    "vault/Documentation.md",
+    "vault/Javascript.md",
+    "vault/GCP.md",
+    "vault/Haskell.md",
+    "vault/Serverless.md",
+    "vault/Robot arms.md",
+    "vault/Behavior Trees.md",
+    "vault/How to Build.md",
+    "vault/CI CD.md",
+    "vault/How to Hack.md",
+    "vault/Python.md",
+    "vault/Software Engineering.md",
+    "vault/Software Eng Tools.md",
     "vault/How to Learn.md",
+    "vault/How to Make Money.md",
+    "vault/How to Communicate.md",
+    "vault/Controller Area Networks CAN.md",
     "vault/Learning.md",
     "vault/How to Build a Habit.md",
-    "vault/How to Build.md",
     "vault/Backend.md",
     "vault/Perception.md",
     "vault/CNC Machining.md",
-    "vault/Flutter.md",
-    "vault/Xacro.md",
-    "vault/APIs.md",
-    "vault/FastAPI.md",
-    "vault/Databases.md",
-    "vault/Service Mesh.md",
-    "vault/Distributed Systems.md",
-    "vault/Computer networking.md",
-    "vault/Software Engineering.md",
-    "vault/CI CD.md",
-    "vault/DevOps.md",
-    "vault/Docker.md",
-    "vault/Kubernetes (k8s).md",
-    "vault/ROS2.md"
+    "vault/Flutter.md"
   ]
 }

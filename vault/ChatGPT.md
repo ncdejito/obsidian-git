@@ -1,3 +1,5 @@
+[[Large Language Models LLM]]
+
 how it works [Linkedin post](https://www.linkedin.com/posts/hilarymason_chatgpt-ai-llm-activity-7037082578603909121-akFQ?utm_source=share&utm_medium=member_desktop)
 
 ## How to use ChatGPT
@@ -11,6 +13,8 @@ how it works [Linkedin post](https://www.linkedin.com/posts/hilarymason_chatgpt-
 [3 more tips](https://www.linkedin.com/feed/update/urn:li:activity:7029155602421485568/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7029155602421485568%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 [ChatGPT + Google Sheets](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7039997195453898752-4z_2?utm_source=share&utm_medium=member_desktop)
+[AutoGPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+
 
 Alternatives
 Poe from Quora

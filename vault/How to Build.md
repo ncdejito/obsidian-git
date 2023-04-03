@@ -18,7 +18,7 @@ Improve
 Accomplish tasks
 Achieve
 
-Howto build
+How to build
 https://www.linkedin.com/posts/nathan-baugh_the-best-advice-on-creating-anything-ive-activity-7043590392654565376-NZTf?utm_source=share&utm_medium=member_android
 Dream in years
 Plan in months
@@ -31,3 +31,6 @@ Engineer for 100x
 -
 What's required to cut the timeline in 1/2
 What needs to be done to double the impact
+
+How to Hack  
+[https://www.nushackers.org/the-hacker-attitude/](https://www.nushackers.org/the-hacker-attitude/)
