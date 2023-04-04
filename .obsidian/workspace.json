@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/How to Learn.md",
+                "file": "vault/Data Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/How to Learn.md",
+                "file": "vault/Data Engineering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/How to Learn.md",
+                "file": "vault/Data Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/How to Learn.md"
+                "file": "vault/Data Engineering.md"
               }
             }
           },
@@ -169,6 +169,9 @@
   },
   "active": "e36cdfc4c0599716",
   "lastOpenFiles": [
+    "vault/Data Analysis.md",
+    "vault/Data Engineering.md",
+    "vault/How to Learn.md",
     "vault/Large Language Models LLM.md",
     "vault/ChatGPT.md",
     "vault/Natural Language Processing.md",
@@ -185,15 +188,12 @@
     "vault/Python.md",
     "vault/Software Engineering.md",
     "vault/Software Eng Tools.md",
-    "vault/How to Learn.md",
     "vault/How to Make Money.md",
     "vault/How to Communicate.md",
     "vault/Controller Area Networks CAN.md",
     "vault/Learning.md",
     "vault/How to Build a Habit.md",
     "vault/Backend.md",
-    "vault/Perception.md",
-    "vault/CNC Machining.md",
-    "vault/Flutter.md"
+    "vault/Perception.md"
   ]
 }
