@@ -123,3 +123,8 @@ Questioning the original questions (Why did I think that? Was I correct? What co
 
 Mental models
 https://fs.blog/mental-models/
+
+
+How to learn
+Feynman like understanding
+Be able to visualize exactly what needs to be done and steps needed to be taken e.g. a data analyst gets the data, processes it, does summaries, asks questions etc.

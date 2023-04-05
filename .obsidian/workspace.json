@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Data Engineering.md",
+                "file": "vault/Negotiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Data Engineering.md",
+                "file": "vault/Negotiation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Data Engineering.md",
+                "file": "vault/Negotiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Data Engineering.md"
+                "file": "vault/Negotiation.md"
               }
             }
           },
@@ -169,12 +169,16 @@
   },
   "active": "e36cdfc4c0599716",
   "lastOpenFiles": [
-    "vault/Data Analysis.md",
-    "vault/Data Engineering.md",
+    "vault/Security.md",
+    "vault/Programming Languages.md",
     "vault/How to Learn.md",
-    "vault/Large Language Models LLM.md",
+    "vault/How to Make Money.md",
     "vault/ChatGPT.md",
     "vault/Natural Language Processing.md",
+    "vault/How to Build.md",
+    "vault/Data Engineering.md",
+    "vault/Data Analysis.md",
+    "vault/Large Language Models LLM.md",
     "vault/Documentation.md",
     "vault/Javascript.md",
     "vault/GCP.md",
@@ -182,18 +186,14 @@
     "vault/Serverless.md",
     "vault/Robot arms.md",
     "vault/Behavior Trees.md",
-    "vault/How to Build.md",
     "vault/CI CD.md",
     "vault/How to Hack.md",
     "vault/Python.md",
     "vault/Software Engineering.md",
     "vault/Software Eng Tools.md",
-    "vault/How to Make Money.md",
     "vault/How to Communicate.md",
     "vault/Controller Area Networks CAN.md",
     "vault/Learning.md",
-    "vault/How to Build a Habit.md",
-    "vault/Backend.md",
-    "vault/Perception.md"
+    "vault/How to Build a Habit.md"
   ]
 }

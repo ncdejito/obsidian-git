@@ -15,6 +15,8 @@ how it works [Linkedin post](https://www.linkedin.com/posts/hilarymason_chatgpt-
 [ChatGPT + Google Sheets](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7039997195453898752-4z_2?utm_source=share&utm_medium=member_desktop)
 [AutoGPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
+ZeroGPT check if gpt generated
+
 
 Alternatives
 Poe from Quora

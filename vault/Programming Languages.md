@@ -11,6 +11,10 @@
 
 [[Haskell]] - functional programming
 
+C# - strong typing, automatic memory management, and supports asynchronous programming
+
+Perl - text processing
+
 Speed comparisons [chart](https://github.com/niklas-heer/speed-comparison) - C++ is fastest
 
 How to learn a language quickly: first principles

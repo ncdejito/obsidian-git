@@ -37,3 +37,6 @@ https://www.linkedin.com/posts/justinwelsh_idea-validation-has-never-been-easier
 
 1 person business ideas
 [HN](https://news.ycombinator.com/item?id=35333088&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
+
+1 page MBA  
+[https://www.linkedin.com/posts/rich-falk-wallace_an-entire-mba-fits-on-one-page-but-you-activity-7045415648218214400-wCJY?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/rich-falk-wallace_an-entire-mba-fits-on-one-page-but-you-activity-7045415648218214400-wCJY?utm_source=share&utm_medium=member_android)
