@@ -1,4 +1,4 @@
-[[Productivity]]
+[[Manage Personal Knowledge with PKM]]
 
 Building a Second Brain is a productivity and personal knowledge management system developed by Tiago Forte. The system is designed to help individuals organize, store, and retrieve information more effectively, and to use that information to generate new insights and ideas.
 

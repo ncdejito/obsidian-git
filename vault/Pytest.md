@@ -1,4 +1,4 @@
-[[Python]]
+[[Use Python]]
 
 Test specific function
 ```

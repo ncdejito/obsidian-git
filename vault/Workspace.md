@@ -1,4 +1,4 @@
-[[Software Eng Tools]]
+
 
 ### Software
 Note taking
@@ -21,7 +21,7 @@ Chrome
 [[VSCode]]
 1. Install Remote - WSL extension
 
-[[WSL]]
+WSL
 1. Open Control Panel, then go to Programs and select Turn Windows features on or off, scroll down to Windows Subsystem for Linux, select it and click the Ok button. Wait until the wizard end.
 1. restart
 1. Set version to WSL2
@@ -39,7 +39,7 @@ cd /mnt/c/Users/ncdej/Downloads
 1. Enable ctrl+alt+arrow rotation: Intel Graphics Control Panel > Disable hotkeys for screen rotation
 
 
-[[Docker]]
+[[Use Docker]]
 Install wsl2 kernel update
 Settings > Resources > WSL Integration > Enable "Ubuntu"
 

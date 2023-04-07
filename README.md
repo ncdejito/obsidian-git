@@ -1,5 +1,7 @@
 # obsidian-git
-- [[Machine Learning]]
-- [[Software Engineering]]
-- [[Hardware]]
+
+What does it mean to be human?
+- [[Make money]]
+- [[Build technology]]
+- [[Connect with people]]
 

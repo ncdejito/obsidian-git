@@ -1,4 +1,4 @@
-[[Distributed Systems]]
+[[Design the system]]
 
 ## Definitions
 - ClusterIP (default) - Exposes the Service on an internal IP in the cluster. This type makes the Service only reachable from within the cluster.

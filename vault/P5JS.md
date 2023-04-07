@@ -1,4 +1,4 @@
-[[Frontend]]
+[[Build Frontend UI]]
 
 Library for creative coding
 

@@ -7,7 +7,7 @@ Update VSCode
 
 ## Config
 
-[[Python]]
+[[Use Python]]
 ```
 // settings.json
     "python.formatting.blackArgs": [

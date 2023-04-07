@@ -1,4 +1,3 @@
-[[Hardware]]
 
 can be reprogrammed to desired application or functionality requirements after manufacturing
 

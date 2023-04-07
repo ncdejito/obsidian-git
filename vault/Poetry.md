@@ -1,4 +1,4 @@
-Poetry - [[Python]] dependency manager
+Poetry - [[Use Python]] dependency manager
 
 Install 
 ```

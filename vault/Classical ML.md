@@ -1,4 +1,4 @@
-[[Machine Learning]]
+[[Apply Machine Learning]]
 
 Gradient Descent
 

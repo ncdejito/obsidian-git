@@ -1,4 +1,4 @@
-[[ROS2]] [[Nav2]] [[Nav2 Topics]]
+[[Use ROS2]] [[Use Nav2]] [[Nav2 Topics]]
 
 List of components derived from
 ros2 node info /component
@@ -192,7 +192,7 @@ Other nodes:
 
 
 ## SLAM
-[[SLAM]]
+[[Apply SLAM]]
 ### /slam_toolbox
   Subscribers:
     /clock: rosgraph_msgs/msg/Clock

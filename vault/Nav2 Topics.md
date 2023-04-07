@@ -1,4 +1,4 @@
-[[ROS2]] [[Nav2]] [[Nav2 Nodes]]
+[[Use ROS2]] [[Use Nav2]] [[Nav2 Nodes]]
 
 Show message format for each topic
 ```

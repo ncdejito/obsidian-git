@@ -1,4 +1,4 @@
-[[Databases]]
+[[Save to a Database]]
 
 ```
 

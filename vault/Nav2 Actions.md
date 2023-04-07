@@ -1,4 +1,4 @@
-[[ROS2]] [[Nav2]]
+[[Use ROS2]] [[Use Nav2]]
 
 # Actions
 /backup "nav2_msgs/action/BackUp"

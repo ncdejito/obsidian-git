@@ -1,4 +1,4 @@
-[[Computer networking]]
+[[Connect computers with Networking]]
 
 Tested on Ubuntu MATE Jammy
 ```

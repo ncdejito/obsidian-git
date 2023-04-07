@@ -1,4 +1,4 @@
-[[Machine Learning]]
+[[Apply Machine Learning]]
 
 [Stanford course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 

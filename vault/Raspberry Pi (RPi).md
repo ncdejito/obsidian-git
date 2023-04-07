@@ -1,4 +1,4 @@
-[[Hardware]]
+
 
 ssh check address at phone hotspot
 ```

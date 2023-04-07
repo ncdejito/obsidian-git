@@ -1,5 +1,5 @@
 ## Definition
-Javascript runtime designed to run on the server [[Backend]]. can be used to serve a [[Frontend]] js file
+Javascript runtime designed to run on the server [[Build Backend Components]]. can be used to serve a [[Build Frontend UI]] js file
 
 ## Routines
 

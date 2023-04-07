@@ -1,4 +1,4 @@
-[[Nav2]]
+[[Use Nav2]]
 
 /scan
 /map

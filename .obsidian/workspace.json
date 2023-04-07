@@ -4,35 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c70690b7fa2780",
+        "id": "501e193501089c91",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e94eba407a5857",
+            "id": "b1fca26d0f495fde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/ChatGPT.md",
+                "file": "vault/Extract info from images using Computer Vision.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e36cdfc4c0599716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault/Negotiation.md",
-                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +52,7 @@
                 "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Negotiation.md",
+                "file": "vault/Extract info from images using Computer Vision.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Negotiation.md",
+                "file": "vault/Extract info from images using Computer Vision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Negotiation.md"
+                "file": "vault/Extract info from images using Computer Vision.md"
               }
             }
           },
@@ -152,8 +140,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,33 +154,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e36cdfc4c0599716",
+  "active": "b1fca26d0f495fde",
   "lastOpenFiles": [
-    "vault/Security.md",
-    "vault/Programming Languages.md",
+    "vault/Apply Machine Learning.md",
+    "vault/Extract info from images using Computer Vision.md",
+    "vault/Manage Personal Knowledge with PKM.md",
+    "vault/Automate development (DevOps).md",
+    "vault/Integrate and Deploy code with CICD.md",
+    "vault/Connect with people.md",
+    "vault/Manage yourself.md",
+    "vault/Speak Japanese.md",
+    "vault/Select Programming Language.md",
+    "vault/Compare technology tradeoffs.md",
+    "vault/Design the system.md",
+    "vault/Build Frontend UI.md",
+    "vault/Write software code.md",
+    "vault/Build a robot.md",
+    "vault/Build network infrastructure.md",
+    "vault/Use Wireless Networks.md",
+    "vault/Analyze data.md",
+    "vault/Use Python for Data Analysis.md",
+    "vault/Use Go.md",
     "vault/How to Learn.md",
-    "vault/How to Make Money.md",
-    "vault/ChatGPT.md",
-    "vault/Natural Language Processing.md",
-    "vault/How to Build.md",
-    "vault/Data Engineering.md",
-    "vault/Data Analysis.md",
-    "vault/Large Language Models LLM.md",
-    "vault/Documentation.md",
-    "vault/Javascript.md",
-    "vault/GCP.md",
-    "vault/Haskell.md",
-    "vault/Serverless.md",
-    "vault/Robot arms.md",
-    "vault/Behavior Trees.md",
-    "vault/CI CD.md",
-    "vault/How to Hack.md",
-    "vault/Python.md",
-    "vault/Software Engineering.md",
-    "vault/Software Eng Tools.md",
-    "vault/How to Communicate.md",
-    "vault/Controller Area Networks CAN.md",
-    "vault/Learning.md",
-    "vault/How to Build a Habit.md"
+    "vault/Manage your time.md",
+    "vault/How to Build a Habit.md",
+    "vault/Assess your ability.md",
+    "vault/Linux.md",
+    "vault/Code the logic.md",
+    "vault/Ask AI using ChatGPT.md"
   ]
 }

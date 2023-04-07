@@ -1,4 +1,4 @@
-[[Computer networking]]
+[[Connect computers with Networking]]
 
 Add linux device to your network
 ```

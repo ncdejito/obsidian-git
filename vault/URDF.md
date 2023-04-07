@@ -1,4 +1,4 @@
-[[ROS2]]
+[[Use ROS2]]
 
 Unified Robotics Description Format
 describes shape and physics of parts of robot

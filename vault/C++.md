@@ -1,4 +1,4 @@
-[[Programming Languages]]
+[[Select Programming Language]]
 
 Compile program and run (Linux)
 ```
@@ -57,7 +57,7 @@ copy_if(A.begin(), A.end(), back_inserter(positives), get_positive);
 A = positives;
 ```
 ## Constructs
-[[Data Structures]]
+[[Use appropriate Data Structures]]
 
 Class
 > There is only one difference between class and struct, and it is that the data members inside a struct keyword will be declared public by default, while in a class keyword the data members inside the class will be declared private by default.

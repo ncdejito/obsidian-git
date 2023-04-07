@@ -1,4 +1,0 @@
-- [[Computer Science]]
-- [[Robotics]]
-- [[Electronics Theory]]
-- [[Learning]]
