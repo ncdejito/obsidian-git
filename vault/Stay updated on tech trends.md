@@ -10,3 +10,5 @@ DoorDash
 Pinterest  
 Binance
 Zillow
+
+Regularly check job openings for key competencies looked for in the industry

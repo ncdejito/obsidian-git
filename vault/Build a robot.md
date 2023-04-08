@@ -17,7 +17,7 @@ Build a prototype
 [[Build network infrastructure]]
 
 ## Definitions
-A robot is something that has perception, autonomy and movement (see-think-act)
+A robot is machine that has perception, autonomy and movement (see-think-act)
 
 ## Forms
 Wheeled Robots

@@ -11,7 +11,7 @@ Best practices
 [[Write tests]]
 [[Write clean code]]
 [[Version code with Git]]
-[[Fix errors]]
+[[Debug errors]]
 [[Keep in mind programming principles]]
 
 Resources

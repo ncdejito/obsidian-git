@@ -1,4 +1,4 @@
-[[Workspace]] [[Manage Personal Knowledge with PKM]]
+[[Workspace]] [[Manage info overload (PKM)]]
 
 ## How to use
 When to add - you found the need to review it more than once

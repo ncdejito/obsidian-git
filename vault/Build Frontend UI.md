@@ -18,11 +18,9 @@ npm install rxjs
 ```
 
 ## Frameworks
-- [[React]]
-- [[React-Native]]
-* [[P5JS]]
-* [Streamlit](https://streamlit.io/)
-* [Gradio](https://github.com/gradio-app/gradio/)
+- Website - [[Use React]]
+- Mobile - [[React-Native]]
+* ML - [Streamlit](https://streamlit.io/), [Gradio](https://github.com/gradio-app/gradio/)
 
 ## Definition
 - [[Javascript]] Library - collection of scripts e.g. React, P5JS
@@ -45,3 +43,4 @@ Add fb messenger plugin [tutorial](https://www.youtube.com/watch?v=NCM0f0uChQQ)
 
 ## Exercises
 https://github.com/felipefialho/frontend-challenges
+[[P5JS]] - creative coding

@@ -4,7 +4,7 @@ Alternatives: [[Flutter]]
 
 Learn once write anywhere
 * Can deploy to mobile
-* Compatible with [[React]]
+* Compatible with [[Use React]]
 
 References
 [Fundaments of React-Native Video](https://www.codedaily.io/courses/Fundamentals-of-React-Native-Video/Use-Local-Files-or-Remote-Video-Files-with-React-Native-Video)

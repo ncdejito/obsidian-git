@@ -9,6 +9,8 @@
 3. Response - make it easy
 4. Reward - make it satisfying
 
+[[Break a bad habit]]
+
 ## Specifics
 ### 1st Law: Make it Obvious
 
@@ -59,3 +61,5 @@ When you forget to do a habit, make sure you get back on track immediately.
 Atomic Habits
 [Dont just set goals, build systems](https://medium.com/swlh/dont-just-set-goals-build-systems-8158ac541df)
 [Applying what I’ve learned in Atomic Habits to coding](https://levelup.gitconnected.com/applying-what-ive-learnt-in-atomic-habits-into-coding-cb268137ea35)
+
+

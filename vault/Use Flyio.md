@@ -1,4 +1,3 @@
-[[Automate development (DevOps)]]
 
 Install
 ```

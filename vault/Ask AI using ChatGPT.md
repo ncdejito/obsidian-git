@@ -1,4 +1,5 @@
 
+[Prompting course](https://learnprompting.org/)
 how it works [Linkedin post](https://www.linkedin.com/posts/hilarymason_chatgpt-ai-llm-activity-7037082578603909121-akFQ?utm_source=share&utm_medium=member_desktop)
 Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-awesome-chat-gpt-prompts-activity-7015708729333403648-alUj/?originalSubdomain=ee)
 
@@ -17,6 +18,8 @@ Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-aw
 
 ZeroGPT check if gpt generated
 
+Tools AI across different media
+https://www.linkedin.com/posts/zainkahn_ai-wont-replace-you-a-person-using-ai-activity-7049730529784385536-G9ng?utm_source=share&utm_medium=member_desktop
 
 Alternatives
 Poe from Quora

@@ -8,4 +8,4 @@ Tutorials
 * [Type Challenges](https://github.com/type-challenges/type-challenges)
 
 Combinations
-Typescript with [[React]] [blogpost](https://www.digitalocean.com/community/tutorials/react-typescript-with-react)
+Typescript with [[Use React]] [blogpost](https://www.digitalocean.com/community/tutorials/react-typescript-with-react)

@@ -1,9 +1,9 @@
-1. [[Explore Business Ideas]]
+1. Explore Business Ideas
 1. [[Find a problem]]
 2. Explore possible solutions
 3. [[Evaluate your idea]]
 4. Get [[Funding]]
-5. Pick a working [[Business Model]]
+5. [[Use tested Business Model]]
 6. [[Validate your idea]]
 7. Prototype small version of product [[Build a product]]
 8. [[Market Product to Customers (Marketing)]]
