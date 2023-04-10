@@ -155,12 +155,19 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Write control software.md",
+    "vault/Use Lidar.md",
+    "vault/Build a robot.md",
+    "vault/Make slides.md",
+    "vault/Virtual Memory Management.md",
+    "vault/Use Recommendation Algorithms.md",
+    "vault/Use Excel.md",
+    "vault/Make it Scalable.md",
     "vault/Evaluate your idea.md",
     "vault/Build a business.md",
     "vault/Automate using GenerativeAI.md",
     "vault/Build a product.md",
     "vault/Find a problem.md",
-    "vault/Build a robot.md",
     "vault/Unblock yourself.md",
     "vault/Ask AI using ChatGPT.md",
     "vault/Deal with uncertainty.md",
@@ -173,13 +180,6 @@
     "vault/Connect with people.md",
     "vault/Avoid overthinking.md",
     "vault/Handle moments of crisis.md",
-    "vault/Give a great Massage.md",
-    "vault/Apply Reinforcement Learning.md",
-    "vault/Javascript.md",
-    "vault/Select Motor Drivers.md",
-    "vault/Manage info overload (PKM).md",
-    "vault/Apply Sensor fusion.md",
-    "vault/Automate development (DevOps).md",
-    "vault/Use Vim.md"
+    "vault/Give a great Massage.md"
   ]
 }

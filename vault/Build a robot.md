@@ -1,5 +1,3 @@
-[[Find a problem]]
-[[Evaluate your idea]]
 Build Body (Mechanics)
 * [[Select Motors]]
 * [[Select Motor Drivers]]
@@ -17,7 +15,10 @@ Build a prototype
 [[Build network infrastructure]]
 
 ## Definitions
-A robot is machine that has perception, autonomy and movement (see-think-act)
+A robot is machine that can (see-think-act)
+- perception
+- autonomy 
+- movement
 
 ## Forms
 Wheeled Robots
