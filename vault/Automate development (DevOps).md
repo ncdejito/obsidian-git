@@ -7,12 +7,14 @@ Configure servers by
 
 
 ## Tasks
-[[Integrate and Deploy code with CICD]]
-[[Connect computers with Networking]]
 Prototype deployment
 * [[Use Flyio]]
 * [[Use Heroku]]
 Code in server - [[Use Vim]]
+[[Integrate and Deploy code with CICD]]
+Configuration management - Ansible, Chef, Puppet
+[[Connect computers with Networking]]
+
 
 * [[Assess compute requirements]]
 * [[Learn a large code base]]

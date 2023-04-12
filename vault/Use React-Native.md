@@ -1,6 +1,6 @@
 [[Build Frontend UI]]
 
-Alternatives: [[Flutter]]
+Alternatives: [[Use Flutter]]
 
 Learn once write anywhere
 * Can deploy to mobile

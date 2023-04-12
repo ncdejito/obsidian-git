@@ -19,7 +19,7 @@ npm install rxjs
 
 ## Frameworks
 - Website - [[Use React]]
-- Mobile - [[React-Native]]
+- Mobile - [[Use React-Native]]
 * ML - [Streamlit](https://streamlit.io/), [Gradio](https://github.com/gradio-app/gradio/)
 
 ## Definition

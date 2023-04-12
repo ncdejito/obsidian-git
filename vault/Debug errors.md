@@ -36,3 +36,5 @@ lldb
 breakpoint set -f file.zig -l 156
 thread backtrace
 ```
+
+ChatGDB

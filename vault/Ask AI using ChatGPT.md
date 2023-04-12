@@ -27,3 +27,4 @@ Poe from Quora
 
 ## Fundamentals
 [[Understand Large Language Models LLM]]
+[Implement Large Language Models](https://www.linkedin.com/posts/yijing-barry-zhang_as-a-llm-practioner-this-is-my-current-framework-activity-7051010639225319424-rqk1?utm_source=share&utm_medium=member_desktop)

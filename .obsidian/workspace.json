@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Build a robot.md",
+                "file": "vault/Automate development (DevOps).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Build a robot.md",
+                "file": "vault/Automate development (DevOps).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Build a robot.md",
+                "file": "vault/Automate development (DevOps).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Build a robot.md"
+                "file": "vault/Automate development (DevOps).md"
               }
             }
           },
@@ -155,31 +155,31 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
-    "vault/Write control software.md",
-    "vault/Use Lidar.md",
-    "vault/Build a robot.md",
-    "vault/Make slides.md",
-    "vault/Virtual Memory Management.md",
-    "vault/Use Recommendation Algorithms.md",
-    "vault/Use Excel.md",
-    "vault/Make it Scalable.md",
-    "vault/Evaluate your idea.md",
-    "vault/Build a business.md",
-    "vault/Automate using GenerativeAI.md",
-    "vault/Build a product.md",
-    "vault/Find a problem.md",
-    "vault/Unblock yourself.md",
-    "vault/Ask AI using ChatGPT.md",
-    "vault/Deal with uncertainty.md",
-    "vault/Manage yourself.md",
-    "vault/Connect an API.md",
-    "vault/Understand webhooks.md",
+    "vault/Integrate and Deploy code with CICD.md",
+    "vault/C++.md",
+    "vault/Use Interfaces.md",
+    "vault/Rust.md",
+    "vault/FastAPI.md",
+    "vault/Use Controller Area Networks CAN.md",
+    "vault/Nav2 Topics.md",
+    "vault/Use Nav2.md",
+    "vault/Use Vim.md",
+    "vault/Pass coding exams.md",
     "vault/Debug errors.md",
-    "vault/Write software code.md",
-    "vault/Explore Business Ideas.md",
-    "vault/Connect with people.md",
     "vault/Avoid overthinking.md",
-    "vault/Handle moments of crisis.md",
-    "vault/Give a great Massage.md"
+    "vault/Use Excel.md",
+    "vault/Invest.md",
+    "vault/Use Flutter.md",
+    "vault/Use React-Native.md",
+    "vault/Build Frontend UI.md",
+    "vault/Automate development (DevOps).md",
+    "vault/Use Flyio.md",
+    "vault/Ask AI using ChatGPT.md",
+    "vault/Large Language Models LLM.md",
+    "Industries to pitch data infra to.md",
+    "Build an Enterprise Data Platform.md",
+    "vault/Build a robot.md",
+    "vault/Write control software.md",
+    "vault/Use Lidar.md"
   ]
 }

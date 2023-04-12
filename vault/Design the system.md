@@ -1,3 +1,9 @@
+SHDW - from System Design Interview
+Scope needs
+High level design
+Deep-dive
+Wrap up
+
 Plan
 Identify system needs in metrics
 * [[Make it Resilient]] - kill one vm, data is safe
