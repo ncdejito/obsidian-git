@@ -1,7 +1,15 @@
+## HR interview
+
+Map job description to experience and skills
+List unknown tech required by job description - know what they are used for, find similar experiences
+
+List products of company
+Products - Figure out how you will add value to their business
 Research current events and [[Stay updated on tech trends]]
 
-
-[[Write software code]] [[Apply battle-tested Algorithms]]
+## Tech interviews
+[[Write software code]] 
+[[Apply battle-tested Algorithms]]
 
 * Cracking the Coding Interview
 * Blind 75 Neetcode

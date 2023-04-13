@@ -25,6 +25,8 @@ Alternatives
 Poe from Quora
 [FastChat](https://github.com/lm-sys/FastChat)
 
+[FindFlow](https://www.linkedin.com/posts/xyzarivera_%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E5%90%91%E3%81%91ai%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA-activity-7051811849956163585-oii6?utm_source=share&utm_medium=member_desktop) - internal chatGPT
+
 ## Fundamentals
 [[Understand Large Language Models LLM]]
 [Implement Large Language Models](https://www.linkedin.com/posts/yijing-barry-zhang_as-a-llm-practioner-this-is-my-current-framework-activity-7051010639225319424-rqk1?utm_source=share&utm_medium=member_desktop)

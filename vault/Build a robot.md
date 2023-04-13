@@ -30,8 +30,9 @@ Self-Driving Cars - [Metrics from Cruise](https://www.linkedin.com/posts/kylevog
 
 ## Applications
 Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)
-Construction Robotics - [Intro](https://www.youtube.com/watch?v=xGGfTgHp6Ik) [Industry report map](https://medium.com/@ZacuaVentures/construction-robotics-the-new-frontier-in-construction-afb4fe856816), [China construction robotics plan](https://www.linkedin.com/posts/amprather_how-many-use-cases-exist-for-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-activity-7025809850043355136-j-f_?utm_source=share&utm_medium=member_android)
+[[Construction Robotics]]
 [Security robotics](https://ubuntu.com/blog/getting-started-with-ros-security-scanning)
+[Inspection robots](https://www.linkedin.com/posts/anybotics_ip54-ip68-ip67-activity-7051451831742255105--sl8?utm_source=share&utm_medium=member_desktop)
 
 ## Resources
 Joshua intro to robots

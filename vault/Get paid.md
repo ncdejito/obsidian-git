@@ -1,5 +1,6 @@
 Set aspirational hourly rate
-Get actual
+Get current actual
+negotiate to near aspirational
 
 Pay
 levels.fyi

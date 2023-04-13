@@ -3,4 +3,7 @@
 * make scenarios - strive for best case but prepare for worst case
 
 Deciding
-pros and cons, best-worst case scenarios, rough probability, backup plan a to c
+pros and cons, 
+best-worst case scenarios, 
+rough probability, 
+backup plan a to c

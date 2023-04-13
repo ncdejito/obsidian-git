@@ -1,10 +1,8 @@
-Configure servers by 
 
 ## Concern
 - shorten the development life cycle 
 - provide continuous delivery
 - high software quality
-
 
 ## Tasks
 Prototype deployment

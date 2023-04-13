@@ -7,7 +7,6 @@
 [[Deal with uncertainty]]
 [[Handle moments of crisis]]
 [[Avoid overthinking]]
+[[Build confidence]]
 
 
-
-Confidence doc bluesymph jed

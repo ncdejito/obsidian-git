@@ -9,7 +9,7 @@ Write starter code with AI: [[Ask AI using ChatGPT]]
 ## Skills
 * [[Code the logic]]
 - [[Connect an API]]
-- [[Save to a Database]]
+- Save to [[Databases]]
 - [[Deliver data faster with Caching]]
 - [[Use Message Queues for Resiliency]]
 - [[Check for Security Risks]]

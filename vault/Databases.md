@@ -2,6 +2,8 @@
 
 a hashmap
 
+[[NoSQL]]
+
 ## Tools
 Dbeaver
 Jdbc odbc connectors
@@ -23,10 +25,7 @@ BASE - given CAP, best approximation of ACID
 - Soft state — The system could change over time, even during times of no input (due to eventual consistency)
 - Eventual consistency — In the absence of input, the data will spread to every node sooner or later — thus becoming consistent
 
-Why NoSQL? (not only SQL)
-- Can be much faster than relational
-- Developers can structure how data looks like
-- Scalable for traffic and zero downtime
+
 
 Database Index - improve performance of db by 
 
@@ -39,7 +38,9 @@ Structures
 Vector search database - [milvus](https://milvus.io/)
 
 References
-[When to Use NoSQL](https://www.mongodb.com/nosql-explained/when-to-use-nosql)
+
 [When to Use SQL](https://www.mongodb.com/compare/mongodb-postgresql)
 
 [The Red Book](http://www.redbook.io/) - history of databases
+
+
