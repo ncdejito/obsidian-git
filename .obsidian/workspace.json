@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Large Language Models LLM.md",
+                "file": "vault/Version code with Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Large Language Models LLM.md",
+                "file": "vault/Version code with Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Large Language Models LLM.md",
+                "file": "vault/Version code with Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Large Language Models LLM.md"
+                "file": "vault/Version code with Git.md"
               }
             }
           },
@@ -155,6 +155,14 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Understand Large Language Models LLM.md",
+    "vault/Large Language Models LLM.md",
+    "vault/Natural Language Processing.md",
+    "vault/Apply Machine Learning.md",
+    "Build an Enterprise Data Platform.md",
+    "vault/Content Management System (CMS).md",
+    "vault/Camera Calibration.md",
+    "vault/Construction Robotics.md",
     "vault/Build pipelines for data (Data Engineering).md",
     "vault/Prepare for job interview.md",
     "vault/Deal with uncertainty.md",
@@ -164,22 +172,14 @@
     "vault/NoSQL.md",
     "vault/Build confidence.md",
     "vault/Manage yourself.md",
-    "vault/Construction Robotics.md",
     "vault/Build a robot.md",
     "vault/Ask AI using ChatGPT.md",
-    "vault/Large Language Models LLM.md",
     "vault/Use ROS2.md",
     "vault/Robotics Visualization.md",
     "vault/Robotics Simulation.md",
     "vault/Funding.md",
     "vault/Build a business.md",
     "vault/Evaluate your idea.md",
-    "vault/Robotic Manipulation.md",
-    "vault/Select On-prem Servers.md",
-    "vault/Get paid.md",
-    "vault/Use React-Native.md",
-    "vault/Automate development (DevOps).md",
-    "vault/Integrate and Deploy code with CICD.md",
-    "vault/C++.md"
+    "vault/Robotic Manipulation.md"
   ]
 }

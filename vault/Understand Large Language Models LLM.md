@@ -16,3 +16,11 @@ Connect LLMs with ML tasks
 
 LLMs on your laptop  
 [https://github.com/nat/openplayground](https://github.com/nat/openplayground)
+
+LLMs for production by chip huyen
+https://www.linkedin.com/posts/chiphuyen_llms-promptengineering-mlops-activity-7051955337221844992-oG7a?utm_source=share&utm_medium=member_android
+
+https://huyenchip.com/2023/04/11/llm-engineering.html
+
+Connect LLMs with ML
+https://github.com/microsoft/JARVIS
