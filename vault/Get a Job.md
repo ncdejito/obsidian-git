@@ -3,7 +3,7 @@ Pick a role
 * [[Build a robot]]
 * [[Write software code]]
 * [[Build pipelines for data (Data Engineering)]]
-* [[Analyze data]]
+* [[Data analysis]]
 [[Write a Resume]]
 [[Study]]
 [[Apply]]
@@ -20,7 +20,7 @@ Accept
 [[Design the system]] Engineer
 [[Automate development (DevOps)]] Engineer
 Data Engineer ([[Build pipelines for data (Data Engineering)]])
-Data Analyst ([[Analyze data]])
+Data Analyst ([[Data analysis]])
 Finance Analyst
 
 Industries

@@ -1,3 +1,5 @@
+YC yt vid tested business models
+
 1 person business ideas
 [HN](https://news.ycombinator.com/item?id=35333088&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
 

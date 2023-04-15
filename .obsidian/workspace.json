@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Use tested Business Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Use tested Business Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Use tested Business Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Version code with Git.md"
+                "file": "vault/Use tested Business Model.md"
               }
             }
           },
@@ -155,6 +155,20 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Data analysis.md",
+    "vault/Data Science.md",
+    "vault/Make slides.md",
+    "vault/Use Excel.md",
+    "vault/Use Python for Data Analysis.md",
+    "vault/Use Python.md",
+    "vault/Download from GDrive using wget.md",
+    "vault/Linux.md",
+    "vault/Elixir.md",
+    "vault/Build confidence.md",
+    "vault/Use Docker.md",
+    "vault/Virtual Memory Management.md",
+    "vault/Keep in mind programming principles.md",
+    "vault/Version code with Git.md",
     "vault/Understand Large Language Models LLM.md",
     "vault/Large Language Models LLM.md",
     "vault/Natural Language Processing.md",
@@ -166,20 +180,6 @@
     "vault/Build pipelines for data (Data Engineering).md",
     "vault/Prepare for job interview.md",
     "vault/Deal with uncertainty.md",
-    "vault/Get a Job.md",
-    "vault/Build Backend Components.md",
-    "vault/Databases.md",
-    "vault/NoSQL.md",
-    "vault/Build confidence.md",
-    "vault/Manage yourself.md",
-    "vault/Build a robot.md",
-    "vault/Ask AI using ChatGPT.md",
-    "vault/Use ROS2.md",
-    "vault/Robotics Visualization.md",
-    "vault/Robotics Simulation.md",
-    "vault/Funding.md",
-    "vault/Build a business.md",
-    "vault/Evaluate your idea.md",
-    "vault/Robotic Manipulation.md"
+    "vault/Get a Job.md"
   ]
 }

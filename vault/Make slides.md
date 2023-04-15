@@ -1,7 +1,8 @@
+So what?
 
 Slide making
 Objectives/Agenda first
-Slide headers as one sentence, when stacked on top of each other must make sense
+Headers on top - Slide headers as one sentence, when stacked on top of each other must make sense
 Top-down - insights first before methodology
 
 
