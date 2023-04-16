@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use tested Business Model.md",
+                "file": "vault/Stay updated on tech trends.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use tested Business Model.md",
+                "file": "vault/Stay updated on tech trends.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use tested Business Model.md",
+                "file": "vault/Stay updated on tech trends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use tested Business Model.md"
+                "file": "vault/Stay updated on tech trends.md"
               }
             }
           },
@@ -155,6 +155,12 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Use Perception.md",
+    "vault/Version code with Git.md",
+    "vault/Make it Maintainable.md",
+    "vault/Elixir.md",
+    "vault/Compare technology tradeoffs.md",
+    "vault/Use tested Business Model.md",
     "vault/Data analysis.md",
     "vault/Data Science.md",
     "vault/Make slides.md",
@@ -163,12 +169,10 @@
     "vault/Use Python.md",
     "vault/Download from GDrive using wget.md",
     "vault/Linux.md",
-    "vault/Elixir.md",
     "vault/Build confidence.md",
     "vault/Use Docker.md",
     "vault/Virtual Memory Management.md",
     "vault/Keep in mind programming principles.md",
-    "vault/Version code with Git.md",
     "vault/Understand Large Language Models LLM.md",
     "vault/Large Language Models LLM.md",
     "vault/Natural Language Processing.md",
@@ -176,10 +180,6 @@
     "Build an Enterprise Data Platform.md",
     "vault/Content Management System (CMS).md",
     "vault/Camera Calibration.md",
-    "vault/Construction Robotics.md",
-    "vault/Build pipelines for data (Data Engineering).md",
-    "vault/Prepare for job interview.md",
-    "vault/Deal with uncertainty.md",
-    "vault/Get a Job.md"
+    "vault/Construction Robotics.md"
   ]
 }
