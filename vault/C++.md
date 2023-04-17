@@ -34,6 +34,7 @@ How to learn (start anywhere!)
 * Effective modern c++
 * C++ for everyone coursera by Dr. Ira Pohl
 * Learncpp .com
+[Awesome c++ blogs](https://www.linkedin.com/posts/necatiergn_cpp-programming-coding-activity-7053297104751865857-OyVR?utm_source=share&utm_medium=member_desktop)
 
 Modern C++  
 [https://github.com/facebook/folly](https://github.com/facebook/folly)

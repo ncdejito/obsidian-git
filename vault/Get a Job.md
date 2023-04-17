@@ -1,9 +1,12 @@
 
-Pick a role
+Pick an ideal role
 * [[Build a robot]]
 * [[Write software code]]
 * [[Build pipelines for data (Data Engineering)]]
 * [[Data analysis]]
+Find an ideal role
+* [[Network with business contacts]]
+* [[Improve your online profile]]
 [[Write a Resume]]
 [[Study]]
 [[Apply]]
@@ -12,7 +15,7 @@ Pick a role
 [[Negotiate]] good to [[Get paid]] well
 Accept
 
-
+Jobs you might be interested in
 [[Build a robot]] Engineer
 [[Apply Machine Learning]] Engineer
 [[Build Frontend UI]] Developer

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Stay updated on tech trends.md",
+                "file": "vault/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Stay updated on tech trends.md",
+                "file": "vault/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Stay updated on tech trends.md",
+                "file": "vault/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Stay updated on tech trends.md"
+                "file": "vault/C++.md"
               }
             }
           },
@@ -155,6 +155,16 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Invent a Character.md",
+    "vault/Camera Calibration.md",
+    "vault/FastAPI.md",
+    "vault/Learn a large code base.md",
+    "vault/Improve your online profile.md",
+    "vault/Get a Job.md",
+    "vault/Network with business contacts.md",
+    "vault/Write a Resume.md",
+    "vault/Prepare for job interview.md",
+    "vault/Stay updated on tech trends.md",
     "vault/Use Perception.md",
     "vault/Version code with Git.md",
     "vault/Make it Maintainable.md",
@@ -170,16 +180,6 @@
     "vault/Download from GDrive using wget.md",
     "vault/Linux.md",
     "vault/Build confidence.md",
-    "vault/Use Docker.md",
-    "vault/Virtual Memory Management.md",
-    "vault/Keep in mind programming principles.md",
-    "vault/Understand Large Language Models LLM.md",
-    "vault/Large Language Models LLM.md",
-    "vault/Natural Language Processing.md",
-    "vault/Apply Machine Learning.md",
-    "Build an Enterprise Data Platform.md",
-    "vault/Content Management System (CMS).md",
-    "vault/Camera Calibration.md",
-    "vault/Construction Robotics.md"
+    "vault/Use Docker.md"
   ]
 }
