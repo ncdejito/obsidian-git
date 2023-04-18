@@ -7,3 +7,5 @@ Idea Validation
 https://www.linkedin.com/posts/justinwelsh_idea-validation-has-never-been-easier-activity-7046526862377787392-mBQk?utm_source=share&utm_medium=member_desktop
 
 YCombinator questions
+
+Fry My Deck (taken down) idea - use AI to simulate VC q&a on your idea

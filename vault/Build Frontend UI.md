@@ -2,7 +2,7 @@
 Identify User stories
 Draw Wireframe
 [[Use existing code]]
-Write starter code with AI: [[Ask AI using ChatGPT]]
+Write starter code with AI: [[Using LLMs]]
 [[Compare technology tradeoffs]]
 Use a Content Management System
 

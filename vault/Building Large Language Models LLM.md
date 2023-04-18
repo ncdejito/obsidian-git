@@ -24,3 +24,8 @@ https://huyenchip.com/2023/04/11/llm-engineering.html
 
 Connect LLMs with ML
 https://github.com/microsoft/JARVIS
+
+Tutorial on Building LLM powered applications  
+[https://www.linkedin.com/posts/sanyambhutani_the-best-tutorial-series-on-building-llm-activity-7053542805020848129-fmhD?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/sanyambhutani_the-best-tutorial-series-on-building-llm-activity-7053542805020848129-fmhD?utm_source=share&utm_medium=member_android)
+
+[Implement Large Language Models](https://www.linkedin.com/posts/yijing-barry-zhang_as-a-llm-practioner-this-is-my-current-framework-activity-7051010639225319424-rqk1?utm_source=share&utm_medium=member_desktop)

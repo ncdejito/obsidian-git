@@ -77,5 +77,6 @@ Ben and Greg Linux Performance
 Every Computer Performance Book
 Berkley Packet Filter* bpf performance tools
 Observability Engineering - Liz Fong Jones
+[Conductor](https://github.com/Netflix/conductor) - microservices orchestration by Netflix
 
 

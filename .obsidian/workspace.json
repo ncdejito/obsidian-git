@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/C++.md",
+                "file": "vault/Manage info overload (PKM).md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/C++.md",
+                "file": "vault/Manage info overload (PKM).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/C++.md",
+                "file": "vault/Manage info overload (PKM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/C++.md"
+                "file": "vault/Manage info overload (PKM).md"
               }
             }
           },
@@ -155,31 +155,31 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
-    "vault/Invent a Character.md",
-    "vault/Camera Calibration.md",
-    "vault/FastAPI.md",
-    "vault/Learn a large code base.md",
-    "vault/Improve your online profile.md",
-    "vault/Get a Job.md",
-    "vault/Network with business contacts.md",
-    "vault/Write a Resume.md",
-    "vault/Prepare for job interview.md",
-    "vault/Stay updated on tech trends.md",
-    "vault/Use Perception.md",
-    "vault/Version code with Git.md",
-    "vault/Make it Maintainable.md",
-    "vault/Elixir.md",
-    "vault/Compare technology tradeoffs.md",
+    "vault/Workspace.md",
+    "vault/P5JS.md",
+    "vault/Understand webhooks.md",
+    "vault/Haskell.md",
+    "vault/Javascript.md",
+    "vault/Avoid common mistakes in distributed.md",
+    "vault/Use ROS2.md",
+    "vault/Nav2 Topics.md",
+    "vault/Use Nav2.md",
     "vault/Use tested Business Model.md",
-    "vault/Data analysis.md",
-    "vault/Data Science.md",
-    "vault/Make slides.md",
-    "vault/Use Excel.md",
-    "vault/Use Python for Data Analysis.md",
-    "vault/Use Python.md",
-    "vault/Download from GDrive using wget.md",
-    "vault/Linux.md",
-    "vault/Build confidence.md",
-    "vault/Use Docker.md"
+    "vault/Build a business.md",
+    "vault/Evaluate your business idea.md",
+    "vault/Evaluate your idea.md",
+    "vault/Write a Resume.md",
+    "vault/Using LLMs.md",
+    "vault/Building Large Language Models LLM.md",
+    "vault/Design the system.md",
+    "vault/Make money.md",
+    "vault/Use Recommendation Algorithms.md",
+    "vault/Select Programming Paradigm.md",
+    "vault/Use Odometry.md",
+    "vault/VSCode.md",
+    "vault/Poetry.md",
+    "vault/C++.md",
+    "vault/Invent a Character.md",
+    "vault/Camera Calibration.md"
   ]
 }

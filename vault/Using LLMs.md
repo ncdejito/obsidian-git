@@ -9,6 +9,9 @@ Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-aw
 [Useful Prompts](https://www.linkedin.com/posts/aaditsh_the-most-useful-chatgpt-prompts-save-these-activity-7040346360360898560-WqYR?utm_source=share&utm_medium=member_desktop)
 [500 templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
 
+Study repositories with chatgpt  
+[https://useadrenaline.com/app](https://useadrenaline.com/app)
+
 ## In data analysis
 [Ken Jee's 4 tips](https://www.linkedin.com/feed/update/urn:li:activity:7028529627186819072/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7028529627186819072%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 [3 more tips](https://www.linkedin.com/feed/update/urn:li:activity:7029155602421485568/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7029155602421485568%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
@@ -27,6 +30,8 @@ Poe from Quora
 
 [FindFlow](https://www.linkedin.com/posts/xyzarivera_%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E5%90%91%E3%81%91ai%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%92%E9%96%8B%E7%99%BA-activity-7051811849956163585-oii6?utm_source=share&utm_medium=member_desktop) - internal chatGPT
 
+[AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - fully autonomous AI
+
 ## Fundamentals
-[[Understand Large Language Models LLM]]
-[Implement Large Language Models](https://www.linkedin.com/posts/yijing-barry-zhang_as-a-llm-practioner-this-is-my-current-framework-activity-7051010639225319424-rqk1?utm_source=share&utm_medium=member_desktop)
+[[Building Large Language Models LLM]]
+

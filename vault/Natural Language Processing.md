@@ -4,4 +4,4 @@
 
 [Cross lingual transfer learning](https://www.youtube.com/watch?v=z0WbBA5pZgI&t=104) - applying learnings from one language to a different one
 
-[[Understand Large Language Models LLM]]
+[[Building Large Language Models LLM]]
