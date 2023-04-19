@@ -1,4 +1,4 @@
-Stay productive with [[Manage the project]]
+Stay productive with [[Manage time with Project Management]]
 
 Find a working example first
 Adjust it a bit to fit what you want

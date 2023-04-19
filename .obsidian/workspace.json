@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Manage info overload (PKM).md",
+                "file": "vault/Apply Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "slam_toolbox",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Manage info overload (PKM).md",
+                "file": "vault/Apply Machine Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Manage info overload (PKM).md",
+                "file": "vault/Apply Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Manage info overload (PKM).md"
+                "file": "vault/Apply Machine Learning.md"
               }
             }
           },
@@ -155,13 +155,22 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/URDF.md",
+    "vault/Use ROS2.md",
+    "vault/Learn a large code base.md",
+    "vault/Use Python.md",
+    "vault/Apply SLAM.md",
+    "vault/Nav2 Nodes.md",
+    "vault/Manage time with Project Management.md",
+    "vault/Manage the project.md",
+    "vault/Manage yourself.md",
+    "vault/Manage info overload (PKM).md",
     "vault/Workspace.md",
     "vault/P5JS.md",
     "vault/Understand webhooks.md",
     "vault/Haskell.md",
     "vault/Javascript.md",
     "vault/Avoid common mistakes in distributed.md",
-    "vault/Use ROS2.md",
     "vault/Nav2 Topics.md",
     "vault/Use Nav2.md",
     "vault/Use tested Business Model.md",
@@ -171,15 +180,6 @@
     "vault/Write a Resume.md",
     "vault/Using LLMs.md",
     "vault/Building Large Language Models LLM.md",
-    "vault/Design the system.md",
-    "vault/Make money.md",
-    "vault/Use Recommendation Algorithms.md",
-    "vault/Select Programming Paradigm.md",
-    "vault/Use Odometry.md",
-    "vault/VSCode.md",
-    "vault/Poetry.md",
-    "vault/C++.md",
-    "vault/Invent a Character.md",
-    "vault/Camera Calibration.md"
+    "vault/Design the system.md"
   ]
 }

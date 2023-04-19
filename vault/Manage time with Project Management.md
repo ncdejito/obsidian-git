@@ -67,6 +67,7 @@ write feelings
 plan day ahead
 
 Time management
+Schedule deadlines per day instead of calendar entries
 Planned using GCal - change only by moving blocks
 Actual using Toggl
 
@@ -99,3 +100,28 @@ When finishing the end, list down immediate next step for next session
 
 Learning direction
 Obsidian, feed learnings to gdoc then transfer if recalled, feel like growing a garden again, topics obsidian, gdocs book outlines
+
+simplify time tracking entries to goal oriented categories
+
+
+
+## Theory
+Roadmap
+
+Project management
+
+  
+Tools  
+Asana  
+GCalendar  
+Gdocs  
+GithubProjects
+
+Theory
+Agile principles  - Software Development Process [course](https://learn.udacity.com/courses/ud805)
+Small releases  
+Tasks outputs as unit tests  
+Early Customer involvement  
+
+-iron triangle - budget, scope, schedule
+-waterfall vs agile
