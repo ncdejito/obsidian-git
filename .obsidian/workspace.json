@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Apply Machine Learning.md",
+                "file": "vault/Invent a Character.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Apply Machine Learning.md",
+                "file": "vault/Invent a Character.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Apply Machine Learning.md",
+                "file": "vault/Invent a Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Apply Machine Learning.md"
+                "file": "vault/Invent a Character.md"
               }
             }
           },
@@ -155,6 +155,13 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Using LLMs ChatGPT.md",
+    "vault/Building Large Language Models LLM.md",
+    "vault/Use Recommendation Algorithms.md",
+    "vault/C++.md",
+    "vault/Zig.md",
+    "vault/ROS networking.md",
+    "vault/Apply Machine Learning.md",
     "vault/URDF.md",
     "vault/Use ROS2.md",
     "vault/Learn a large code base.md",
@@ -173,13 +180,6 @@
     "vault/Avoid common mistakes in distributed.md",
     "vault/Nav2 Topics.md",
     "vault/Use Nav2.md",
-    "vault/Use tested Business Model.md",
-    "vault/Build a business.md",
-    "vault/Evaluate your business idea.md",
-    "vault/Evaluate your idea.md",
-    "vault/Write a Resume.md",
-    "vault/Using LLMs.md",
-    "vault/Building Large Language Models LLM.md",
-    "vault/Design the system.md"
+    "vault/Use tested Business Model.md"
   ]
 }

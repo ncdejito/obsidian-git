@@ -1,6 +1,6 @@
 [[Apply Machine Learning]]
 
-[[Using LLMs]]
+[[Using LLMs ChatGPT]]
 
 [[Text-to-Image]]
 

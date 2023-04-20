@@ -32,6 +32,9 @@ Poe from Quora
 
 [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - fully autonomous AI
 
+Gpt4all-j - open source chatbot for everybody  
+[https://github.com/nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+
 ## Fundamentals
 [[Building Large Language Models LLM]]
 

@@ -28,6 +28,6 @@ summary
 key skills
 professional experience
 
-Use [[Using LLMs]]
+Use [[Using LLMs ChatGPT]]
 [tips](https://www.linkedin.com/posts/brandonturp_how-to-land-your-dream-job-with-chatgpt-ugcPost-7038513771991953408-3aO-?utm_source=share&utm_medium=member_desktop)
 Rezi - write a technical resume

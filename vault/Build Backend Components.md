@@ -1,6 +1,6 @@
 
 [[Use existing code]]
-Write starter code with AI: [[Using LLMs]]
+Write starter code with AI: [[Using LLMs ChatGPT]]
 [[Compare technology tradeoffs]]
 
 ## Concern
