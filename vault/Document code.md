@@ -1,3 +1,5 @@
+the best documentation is no documentation
+
 [4 quadrant types of documentation](https://documentation.divio.com/)
 Tutorials
 How-to

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Invent a Character.md",
+                "file": "vault/Document code.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Invent a Character.md",
+                "file": "vault/Document code.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Invent a Character.md",
+                "file": "vault/Document code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Invent a Character.md"
+                "file": "vault/Document code.md"
               }
             }
           },
@@ -155,6 +155,7 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Invent a Character.md",
     "vault/Using LLMs ChatGPT.md",
     "vault/Building Large Language Models LLM.md",
     "vault/Use Recommendation Algorithms.md",
@@ -179,7 +180,6 @@
     "vault/Javascript.md",
     "vault/Avoid common mistakes in distributed.md",
     "vault/Nav2 Topics.md",
-    "vault/Use Nav2.md",
-    "vault/Use tested Business Model.md"
+    "vault/Use Nav2.md"
   ]
 }
