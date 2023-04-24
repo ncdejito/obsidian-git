@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Document code.md",
+                "file": "vault/GCP.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slam_toolbox",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Document code.md",
+                "file": "vault/GCP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Document code.md",
+                "file": "vault/GCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Document code.md"
+                "file": "vault/GCP.md"
               }
             }
           },
@@ -155,31 +155,31 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Named Data Networking.md",
+    "vault/Time complexity.md",
+    "vault/GCP.md",
+    "vault/Databases.md",
+    "vault/Build Frontend UI.md",
+    "vault/Automate development (DevOps).md",
+    "vault/Make it Maintainable.md",
+    "vault/Autonomous Agents.md",
+    "vault/ADAS.md",
+    "vault/Speech-to-text.md",
+    "vault/Apply SLAM.md",
+    "vault/Invest.md",
+    "vault/Use Excel.md",
+    "vault/Toggl.md",
+    "vault/Select Programming Language.md",
+    "vault/Connect with people.md",
+    "README.md",
+    "vault/Use Flutter.md",
+    "vault/Use Perception.md",
+    "vault/Use Controller Area Networks CAN.md",
+    "vault/Document code.md",
     "vault/Invent a Character.md",
     "vault/Using LLMs ChatGPT.md",
     "vault/Building Large Language Models LLM.md",
     "vault/Use Recommendation Algorithms.md",
-    "vault/C++.md",
-    "vault/Zig.md",
-    "vault/ROS networking.md",
-    "vault/Apply Machine Learning.md",
-    "vault/URDF.md",
-    "vault/Use ROS2.md",
-    "vault/Learn a large code base.md",
-    "vault/Use Python.md",
-    "vault/Apply SLAM.md",
-    "vault/Nav2 Nodes.md",
-    "vault/Manage time with Project Management.md",
-    "vault/Manage the project.md",
-    "vault/Manage yourself.md",
-    "vault/Manage info overload (PKM).md",
-    "vault/Workspace.md",
-    "vault/P5JS.md",
-    "vault/Understand webhooks.md",
-    "vault/Haskell.md",
-    "vault/Javascript.md",
-    "vault/Avoid common mistakes in distributed.md",
-    "vault/Nav2 Topics.md",
-    "vault/Use Nav2.md"
+    "vault/C++.md"
   ]
 }

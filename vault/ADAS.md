@@ -1,0 +1,5 @@
+[[Build a robot]]
+
+Adas  
+Decision making techniques for autonomous vehicles  
+[https://www.linkedin.com/posts/jorge-villagra-serrano_autonomousdriving-autonomousvehicles-decisionmaking-activity-7054716050650652672-e4AA?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/jorge-villagra-serrano_autonomousdriving-autonomousvehicles-decisionmaking-activity-7054716050650652672-e4AA?utm_source=share&utm_medium=member_android)
