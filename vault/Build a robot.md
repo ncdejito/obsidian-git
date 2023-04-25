@@ -12,6 +12,7 @@ Connect Wiring (Electronics)
 * [[Select microcontroller]]
 * [[Select Regulator]]
 Build a prototype
+[[Connect robot to the cloud]]
 [[Build network infrastructure]]
 
 ## Definitions

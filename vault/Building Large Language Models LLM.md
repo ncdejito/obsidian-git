@@ -30,6 +30,9 @@ Tutorial on Building LLM powered applications
 
 [Implement Large Language Models](https://www.linkedin.com/posts/yijing-barry-zhang_as-a-llm-practioner-this-is-my-current-framework-activity-7051010639225319424-rqk1?utm_source=share&utm_medium=member_desktop)
 
+Tune LLMs to your own data  
+[https://www.linkedin.com/posts/sanyambhutani_terrific-tutorial-on-tuning-llms-on-your-activity-7056445643858358272-ZcMW?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/sanyambhutani_terrific-tutorial-on-tuning-llms-on-your-activity-7056445643858358272-ZcMW?utm_source=share&utm_medium=member_android)
+
 
 Collecting data
 https://github.com/togethercomputer/RedPajama-Data

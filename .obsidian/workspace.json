@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/GCP.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/GCP.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/GCP.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/GCP.md"
+                "file": "vault/Building Large Language Models LLM.md"
               }
             }
           },
@@ -155,9 +155,22 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Deal with uncertainty.md",
+    "vault/Version code with Git.md",
+    "vault/Extract info from images using Computer Vision.md",
+    "vault/Deploy Machine Learning Models.md",
+    "vault/Apply Machine Learning.md",
+    "vault/Manage yourself.md",
+    "vault/Connect robot to the cloud.md",
+    "vault/Build a robot.md",
+    "vault/Use React.md",
+    "vault/Use Python.md",
+    "vault/Find a problem.md",
+    "vault/Build a business.md",
+    "vault/Use Controller Area Networks CAN.md",
+    "vault/GCP.md",
     "vault/Named Data Networking.md",
     "vault/Time complexity.md",
-    "vault/GCP.md",
     "vault/Databases.md",
     "vault/Build Frontend UI.md",
     "vault/Automate development (DevOps).md",
@@ -167,19 +180,6 @@
     "vault/Speech-to-text.md",
     "vault/Apply SLAM.md",
     "vault/Invest.md",
-    "vault/Use Excel.md",
-    "vault/Toggl.md",
-    "vault/Select Programming Language.md",
-    "vault/Connect with people.md",
-    "README.md",
-    "vault/Use Flutter.md",
-    "vault/Use Perception.md",
-    "vault/Use Controller Area Networks CAN.md",
-    "vault/Document code.md",
-    "vault/Invent a Character.md",
-    "vault/Using LLMs ChatGPT.md",
-    "vault/Building Large Language Models LLM.md",
-    "vault/Use Recommendation Algorithms.md",
-    "vault/C++.md"
+    "vault/Use Excel.md"
   ]
 }

@@ -106,3 +106,6 @@ Source of error is VSCode CLI authentication
 ## Github alternatives
 Sourcehut - barebones
 Gitlab - slow
+
+Pro Git book
+https://git-scm.com/book/en/v2
