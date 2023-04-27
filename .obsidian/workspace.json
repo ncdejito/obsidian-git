@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md",
+                "file": "vault/Nav2 Actions.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md",
+                "file": "vault/Nav2 Actions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md",
+                "file": "vault/Nav2 Actions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md"
+                "file": "vault/Nav2 Actions.md"
               }
             }
           },
@@ -155,6 +155,11 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Program in Functional.md",
+    "vault/ADAS.md",
+    "vault/GCP.md",
+    "vault/Use ROS2.md",
+    "vault/Building Large Language Models LLM.md",
     "vault/Deal with uncertainty.md",
     "vault/Version code with Git.md",
     "vault/Extract info from images using Computer Vision.md",
@@ -168,7 +173,6 @@
     "vault/Find a problem.md",
     "vault/Build a business.md",
     "vault/Use Controller Area Networks CAN.md",
-    "vault/GCP.md",
     "vault/Named Data Networking.md",
     "vault/Time complexity.md",
     "vault/Databases.md",
@@ -176,10 +180,6 @@
     "vault/Automate development (DevOps).md",
     "vault/Make it Maintainable.md",
     "vault/Autonomous Agents.md",
-    "vault/ADAS.md",
-    "vault/Speech-to-text.md",
-    "vault/Apply SLAM.md",
-    "vault/Invest.md",
-    "vault/Use Excel.md"
+    "vault/Speech-to-text.md"
   ]
 }
