@@ -38,6 +38,8 @@ Structures
 Vector search database - [milvus](https://milvus.io/)
 
 References
+Beginner's Guide to Databases
+https://www.linkedin.com/posts/engnadeau_the-beginners-guide-to-databases-activity-7057701348112265217-384u?utm_source=share&utm_medium=member_desktop
 
 [When to Use SQL](https://www.mongodb.com/compare/mongodb-postgresql)
 

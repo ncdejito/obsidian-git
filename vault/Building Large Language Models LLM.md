@@ -1,6 +1,10 @@
+LLM open source frameworks  
+[https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&utm_medium=member_android)
+
 Large Language Models  
-Stanford course  
-[https://stanford-cs324.github.io/winter2023/syllabus/](https://stanford-cs324.github.io/winter2023/syllabus/)
+
+Lamini : LLM fine-tuning made-easy
+https://www.linkedin.com/posts/zhousharon_im-super-excited-to-announce-lamini-the-activity-7057754782249193472-1MKd?utm_source=share&utm_medium=member_desktop
 
 LLM Bloom C++
 https://www.linkedin.com/posts/jeremy-pinto_run-language-models-in-pure-c-introducing-activity-7042117323968630784-aOR9?utm_source=share&utm_medium=member_android
@@ -30,9 +34,15 @@ Tutorial on Building LLM powered applications
 
 [Implement Large Language Models](https://www.linkedin.com/posts/yijing-barry-zhang_as-a-llm-practioner-this-is-my-current-framework-activity-7051010639225319424-rqk1?utm_source=share&utm_medium=member_desktop)
 
+Stanford course  
+[https://stanford-cs324.github.io/winter2023/syllabus/](https://stanford-cs324.github.io/winter2023/syllabus/)
+
 Tune LLMs to your own data  
 [https://www.linkedin.com/posts/sanyambhutani_terrific-tutorial-on-tuning-llms-on-your-activity-7056445643858358272-ZcMW?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/sanyambhutani_terrific-tutorial-on-tuning-llms-on-your-activity-7056445643858358272-ZcMW?utm_source=share&utm_medium=member_android)
 
 
 Collecting data
 https://github.com/togethercomputer/RedPajama-Data
+
+Evolutionary tree of modern LLMs  
+[https://www.linkedin.com/feed/update/urn:li:activity:7057472505057312769?utm_source=share&utm_medium=member_android](https://www.linkedin.com/feed/update/urn:li:activity:7057472505057312769?utm_source=share&utm_medium=member_android)

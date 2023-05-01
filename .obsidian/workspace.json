@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Satellite Images.md",
+                "file": "vault/Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "snap store",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Satellite Images.md",
+                "file": "vault/Databases.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Satellite Images.md",
+                "file": "vault/Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Satellite Images.md"
+                "file": "vault/Databases.md"
               }
             }
           },
@@ -155,10 +155,20 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
-    "vault/Funding.md",
-    "vault/Satellite Images.md",
-    "Break a bad habit.md",
+    "vault/Building Large Language Models LLM.md",
+    "vault/Using LLMs ChatGPT.md",
+    "vault/Version code with Git.md",
     "vault/Ubuntu.md",
+    "vault/Linux.md",
+    "vault/Build a robot.md",
+    "vault/Crypto.md",
+    "vault/Apply Sensor fusion.md",
+    "vault/Use Obsidian.md",
+    "vault/Make slides.md",
+    "vault/Get a Job.md",
+    "vault/Satellite Images.md",
+    "vault/Funding.md",
+    "Break a bad habit.md",
     "vault/Deploy Machine Learning Models.md",
     "vault/Build Backend Components.md",
     "vault/Nav2 Actions.md",
@@ -166,20 +176,10 @@
     "vault/ADAS.md",
     "vault/GCP.md",
     "vault/Use ROS2.md",
-    "vault/Building Large Language Models LLM.md",
     "vault/Deal with uncertainty.md",
-    "vault/Version code with Git.md",
     "vault/Extract info from images using Computer Vision.md",
     "vault/Apply Machine Learning.md",
     "vault/Manage yourself.md",
-    "vault/Connect robot to the cloud.md",
-    "vault/Build a robot.md",
-    "vault/Use React.md",
-    "vault/Use Python.md",
-    "vault/Find a problem.md",
-    "vault/Build a business.md",
-    "vault/Use Controller Area Networks CAN.md",
-    "vault/Named Data Networking.md",
-    "vault/Time complexity.md"
+    "vault/Connect robot to the cloud.md"
   ]
 }
