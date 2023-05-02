@@ -8,7 +8,7 @@
 
 [GPT4 For writing code](https://twitter.com/codewandai?lang=en)
 
-
+Applications https://github.com/ai-collection/ai-collection
 
 GenerativeAI Landscape
 https://www.linkedin.com/posts/erika-fille-legara_ai-digital-innovation-activity-7020037338193936385-cBnc?utm_source=share&utm_medium=member_android

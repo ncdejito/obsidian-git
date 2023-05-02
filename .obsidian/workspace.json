@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Databases.md",
+                "file": "vault/Generative AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Databases.md",
+                "file": "vault/Generative AI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Databases.md",
+                "file": "vault/Generative AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Databases.md"
+                "file": "vault/Generative AI.md"
               }
             }
           },
@@ -155,10 +155,17 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Classical ML.md",
+    "vault/Databases.md",
+    "Build an Enterprise Data Platform.md",
+    "vault/Use Recommendation Algorithms.md",
+    "vault/Assess your ability.md",
+    "vault/Use React-Native.md",
+    "vault/Ubuntu.md",
+    "vault/Make it Maintainable.md",
     "vault/Building Large Language Models LLM.md",
     "vault/Using LLMs ChatGPT.md",
     "vault/Version code with Git.md",
-    "vault/Ubuntu.md",
     "vault/Linux.md",
     "vault/Build a robot.md",
     "vault/Crypto.md",
@@ -173,13 +180,6 @@
     "vault/Build Backend Components.md",
     "vault/Nav2 Actions.md",
     "vault/Program in Functional.md",
-    "vault/ADAS.md",
-    "vault/GCP.md",
-    "vault/Use ROS2.md",
-    "vault/Deal with uncertainty.md",
-    "vault/Extract info from images using Computer Vision.md",
-    "vault/Apply Machine Learning.md",
-    "vault/Manage yourself.md",
-    "vault/Connect robot to the cloud.md"
+    "vault/ADAS.md"
   ]
 }

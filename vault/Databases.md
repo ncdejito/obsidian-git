@@ -29,7 +29,7 @@ BASE - given CAP, best approximation of ACID
 
 Database Index - improve performance of db by 
 
-Structures
+## Structures
 * btree - generalizes binary search tree with >2 children nodes
 * lsm - log-structured merge tree - good performance for high insert volume
 [lsm vs btree]([https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6988884641034158080-CSq_](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-6988884641034158080-CSq_))
