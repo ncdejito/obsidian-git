@@ -42,5 +42,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:7026499417461469185?utm_sou
 Codon - compiled python  
 [https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-python-based-orders-of-magnitude-speedups.amp](https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-03-python-based-orders-of-magnitude-speedups.amp)
 
+Python syntax but C-speed
+https://www.modular.com/
 
 [[Use Python for Data Analysis]]

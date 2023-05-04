@@ -102,3 +102,6 @@ how to build expertise in a new field
 How to learn
 Feynman like understanding
 Be able to visualize exactly what needs to be done and steps needed to be taken e.g. a data analyst gets the data, processes it, does summaries, asks questions etc.
+
+Use CHATGPT
+https://www.linkedin.com/posts/tobias-zwingmann_chatgpt-education-ai-activity-7059196088544550912-nJMF?utm_source=share&utm_medium=member_desktop

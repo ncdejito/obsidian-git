@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Ignition Gazebo.md",
+                "file": "vault/Use Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Ignition Gazebo.md",
+                "file": "vault/Use Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Ignition Gazebo.md",
+                "file": "vault/Use Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Ignition Gazebo.md"
+                "file": "vault/Use Python.md"
               }
             }
           },
@@ -163,8 +163,16 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
-    "vault/Generative AI.md",
+    "vault/Use Lidar.md",
+    "vault/Apply SLAM.md",
+    "vault/How to Learn.md",
+    "vault/Build a robot.md",
+    "vault/Write control software.md",
+    "vault/Nav2 Services.md",
+    "vault/Select Programming Language.md",
+    "vault/Make money.md",
     "vault/Ignition Gazebo.md",
+    "vault/Generative AI.md",
     "vault/Classical ML.md",
     "vault/Databases.md",
     "Build an Enterprise Data Platform.md",
@@ -177,17 +185,9 @@
     "vault/Using LLMs ChatGPT.md",
     "vault/Version code with Git.md",
     "vault/Linux.md",
-    "vault/Build a robot.md",
     "vault/Crypto.md",
     "vault/Apply Sensor fusion.md",
     "vault/Use Obsidian.md",
-    "vault/Make slides.md",
-    "vault/Get a Job.md",
-    "vault/Satellite Images.md",
-    "vault/Funding.md",
-    "Break a bad habit.md",
-    "vault/Deploy Machine Learning Models.md",
-    "vault/Build Backend Components.md",
-    "vault/Nav2 Actions.md"
+    "vault/Make slides.md"
   ]
 }

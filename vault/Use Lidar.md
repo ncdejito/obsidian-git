@@ -26,6 +26,8 @@ Other LIDARs
 linorobot bash [script](https://github.com/linorobot/linorobot2/blob/galactic/install_linorobot2.bash#L62)
 rokr - turn 2d lidar to 3d
 
+Lidar datasets - for openPCL experiments?
+https://robotki.github.io/datasets.html
 
 
 #fix Cannot start scan: '80008002'
