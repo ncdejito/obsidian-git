@@ -1,5 +1,13 @@
 
 
+Push code to collaborative repo
+```
+git checkout -b feature-branch
+git add .
+git commit -m "Update"
+git push --set-upstream origin feature-branch
+```
+
 Configure git on a new computer
 ```
 # Add SSH key to VM so no need to ask for username and password ----
@@ -40,7 +48,7 @@ git push origin fe07c2fc093edb10ae6ec5c0abb43e5c3dd0f153:branch
 ```
 delete branch
 ```
-git branch –delete old-branch
+git branch -D old-branch
 ```
 
 rename master to main

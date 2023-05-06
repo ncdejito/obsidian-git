@@ -1,5 +1,8 @@
 [[URDF]]
 
+```
+xacro model.xacro > model.urdf
+```
 Xacro  
 Why  
 Work easier with URDF  

@@ -1,5 +1,8 @@
 [[Use ROS2]]
 
+urdf to sdf conversion
+gz sdf -p
+
 Unified Robotics Description Format
 describes shape and physics of parts of robot
 links - components e.g. base, arm, lidar, camera
