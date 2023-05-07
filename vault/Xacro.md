@@ -17,3 +17,5 @@ Add a xacro tag to urdf to use it
 Pass xml to xacro,  
 xacro pushes to robot state publisher,  
 robot state publisher sends to robot description topic
+
+[xmacro](https://github.com/gezp/xmacro) - ros2-igt used sdf urdf parsing

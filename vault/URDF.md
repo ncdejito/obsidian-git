@@ -46,3 +46,6 @@ Tutorials
 Articulated Robotics [video](https://www.youtube.com/watch?v=BcjHyhV0kIs)
 ROS2 Tutorial [page](https://docs.ros.org/en/humble/Tutorials/Intermediate/URDF/Building-a-Visual-Robot-Model-with-URDF-from-Scratch.html)
 Python URDF maker [repo](https://github.com/hauptmech/odio_urdf)
+
+URDF xacro for fetch robots
+https://github.com/ZebraDevs/fetch_gazebo

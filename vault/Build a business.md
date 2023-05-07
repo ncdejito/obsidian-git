@@ -6,7 +6,7 @@
 5. Get [[Funding]]
 6. [[Use tested Business Model]]
 7. 8. Prototype small version of product [[Build a product]]
-9. [[Market Product to Customers (Marketing)]]
+9. [[How to Sell (Marketing)]]
 10. Improve your product
 11. Track your progress
 12. If it sells, Scale your Business [[Automate using GenerativeAI]]

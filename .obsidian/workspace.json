@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/tf2.md",
+                "file": "vault/Xacro.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/tf2.md",
+                "file": "vault/Xacro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/tf2.md",
+                "file": "vault/Xacro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/tf2.md"
+                "file": "vault/Xacro.md"
               }
             }
           },
@@ -163,11 +163,14 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/URDF.md",
+    "vault/How to Sell (Marketing).md",
+    "vault/Build a business.md",
+    "vault/tf2.md",
     "vault/Version code with Git.md",
     "vault/Colcon.md",
     "vault/Ignition Gazebo.md",
     "vault/Xacro.md",
-    "vault/URDF.md",
     "vault/RViz.md",
     "vault/Use ROS2.md",
     "vault/Use Python.md",
@@ -185,9 +188,6 @@
     "Build an Enterprise Data Platform.md",
     "vault/Use Recommendation Algorithms.md",
     "vault/Assess your ability.md",
-    "vault/Use React-Native.md",
-    "vault/Ubuntu.md",
-    "vault/Make it Maintainable.md",
-    "vault/Building Large Language Models LLM.md"
+    "vault/Use React-Native.md"
   ]
 }
