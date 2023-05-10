@@ -1,9 +1,7 @@
 [[Use ROS2]]
 
-Try this to cleanup
-cmake prefix and ament prefix path
-didn't work:
+* --symlink-install - updates urdf file automatically when saved, but if you add new files you need to build it again
+* --cmake-clean-cache - remove cmake cache before building; prevent these warnings
 ```
-sudo apt install python3-colcon-clean  
-colcon clean workspace
+[0.312s] WARNING:colcon.colcon_ros.prefix_path.ament:The path '/home/ncdejito/Downloads/void-robotics/voidwalking/ros2_ws/install/void_tests' in the environment variable AMENT_PREFIX_PATH doesn't exist
 ```

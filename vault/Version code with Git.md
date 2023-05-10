@@ -8,6 +8,14 @@ git commit -m "Update"
 git push --set-upstream origin feature-branch
 ```
 
+Fix conflicts with main branch
+```
+git pull origin main
+git checkout ignition-gps
+git merge main # produces file conflicts with >>>> <<<<<
+git push -u origin ignition-gps
+```
+
 Configure git on a new computer
 ```
 # Add SSH key to VM so no need to ask for username and password ----

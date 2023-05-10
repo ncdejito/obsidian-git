@@ -5,7 +5,7 @@
 colcon build --symlink-install
 source install/setup.bash
 ```
-* --symlink-install - updates urdf file automatically when saved, but if you add new files you need to build it again
+[[Colcon]] notes
 ```
 source /opt/ros/galactic/setup.bash
 ```

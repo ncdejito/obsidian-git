@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Xacro.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Xacro.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Xacro.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Xacro.md"
+                "file": "vault/Building Large Language Models LLM.md"
               }
             }
           },
@@ -163,16 +163,16 @@
   },
   "active": "240c528e1fff9679",
   "lastOpenFiles": [
+    "vault/Version code with Git.md",
+    "vault/Ignition Gazebo.md",
+    "vault/Colcon.md",
+    "vault/tf2.md",
+    "vault/Use ROS2.md",
+    "vault/Xacro.md",
     "vault/URDF.md",
     "vault/How to Sell (Marketing).md",
     "vault/Build a business.md",
-    "vault/tf2.md",
-    "vault/Version code with Git.md",
-    "vault/Colcon.md",
-    "vault/Ignition Gazebo.md",
-    "vault/Xacro.md",
     "vault/RViz.md",
-    "vault/Use ROS2.md",
     "vault/Use Python.md",
     "vault/Use Lidar.md",
     "vault/Apply SLAM.md",

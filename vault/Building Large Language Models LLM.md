@@ -1,3 +1,6 @@
+Gpt4 how does it work and how do i build apps with it  
+[https://www.youtube.com/live/vw-KWfKwvTQ?feature=share](https://www.youtube.com/live/vw-KWfKwvTQ?feature=share)
+
 LLM open source frameworks  
 [https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&utm_medium=member_android)
 
