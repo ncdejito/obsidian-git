@@ -121,3 +121,6 @@ structure of feedback
 
 ## Gotchas
 * if you close a docker terminal, the process running there is still running on your docker image
+
+Setting up environment on Windows
+https://www.linkedin.com/posts/open-source-robotics-foundation_ros-development-on-linux-windows-and-macos-activity-7061717956979822592-RNa_?utm_source=share&utm_medium=member_desktop

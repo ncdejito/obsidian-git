@@ -24,6 +24,8 @@ ROS1 algos
 [Multi-robot semantic VSLAM](https://www.linkedin.com/posts/open-source-robotics-foundation_resilient-and-distributed-multi-robot-visual-activity-7059397960140283904-twJ0?utm_source=share&utm_medium=member_desktop)
 [SLAM with LLMs](https://www.linkedin.com/posts/chenguang-huang-53b287254_can-a-robot-navigate-to-the-sound-theyve-ugcPost-7042145643150110720-KZtR?utm_source=share&utm_medium=member_desktop) "move in between the chair and the couch"
 
+[Liquid neural networks for drones](https://spectrum.ieee.org/liquid-neural-networks)
+
 camera models, multi-view geometry, and structure-from motion
 UKF, EKF, Factor Graphs
 ROVIO, VINS-MONO, SVO, DSO, or DTAM

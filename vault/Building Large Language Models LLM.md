@@ -43,6 +43,8 @@ Stanford course
 Tune LLMs to your own data  
 [https://www.linkedin.com/posts/sanyambhutani_terrific-tutorial-on-tuning-llms-on-your-activity-7056445643858358272-ZcMW?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/sanyambhutani_terrific-tutorial-on-tuning-llms-on-your-activity-7056445643858358272-ZcMW?utm_source=share&utm_medium=member_android)
 
+15 Open Source LLMs
+https://github.com/eugeneyan/open-llms
 
 Collecting data
 https://github.com/togethercomputer/RedPajama-Data
