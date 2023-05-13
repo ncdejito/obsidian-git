@@ -16,3 +16,5 @@
 Run selected text in terminal
 - Settings > Command Palette > Run Selected Text in Active Terminal
 
+Turn on wordwrap by default
+https://stackoverflow.com/a/43219246

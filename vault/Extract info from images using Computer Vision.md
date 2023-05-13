@@ -1,6 +1,7 @@
 [[Deep Learning]]
 
 Python Rust Computer Vision - [Rerun.io](https://github.com/rerun-io)
+No-code VisualBlocks - https://github.com/google/visualblocks
 
 ## Semantic Segmentation
 Segment anything by Meta
