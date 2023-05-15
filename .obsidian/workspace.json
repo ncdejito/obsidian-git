@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Write control software.md",
+                "file": "vault/P5JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Write control software.md",
+                "file": "vault/P5JS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Write control software.md",
+                "file": "vault/P5JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Write control software.md"
+                "file": "vault/P5JS.md"
               }
             }
           },
@@ -163,6 +163,10 @@
   },
   "active": "07ed0766e07fcccf",
   "lastOpenFiles": [
+    "vault/Select Regulator.md",
+    "vault/Use Heroku.md",
+    "vault/Make it Maintainable.md",
+    "vault/Write control software.md",
     "vault/Code the logic.md",
     "vault/Find usable existing components.md",
     "vault/Write software code.md",
@@ -184,10 +188,6 @@
     "vault/Building Large Language Models LLM.md",
     "vault/Write a Resume.md",
     "vault/Get a Job.md",
-    "vault/Improve your online profile.md",
-    "vault/Negotiate.md",
-    "vault/Apply SLAM.md",
-    "vault/Use ROS2.md",
-    "vault/Invest.md"
+    "vault/Improve your online profile.md"
   ]
 }
