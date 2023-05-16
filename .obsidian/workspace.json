@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/P5JS.md",
+                "file": "vault/Haskell.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/P5JS.md",
+                "file": "vault/Haskell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/P5JS.md",
+                "file": "vault/Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/P5JS.md"
+                "file": "vault/Haskell.md"
               }
             }
           },
@@ -163,6 +163,15 @@
   },
   "active": "07ed0766e07fcccf",
   "lastOpenFiles": [
+    "vault/Identify edge cases.md",
+    "vault/Integrate and Deploy code with CICD.md",
+    "vault/Nav2 Topics.md",
+    "vault/Learn a large code base.md",
+    "vault/Using LLMs ChatGPT.md",
+    "vault/Linear Algebra.md",
+    "vault/Dual-booting.md",
+    "vault/Document code.md",
+    "vault/P5JS.md",
     "vault/Select Regulator.md",
     "vault/Use Heroku.md",
     "vault/Make it Maintainable.md",
@@ -179,15 +188,6 @@
     "vault/VSCode.md",
     "vault/Extract info from images using Computer Vision.md",
     "vault/Field Programmable Gate Arrays (FPGAs).md",
-    "vault/Use Interfaces.md",
-    "vault/Using LLMs ChatGPT.md",
-    "vault/Virtual Memory Management.md",
-    "vault/Learn a large code base.md",
-    "vault/Manage yourself.md",
-    "vault/Deal with envy.md",
-    "vault/Building Large Language Models LLM.md",
-    "vault/Write a Resume.md",
-    "vault/Get a Job.md",
-    "vault/Improve your online profile.md"
+    "vault/Use Interfaces.md"
   ]
 }

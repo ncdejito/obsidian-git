@@ -12,8 +12,10 @@ Prompt engineering for developers
 [Useful Prompts](https://www.linkedin.com/posts/aaditsh_the-most-useful-chatgpt-prompts-save-these-activity-7040346360360898560-WqYR?utm_source=share&utm_medium=member_desktop)
 [500 templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
 
-Study repositories with chatgpt  
-[https://useadrenaline.com/app](https://useadrenaline.com/app)
+
+
+For internal documents
+https://www.linkedin.com/posts/pkghosh_github-imartinezprivategpt-interact-privately-activity-7063225855006699521-wftV?utm_source=share&utm_medium=member_desktop
 
 ## In data analysis
 [Ken Jee's 4 tips](https://www.linkedin.com/feed/update/urn:li:activity:7028529627186819072/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7028529627186819072%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
