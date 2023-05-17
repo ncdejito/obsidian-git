@@ -33,7 +33,7 @@ calculate precision and recall for each row,
 plot precision vs recall in graph, 
 area under curve is mAP
 
-
-
+Yolov1 to v8 review
+https://www.researchgate.net/publication/369760111_A_Comprehensive_Review_of_YOLO_From_YOLOv1_to_YOLOv8_and_Beyond
 
 Label Annotation - LandingAI by Andrew Ng

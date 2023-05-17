@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Haskell.md",
+                "file": "vault/Build a business.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Haskell.md",
+                "file": "vault/Build a business.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Haskell.md",
+                "file": "vault/Build a business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Haskell.md"
+                "file": "vault/Build a business.md"
               }
             }
           },
@@ -163,10 +163,20 @@
   },
   "active": "07ed0766e07fcccf",
   "lastOpenFiles": [
+    "vault/Service Mesh.md",
+    "vault/Learn a large code base.md",
+    "vault/Use Mesh Networks.md",
+    "vault/Stay updated on tech trends.md",
+    "vault/Deep Learning.md",
+    "vault/tf2.md",
+    "vault/Toggl.md",
+    "vault/Connect robot to the cloud.md",
+    "vault/Connect computers with Networking.md",
+    "vault/Extract info from images using Computer Vision.md",
+    "vault/Haskell.md",
     "vault/Identify edge cases.md",
     "vault/Integrate and Deploy code with CICD.md",
     "vault/Nav2 Topics.md",
-    "vault/Learn a large code base.md",
     "vault/Using LLMs ChatGPT.md",
     "vault/Linear Algebra.md",
     "vault/Dual-booting.md",
@@ -178,16 +188,6 @@
     "vault/Write control software.md",
     "vault/Code the logic.md",
     "vault/Find usable existing components.md",
-    "vault/Write software code.md",
-    "vault/Build Backend Components.md",
-    "vault/Compare technology tradeoffs.md",
-    "vault/Build technology.md",
-    "vault/Gazebo Classic.md",
-    "vault/Robotics Simulation.md",
-    "vault/Ignition Gazebo.md",
-    "vault/VSCode.md",
-    "vault/Extract info from images using Computer Vision.md",
-    "vault/Field Programmable Gate Arrays (FPGAs).md",
-    "vault/Use Interfaces.md"
+    "vault/Write software code.md"
   ]
 }
