@@ -124,3 +124,6 @@ structure of feedback
 
 Setting up environment on Windows
 https://www.linkedin.com/posts/open-source-robotics-foundation_ros-development-on-linux-windows-and-macos-activity-7061717956979822592-RNa_?utm_source=share&utm_medium=member_desktop
+
+Learning path
+https://www.theconstructsim.com/a-learning-path-to-become-a-robotics-developer/

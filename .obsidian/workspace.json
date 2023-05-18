@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Build a business.md",
+                "file": "vault/Use ROS2.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Build a business.md",
+                "file": "vault/Use ROS2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Build a business.md",
+                "file": "vault/Use ROS2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Build a business.md"
+                "file": "vault/Use ROS2.md"
               }
             }
           },
@@ -163,6 +163,12 @@
   },
   "active": "07ed0766e07fcccf",
   "lastOpenFiles": [
+    "vault/How to Sell (Marketing).md",
+    "vault/5Cs and 4Ps.md",
+    "vault/Break a bad habit.md",
+    "vault/Industries to pitch data infra to.md",
+    "vault/Build a business.md",
+    "vault/Build an Enterprise Data Platform.md",
     "vault/Service Mesh.md",
     "vault/Learn a large code base.md",
     "vault/Use Mesh Networks.md",
@@ -182,12 +188,6 @@
     "vault/Dual-booting.md",
     "vault/Document code.md",
     "vault/P5JS.md",
-    "vault/Select Regulator.md",
-    "vault/Use Heroku.md",
-    "vault/Make it Maintainable.md",
-    "vault/Write control software.md",
-    "vault/Code the logic.md",
-    "vault/Find usable existing components.md",
-    "vault/Write software code.md"
+    "vault/Select Regulator.md"
   ]
 }
