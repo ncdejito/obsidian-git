@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use ROS2.md",
+                "file": "vault/Learn a large code base.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use ROS2.md",
+                "file": "vault/Learn a large code base.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use ROS2.md",
+                "file": "vault/Learn a large code base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use ROS2.md"
+                "file": "vault/Learn a large code base.md"
               }
             }
           },
@@ -163,6 +163,9 @@
   },
   "active": "07ed0766e07fcccf",
   "lastOpenFiles": [
+    "vault/Version code with Git.md",
+    "vault/Use ROS2.md",
+    "vault/Productivity Hacks.md",
     "vault/How to Sell (Marketing).md",
     "vault/5Cs and 4Ps.md",
     "vault/Break a bad habit.md",
@@ -185,9 +188,6 @@
     "vault/Nav2 Topics.md",
     "vault/Using LLMs ChatGPT.md",
     "vault/Linear Algebra.md",
-    "vault/Dual-booting.md",
-    "vault/Document code.md",
-    "vault/P5JS.md",
-    "vault/Select Regulator.md"
+    "vault/Dual-booting.md"
   ]
 }

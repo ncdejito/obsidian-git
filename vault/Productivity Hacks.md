@@ -1,0 +1,3 @@
+
+Chrome search tags
+%s
