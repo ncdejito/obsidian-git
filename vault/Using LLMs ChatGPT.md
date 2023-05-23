@@ -6,6 +6,9 @@ Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-aw
 Prompt engineering for developers  
 [https://www.linkedin.com/posts/andrewyng_thrilled-to-announce-our-new-course-chatgpt-activity-7057374526451445760-kA1T?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/andrewyng_thrilled-to-announce-our-new-course-chatgpt-activity-7057374526451445760-kA1T?utm_source=share&utm_medium=member_android)
 
+How to prompt
+https://www.linkedin.com/posts/genai-center_heres-the-chatgpt-ultimate-prompting-guide-activity-7064955583199678465-QkDQ?utm_source=share&utm_medium=member_desktop
+
 ## How to use ChatGPT
 [Popular Use cases](https://www.linkedin.com/posts/a-banks_a-crash-course-on-chatgpt-for-beginners-ugcPost-7018213154283216896-sa-G?utm_source=share&utm_medium=member_desktop)
 [ChatGPT for beginners](https://www.linkedin.com/posts/a-banks_a-crash-course-on-chatgpt-for-beginners-ugcPost-7018213154283216896-sa-G?utm_source=share&utm_medium=member_desktop)
