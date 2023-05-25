@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Using LLMs ChatGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98fd1aaf9cba6e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Speech-to-text.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Speech-to-text.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Speech-to-text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Version code with Git.md"
+                "file": "vault/Speech-to-text.md"
               }
             }
           },
@@ -161,33 +174,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07ed0766e07fcccf",
+  "active": "98fd1aaf9cba6e2a",
   "lastOpenFiles": [
+    "vault/Transformers.md",
+    "vault/Build a business.md",
+    "vault/Business history.md",
+    "vault/Building Large Language Models LLM.md",
+    "vault/Using LLMs ChatGPT.md",
+    "vault/Integrate and Deploy code with CICD.md",
+    "vault/Deliver data faster with Caching.md",
+    "vault/Cron.md",
+    "vault/Make it Scalable.md",
+    "vault/Apply Machine Learning.md",
+    "vault/Nav2 Actions.md",
+    "vault/Version code with Git.md",
     "vault/tf2.md",
     "vault/Learn a large code base.md",
     "vault/Use Python.md",
     "vault/Ubuntu Core.md",
-    "vault/Version code with Git.md",
     "vault/Use ROS2.md",
     "vault/Productivity Hacks.md",
     "vault/How to Sell (Marketing).md",
     "vault/5Cs and 4Ps.md",
     "vault/Break a bad habit.md",
     "vault/Industries to pitch data infra to.md",
-    "vault/Build a business.md",
     "vault/Build an Enterprise Data Platform.md",
     "vault/Service Mesh.md",
     "vault/Use Mesh Networks.md",
-    "vault/Stay updated on tech trends.md",
-    "vault/Deep Learning.md",
-    "vault/Toggl.md",
-    "vault/Connect robot to the cloud.md",
-    "vault/Connect computers with Networking.md",
-    "vault/Extract info from images using Computer Vision.md",
-    "vault/Haskell.md",
-    "vault/Identify edge cases.md",
-    "vault/Integrate and Deploy code with CICD.md",
-    "vault/Nav2 Topics.md",
-    "vault/Using LLMs ChatGPT.md"
+    "vault/Stay updated on tech trends.md"
   ]
 }

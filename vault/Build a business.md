@@ -13,6 +13,7 @@
 
 free pos app - https://loyverse.com/
 
-  
+Learn from the mistakes of others [[Business history]]
+
 
 

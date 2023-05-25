@@ -51,3 +51,6 @@ https://github.com/togethercomputer/RedPajama-Data
 
 Evolutionary tree of modern LLMs  
 [https://www.linkedin.com/feed/update/urn:li:activity:7057472505057312769?utm_source=share&utm_medium=member_android](https://www.linkedin.com/feed/update/urn:li:activity:7057472505057312769?utm_source=share&utm_medium=member_android)
+
+Scikit-LLM easily integrate LLMs to apps using sklearn
+https://github.com/iryna-kondr/scikit-llm
