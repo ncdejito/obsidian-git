@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Speech-to-text.md",
+                "file": "vault/Version code with Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "snap store",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Speech-to-text.md",
+                "file": "vault/Version code with Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Speech-to-text.md",
+                "file": "vault/Version code with Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Speech-to-text.md"
+                "file": "vault/Version code with Git.md"
               }
             }
           },
@@ -176,6 +175,7 @@
   },
   "active": "98fd1aaf9cba6e2a",
   "lastOpenFiles": [
+    "vault/Speech-to-text.md",
     "vault/Transformers.md",
     "vault/Build a business.md",
     "vault/Business history.md",
@@ -200,7 +200,6 @@
     "vault/Industries to pitch data infra to.md",
     "vault/Build an Enterprise Data Platform.md",
     "vault/Service Mesh.md",
-    "vault/Use Mesh Networks.md",
-    "vault/Stay updated on tech trends.md"
+    "vault/Use Mesh Networks.md"
   ]
 }
