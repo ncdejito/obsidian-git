@@ -1,3 +1,6 @@
+What are transformers
+https://github.com/jrin771/Everything-LLMs-And-Robotics/tree/main#llms-educational-resources-
+
 Gpt4 how does it work and how do i build apps with it  
 [https://www.youtube.com/live/vw-KWfKwvTQ?feature=share](https://www.youtube.com/live/vw-KWfKwvTQ?feature=share)
 
@@ -5,6 +8,9 @@ LLM open source frameworks
 [https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&utm_medium=member_android)
 
 Large Language Models  
+
+Falcon
+https://huggingface.co/tiiuae/falcon-40b
 
 Lamini : LLM fine-tuning made-easy
 https://www.linkedin.com/posts/zhousharon_im-super-excited-to-announce-lamini-the-activity-7057754782249193472-1MKd?utm_source=share&utm_medium=member_desktop

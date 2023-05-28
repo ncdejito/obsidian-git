@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8fd681eeabca73ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Building Large Language Models LLM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -91,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Version code with Git.md"
+                "file": "vault/Building Large Language Models LLM.md"
               }
             }
           },
@@ -173,14 +186,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98fd1aaf9cba6e2a",
+  "active": "8fd681eeabca73ab",
   "lastOpenFiles": [
+    "vault/Using LLMs ChatGPT.md",
+    "vault/Build a robot.md",
+    "vault/Nav2 Nodes.md",
     "vault/Speech-to-text.md",
     "vault/Transformers.md",
     "vault/Build a business.md",
     "vault/Business history.md",
     "vault/Building Large Language Models LLM.md",
-    "vault/Using LLMs ChatGPT.md",
     "vault/Integrate and Deploy code with CICD.md",
     "vault/Deliver data faster with Caching.md",
     "vault/Cron.md",
@@ -198,8 +213,6 @@
     "vault/5Cs and 4Ps.md",
     "vault/Break a bad habit.md",
     "vault/Industries to pitch data infra to.md",
-    "vault/Build an Enterprise Data Platform.md",
-    "vault/Service Mesh.md",
-    "vault/Use Mesh Networks.md"
+    "vault/Build an Enterprise Data Platform.md"
   ]
 }
