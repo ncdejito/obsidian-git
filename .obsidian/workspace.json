@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md",
+                "file": "vault/Write a Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md",
+                "file": "vault/Write a Resume.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md",
+                "file": "vault/Write a Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md"
+                "file": "vault/Write a Resume.md"
               }
             }
           },
@@ -188,6 +188,9 @@
   },
   "active": "8fd681eeabca73ab",
   "lastOpenFiles": [
+    "vault/Version code with Git.md",
+    "Ubuntu Server on Windows.md",
+    "vault/Building Large Language Models LLM.md",
     "vault/Using LLMs ChatGPT.md",
     "vault/Build a robot.md",
     "vault/Nav2 Nodes.md",
@@ -195,14 +198,12 @@
     "vault/Transformers.md",
     "vault/Build a business.md",
     "vault/Business history.md",
-    "vault/Building Large Language Models LLM.md",
     "vault/Integrate and Deploy code with CICD.md",
     "vault/Deliver data faster with Caching.md",
     "vault/Cron.md",
     "vault/Make it Scalable.md",
     "vault/Apply Machine Learning.md",
     "vault/Nav2 Actions.md",
-    "vault/Version code with Git.md",
     "vault/tf2.md",
     "vault/Learn a large code base.md",
     "vault/Use Python.md",
@@ -212,7 +213,6 @@
     "vault/How to Sell (Marketing).md",
     "vault/5Cs and 4Ps.md",
     "vault/Break a bad habit.md",
-    "vault/Industries to pitch data infra to.md",
-    "vault/Build an Enterprise Data Platform.md"
+    "vault/Industries to pitch data infra to.md"
   ]
 }

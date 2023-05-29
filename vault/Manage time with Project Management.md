@@ -72,8 +72,12 @@ Planned using GCal - change only by moving blocks
 Actual using Toggl
 
 Short - tomorrow
-Tasks - process-based, gdocs daily journal
+Tasks - process-based, gdocs daily journal, Airtable deliverables
 Time tracking - toggl
+
+Airtable  
+Uncategorized for in progress tasks - for mobile quickly see priorities  
+Task should be something showable to people, for personal subtasks just note on your own journal
 
 Schedule in alarms
 Daily habits
