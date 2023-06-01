@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/tf2.md",
+                "file": "vault/Using LLMs ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/tf2.md",
+                "file": "vault/Using LLMs ChatGPT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/tf2.md",
+                "file": "vault/Using LLMs ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/tf2.md"
+                "file": "vault/Using LLMs ChatGPT.md"
               }
             }
           },
@@ -188,9 +188,10 @@
   },
   "active": "8fd681eeabca73ab",
   "lastOpenFiles": [
+    "vault/Version code with Git.md",
+    "vault/tf2.md",
     "vault/Write a Resume.md",
     "Graph ML.md",
-    "vault/Version code with Git.md",
     "Ubuntu Server on Windows.md",
     "vault/Building Large Language Models LLM.md",
     "vault/Using LLMs ChatGPT.md",
@@ -206,7 +207,6 @@
     "vault/Make it Scalable.md",
     "vault/Apply Machine Learning.md",
     "vault/Nav2 Actions.md",
-    "vault/tf2.md",
     "vault/Learn a large code base.md",
     "vault/Use Python.md",
     "vault/Ubuntu Core.md",

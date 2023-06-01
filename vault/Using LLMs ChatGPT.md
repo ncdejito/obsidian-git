@@ -44,6 +44,9 @@ Poe from Quora
 
 [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - fully autonomous AI
 
+AutoGPT alternative
+https://github.com/farizrahman4u/loopgpt
+
 Gpt4all-j - open source chatbot for everybody  
 [https://github.com/nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
 
