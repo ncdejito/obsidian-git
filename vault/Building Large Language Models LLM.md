@@ -1,3 +1,6 @@
+Hard stuff no one talks about in building
+https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm
+
 What are transformers
 https://github.com/jrin771/Everything-LLMs-And-Robotics/tree/main#llms-educational-resources-
 

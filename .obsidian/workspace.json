@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Using LLMs ChatGPT.md",
+                "file": "vault/Version code with Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8d9a3ae428a494d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Version code with Git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Using LLMs ChatGPT.md",
+                "file": "vault/Version code with Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Using LLMs ChatGPT.md",
+                "file": "vault/Version code with Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Using LLMs ChatGPT.md"
+                "file": "vault/Version code with Git.md"
               }
             }
           },
@@ -186,15 +198,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8fd681eeabca73ab",
+  "active": "f8d9a3ae428a494d",
   "lastOpenFiles": [
+    "vault/Typescript.md",
     "vault/Version code with Git.md",
+    "vault/Using LLMs ChatGPT.md",
     "vault/tf2.md",
     "vault/Write a Resume.md",
     "Graph ML.md",
     "Ubuntu Server on Windows.md",
     "vault/Building Large Language Models LLM.md",
-    "vault/Using LLMs ChatGPT.md",
     "vault/Build a robot.md",
     "vault/Nav2 Nodes.md",
     "vault/Speech-to-text.md",
@@ -212,7 +225,6 @@
     "vault/Ubuntu Core.md",
     "vault/Use ROS2.md",
     "vault/Productivity Hacks.md",
-    "vault/How to Sell (Marketing).md",
-    "vault/5Cs and 4Ps.md"
+    "vault/How to Sell (Marketing).md"
   ]
 }
