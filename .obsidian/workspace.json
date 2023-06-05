@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Write a Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Write a Resume.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Write a Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Version code with Git.md"
+                "file": "vault/Write a Resume.md"
               }
             }
           },
@@ -200,17 +200,24 @@
   },
   "active": "f8d9a3ae428a494d",
   "lastOpenFiles": [
-    "vault/Typescript.md",
+    "vault/Use Docker.md",
+    "vault/Write a Resume.md",
+    "vault/Use Python.md",
+    "vault/Market Product to Customers (Marketing).md",
+    "Break a bad habit.md",
+    "Build an Enterprise Data Platform.md",
+    "vault/Robotics Visualization.md",
+    "Industries to pitch data infra to.md",
+    "vault/Speech-to-text.md",
     "vault/Version code with Git.md",
+    "vault/Typescript.md",
     "vault/Using LLMs ChatGPT.md",
     "vault/tf2.md",
-    "vault/Write a Resume.md",
     "Graph ML.md",
     "Ubuntu Server on Windows.md",
     "vault/Building Large Language Models LLM.md",
     "vault/Build a robot.md",
     "vault/Nav2 Nodes.md",
-    "vault/Speech-to-text.md",
     "vault/Transformers.md",
     "vault/Build a business.md",
     "vault/Business history.md",
@@ -218,13 +225,6 @@
     "vault/Deliver data faster with Caching.md",
     "vault/Cron.md",
     "vault/Make it Scalable.md",
-    "vault/Apply Machine Learning.md",
-    "vault/Nav2 Actions.md",
-    "vault/Learn a large code base.md",
-    "vault/Use Python.md",
-    "vault/Ubuntu Core.md",
-    "vault/Use ROS2.md",
-    "vault/Productivity Hacks.md",
-    "vault/How to Sell (Marketing).md"
+    "vault/Apply Machine Learning.md"
   ]
 }
