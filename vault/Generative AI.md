@@ -1,5 +1,7 @@
 [[Apply Machine Learning]]
 
+[Google GenerativeAI](https://www.cloudskillsboost.google/paths/118)
+
 [[Using LLMs ChatGPT]]
 
 [[Text-to-Image]]

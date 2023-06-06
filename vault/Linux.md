@@ -122,6 +122,12 @@ flatpak install flathub org.winehq.Wine
 flatpak run org.winehq.Wine RoboStudio/robostudio.exe
 ```
 
+## Test GUIs
+ssh -X
+sudo apt install x11-apps
+xclock &
+xeyes &
+
 ## Info on OS
 ```
 uname -a

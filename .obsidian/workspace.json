@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Write a Resume.md",
+                "file": "vault/Evaluate your idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Write a Resume.md",
+                "file": "vault/Evaluate your idea.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Write a Resume.md",
+                "file": "vault/Evaluate your idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Write a Resume.md"
+                "file": "vault/Evaluate your idea.md"
               }
             }
           },
@@ -184,7 +184,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -200,8 +201,16 @@
   },
   "active": "f8d9a3ae428a494d",
   "lastOpenFiles": [
+    "vault/Generative AI.md",
+    "vault/How to Sell (Marketing).md",
     "vault/Use Docker.md",
+    "vault/Linux.md",
+    "vault/Ubuntu.md",
+    "vault/Workspace.md",
+    "Ubuntu Server on Windows.md",
+    "vault/Use React.md",
     "vault/Write a Resume.md",
+    "choos.md",
     "vault/Use Python.md",
     "vault/Market Product to Customers (Marketing).md",
     "Break a bad habit.md",
@@ -214,17 +223,9 @@
     "vault/Using LLMs ChatGPT.md",
     "vault/tf2.md",
     "Graph ML.md",
-    "Ubuntu Server on Windows.md",
     "vault/Building Large Language Models LLM.md",
     "vault/Build a robot.md",
     "vault/Nav2 Nodes.md",
-    "vault/Transformers.md",
-    "vault/Build a business.md",
-    "vault/Business history.md",
-    "vault/Integrate and Deploy code with CICD.md",
-    "vault/Deliver data faster with Caching.md",
-    "vault/Cron.md",
-    "vault/Make it Scalable.md",
-    "vault/Apply Machine Learning.md"
+    "vault/Transformers.md"
   ]
 }
