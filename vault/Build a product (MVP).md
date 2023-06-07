@@ -1,4 +1,4 @@
-Stay productive with [[Manage time with Project Management]]
+Launch quickly and iterate!
 
 Find a working example first
 Adjust it a bit to fit what you want
@@ -12,7 +12,7 @@ Usable
 Reliable
 Functional
 
-How to build something from scratch
+(me) How to build something from scratch
 Define goal
 Show up
 Start

@@ -1,6 +1,7 @@
 [[Build Frontend UI]]
 
 Alternatives: [[Use Flutter]]
+[Ionic](https://ionicframework.com/) - vuejs, typescript, react
 
 Learn once write anywhere
 * Can deploy to mobile

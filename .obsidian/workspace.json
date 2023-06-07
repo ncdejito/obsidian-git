@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5b888e91a202e394",
+        "id": "8bbdaf1affe3262a",
         "type": "tabs",
         "children": [
           {
-            "id": "07ed0766e07fcccf",
+            "id": "cbc1b3d6c0dd48cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Using LLMs ChatGPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98fd1aaf9cba6e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault/Version code with Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fd681eeabca73ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault/Version code with Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8d9a3ae428a494d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault/Evaluate your idea.md",
+                "file": "vault/Statistics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Evaluate your idea.md",
+                "file": "vault/Statistics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Evaluate your idea.md",
+                "file": "vault/Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Evaluate your idea.md"
+                "file": "vault/Statistics.md"
               }
             }
           },
@@ -189,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,11 +163,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8d9a3ae428a494d",
+  "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
+    "vault/Use React-Native.md",
+    "vault/Statistics.md",
+    "vault/react-.md",
+    "vault/Use Docker.md",
+    "vault/Version code with Git.md",
+    "vault/Build a product (MVP).md",
+    "vault/Build a business.md",
+    "vault/Evaluate your business idea.md",
+    "vault/Evaluate your idea.md",
+    "vault/Explore Business Ideas.md",
+    "vault/Use tested Business Model.md",
+    "vault/Autonomous Agents.md",
+    "vault/Speech-to-text.md",
+    "vault/Use Python for Data Analysis.md",
+    "vault/Transformers.md",
     "vault/Generative AI.md",
     "vault/How to Sell (Marketing).md",
-    "vault/Use Docker.md",
     "vault/Linux.md",
     "vault/Ubuntu.md",
     "vault/Workspace.md",
@@ -212,20 +190,6 @@
     "vault/Write a Resume.md",
     "choos.md",
     "vault/Use Python.md",
-    "vault/Market Product to Customers (Marketing).md",
-    "Break a bad habit.md",
-    "Build an Enterprise Data Platform.md",
-    "vault/Robotics Visualization.md",
-    "Industries to pitch data infra to.md",
-    "vault/Speech-to-text.md",
-    "vault/Version code with Git.md",
-    "vault/Typescript.md",
-    "vault/Using LLMs ChatGPT.md",
-    "vault/tf2.md",
-    "Graph ML.md",
-    "vault/Building Large Language Models LLM.md",
-    "vault/Build a robot.md",
-    "vault/Nav2 Nodes.md",
-    "vault/Transformers.md"
+    "vault/Market Product to Customers (Marketing).md"
   ]
 }

@@ -1,4 +1,4 @@
-[[Build a product]]
+[[Build a product (MVP)]]
 
 Set expectations - Hello! I'm E3, Elvy's custom designed AI chatbot. How can I help you today? Show me your catalog, help me pick out the right flowers, I want to talk to a human
 Maintain your brand voice - We'd love to help pick out the right flower for you! Take this quiz to find out our recommended designs

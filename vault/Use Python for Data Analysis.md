@@ -1,5 +1,8 @@
 [[Use Python]]
 
+Jupyter notebooks fast web app deployment
+https://www.linkedin.com/posts/qiushengwu_geospatial-dataviz-jupyter-ugcPost-7070031946520621057-53tH
+
 ## Explore data
 
 
