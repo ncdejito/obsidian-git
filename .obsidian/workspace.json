@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Statistics.md",
+                "file": "vault/Handle moments of crisis.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Statistics.md",
+                "file": "vault/Handle moments of crisis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Statistics.md",
+                "file": "vault/Handle moments of crisis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Statistics.md"
+                "file": "vault/Handle moments of crisis.md"
               }
             }
           },
@@ -165,8 +165,10 @@
   },
   "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
-    "vault/Use React-Native.md",
+    "vault/Manage yourself.md",
+    "vault/Apply Machine Learning.md",
     "vault/Statistics.md",
+    "vault/Use React-Native.md",
     "vault/react-.md",
     "vault/Use Docker.md",
     "vault/Version code with Git.md",
@@ -188,8 +190,6 @@
     "Ubuntu Server on Windows.md",
     "vault/Use React.md",
     "vault/Write a Resume.md",
-    "choos.md",
-    "vault/Use Python.md",
-    "vault/Market Product to Customers (Marketing).md"
+    "choos.md"
   ]
 }
