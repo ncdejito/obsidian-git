@@ -8,7 +8,7 @@ Write starter code with AI: [[Using LLMs ChatGPT]]
 
 ## Skills
 * [[Code the logic]]
-- [[Connect an API]]
+- [[Connect APIs]]
 - Save to [[Databases]]
 - [[Deliver data faster with Caching]]
 - [[Use Message Queues for Resiliency]]

@@ -36,3 +36,7 @@ Begin with the end in mind - write experience you need to build, to prove you ca
 Growth mindset
 Don't undersell yourself
 If I was a 10x engineer, what would that look like 
+
+
+Job hunting using AI  
+[https://www.linkedin.com/posts/jvmsangkal_activity-7073190466640363520-cpAA](https://www.linkedin.com/posts/jvmsangkal_activity-7073190466640363520-cpAA)

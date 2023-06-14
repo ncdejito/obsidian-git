@@ -12,6 +12,7 @@ Are you up to the Herculean task of building enduring businesses?
 10. Improve your product
 11. Track your progress
 12. If it sells, Scale your Business [[Automate using GenerativeAI]]
+13. [[Build a moat]]
 
 free pos app - https://loyverse.com/
 

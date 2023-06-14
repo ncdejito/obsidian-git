@@ -10,6 +10,9 @@ Gpt4 how does it work and how do i build apps with it
 LLM open source frameworks  
 [https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/activity-7057451653334999040-HA3D?utm_source=share&utm_medium=member_android)
 
+Language models in 17mins  
+[https://www.linkedin.com/posts/paritosh-goel-7197b0165_language-models-for-software-developers-in-activity-7073243253591990272-YG_u](https://www.linkedin.com/posts/paritosh-goel-7197b0165_language-models-for-software-developers-in-activity-7073243253591990272-YG_u)
+
 Large Language Models  
 
 Falcon
