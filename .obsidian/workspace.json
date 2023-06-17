@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Build a moat.md",
+                "file": "vault/Get a Job.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Build a moat.md",
+                "file": "vault/Get a Job.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Build a moat.md",
+                "file": "vault/Get a Job.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Build a moat.md"
+                "file": "vault/Get a Job.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
-    "vault/Build a business.md",
+    "vault/Write a Resume.md",
     "vault/Build a moat.md",
+    "vault/Build a business.md",
     "Optimization Problems.md",
     "vault/Connect APIs.md",
     "vault/Handle moments of crisis.md",
@@ -189,7 +190,6 @@
     "vault/Transformers.md",
     "vault/Generative AI.md",
     "vault/How to Sell (Marketing).md",
-    "vault/Linux.md",
-    "vault/Ubuntu.md"
+    "vault/Linux.md"
   ]
 }

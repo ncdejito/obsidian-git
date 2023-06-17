@@ -32,3 +32,6 @@ Finance - https://www.streetofwalls.com/finance-training-courses/
 How to decide on a path
 Optionality for career  
 [https://www.linkedin.com/posts/romeen-sheth-07494427_one-of-the-biggest-mistakes-i-see-people-activity-7057394019932192768-6BXQ?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/romeen-sheth-07494427_one-of-the-biggest-mistakes-i-see-people-activity-7057394019932192768-6BXQ?utm_source=share&utm_medium=member_android)
+
+AI tools for job hunting
+https://www.linkedin.com/posts/zainkahn_ai-has-changed-the-job-hunting-process-forever-activity-7074723780639531008-VJI-?utm_source=share&utm_medium=member_desktop

@@ -1,5 +1,7 @@
 [[Apply Machine Learning]]
 
+https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/what-every-ceo-should-know-about-generative-ai
+
 [Google GenerativeAI](https://www.cloudskillsboost.google/paths/118)
 
 [[Using LLMs ChatGPT]]
