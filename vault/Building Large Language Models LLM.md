@@ -18,6 +18,9 @@ Large Language Models
 Falcon
 https://huggingface.co/tiiuae/falcon-40b
 
+LangKit - observability and safety standard
+https://www.linkedin.com/posts/whylabsai_whylabs-launches-langkit-to-make-large-language-activity-7074790438624231424-GJY_?utm_source=share&utm_medium=member_desktop
+
 Lamini : LLM fine-tuning made-easy
 https://www.linkedin.com/posts/zhousharon_im-super-excited-to-announce-lamini-the-activity-7057754782249193472-1MKd?utm_source=share&utm_medium=member_desktop
 

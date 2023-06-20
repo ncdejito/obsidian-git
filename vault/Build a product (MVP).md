@@ -25,7 +25,7 @@ https://www.linkedin.com/posts/nathan-baugh_the-best-advice-on-creating-anything
 Dream in years
 Plan in months
 Evaluate in weeks
-Ship Daily
+Ship daily
 -
 Prototype for 1x
 Build for 10x

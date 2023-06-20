@@ -50,7 +50,8 @@ Handshaking - automated process of negotiation between two participants (example
 
 * `ifconfig` - "interface configuration." It is used to view and change the configuration of the network interfaces on your system.
 
-
+Connect any usb device remotely as if you were connected locally
+https://www.virtualhere.com/
 
 
 ## References

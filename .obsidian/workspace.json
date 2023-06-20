@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Get a Job.md",
+                "file": "vault/Connect computers with Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Get a Job.md",
+                "file": "vault/Connect computers with Networking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Get a Job.md",
+                "file": "vault/Connect computers with Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Get a Job.md"
+                "file": "vault/Connect computers with Networking.md"
               }
             }
           },
@@ -165,9 +165,14 @@
   },
   "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
+    "vault/Zerotier.md",
+    "vault/Explore Business Ideas.md",
+    "vault/Build a business.md",
+    "vault/Using LLMs ChatGPT.md",
+    "vault/Build a product (MVP).md",
+    "vault/Get a Job.md",
     "vault/Write a Resume.md",
     "vault/Build a moat.md",
-    "vault/Build a business.md",
     "Optimization Problems.md",
     "vault/Connect APIs.md",
     "vault/Handle moments of crisis.md",
@@ -179,17 +184,12 @@
     "vault/react-.md",
     "vault/Use Docker.md",
     "vault/Version code with Git.md",
-    "vault/Build a product (MVP).md",
     "vault/Evaluate your business idea.md",
     "vault/Evaluate your idea.md",
-    "vault/Explore Business Ideas.md",
     "vault/Use tested Business Model.md",
     "vault/Autonomous Agents.md",
     "vault/Speech-to-text.md",
     "vault/Use Python for Data Analysis.md",
-    "vault/Transformers.md",
-    "vault/Generative AI.md",
-    "vault/How to Sell (Marketing).md",
-    "vault/Linux.md"
+    "vault/Transformers.md"
   ]
 }

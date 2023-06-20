@@ -13,6 +13,9 @@ Prompt engineering for developers
 How to prompt
 https://www.linkedin.com/posts/genai-center_heres-the-chatgpt-ultimate-prompting-guide-activity-7064955583199678465-QkDQ?utm_source=share&utm_medium=member_desktop
 
+Chatgpt cheat sheet  
+[https://www.linkedin.com/posts/zainkahn_the-only-chatgpt-guide-youll-ever-need-activity-7075084649441501184-5z90](https://www.linkedin.com/posts/zainkahn_the-only-chatgpt-guide-youll-ever-need-activity-7075084649441501184-5z90)
+
 ## How to use ChatGPT
 [Popular Use cases](https://www.linkedin.com/posts/a-banks_a-crash-course-on-chatgpt-for-beginners-ugcPost-7018213154283216896-sa-G?utm_source=share&utm_medium=member_desktop)
 [ChatGPT for beginners](https://www.linkedin.com/posts/a-banks_a-crash-course-on-chatgpt-for-beginners-ugcPost-7018213154283216896-sa-G?utm_source=share&utm_medium=member_desktop)
