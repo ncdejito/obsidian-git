@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Connect computers with Networking.md",
+                "file": "vault/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Connect computers with Networking.md",
+                "file": "vault/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Connect computers with Networking.md",
+                "file": "vault/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Connect computers with Networking.md"
+                "file": "vault/C++.md"
               }
             }
           },
@@ -165,6 +165,10 @@
   },
   "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
+    "vault/Version code with Git.md",
+    "vault/Apply Reinforcement Learning.md",
+    "vault/Use Recommendation Algorithms.md",
+    "vault/Connect computers with Networking.md",
     "vault/Zerotier.md",
     "vault/Explore Business Ideas.md",
     "vault/Build a business.md",
@@ -183,13 +187,9 @@
     "vault/Use React-Native.md",
     "vault/react-.md",
     "vault/Use Docker.md",
-    "vault/Version code with Git.md",
     "vault/Evaluate your business idea.md",
     "vault/Evaluate your idea.md",
     "vault/Use tested Business Model.md",
-    "vault/Autonomous Agents.md",
-    "vault/Speech-to-text.md",
-    "vault/Use Python for Data Analysis.md",
-    "vault/Transformers.md"
+    "vault/Autonomous Agents.md"
   ]
 }

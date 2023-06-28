@@ -7,3 +7,6 @@ used in Robotics
 - [https://introduction-to-autonomous-robots.github.io/](https://introduction-to-autonomous-robots.github.io/)
 
 - [https://mitpress.mit.edu/9780262046169/learning-for-adaptive...](https://mitpress.mit.edu/9780262046169/learning-for-adaptive-and-reactive-robot-control/)
+
+Stef recommended Reinforcement Learning
+https://huyenchip.com/2023/05/02/rlhf.html
