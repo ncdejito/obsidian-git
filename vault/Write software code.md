@@ -22,3 +22,6 @@ Books to read [LinkedIn](https://www.linkedin.com/posts/nick-singh-tech_read-3-b
 [Github list](https://github.com/charlax/professional-programming)
 The full stack  
 [https://www.linkedin.com/posts/mljungblad_truly-full-stack-the-tech-that-makes-minut-activity-7042049360544571392-0uqH?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/mljungblad_truly-full-stack-the-tech-that-makes-minut-activity-7042049360544571392-0uqH?utm_source=share&utm_medium=member_android)
+
+How to prepare for swe  
+[https://www.linkedin.com/posts/dinesh-varyani_systemsexpert-systemsexpert-google-activity-7077628897357369345-bWz3](https://www.linkedin.com/posts/dinesh-varyani_systemsexpert-systemsexpert-google-activity-7077628897357369345-bWz3)
