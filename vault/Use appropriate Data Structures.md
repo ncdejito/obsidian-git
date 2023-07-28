@@ -120,3 +120,12 @@ stack.pop() # outputs 2
 Data Structures by Quiwa
 [freecodecamp](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 [Illustrated](https://www.youtube.com/watch?v=9rhT3P1MDHk&list=PLkZYeFmDuaN2-KUIv-mvbjfKszIGJ4FaY)
+
+CTCI
+Geeks4Geeks Algorithms
+Steven skiena algos
+grokking algorithms
+Freecodecamp Algos
+Illustrated
+Freecodecamp DS
+Data structures quiwa

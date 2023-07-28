@@ -40,3 +40,6 @@ If I was a 10x engineer, what would that look like
 
 Job hunting using AI  
 [https://www.linkedin.com/posts/jvmsangkal_activity-7073190466640363520-cpAA](https://www.linkedin.com/posts/jvmsangkal_activity-7073190466640363520-cpAA)
+
+LoopCV pro
+resumAI

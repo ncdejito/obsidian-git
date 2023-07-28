@@ -125,3 +125,9 @@ Gitlab - slow
 
 Pro Git book
 https://git-scm.com/book/en/v2
+
+Conventions in git messages
+https://www.conventionalcommits.org/en/v1.0.0/
+
+Conventional comments
+https://conventionalcomments.org/

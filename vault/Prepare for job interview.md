@@ -10,6 +10,7 @@ Research current events and [[Stay updated on tech trends]]
 ## Tech interviews
 [[Write software code]] 
 [[Apply battle-tested Algorithms]]
+[Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 
 * Cracking the Coding Interview
 * Blind 75 Neetcode

@@ -4,6 +4,9 @@ practice
 experience
 ability
 
+Senior level engineer definition Pragmatic Engineer
+https://www.linkedin.com/posts/the-pragmatic-engineer_what-does-senior-engineer-mean-in-the-context-activity-7082031525755547648-L3bG?utm_source=share&utm_medium=member_desktop
+
 [Hierarchy of Competence](https://www.sahilbloom.com/newsletter/the-hierarchy-of-competence-paradox-of-trust-more)
 1.  Unconscious Incompetence: At the first stage, we are a complete novice and are thus unaware of our own incompetence. We lack competence but also lack an understanding of our incompetence (or how to work out of it).
 2.  Conscious Incompetence: At the second stage, we have developed an awareness of our own incompetence at the craft, but have not addressed or fixed this incompetence. The simple awareness that it is something to be fixed is the point of progress.

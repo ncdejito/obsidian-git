@@ -46,3 +46,6 @@ Python syntax but C-speed
 https://www.modular.com/
 
 [[Use Python for Data Analysis]]
+
+Python robots
+https://www.linkedin.com/posts/dannystaple_yay-i-see-my-article-featured-in-geeky-activity-7082378674947125249-lMcV

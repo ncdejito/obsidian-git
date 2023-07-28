@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Javascript.md",
+                "file": "vault/Explore Business Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "compet",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Javascript.md",
+                "file": "vault/Explore Business Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Javascript.md",
+                "file": "vault/Explore Business Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Javascript.md"
+                "file": "vault/Explore Business Ideas.md"
               }
             }
           },
@@ -165,6 +164,10 @@
   },
   "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
+    "vault/Extract info from images using Computer Vision.md",
+    "vault/Assess your ability.md",
+    "vault/Javascript.md",
+    "Time series forecasting.md",
     "vault/C++.md",
     "vault/Version code with Git.md",
     "vault/Apply Reinforcement Learning.md",
@@ -186,10 +189,6 @@
     "vault/Apply Machine Learning.md",
     "vault/Statistics.md",
     "vault/Use React-Native.md",
-    "vault/react-.md",
-    "vault/Use Docker.md",
-    "vault/Evaluate your business idea.md",
-    "vault/Evaluate your idea.md",
-    "vault/Use tested Business Model.md"
+    "vault/react-.md"
   ]
 }

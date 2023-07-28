@@ -42,5 +42,6 @@ Social proof - ceo testimonials, press quotes
 Add fb messenger plugin [tutorial](https://www.youtube.com/watch?v=NCM0f0uChQQ)
 
 ## Exercises
+https://the-collab-lab.codes/ - collab projects for frontend
 https://github.com/felipefialho/frontend-challenges
 [[P5JS]] - creative coding

@@ -33,3 +33,13 @@ https://www.linkedin.com/posts/justinwelsh_idea-validation-has-never-been-easier
 YCombinator questions
 
 Fry My Deck (taken down) idea - use AI to simulate VC q&a on your idea
+
+Peter Thiel's 7 questions
+https://www.linkedin.com/posts/michael-houck_peter-thiels-questions-for-founders-ugcPost-7071825646657654784-ZNYT?utm_source=share&utm_medium=member_desktop
+- [ ] Can your team pursue this?
+- [ ] How will you develop your product?
+- [ ] Can you create a breakthrough?
+- [ ] Is this the right timing?
+- [ ] Will you start with a small market?
+- [ ] Can you defend your market?
+- [ ] Do you see a unique insight?

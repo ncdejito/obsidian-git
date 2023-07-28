@@ -13,3 +13,6 @@ YCombinator application questions
 
 100x opportunities tend to come with three common characteristics:
 https://www.linkedin.com/posts/michaeljacksonvc_venturecapital-vc-startups-activity-7056340352995135489-ppOW?utm_source=share&utm_medium=member_desktop
+
+how to find high traffic niche topics
+https://www.linkedin.com/posts/briandevansla_the-simplest-way-to-2000-months-online-ugcPost-7079236165865771008-qUH8?utm_source=share&utm_medium=member_desktop

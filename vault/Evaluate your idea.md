@@ -1,5 +1,5 @@
-Peter Thiel's 7 questions
-https://www.linkedin.com/posts/michael-houck_peter-thiels-questions-for-founders-ugcPost-7071825646657654784-ZNYT?utm_source=share&utm_medium=member_desktop
+
+
 
 Socratic questioning
 Origins
