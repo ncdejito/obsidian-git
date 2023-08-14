@@ -6,7 +6,18 @@ Headers on top - Slide headers as one sentence, when stacked on top of each othe
 Top-down - insights first before methodology
 
 
-Why robotics slide in elon musk format
+Pitching by Elon Musk
+https://www.linkedin.com/posts/a-banks_elon-musks-storytelling-tips-to-nail-your-activity-6989205810652282880-gIWX/?utm_source=share&utm_medium=member_android
+1. name the enemy - this is how it is today, it sucks!
+2. agitate the problem - if we do nothing, this is where we are heading
+3. spark intrigue
+4. offer missing piece of the puzzle - demonstrate possibility
+5. show, don't tell - demo
+6. sell benefits, not features
+7. create urgency
+8. build trust
+9. demonstrate potential
+10. show long-term vision
 
 pitch.com
 

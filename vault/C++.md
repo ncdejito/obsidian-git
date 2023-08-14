@@ -206,3 +206,7 @@ CMakeLists.txt
 > defines instructions, source files and target executables in compiling c++ code
 
 h file vs c file - header file, like a set of params shared across files
+
+
+Safety-critical systems 10 rules
+https://www.linkedin.com/posts/rao-y_software-firmware-embedded-activity-7082818252195672065-YMKX?utm_source=share&utm_medium=member_desktop

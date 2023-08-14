@@ -1,6 +1,3 @@
-
-
-
 Socratic questioning
 Origins
 Assumptions

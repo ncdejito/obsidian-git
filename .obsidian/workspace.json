@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Explore Business Ideas.md",
+                "file": "vault/Apply battle-tested Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Explore Business Ideas.md",
+                "file": "vault/Apply battle-tested Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Explore Business Ideas.md",
+                "file": "vault/Apply battle-tested Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Explore Business Ideas.md"
+                "file": "vault/Apply battle-tested Algorithms.md"
               }
             }
           },
@@ -147,12 +148,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbc1b3d6c0dd48cf",
+  "active": "53bd56e96f5bfed8",
   "lastOpenFiles": [
+    "vault/Explore Business Ideas.md",
+    "Build a career.md",
+    "Keep your job.md",
+    "How to close a sale.md",
+    "vault/How to Find a Market (Marketing).md",
     "vault/Extract info from images using Computer Vision.md",
     "vault/Assess your ability.md",
     "vault/Javascript.md",
@@ -174,7 +179,6 @@
     "vault/Use Recommendation Algorithms.md",
     "vault/Connect computers with Networking.md",
     "vault/Zerotier.md",
-    "vault/Explore Business Ideas.md",
     "vault/Build a business.md",
     "vault/Using LLMs ChatGPT.md",
     "vault/Build a product (MVP).md",
@@ -185,10 +189,6 @@
     "vault/Connect APIs.md",
     "vault/Handle moments of crisis.md",
     "Content Delivery Networks CDN.md",
-    "vault/Manage yourself.md",
-    "vault/Apply Machine Learning.md",
-    "vault/Statistics.md",
-    "vault/Use React-Native.md",
-    "vault/react-.md"
+    "vault/Manage yourself.md"
   ]
 }

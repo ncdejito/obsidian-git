@@ -14,6 +14,8 @@ Find an ideal role
 [[Prepare for job interview]]
 [[Negotiate]] good to [[Get paid]] well
 Accept
+[[Keep your job]]
+[[Build a career]]
 
 Jobs you might be interested in
 [[Build a robot]] Engineer
@@ -28,6 +30,8 @@ Finance Analyst
 
 Industries
 Finance - https://www.streetofwalls.com/finance-training-courses/
+market data sources
+https://www.linkedin.com/posts/audreywxy_marketdata-investingtips-bloombergalternative-activity-7085823695134326784-JfL0?utm_source=share&utm_medium=member_desktop
 
 How to decide on a path
 Optionality for career  

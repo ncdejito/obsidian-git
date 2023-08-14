@@ -7,7 +7,8 @@ important features
 
 [[Deploy Machine Learning Models]]
 
-
+Avoid ML pitfalls
+https://arxiv.org/pdf/2108.02497.pdf
 
 companies fueling AI revolution
 https://www.linkedin.com/posts/kooshiar_ai-chatgpt-machinelearning-activity-7054098409594515458-e_-d?utm_source=share&utm_medium=member_desktop

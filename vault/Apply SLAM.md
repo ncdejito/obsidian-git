@@ -28,6 +28,8 @@ Monocular realtime navigation
 https://arxiv.org/abs/2307.00666
 
 [Liquid neural networks for drones](https://spectrum.ieee.org/liquid-neural-networks)
+Survey on drone autonomy navigation
+https://www.mdpi.com/2504-446X/5/2/52
 
 camera models, multi-view geometry, and structure-from motion
 UKF, EKF, Factor Graphs

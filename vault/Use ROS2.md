@@ -127,3 +127,6 @@ https://www.linkedin.com/posts/open-source-robotics-foundation_ros-development-o
 
 Learning path
 https://www.theconstructsim.com/a-learning-path-to-become-a-robotics-developer/
+
+Ros2 best practice c++
+https://www.linkedin.com/posts/davies-iyanuoluwa-ogunsina_github-ahmettcelik1ros2bestpractice-activity-7080212685123915777-fQNY

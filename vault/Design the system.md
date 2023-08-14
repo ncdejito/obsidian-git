@@ -1,3 +1,10 @@
+
+Design process from research
+https://maheshba.bitbucket.io/blog/2023/07/12/Design.html
+
+Design a system using AI
+https://github.com/geekan/MetaGPT
+
 SHDW - from System Design Interview
 Scope needs
 High level design

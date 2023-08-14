@@ -10,3 +10,7 @@ used in Robotics
 
 Stef recommended Reinforcement Learning
 https://huyenchip.com/2023/05/02/rlhf.html
+
+Reinforcement learning maze stuff
+
+central importance of Bellman's Equation for RL

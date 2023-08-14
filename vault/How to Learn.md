@@ -1,3 +1,6 @@
+ChatGPT prompts
+https://www.linkedin.com/posts/alex-brogan_top-prompts-to-accelerate-your-learning-using-ugcPost-7085513673254846464-0q5h?utm_source=share&utm_medium=member_desktop
+
 Fast
 Ask why and 1 example
 Understand high-level input output method definitions
