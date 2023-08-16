@@ -17,3 +17,6 @@ Considering alternative perspectives (What might others think? How do I know I a
 Examining consequences and implications (What if I am wrong? What are the consequences if I am?)
 
 Questioning the original questions (Why did I think that? Was I correct? What conclusions can I draw from the reasoning process?)
+
+Clarity of thought - list of mental distortions
+https://www.linkedin.com/posts/romeen-sheth-07494427_the-worlds-most-valuable-skill-clarity-activity-7059280882133561344-ZDRg/?utm_source=share&utm_medium=member_desktop

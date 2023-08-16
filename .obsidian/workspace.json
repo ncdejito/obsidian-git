@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md",
+                "file": "vault/Write a Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md",
+                "file": "vault/Write a Resume.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md",
+                "file": "vault/Write a Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md"
+                "file": "vault/Write a Resume.md"
               }
             }
           },
@@ -162,8 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53bd56e96f5bfed8",
+  "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
+    "vault/Apply battle-tested Algorithms.md",
+    "Motion Planning.md",
+    "vault/Natural Language Processing (NLP).md",
     "vault/Explore Business Ideas.md",
     "Build a career.md",
     "Keep your job.md",
@@ -186,9 +189,6 @@
     "vault/Write a Resume.md",
     "vault/Build a moat.md",
     "Optimization Problems.md",
-    "vault/Connect APIs.md",
-    "vault/Handle moments of crisis.md",
-    "Content Delivery Networks CDN.md",
-    "vault/Manage yourself.md"
+    "vault/Connect APIs.md"
   ]
 }

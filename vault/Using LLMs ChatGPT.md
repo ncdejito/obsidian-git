@@ -1,4 +1,5 @@
 
+
 [Prompting course](https://learnprompting.org/)
 how it works [Linkedin post](https://www.linkedin.com/posts/hilarymason_chatgpt-ai-llm-activity-7037082578603909121-akFQ?utm_source=share&utm_medium=member_desktop)
 Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-awesome-chat-gpt-prompts-activity-7015708729333403648-alUj/?originalSubdomain=ee)
@@ -52,6 +53,9 @@ https://github.com/farizrahman4u/loopgpt
 
 Gpt4all-j - open source chatbot for everybody  
 [https://github.com/nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)
+
+
+https://www.linkedin.com/posts/thevinodsandhu_cancel-your-chatgpt-plus-subscription-no-activity-7089905579086745601-fflK/
 
 ## Fundamentals
 [[Building Large Language Models LLM]]

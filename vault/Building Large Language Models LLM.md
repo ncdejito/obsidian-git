@@ -1,3 +1,7 @@
+
+Tools for building
+https://saharh.notion.site/saharh/1e4a35681007464faaa7cc5fe00dbd34?v=0e2f8309375c4f8d885f6221354576f3
+
 Hard stuff no one talks about in building
 https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm
 

@@ -1,5 +1,7 @@
 [[Workspace]] [[Manage info overload (PKM)]]
 
+Focus: Usability for the future
+
 ## How to use
 When to add - you found the need to review it more than once
 When to link - seeing connections as a group makes sense
@@ -8,7 +10,11 @@ When to link - seeing connections as a group makes sense
 Why need better personal knowledge management  
 siloed knowledge collection - unupdated pages, logging across different journals is unsustainable  
 slow tedious recall and updating with so much hierarchies and need for classifications - need to make it seamless and compounding if you're going to last long in the knowledge economy  
-  
+
+Pain points addressed
+recording past bugfixes - currently: gdocs - isolated and hard to search  
+listing down future tips but not implemented yet - currently: gdocs - scattered  
+listing down daily tasks - currently: gdocs, gkeep - scattered  
   
 how obsidian addresses these  
   
@@ -17,11 +23,6 @@ best practices - links to blogposts
 setup guide  
 common workflows - docker saving  
 common bugs section - bugfixes
-
-Pain points addressed
-recording past bugfixes - currently: gdocs - isolated and hard to search  
-listing down future tips but not implemented yet - currently: gdocs - scattered  
-listing down daily tasks - currently: gdocs, gkeep - scattered  
   
 decision why obsidian for tech notetaking  
 - rolling unfinished tasks via a daily task log  
@@ -44,7 +45,7 @@ prevent siloed notes by replacing create new note with search notes (BenCodeZen)
 
 Bugs encountered section in ros nav2 page  
   
-Learnings  
+## Personal insights
 Write notes based on how you expect to use them in the future - make clear headings  
 Prevent siloed knowledge (folder), too much content (tag search) by linking notes  
 Navigate related notes easily by making higher order notes/MOCs  

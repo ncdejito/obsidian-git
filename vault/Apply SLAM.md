@@ -1,4 +1,5 @@
-
+NodeOS Autonomy for robotics
+https://www.linkedin.com/posts/node-robotics_the-new-nodeos-ugcPost-7065236864579842048-59z1?utm_source=share&utm_medium=member_desktop
 
 ## Theory
 [Principles of Robot Autonomy](https://stanfordasl.github.io//aa274a/)

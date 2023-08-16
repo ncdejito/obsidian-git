@@ -1,5 +1,8 @@
 [[Understand Behavior Trees]]
 
+A Survey of Modern & Capable Mobile Robotics Algorithms in ROS2
+https://www.linkedin.com/posts/steve-macenski-41a985101_from-the-desks-of-ros-maintainers-a-survey-activity-7091849753952489472-XQcY?utm_source=share&utm_medium=member_desktop
+
 ## Components
 * [[Nav2 Nodes]]
 * [[Nav2 Topics]]

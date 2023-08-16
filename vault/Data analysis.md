@@ -23,6 +23,7 @@ Treating missing data
 ## Explore data
 Ask good questions
 Collect relevant info
+Sense checks - compare to other available benchmarks
 
 Tips
 Ask questions/hypothesize

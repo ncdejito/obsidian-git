@@ -1,5 +1,3 @@
-
-
 fundamentals of an awesome resume
 1. it's a marketing document, not your autobiography - dont list everything down, what will convince them to invite you for an interview
 1. it's about them, not about you - they need you to fulfill a specific business need
@@ -41,5 +39,11 @@ If I was a 10x engineer, what would that look like
 Job hunting using AI  
 [https://www.linkedin.com/posts/jvmsangkal_activity-7073190466640363520-cpAA](https://www.linkedin.com/posts/jvmsangkal_activity-7073190466640363520-cpAA)
 
+Autoapply
 LoopCV pro
-resumAI
+Ramped Careers
+
+Retype bullet points
+https://www.rezi.ai/
+
+Headshots https://secta.ai/headshots

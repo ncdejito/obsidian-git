@@ -23,3 +23,9 @@ pitch.com
 
 What to write on your pitch deck
 https://www.linkedin.com/posts/paulobrien_marketing-activity-7045139319593869313-ijMu?utm_source=share&utm_medium=member_android
+
+why write pretty slides
+Legitness
+Certainty
+Sense of calm from never changing
+efficient communication with less distraction

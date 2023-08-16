@@ -1,5 +1,10 @@
 [[Apply Machine Learning]]
 
+create your own picture for genAI  
+[https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain_Dreambooth.ipynb](https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain_Dreambooth.ipynb?authuser=0)
+Like Midjourney
+https://firefly.adobe.com/
+
 https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/what-every-ceo-should-know-about-generative-ai
 
 [Google GenerativeAI](https://www.cloudskillsboost.google/paths/118)
