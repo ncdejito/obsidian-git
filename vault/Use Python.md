@@ -5,6 +5,7 @@ Install on Ubuntu
 ```
 apt install python3
 apt install python-is-python3
+apt install python3.8-venv
 ```
 
 Create virtual env

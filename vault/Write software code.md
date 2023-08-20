@@ -28,3 +28,7 @@ The full stack
 
 How to prepare for swe  
 [https://www.linkedin.com/posts/dinesh-varyani_systemsexpert-systemsexpert-google-activity-7077628897357369345-bWz3](https://www.linkedin.com/posts/dinesh-varyani_systemsexpert-systemsexpert-google-activity-7077628897357369345-bWz3)
+
+Software processes
+RFC
+https://buriti.ca/a-thorough-team-guide-to-rfcs-8aa14f8e757c
