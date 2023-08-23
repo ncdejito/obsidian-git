@@ -2,6 +2,9 @@
 Design process from research
 https://maheshba.bitbucket.io/blog/2023/07/12/Design.html
 
+Scalable systems  
+[https://www.linkedin.com/posts/garrytan_how-we-reduced-the-cost-of-building-twitter-activity-7097287204028239872-nBqn?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/garrytan_how-we-reduced-the-cost-of-building-twitter-activity-7097287204028239872-nBqn?utm_source=share&utm_medium=member_android)
+
 Design a system using AI
 https://github.com/geekan/MetaGPT
 

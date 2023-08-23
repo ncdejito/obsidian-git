@@ -10,5 +10,8 @@ Tutorials
 Beginners typescript  
 [https://www.totaltypescript.com/tutorials/beginners-typescript?trk=feed_main-feed-card_feed-article-content](https://www.totaltypescript.com/tutorials/beginners-typescript?trk=feed_main-feed-card_feed-article-content)
 
+Js to typescript converter
+https://github.com/JoshuaKGoldberg/TypeStat
+
 Combinations
 Typescript with [[Use React]] [blogpost](https://www.digitalocean.com/community/tutorials/react-typescript-with-react)

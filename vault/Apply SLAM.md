@@ -6,6 +6,9 @@ https://www.linkedin.com/posts/node-robotics_the-new-nodeos-ugcPost-706523686457
 Low cost 3D [conference](https://lc3d.fbk.eu/)
 [Robotics Knowledge Base](https://roboticsknowledgebase.com/wiki/sensing/pcl/#3d-slam)
 
+Visual odometry and slam survey  
+[https://github.com/klintan/vo-survey](https://github.com/klintan/vo-survey)
+
 Ces  
 Lowcost3d  
 Rose2022 robot swe

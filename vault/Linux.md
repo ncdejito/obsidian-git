@@ -21,6 +21,7 @@ zip -r archivename.zip directory_name
 * unzip to a folder
 
 ```
+echo "password" | sudo -S apt-get install unzip
 unzip -d landuse landuse.zip
 ```
 

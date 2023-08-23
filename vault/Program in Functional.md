@@ -12,6 +12,8 @@ Personal experience
 Monad transformer
 Dependent types - a type whose definition depends on a value
 
+Functional Go
+https://github.com/IBM/fp-go
 
 Implementations
 [[Haskell]]

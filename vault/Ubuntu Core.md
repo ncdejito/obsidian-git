@@ -16,7 +16,7 @@ network:
     wlan0:
       access-points:
         HUAWEI-2.4G-72Gf_plus:
-          password: VhN264s7
+          password: VhN264S7
       dhcp4: true
 ```
 sudo netplan apply
