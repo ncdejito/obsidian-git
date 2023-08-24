@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md",
+                "file": "vault/Use Controller Area Networks CAN.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md",
+                "file": "vault/Use Controller Area Networks CAN.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md",
+                "file": "vault/Use Controller Area Networks CAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md"
+                "file": "vault/Use Controller Area Networks CAN.md"
               }
             }
           },
@@ -164,9 +164,9 @@
   },
   "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
+    "vault/Apply battle-tested Algorithms.md",
     "vault/C++.md",
     "vault/Write a Resume.md",
-    "vault/Apply battle-tested Algorithms.md",
     "Motion Planning.md",
     "vault/Natural Language Processing (NLP).md",
     "vault/Explore Business Ideas.md",
