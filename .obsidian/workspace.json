@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use Controller Area Networks CAN.md",
+                "file": "vault/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use Controller Area Networks CAN.md",
+                "file": "vault/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use Controller Area Networks CAN.md",
+                "file": "vault/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use Controller Area Networks CAN.md"
+                "file": "vault/C++.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
+    "vault/Use Controller Area Networks CAN.md",
     "vault/Apply battle-tested Algorithms.md",
     "vault/C++.md",
     "vault/Write a Resume.md",
@@ -188,7 +189,6 @@
     "vault/Build a product (MVP).md",
     "vault/Get a Job.md",
     "vault/Build a moat.md",
-    "Optimization Problems.md",
-    "vault/Connect APIs.md"
+    "Optimization Problems.md"
   ]
 }
