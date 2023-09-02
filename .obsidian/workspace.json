@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/C++.md",
+                "file": "vault/Identify edge cases.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compet",
+                "query": "edge case",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/C++.md",
+                "file": "vault/Identify edge cases.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/C++.md",
+                "file": "vault/Identify edge cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/C++.md"
+                "file": "vault/Identify edge cases.md"
               }
             }
           },
@@ -164,9 +163,11 @@
   },
   "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
-    "vault/Use Controller Area Networks CAN.md",
+    "vault/Use appropriate Data Structures.md",
     "vault/Apply battle-tested Algorithms.md",
     "vault/C++.md",
+    "How to add value.md",
+    "vault/Use Controller Area Networks CAN.md",
     "vault/Write a Resume.md",
     "Motion Planning.md",
     "vault/Natural Language Processing (NLP).md",
@@ -187,8 +188,6 @@
     "vault/Build a business.md",
     "vault/Using LLMs ChatGPT.md",
     "vault/Build a product (MVP).md",
-    "vault/Get a Job.md",
-    "vault/Build a moat.md",
-    "Optimization Problems.md"
+    "vault/Get a Job.md"
   ]
 }
