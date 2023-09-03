@@ -17,6 +17,7 @@ rm -rf *
 
 ```
 zip -r archivename.zip directory_name
+7z a -r cropped.zip cropped/
 ```
 * unzip to a folder
 
@@ -25,10 +26,11 @@ echo "password" | sudo -S apt-get install unzip
 unzip -d landuse landuse.zip
 ```
 
+
 * unzip a 7z
 
 ```
-sudo apt install p7zip
+sudo apt install p7zip-full
 7z x /content/TH.2020.2021.wdwe-4h.csv.7z
 ```
 * unzip an xz file

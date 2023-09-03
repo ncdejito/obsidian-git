@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Identify edge cases.md",
+                "file": "vault/Apply battle-tested Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "edge case",
+                "query": "memoization",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Identify edge cases.md",
+                "file": "vault/Apply battle-tested Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Identify edge cases.md",
+                "file": "vault/Apply battle-tested Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Identify edge cases.md"
+                "file": "vault/Apply battle-tested Algorithms.md"
               }
             }
           },
@@ -163,9 +163,11 @@
   },
   "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
+    "vault/C++.md",
+    "vault/Safety critical systems.md",
+    "vault/Identify edge cases.md",
     "vault/Use appropriate Data Structures.md",
     "vault/Apply battle-tested Algorithms.md",
-    "vault/C++.md",
     "How to add value.md",
     "vault/Use Controller Area Networks CAN.md",
     "vault/Write a Resume.md",
@@ -186,8 +188,6 @@
     "vault/Connect computers with Networking.md",
     "vault/Zerotier.md",
     "vault/Build a business.md",
-    "vault/Using LLMs ChatGPT.md",
-    "vault/Build a product (MVP).md",
-    "vault/Get a Job.md"
+    "vault/Using LLMs ChatGPT.md"
   ]
 }

@@ -39,3 +39,6 @@ Optionality for career
 
 AI tools for job hunting
 https://www.linkedin.com/posts/zainkahn_ai-has-changed-the-job-hunting-process-forever-activity-7074723780639531008-VJI-?utm_source=share&utm_medium=member_desktop
+
+How to become a digital nomad  
+[https://www.linkedin.com/posts/ali-abdaal_everyone-dreams-about-working-for-themselves-activity-7101886671125630977-ZxXF?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/ali-abdaal_everyone-dreams-about-working-for-themselves-activity-7101886671125630977-ZxXF?utm_source=share&utm_medium=member_android)

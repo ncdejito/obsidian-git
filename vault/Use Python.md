@@ -57,3 +57,6 @@ https://www.modular.com/
 
 Python robots
 https://www.linkedin.com/posts/dannystaple_yay-i-see-my-article-featured-in-geeky-activity-7082378674947125249-lMcV
+
+Scalene python profiler
+https://github.com/plasma-umass/scalene
