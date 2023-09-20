@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f3ab6e73307bc69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/C++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memoization",
+                "query": "edge case",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md",
+                "file": "vault/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md",
+                "file": "vault/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md"
+                "file": "vault/C++.md"
               }
             }
           },
@@ -161,11 +174,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbc1b3d6c0dd48cf",
+  "active": "6f3ab6e73307bc69",
   "lastOpenFiles": [
+    "vault/Identify edge cases.md",
     "vault/C++.md",
     "vault/Safety critical systems.md",
-    "vault/Identify edge cases.md",
     "vault/Use appropriate Data Structures.md",
     "vault/Apply battle-tested Algorithms.md",
     "How to add value.md",
