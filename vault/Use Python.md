@@ -12,10 +12,17 @@ Create virtual env
 ```
 python -m venv venv/
 source venv/bin/activate
+pip install -r requirements.txt
 deactivate
 pip freeze > requirements.txt
 ```
 
+Relative paths starting from script location
+```
+    script_dir = Path(__file__).resolve()
+    utils_dir = Path(__file__).resolve().parent
+    root_dir = Path(__file__).resolve().parent.parent
+```
 Manage dependencies with [[Poetry]]
 [benchmarks](https://lincolnloop.github.io/python-package-manager-shootout/)
 [blogpost](https://aseifert.com/p/python-environments/)

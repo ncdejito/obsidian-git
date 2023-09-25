@@ -22,3 +22,5 @@ Overwhelmed -> Take a break
 Restless -> Yoga
 Nervous -> Deep breaths
 Unmotivated -> Set small goals
+
+[How to de-stress](https://www.linkedin.com/posts/ravimishraphysics_share-reshare-whatinspiresme-activity-7107761084417097728-Ie-s?utm_source=share&utm_medium=member_desktop)

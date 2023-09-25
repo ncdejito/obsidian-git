@@ -27,6 +27,9 @@ ROS1 algos
 [Acoustic SLAM](https://towardsdatascience.com/acoustic-slam-state-of-the-art-review-3e5f45aeb345)
 [Multi-robot semantic VSLAM](https://www.linkedin.com/posts/open-source-robotics-foundation_resilient-and-distributed-multi-robot-visual-activity-7059397960140283904-twJ0?utm_source=share&utm_medium=member_desktop)
 [SLAM with LLMs](https://www.linkedin.com/posts/chenguang-huang-53b287254_can-a-robot-navigate-to-the-sound-theyve-ugcPost-7042145643150110720-KZtR?utm_source=share&utm_medium=member_desktop) "move in between the chair and the couch"
+https://www.linkedin.com/posts/jeremycohen2626_breakdown-how-tesla-will-transition-from-activity-7108411108306100224-ZP1C?utm_source=share&utm_medium=member_android
+Space slam algorithms
+https://uk.artechhouse.com/mobile/Navigation-and-Tracking-in-Space-Analysis-and-Algorithms-P2215.aspx
 
 Monocular realtime navigation
 https://arxiv.org/abs/2307.00666

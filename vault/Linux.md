@@ -24,6 +24,7 @@ zip -r archivename.zip directory_name
 ```
 echo "password" | sudo -S apt-get install unzip
 unzip -d landuse landuse.zip
+7z x [FILE-NAME.7Z]
 ```
 
 
