@@ -1,5 +1,7 @@
 [[Using LLMs ChatGPT]]
 
+[https://github.com/OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)
+
 Survey
 https://logankilpatrick.medium.com/what-are-gpt-agents-a-deep-dive-into-the-ai-interface-of-the-future-3c376dcb0824
 

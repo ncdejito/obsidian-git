@@ -1,4 +1,7 @@
 
+Jeremy Howard LLM  
+[https://www.linkedin.com/posts/sanyambhutani_everything-you-need-to-know-about-llms-activity-7112052016872370176-0oE9?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/sanyambhutani_everything-you-need-to-know-about-llms-activity-7112052016872370176-0oE9?utm_source=share&utm_medium=member_android)
+
 Tools for building
 https://saharh.notion.site/saharh/1e4a35681007464faaa7cc5fe00dbd34?v=0e2f8309375c4f8d885f6221354576f3
 
