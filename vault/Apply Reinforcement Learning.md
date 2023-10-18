@@ -14,3 +14,6 @@ https://huyenchip.com/2023/05/02/rlhf.html
 Reinforcement learning maze stuff
 
 central importance of Bellman's Equation for RL
+
+Open problems in RL
+https://www.linkedin.com/posts/jazib-ahmad-450_artificialintelligence-machinelearning-llms-activity-7106969647526150145-A1Kq?utm_source=share&utm_medium=member_android

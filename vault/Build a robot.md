@@ -43,3 +43,6 @@ Read simon kalouche medium article
 [Mobile robotics algorithms UMich](https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F)
 [Intro to CNC Machining](https://lcamtuf.coredump.cx/gcnc/)
 Draw robot - CAD Design
+
+Alternatives to ROS
+https://www.linkedin.com/posts/ilir-aliu_there-are-several-popular-open-source-robotics-activity-7116050015709450240-Jckh?utm_source=share&utm_medium=member_android

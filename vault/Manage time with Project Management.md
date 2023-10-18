@@ -59,6 +59,10 @@ Double check deadlines
 Does the actions of each day reinforce your identity?
 
 ## Daily
+
+5pm cutoff
+1h if stuck ask for help
+
 day - output=standup notes
 review toggl track
 review project docs

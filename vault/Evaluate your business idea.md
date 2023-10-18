@@ -3,6 +3,11 @@
 * classic essay
 * mid-batch pivots
 
+Things that create value
+Software that generates rev duh
+Saves so much time
+Makes something possible that wasnt before
+
 SISP
 tarpit idea - seems solvable, but structural reason why impossible to solve
 

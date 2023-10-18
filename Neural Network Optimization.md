@@ -1,0 +1,2 @@
+Making neural nets smaller  
+[https://www.linkedin.com/posts/skalskip92_courses-deeplearning-neuralnetwork-activity-7114883448581820416-W6_u?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/skalskip92_courses-deeplearning-neuralnetwork-activity-7114883448581820416-W6_u?utm_source=share&utm_medium=member_android)
