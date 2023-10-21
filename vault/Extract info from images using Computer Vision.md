@@ -1,4 +1,5 @@
 [[Deep Learning]]
+[[Use Perception]]
 
 Python Rust Computer Vision - [Rerun.io](https://github.com/rerun-io)
 No-code VisualBlocks - https://github.com/google/visualblocks

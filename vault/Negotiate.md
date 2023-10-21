@@ -55,7 +55,8 @@ To try and take out emotions in a negotiation is a fool's errand
 	- 7-38-55 effect - 7perc spoken words, 38 by tone of voice, 55 through body language
 - Find the black swans - pieces of innocuous information that, if revealed, can change the course of the whole negotiation. To discover them, you must open your mind, maintain an endless curiosity, and be on the lookout for surprises.
 
-
+How to negotiate
+https://www.linkedin.com/posts/chrisrocas_negotiation-is-the-highest-roi-skill-activity-7119657269729837056-fgfJ?utm_source=share&utm_medium=member_android
 
 
 

@@ -1,3 +1,5 @@
+[[Write control software]]
+
 [[Understand Electronics Theory]]
 
 make the robot follow the path by comparing its heading with the error

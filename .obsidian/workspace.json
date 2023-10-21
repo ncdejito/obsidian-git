@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Apply battle-tested Algorithms.md",
+                "file": "vault/Build a robot.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "29c96e19d9714226",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/Build a robot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/Build a robot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use Python.md"
+                "file": "vault/Build a robot.md"
               }
             }
           },
@@ -172,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,33 +173,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29c96e19d9714226",
+  "active": "cbc1b3d6c0dd48cf",
   "lastOpenFiles": [
-    "Neural Network Optimization.md",
-    "Nav2 GPS.md",
+    "vault/Understand Electronics Theory.md",
     "vault/C++.md",
-    "vault/Identify edge cases.md",
-    "vault/Safety critical systems.md",
-    "vault/Use appropriate Data Structures.md",
+    "vault/Learn a large code base.md",
+    "vault/Design the system.md",
+    "vault/Understand Control Theory.md",
     "vault/Apply battle-tested Algorithms.md",
-    "How to add value.md",
-    "vault/Use Controller Area Networks CAN.md",
-    "vault/Write a Resume.md",
-    "Motion Planning.md",
-    "vault/Natural Language Processing (NLP).md",
-    "vault/Explore Business Ideas.md",
-    "Build a career.md",
-    "Keep your job.md",
-    "How to close a sale.md",
-    "vault/How to Find a Market (Marketing).md",
+    "vault/How to Learn.md",
+    "vault/Study.md",
+    "Graph ML.md",
+    "vault/Manage yourself.md",
     "vault/Extract info from images using Computer Vision.md",
-    "vault/Assess your ability.md",
-    "vault/Javascript.md",
+    "vault/Robotics Simulation.md",
+    "vault/Write software code.md",
+    "vault/Productivity Hacks.md",
+    "How to add value.md",
+    "choos.md",
     "Time series forecasting.md",
-    "vault/Version code with Git.md",
-    "vault/Apply Reinforcement Learning.md",
-    "vault/Use Recommendation Algorithms.md",
-    "vault/Connect computers with Networking.md",
-    "vault/Zerotier.md"
+    "vault/Industries to pitch data infra to.md",
+    "vault/Automate using GenerativeAI.md",
+    "vault/Build Backend Components.md",
+    "Get data.md",
+    "vault/Use Nav2.md",
+    "vault/Use ROS2.md",
+    "vault/Write control software.md",
+    "vault/Build a robot.md",
+    "vault/Market Product to Customers (Marketing).md"
   ]
 }

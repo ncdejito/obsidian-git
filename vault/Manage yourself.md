@@ -1,3 +1,5 @@
+#job 
+
 * Emulate role models using [[Invent a Character]]
 * Be honest about your capability using [[Assess your ability]]
 * Keep yourself busy with habits [[Build a Habit]]

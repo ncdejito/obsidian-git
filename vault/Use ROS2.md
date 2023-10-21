@@ -1,3 +1,5 @@
+#job 
+
 ROS2 nodes
 https://www.linkedin.com/posts/steve-macenski-41a985101_impact-of-ros-2-node-composition-in-robotic-activity-7065021713142448128-Y9Lc?utm_source=share&utm_medium=member_desktop
 
@@ -131,3 +133,6 @@ https://www.theconstructsim.com/a-learning-path-to-become-a-robotics-developer/
 
 Ros2 best practice c++
 https://www.linkedin.com/posts/davies-iyanuoluwa-ogunsina_github-ahmettcelik1ros2bestpractice-activity-7080212685123915777-fQNY
+
+Ros2 rust r2r
+https://www.linkedin.com/posts/ahcorde_ros2-rust-ros-activity-7117856391393873920-WWbE?utm_source=share&utm_medium=member_android
