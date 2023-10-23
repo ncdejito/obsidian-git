@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8bbdaf1affe3262a",
+        "id": "1c5b5f6ba1913092",
         "type": "tabs",
         "children": [
           {
-            "id": "cbc1b3d6c0dd48cf",
+            "id": "3ff3f1c573e8172d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Build a robot.md",
+                "file": "vault/Cover Letter.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Build a robot.md",
+                "file": "vault/Cover Letter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Build a robot.md",
+                "file": "vault/Cover Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Build a robot.md"
+                "file": "vault/Cover Letter.md"
               }
             }
           },
@@ -173,8 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbc1b3d6c0dd48cf",
+  "active": "3ff3f1c573e8172d",
   "lastOpenFiles": [
+    "vault/Write a Resume.md",
+    "vault/Cover Letter.md",
+    "vault/Write software code.md",
+    "Logistics.md",
+    "vault/Camera Calibration.md",
+    "vault/Build a robot.md",
+    "Game theory.md",
     "vault/Understand Electronics Theory.md",
     "vault/C++.md",
     "vault/Learn a large code base.md",
@@ -187,19 +193,12 @@
     "vault/Manage yourself.md",
     "vault/Extract info from images using Computer Vision.md",
     "vault/Robotics Simulation.md",
-    "vault/Write software code.md",
     "vault/Productivity Hacks.md",
     "How to add value.md",
     "choos.md",
     "Time series forecasting.md",
     "vault/Industries to pitch data infra to.md",
     "vault/Automate using GenerativeAI.md",
-    "vault/Build Backend Components.md",
-    "Get data.md",
-    "vault/Use Nav2.md",
-    "vault/Use ROS2.md",
-    "vault/Write control software.md",
-    "vault/Build a robot.md",
-    "vault/Market Product to Customers (Marketing).md"
+    "vault/Build Backend Components.md"
   ]
 }

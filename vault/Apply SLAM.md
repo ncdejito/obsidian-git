@@ -30,6 +30,8 @@ ROS1 algos
 https://www.linkedin.com/posts/jeremycohen2626_breakdown-how-tesla-will-transition-from-activity-7108411108306100224-ZP1C?utm_source=share&utm_medium=member_android
 Space slam algorithms
 https://uk.artechhouse.com/mobile/Navigation-and-Tracking-in-Space-Analysis-and-Algorithms-P2215.aspx
+Lessons from darpa slam
+https://www.linkedin.com/posts/kostas-alexis-67713918_present-and-future-of-slam-in-extreme-environments-activity-7120481474268545024-2Fik?utm_source=share&utm_medium=member_android
 
 Monocular realtime navigation
 https://arxiv.org/abs/2307.00666
