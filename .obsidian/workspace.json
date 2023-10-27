@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1c5b5f6ba1913092",
+        "id": "eb6589a7dbdd86d6",
         "type": "tabs",
         "children": [
           {
-            "id": "3ff3f1c573e8172d",
+            "id": "64f8d32376df785c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Cover Letter.md",
+                "file": "vault/Apply SLAM.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Cover Letter.md",
+                "file": "vault/Apply SLAM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Cover Letter.md",
+                "file": "vault/Apply SLAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Cover Letter.md"
+                "file": "vault/Apply SLAM.md"
               }
             }
           },
@@ -156,13 +156,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,10 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ff3f1c573e8172d",
+  "active": "64f8d32376df785c",
   "lastOpenFiles": [
-    "vault/Write a Resume.md",
+    "vault/Apply SLAM.md",
+    "vault/Use tested Business Model.md",
+    "vault/How to Learn (Learning).md",
+    "vault/Learning.md",
+    "vault/Mental Models.md",
+    "vault/Evaluate your idea.md",
     "vault/Cover Letter.md",
+    "vault/Write a Resume.md",
     "vault/Write software code.md",
     "Logistics.md",
     "vault/Camera Calibration.md",
@@ -187,18 +191,12 @@
     "vault/Design the system.md",
     "vault/Understand Control Theory.md",
     "vault/Apply battle-tested Algorithms.md",
-    "vault/How to Learn.md",
     "vault/Study.md",
     "Graph ML.md",
     "vault/Manage yourself.md",
     "vault/Extract info from images using Computer Vision.md",
     "vault/Robotics Simulation.md",
     "vault/Productivity Hacks.md",
-    "How to add value.md",
-    "choos.md",
-    "Time series forecasting.md",
-    "vault/Industries to pitch data infra to.md",
-    "vault/Automate using GenerativeAI.md",
-    "vault/Build Backend Components.md"
+    "How to add value.md"
   ]
 }

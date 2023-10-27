@@ -1,3 +1,5 @@
+[[How to Learn (Learning)]]
+
 Socratic questioning
 Origins
 Assumptions

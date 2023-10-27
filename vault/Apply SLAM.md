@@ -1,3 +1,5 @@
+#job 
+
 NodeOS Autonomy for robotics
 https://www.linkedin.com/posts/node-robotics_the-new-nodeos-ugcPost-7065236864579842048-59z1?utm_source=share&utm_medium=member_desktop
 
@@ -5,6 +7,9 @@ https://www.linkedin.com/posts/node-robotics_the-new-nodeos-ugcPost-706523686457
 [Principles of Robot Autonomy](https://stanfordasl.github.io//aa274a/)
 Low cost 3D [conference](https://lc3d.fbk.eu/)
 [Robotics Knowledge Base](https://roboticsknowledgebase.com/wiki/sensing/pcl/#3d-slam)
+
+SLAM roadmap
+**https://www.linkedin.com/posts/alexandremorgand_slam-multipleviewgeometry-3d-ugcPost-7096782883381489664-OC0b?utm_source=share&utm_medium=member_android**
 
 Visual odometry and slam survey  
 [https://github.com/klintan/vo-survey](https://github.com/klintan/vo-survey)

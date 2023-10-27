@@ -108,3 +108,14 @@ Be able to visualize exactly what needs to be done and steps needed to be taken 
 
 Use CHATGPT
 https://www.linkedin.com/posts/tobias-zwingmann_chatgpt-education-ai-activity-7059196088544550912-nJMF?utm_source=share&utm_medium=member_desktop
+
+
+Research paper format
+Abstract - Goal of the study, Summary of what happened
+Introduction - Background of the problem, Statement of the problem, Scope and limitations
+Related Literature
+Methodology - Steps, Improvements
+Results and discussion
+Conclusion - Answer to the problem, Further studies
+Bibliography
+Appendix - Figures, Codes
