@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Apply SLAM.md",
+                "file": "vault/Telecommunications.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Apply SLAM.md",
+                "file": "vault/Telecommunications.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Apply SLAM.md",
+                "file": "vault/Telecommunications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Apply SLAM.md"
+                "file": "vault/Telecommunications.md"
               }
             }
           },
@@ -156,7 +156,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,6 +173,9 @@
   },
   "active": "64f8d32376df785c",
   "lastOpenFiles": [
+    "vault/C++.md",
+    "vault/Telecommunications.md",
+    "vault/Use appropriate Data Structures.md",
     "vault/Apply SLAM.md",
     "vault/Use tested Business Model.md",
     "vault/How to Learn (Learning).md",
@@ -186,7 +190,6 @@
     "vault/Build a robot.md",
     "Game theory.md",
     "vault/Understand Electronics Theory.md",
-    "vault/C++.md",
     "vault/Learn a large code base.md",
     "vault/Design the system.md",
     "vault/Understand Control Theory.md",
@@ -195,8 +198,6 @@
     "Graph ML.md",
     "vault/Manage yourself.md",
     "vault/Extract info from images using Computer Vision.md",
-    "vault/Robotics Simulation.md",
-    "vault/Productivity Hacks.md",
-    "How to add value.md"
+    "vault/Robotics Simulation.md"
   ]
 }

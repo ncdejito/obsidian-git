@@ -74,6 +74,14 @@ a Map is ordered by key in increasing order
 - linear collection of data elements where each element points to the next. a basic node contains: data, and a reference (in other words, a link) to the next node in the sequence
 - The benefit of a linked list over a conventional array is that the list elements can be easily inserted or removed without reallocation or reorganization of the entire structure because the data items need not be stored contiguously in memory or on disk, while **restructuring an array** **at run-time is a much more expensive operation**.
 
+## Queues
+```
+queue<int> q;
+if !q.empty()
+q.push(x);
+q.front();
+q.pop();
+```
 ## Trees
 - non-linear and a hierarchical data structure consisting of a collection of nodes such that each node of the tree stores a value and a list of references to other nodes (the “children”)
 

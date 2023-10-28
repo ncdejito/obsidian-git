@@ -1,3 +1,10 @@
+SMART goals + principles
+Specific - definition of success, satisficing
+Measurable - milestones
+Actionable - subtasks
+Realistic - scoped, buffered on uncertainty
+Time bound - deadlines, timeboxes
+
 ## Monthly
 month - output=OKRs, answers to retro questions
 if end of quarter, write goals
@@ -44,6 +51,11 @@ Plan work blocks within the week for milestone subtasks
 
 assume you're the laziest shit ass engineer but doesnt compromise on quality
 
+Time management
+Schedule deadlines per day instead of calendar entries
+Planned using GCal - change only by moving blocks
+Actual using Toggl
+
 Sun 10pm 2h Scoping and scheduling tasks for the week
 Retro
 Check tasks accomplished in GCal day headers
@@ -70,18 +82,9 @@ write done doing todo blockers
 write feelings
 plan day ahead
 
-Time management
-Schedule deadlines per day instead of calendar entries
-Planned using GCal - change only by moving blocks
-Actual using Toggl
-
 Short - tomorrow
 Tasks - process-based, gdocs daily journal, Airtable deliverables
 Time tracking - toggl
-
-Airtable  
-Uncategorized for in progress tasks - for mobile quickly see priorities  
-Task should be something showable to people, for personal subtasks just note on your own journal
 
 Schedule in alarms
 Daily habits
