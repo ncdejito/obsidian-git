@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Telecommunications.md",
+                "file": "vault/Deliver data faster with Caching.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Telecommunications.md",
+                "file": "vault/Deliver data faster with Caching.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Telecommunications.md",
+                "file": "vault/Deliver data faster with Caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Telecommunications.md"
+                "file": "vault/Deliver data faster with Caching.md"
               }
             }
           },
@@ -173,12 +173,13 @@
   },
   "active": "64f8d32376df785c",
   "lastOpenFiles": [
+    "vault/Program in Object-Oriented.md",
     "vault/C++.md",
+    "vault/How to Learn (Learning).md",
     "vault/Telecommunications.md",
     "vault/Use appropriate Data Structures.md",
     "vault/Apply SLAM.md",
     "vault/Use tested Business Model.md",
-    "vault/How to Learn (Learning).md",
     "vault/Learning.md",
     "vault/Mental Models.md",
     "vault/Evaluate your idea.md",
@@ -197,7 +198,6 @@
     "vault/Study.md",
     "Graph ML.md",
     "vault/Manage yourself.md",
-    "vault/Extract info from images using Computer Vision.md",
-    "vault/Robotics Simulation.md"
+    "vault/Extract info from images using Computer Vision.md"
   ]
 }

@@ -1,5 +1,8 @@
 ChatGPT prompts
 https://www.linkedin.com/posts/alex-brogan_top-prompts-to-accelerate-your-learning-using-ugcPost-7085513673254846464-0q5h?utm_source=share&utm_medium=member_desktop
+* Explain __ in the simplest terms possible as if teaching it to a complete beginner. Identify gaps in my understanding and suggest resources to fill them
+* Help me create mental models or analogies to better understand and remember key concepts in ___
+* Guide me through a visualization exercise to help me internalize __ and imagine myself successfully applying it in real-life situations.
 
 Fast
 Ask why and 1 example
@@ -105,9 +108,6 @@ how to build expertise in a new field
 How to learn
 Feynman like understanding
 Be able to visualize exactly what needs to be done and steps needed to be taken e.g. a data analyst gets the data, processes it, does summaries, asks questions etc.
-
-Use CHATGPT
-https://www.linkedin.com/posts/tobias-zwingmann_chatgpt-education-ai-activity-7059196088544550912-nJMF?utm_source=share&utm_medium=member_desktop
 
 
 Research paper format

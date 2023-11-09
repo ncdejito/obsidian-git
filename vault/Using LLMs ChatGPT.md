@@ -1,6 +1,4 @@
 
-
-[Prompting course](https://learnprompting.org/)
 how it works [Linkedin post](https://www.linkedin.com/posts/hilarymason_chatgpt-ai-llm-activity-7037082578603909121-akFQ?utm_source=share&utm_medium=member_desktop)
 Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-awesome-chat-gpt-prompts-activity-7015708729333403648-alUj/?originalSubdomain=ee)
 
@@ -8,11 +6,8 @@ ChatGPT for robotics
 https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf
 https://github.com/GT-RIPL/Awesome-LLM-Robotics
 
-Prompt engineering for developers  
-[https://www.linkedin.com/posts/andrewyng_thrilled-to-announce-our-new-course-chatgpt-activity-7057374526451445760-kA1T?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/andrewyng_thrilled-to-announce-our-new-course-chatgpt-activity-7057374526451445760-kA1T?utm_source=share&utm_medium=member_android)
-
-How to prompt
-https://www.linkedin.com/posts/genai-center_heres-the-chatgpt-ultimate-prompting-guide-activity-7064955583199678465-QkDQ?utm_source=share&utm_medium=member_desktop
+[Prompting course](https://learnprompting.org/) 
+Prompt engineering for developers[https://www.linkedin.com/posts/andrewyng_thrilled-to-announce-our-new-course-chatgpt-activity-7057374526451445760-kA1T?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/andrewyng_thrilled-to-announce-our-new-course-chatgpt-activity-7057374526451445760-kA1T?utm_source=share&utm_medium=member_android)
 
 Chatgpt cheat sheet  
 [https://www.linkedin.com/posts/zainkahn_the-only-chatgpt-guide-youll-ever-need-activity-7075084649441501184-5z90](https://www.linkedin.com/posts/zainkahn_the-only-chatgpt-guide-youll-ever-need-activity-7075084649441501184-5z90)
@@ -22,8 +17,6 @@ Chatgpt cheat sheet
 [ChatGPT for beginners](https://www.linkedin.com/posts/a-banks_a-crash-course-on-chatgpt-for-beginners-ugcPost-7018213154283216896-sa-G?utm_source=share&utm_medium=member_desktop)
 [Useful Prompts](https://www.linkedin.com/posts/aaditsh_the-most-useful-chatgpt-prompts-save-these-activity-7040346360360898560-WqYR?utm_source=share&utm_medium=member_desktop)
 [500 templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
-
-
 
 For internal documents
 https://www.linkedin.com/posts/pkghosh_github-imartinezprivategpt-interact-privately-activity-7063225855006699521-wftV?utm_source=share&utm_medium=member_desktop
