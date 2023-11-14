@@ -63,6 +63,13 @@ docker images --digests
 docker buildx for multi-arch
 
 ### Fixes
+#fix 
+[How to fix docker: Got permission denied issue - Stack Overflow](https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue)
+```
+sudo usermod -aG docker $USER
+sudo chmod 666 /var/run/docker.sock
+```
+
 #fix /bin/bash/exec format error
 different architecture, try multi-arch steps
 

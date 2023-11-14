@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Deliver data faster with Caching.md",
+                "file": "vault/Learn a large code base.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Deliver data faster with Caching.md",
+                "file": "vault/Learn a large code base.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Deliver data faster with Caching.md",
+                "file": "vault/Learn a large code base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Deliver data faster with Caching.md"
+                "file": "vault/Learn a large code base.md"
               }
             }
           },
@@ -173,6 +173,9 @@
   },
   "active": "64f8d32376df785c",
   "lastOpenFiles": [
+    "vault/Virtualization VirtualBox.md",
+    "vault/Deliver data faster with Caching.md",
+    "Robotic arms.md",
     "vault/Program in Object-Oriented.md",
     "vault/C++.md",
     "vault/How to Learn (Learning).md",
@@ -195,9 +198,6 @@
     "vault/Design the system.md",
     "vault/Understand Control Theory.md",
     "vault/Apply battle-tested Algorithms.md",
-    "vault/Study.md",
-    "Graph ML.md",
-    "vault/Manage yourself.md",
-    "vault/Extract info from images using Computer Vision.md"
+    "vault/Study.md"
   ]
 }
