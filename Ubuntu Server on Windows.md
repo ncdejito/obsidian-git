@@ -16,8 +16,6 @@ Download link: https://releases.ubuntu.com/20.04.5/ubuntu-20.04.5-live-server-am
 
 Install VirtualBox
 
-For Enrolled Intune: Install VirtualBox using the company portal
-
 For unsupported: Download Oracle Virtualbox https://www.virtualbox.org/wiki/Downloads
 
 Install Visual Studio Code (vscode) https://code.visualstudio.com/docs/?dv=win
@@ -66,7 +64,6 @@ Don’t be afraid of this prompt, trust me and select continue
 
 Add your name and username as well as an edgy server name. Will use this later for SSH config.
 
-           
 Install OpenSSH server, we will need this later to connect from Windows Host to this box.
 
 Proceed by selecting Done. There’s a screen for selecting optional packages, I prefer to skip this since I can install them later anyway.
@@ -150,7 +147,6 @@ Open Terminal inside VSCode `Ctrl + ~` Or go to Terminal > New Terminal
 Now you have a fully working headless Linux environment. Does it feel like WSL2 but better?
 
 ❗DON’T FORGET to PROPERLY shut down the VM after use.
-How? See the screenshot below.
 
 If you don’t properly shut it down, you’re gonna run into errors the next time you turn it on.
 

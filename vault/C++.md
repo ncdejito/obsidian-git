@@ -27,7 +27,7 @@ bool passOrFail();
 #endif
 ```
 
-
+Clang compiles faster than gcc
 
 ## References
 How to learn (start anywhere!)
