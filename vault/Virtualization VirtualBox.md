@@ -1,5 +1,5 @@
 [[Automate development (DevOps)]]
-[[Ubuntu Server on Windows]]
+[[Ubuntu Server on Windows (headless)]]
 
 Oracle VirtualBox does not support arm64
 

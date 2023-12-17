@@ -59,6 +59,8 @@ auto get_positive = [](int num)
 copy_if(A.begin(), A.end(), back_inserter(positives), get_positive);
 A = positives;
 ```
+
+
 ## Constructs
 [[Use appropriate Data Structures]]
 
@@ -134,6 +136,12 @@ Structured bindings (since c++17)
 ## Concepts
 
 ### Dynamic memory allocation
+
+when to use & - if with & pass by reference, can edit the value inside the function. if no & pass by value, cannot edit value inside function
+```
+void function(type& variable_name) vs void function(type variable_name)
+```
+
 performing memory allocation manually by programmer
 ```
 // C++ style

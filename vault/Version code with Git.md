@@ -1,4 +1,8 @@
 
+git pull specific branch
+```
+git pull 'remote_name' 'branch_name'
+```
 
 Push code to collaborative repo
 ```
@@ -111,6 +115,17 @@ Display image in readme
 ![](assets/proof.png)
 ```
 
+For context switching, save current working dir state in a stash
+```
+# Store current working dir, including untracked
+git stash -u
+
+# retrieve latest stash, remove item from stash
+git stash pop stash@{0}
+
+# retrieve latest stash, dont remove item from stash
+git stash apply stash@{0}
+```
 ## Errors
 #fix [[Version code with Git]] no anonymous write access
 Source of error is VSCode CLI authentication

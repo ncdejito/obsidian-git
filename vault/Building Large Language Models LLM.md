@@ -1,4 +1,7 @@
 
+LLMs by andrej karpathy  
+[https://www.linkedin.com/posts/drjimfan_1hr-talk-intro-to-large-language-models-activity-7133501592183443456-Hsv4?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/drjimfan_1hr-talk-intro-to-large-language-models-activity-7133501592183443456-Hsv4?utm_source=share&utm_medium=member_android)
+
 Jeremy Howard LLM  
 [https://www.linkedin.com/posts/sanyambhutani_everything-you-need-to-know-about-llms-activity-7112052016872370176-0oE9?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/sanyambhutani_everything-you-need-to-know-about-llms-activity-7112052016872370176-0oE9?utm_source=share&utm_medium=member_android)
 

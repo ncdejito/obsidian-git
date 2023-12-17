@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use Flyio.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use Flyio.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use Flyio.md",
+                "file": "vault/Building Large Language Models LLM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use Flyio.md"
+                "file": "vault/Building Large Language Models LLM.md"
               }
             }
           },
@@ -173,6 +173,9 @@
   },
   "active": "64f8d32376df785c",
   "lastOpenFiles": [
+    "vault/Using LLMs ChatGPT.md",
+    "vault/Use Flyio.md",
+    "Ubuntu Server on Windows (headless).md",
     "vault/Learn a large code base.md",
     "vault/Virtualization VirtualBox.md",
     "vault/Deliver data faster with Caching.md",
@@ -195,9 +198,6 @@
     "vault/Build a robot.md",
     "Game theory.md",
     "vault/Understand Electronics Theory.md",
-    "vault/Design the system.md",
-    "vault/Understand Control Theory.md",
-    "vault/Apply battle-tested Algorithms.md",
-    "vault/Study.md"
+    "vault/Design the system.md"
   ]
 }

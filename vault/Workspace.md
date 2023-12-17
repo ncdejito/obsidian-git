@@ -1,4 +1,4 @@
-[[Ubuntu Server on Windows]]
+[[Ubuntu Server on Windows (headless)]]
 
 ### Software
 Note taking

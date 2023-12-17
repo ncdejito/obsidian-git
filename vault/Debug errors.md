@@ -38,3 +38,5 @@ thread backtrace
 ```
 
 ChatGDB
+
+Valgrind+gdb detects segfaults
