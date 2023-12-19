@@ -30,6 +30,7 @@ n // if next step is function, skip call
 c // continue until end
 where // list call stack up to where you are in the program
 ```
+https://people.astro.umass.edu/~weinberg/a732/gdb.html#SEC99
 
 lldb
 ```

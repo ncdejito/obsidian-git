@@ -36,6 +36,8 @@ Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)
 [[Construction Robotics]]
 [Security robotics](https://ubuntu.com/blog/getting-started-with-ros-security-scanning)
 [Inspection robots](https://www.linkedin.com/posts/anybotics_ip54-ip68-ip67-activity-7051451831742255105--sl8?utm_source=share&utm_medium=member_desktop)
+Marine robotics
+https://www.linkedin.com/posts/nathan-george-914b1360_a-sea-of-small-rovs-2023-info-compilation-activity-7136530603646029825-Q3uR?utm_source=share&utm_medium=member_android
 
 ## Resources
 Joshua intro to robots

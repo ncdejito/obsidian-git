@@ -45,6 +45,9 @@ git remote set-url origin git@github.com:ncdejito/repo
 
 revert back 1 commit
 ```
+# go forward 1 commit
+git checkout HEAD@{1}
+
 # go back 1 commit, add --hard to discard current changes
 git reset HEAD~1
 
@@ -134,7 +137,13 @@ Source of error is VSCode CLI authentication
 #fix error: update_ref failed for ref 'refs/remotes/origin/main': cannot lock ref 'refs/remotes/origin/main': Unable to create '/.git/refs/remotes/origin/main.lock': Permission denied
 * delete folder and re-clone repo
 
+always add `--recurse-submodules` when working with submodules (repo within the repo)
+[Git - Submodules (git-scm.com)](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
 ## Github alternatives
+
+[The Git Rebase Handbook – A Definitive Guide to Rebasing (freecodecamp.org)](https://www.freecodecamp.org/news/git-rebase-handbook/)
+
 Sourcehut - barebones
 Gitlab - slow
 

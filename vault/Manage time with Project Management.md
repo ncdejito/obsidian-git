@@ -136,3 +136,6 @@ Early Customer involvement
 
 -iron triangle - budget, scope, schedule
 -waterfall vs agile
+
+Scaled Agile
+[SAFe Lean-Agile Principles - Scaled Agile Framework](https://scaledagileframework.com/safe-lean-agile-principles/)

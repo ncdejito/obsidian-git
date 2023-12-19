@@ -1,4 +1,6 @@
 
+System design 101 visuals
+https://email.changelog.com/t/t-l-vduihjd-wjuliuuyk-ut/
 
 Design process from research
 https://maheshba.bitbucket.io/blog/2023/07/12/Design.html

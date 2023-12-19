@@ -1,6 +1,6 @@
 https://github.com/rust-lang/rustlings
 https://github.com/google/comprehensive-rust
-3 day c
+3 day course by ntietz
 https://www.linkedin.com/posts/tietzdev_introducing-yet-another-rust-resource-or-activity-7130532816781504512-Jlly?utm_source=share&utm_medium=member_android
 
 Why

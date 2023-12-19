@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md",
+                "file": "vault/CMake.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md",
+                "file": "vault/CMake.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md",
+                "file": "vault/CMake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Building Large Language Models LLM.md"
+                "file": "vault/CMake.md"
               }
             }
           },
@@ -173,8 +173,12 @@
   },
   "active": "64f8d32376df785c",
   "lastOpenFiles": [
-    "vault/Using LLMs ChatGPT.md",
+    "vault/Avoid common mistakes in distributed.md",
+    "vault/CMake.md",
     "vault/Use Flyio.md",
+    "vault/Building Large Language Models LLM.md",
+    "How to write.md",
+    "vault/Using LLMs ChatGPT.md",
     "Ubuntu Server on Windows (headless).md",
     "vault/Learn a large code base.md",
     "vault/Virtualization VirtualBox.md",
@@ -194,10 +198,6 @@
     "vault/Write a Resume.md",
     "vault/Write software code.md",
     "Logistics.md",
-    "vault/Camera Calibration.md",
-    "vault/Build a robot.md",
-    "Game theory.md",
-    "vault/Understand Electronics Theory.md",
-    "vault/Design the system.md"
+    "vault/Camera Calibration.md"
   ]
 }

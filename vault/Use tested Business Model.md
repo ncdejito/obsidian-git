@@ -15,6 +15,10 @@ Bio
 * key takeaways
 * other companies you can learn from
 
+Hardtech
+* Milestones
+* Signed contracts
+* Letters of intent
 
 
 Business model insights from top100

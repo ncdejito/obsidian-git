@@ -17,3 +17,14 @@ central importance of Bellman's Equation for RL
 
 Open problems in RL
 https://www.linkedin.com/posts/jazib-ahmad-450_artificialintelligence-machinelearning-llms-activity-7106969647526150145-A1Kq?utm_source=share&utm_medium=member_android
+
+Rl in robotics
+https://arxiv.org/abs/2102.02915
+
+Rl topics
+https://www.theconstructsim.com/robotigniteacademy_learnros/ros-courses-library/reinforcement-learning-for-robotics/
+
+Github/Pearl - production ready reinforcement learning
+
+Simple deep q learning
+https://github.com/rushter/MLAlgorithms/tree/master/mla%2Frl
