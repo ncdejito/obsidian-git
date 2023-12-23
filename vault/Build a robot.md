@@ -30,6 +30,8 @@ Legged Robotics - [yertle](https://github.com/Jerome-Graves/yertle), PetoiOne
 Marine Robotics - [ROS Marine Vehicle Packages](https://discourse.ros.org/t/release-of-ros-mvp/29367)
 Drones
 All known robots https://robotsguide.com/
+Humanoid robots  
+[https://www.linkedin.com/posts/philip-justinus-berlin-614654161_as-were-coasting-into-the-winter-holidays-activity-7143568808849448963-1of8?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/philip-justinus-berlin-614654161_as-were-coasting-into-the-winter-holidays-activity-7143568808849448963-1of8?utm_source=share&utm_medium=member_android)
 
 ## Applications
 Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)

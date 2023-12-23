@@ -10,6 +10,6 @@ Virtual functions
 
 required for base classes and necessary for polymorphism
 
-[Notes from LinkedIn](https://www.linkedin.com/posts/madhavvarjuntthukral-b41564183_oops-ugcPost-7024321442649378816-xmY4?utm_source=share&utm_medium=member_android)
+[Notes on OOP](https://www.linkedin.com/posts/kapilyadav22_oops-object-oriented-programming-by-kapil-activity-6965887795018018816-Ftpv?utm_source=share&utm_medium=member_android)
 
 [[Use Interfaces]]

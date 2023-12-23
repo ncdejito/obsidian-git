@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use Flyio.md",
+                "file": "vault/Learn a large code base.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use Flyio.md",
+                "file": "vault/Learn a large code base.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use Flyio.md",
+                "file": "vault/Learn a large code base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use Flyio.md"
+                "file": "vault/Learn a large code base.md"
               }
             }
           },
@@ -173,9 +173,10 @@
   },
   "active": "64f8d32376df785c",
   "lastOpenFiles": [
+    "vault/Build a robot.md",
+    "vault/Use Flyio.md",
     "vault/CMake.md",
     "vault/Avoid common mistakes in distributed.md",
-    "vault/Use Flyio.md",
     "vault/Building Large Language Models LLM.md",
     "How to write.md",
     "vault/Using LLMs ChatGPT.md",
@@ -197,7 +198,6 @@
     "vault/Cover Letter.md",
     "vault/Write a Resume.md",
     "vault/Write software code.md",
-    "Logistics.md",
-    "vault/Camera Calibration.md"
+    "Logistics.md"
   ]
 }

@@ -5,7 +5,7 @@ Find instances of pattern in a folder of files
 ```
 grep --exclude-dir=deploy -r -n -B1 -A1 PATTERN *
 
-grep --exclude=deploy --exclude=*log.txt --exclude=newlog* -r -I -n -B1 -A1 SUBSYSTEM_LOCALISATION *
+grep --exclude=deploy --exclude=*log.txt --exclude=log* -r -I -n -B1 -A1 SUBSYSTEM_LN *
 grep void -r --include=\*.cpp --include=\*.h
 ```
 
