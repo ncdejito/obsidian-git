@@ -15,3 +15,9 @@ try [semgrep](https://semgrep.dev/)
 
 Study repositories with chatgpt  
 [https://useadrenaline.com/app](https://useadrenaline.com/app)
+
+Chat with your codebase
+https://github.com/rsaryev/talk-codebase
+
+Search function names in natural language, without pushing data to the internet
+https://github.com/sturdy-dev/semantic-code-search

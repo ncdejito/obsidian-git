@@ -3,6 +3,7 @@
 Build Body (Mechanics)
 * [[Select Motors]]
 * [[Select Motor Drivers]]
+* [[Design the robot body]]
 Build Brain (Computer)
 * Simulate robot
 * [[Write control software]]
