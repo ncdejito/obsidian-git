@@ -53,5 +53,8 @@ Draw robot - CAD Design
 Alternatives to ROS
 https://www.linkedin.com/posts/ilir-aliu_there-are-several-popular-open-source-robotics-activity-7116050015709450240-Jckh?utm_source=share&utm_medium=member_android
 
+2 armed mobile robot
+https://mobile-aloha.github.io/
+
 20 Open source robotics projects
 https://www.linkedin.com/posts/ilir-aliu_20-open-source-robotics-projects-on-activity-7119665095575527424-e8_8?utm_source=share&utm_medium=member_android

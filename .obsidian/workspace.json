@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6afeaf98787e5086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Use Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Mental Models.md",
+                "file": "vault/Use Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Mental Models.md",
+                "file": "vault/Use Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Mental Models.md"
+                "file": "vault/Use Python.md"
               }
             }
           },
@@ -152,7 +165,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -171,8 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64f8d32376df785c",
+  "active": "6afeaf98787e5086",
   "lastOpenFiles": [
+    "vault/Poetry.md",
+    "vault/Use Python.md",
+    "vault/Transformers.md",
+    "vault/Design the system.md",
     "Design the robot body.md",
     "vault/Learn a large code base.md",
     "vault/Build a robot.md",
@@ -194,10 +213,6 @@
     "vault/Apply SLAM.md",
     "vault/Use tested Business Model.md",
     "vault/Learning.md",
-    "vault/Mental Models.md",
-    "vault/Evaluate your idea.md",
-    "vault/Cover Letter.md",
-    "vault/Write a Resume.md",
-    "vault/Write software code.md"
+    "vault/Mental Models.md"
   ]
 }

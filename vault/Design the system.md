@@ -8,6 +8,9 @@ https://maheshba.bitbucket.io/blog/2023/07/12/Design.html
 Scalable systems  
 [https://www.linkedin.com/posts/garrytan_how-we-reduced-the-cost-of-building-twitter-activity-7097287204028239872-nBqn?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/garrytan_how-we-reduced-the-cost-of-building-twitter-activity-7097287204028239872-nBqn?utm_source=share&utm_medium=member_android)
 
+System design blogs  
+[https://www.linkedin.com/posts/ashishps1_40-blogs-to-build-a-strong-system-design-activity-7148169873565569026-T4ys?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/ashishps1_40-blogs-to-build-a-strong-system-design-activity-7148169873565569026-T4ys?utm_source=share&utm_medium=member_android)
+
 Design a system using AI
 https://github.com/geekan/MetaGPT
 
