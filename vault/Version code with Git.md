@@ -129,6 +129,11 @@ git stash pop stash@{0}
 # retrieve latest stash, dont remove item from stash
 git stash apply stash@{0}
 ```
+
+Search commits
+```
+git log --grep="fix bug"
+```
 ## Errors
 #fix [[Version code with Git]] no anonymous write access
 Source of error is VSCode CLI authentication

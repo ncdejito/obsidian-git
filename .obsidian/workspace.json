@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/How to Find a Market (Marketing).md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/How to Find a Market (Marketing).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/How to Find a Market (Marketing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use Python.md"
+                "file": "vault/How to Find a Market (Marketing).md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "6afeaf98787e5086",
   "lastOpenFiles": [
-    "vault/Poetry.md",
+    "vault/Market Product to Customers (Marketing).md",
     "vault/Use Python.md",
+    "vault/Poetry.md",
     "vault/Transformers.md",
     "vault/Design the system.md",
     "Design the robot body.md",
@@ -212,7 +213,6 @@
     "vault/Use appropriate Data Structures.md",
     "vault/Apply SLAM.md",
     "vault/Use tested Business Model.md",
-    "vault/Learning.md",
-    "vault/Mental Models.md"
+    "vault/Learning.md"
   ]
 }
