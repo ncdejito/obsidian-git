@@ -119,3 +119,5 @@ Results and discussion
 Conclusion - Answer to the problem, Further studies
 Bibliography
 Appendix - Figures, Codes
+
+https://github.com/assafelovic/gpt-researcher
