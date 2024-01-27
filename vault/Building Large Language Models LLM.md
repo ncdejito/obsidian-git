@@ -1,4 +1,10 @@
 
+Blazing fast gateway api for llm apis
+https://email.changelog.com/t/t-l-vuyyuuk-wjuliuuyk-dl/
+
+Llm architecture
+https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/
+
 LLMs by andrej karpathy  
 [https://www.linkedin.com/posts/drjimfan_1hr-talk-intro-to-large-language-models-activity-7133501592183443456-Hsv4?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/drjimfan_1hr-talk-intro-to-large-language-models-activity-7133501592183443456-Hsv4?utm_source=share&utm_medium=member_android)
 
