@@ -26,4 +26,10 @@ When working on a large monolithic codebase, measuring codebase familiarity can 
 1
 3
 5
-.
+
+Get scripts with top git activity
+```
+export FOLDER=src/subfolder1
+
+git log --pretty=format: --name-only --since "DEC 31 2021" -- ${FOLDER} | sort | uniq -c | sort -rg # get scripts with top activity
+```

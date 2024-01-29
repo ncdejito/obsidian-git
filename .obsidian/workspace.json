@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/Write a Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/Write a Resume.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/Write a Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use Python.md"
+                "file": "vault/Write a Resume.md"
               }
             }
           },
@@ -188,6 +188,11 @@
   },
   "active": "6afeaf98787e5086",
   "lastOpenFiles": [
+    "vault/Cover Letter.md",
+    "vault/Draw Circuit Diagram.md",
+    "vault/Build a robot.md",
+    "vault/Write a Resume.md",
+    "vault/Use Python.md",
     "Component Based Development.md",
     "How to do research.md",
     "vault/Version code with Git.md",
@@ -195,13 +200,11 @@
     "vault/Apply SLAM.md",
     "vault/How to Find a Market (Marketing).md",
     "vault/Market Product to Customers (Marketing).md",
-    "vault/Use Python.md",
     "vault/Poetry.md",
     "vault/Transformers.md",
     "vault/Design the system.md",
     "Design the robot body.md",
     "vault/Learn a large code base.md",
-    "vault/Build a robot.md",
     "vault/Use Flyio.md",
     "vault/CMake.md",
     "vault/Avoid common mistakes in distributed.md",
@@ -210,9 +213,6 @@
     "vault/Using LLMs ChatGPT.md",
     "Ubuntu Server on Windows (headless).md",
     "vault/Virtualization VirtualBox.md",
-    "vault/Deliver data faster with Caching.md",
-    "Robotic arms.md",
-    "vault/Program in Object-Oriented.md",
-    "vault/C++.md"
+    "vault/Deliver data faster with Caching.md"
   ]
 }
