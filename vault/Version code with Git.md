@@ -134,6 +134,12 @@ Search commits
 ```
 git log --grep="fix bug"
 ```
+
+Work on multiple branches of a single codebase
+```
+git worktree add ../cool-app-feature-A feature/A  
+# Does not support submodules
+```
 ## Errors
 #fix [[Version code with Git]] no anonymous write access
 Source of error is VSCode CLI authentication

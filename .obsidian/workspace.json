@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Write a Resume.md",
+                "file": "vault/Version code with Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Write a Resume.md",
+                "file": "vault/Version code with Git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Write a Resume.md",
+                "file": "vault/Version code with Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Write a Resume.md"
+                "file": "vault/Version code with Git.md"
               }
             }
           },
@@ -188,10 +188,10 @@
   },
   "active": "6afeaf98787e5086",
   "lastOpenFiles": [
+    "vault/Write a Resume.md",
     "vault/Cover Letter.md",
     "vault/Draw Circuit Diagram.md",
     "vault/Build a robot.md",
-    "vault/Write a Resume.md",
     "vault/Use Python.md",
     "Component Based Development.md",
     "How to do research.md",

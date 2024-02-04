@@ -20,6 +20,7 @@ Resources
 How to Full-stack in 3 days - build a robotics job market website hmm
 https://www.linkedin.com/posts/li-yin-ai_artificialintelligence-fullstackdevelopment-activity-7083810100422868992-XAYh?utm_source=share&utm_medium=member_desktop
 
+24 repos for swe
 https://www.linkedin.com/posts/alexandre-zajac_systemdesign-softwareengineering-programming-activity-7156186482183979008-vswN
 
 https://teachyourselfcs.com/
