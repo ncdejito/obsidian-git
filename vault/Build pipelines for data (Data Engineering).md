@@ -1,5 +1,8 @@
 [[Data]]
 
+Dataeng school
+https://email.changelog.com/t/t-l-vkhdikk-wjuliuuyk-uk/
+
 Concerns
 Data Ingestion - scraping, scheduled jobs, shell cron selenium
 Data Storage - Google Cloud Storage

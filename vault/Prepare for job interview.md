@@ -11,6 +11,8 @@ Research current events and [[Stay updated on tech trends]]
 [[Write software code]] 
 [[Apply battle-tested Algorithms]]
 [Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
+Behavioral interviews
+https://email.changelog.com/t/t-l-vuhnc-wjuliuuyk-kt/
 
 * Cracking the Coding Interview
 * Blind 75 Neetcode

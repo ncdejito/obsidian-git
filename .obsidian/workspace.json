@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Get promoted.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Get promoted.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Version code with Git.md",
+                "file": "vault/Get promoted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Version code with Git.md"
+                "file": "vault/Get promoted.md"
               }
             }
           },
@@ -171,8 +171,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,6 +187,14 @@
   },
   "active": "6afeaf98787e5086",
   "lastOpenFiles": [
+    "vault/Apply Machine Learning.md",
+    "vault/Get promoted.md",
+    "vault/Get a Job.md",
+    "Keep your job.md",
+    "vault/Version code with Git.md",
+    "Retrieval Augmented Generation RAG.md",
+    "Build a company.md",
+    "Logging.md",
     "vault/Write a Resume.md",
     "vault/Cover Letter.md",
     "vault/Draw Circuit Diagram.md",
@@ -195,7 +202,6 @@
     "vault/Use Python.md",
     "Component Based Development.md",
     "How to do research.md",
-    "vault/Version code with Git.md",
     "vault/NodeJS.md",
     "vault/Apply SLAM.md",
     "vault/How to Find a Market (Marketing).md",
@@ -206,13 +212,6 @@
     "Design the robot body.md",
     "vault/Learn a large code base.md",
     "vault/Use Flyio.md",
-    "vault/CMake.md",
-    "vault/Avoid common mistakes in distributed.md",
-    "vault/Building Large Language Models LLM.md",
-    "How to write.md",
-    "vault/Using LLMs ChatGPT.md",
-    "Ubuntu Server on Windows (headless).md",
-    "vault/Virtualization VirtualBox.md",
-    "vault/Deliver data faster with Caching.md"
+    "vault/CMake.md"
   ]
 }

@@ -2,6 +2,9 @@
 
 [Introduction](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)
 
+Rl baselines
+https://github.com/DLR-RM/stable-baselines3
+
 used in Robotics
 
 - [https://introduction-to-autonomous-robots.github.io/](https://introduction-to-autonomous-robots.github.io/)

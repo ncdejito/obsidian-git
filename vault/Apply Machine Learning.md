@@ -5,6 +5,9 @@ map viz
 important features
 1 sample prediction
 
+AutoML
+https://auto.gluon.ai/stable/index.html?fbclid=IwAR3BCQSlIjfRjMdadeXpyz--LPmBOsbzS8q9Honw5V_AMxwEZeJ7UhWTsYc
+
 [[Deploy Machine Learning Models]]
 
 Avoid ML pitfalls

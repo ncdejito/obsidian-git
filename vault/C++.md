@@ -29,6 +29,9 @@ bool passOrFail();
 
 Clang compiles faster than gcc
 
+Run compiler first before building the binary - clang your_file.cpp -fsyntax-only - doesnt work with containers environment
+
+https://github.com/TheAlgorithms/C-Plus-Plus
 ## References
 How to learn (start anywhere!)
 * Memory management in Computer Systems Programmer's Perspective

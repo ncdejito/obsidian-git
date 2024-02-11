@@ -1,4 +1,7 @@
 
+Llms from scratch
+https://email.changelog.com/t/t-l-eltjiit-wjuliuuyk-ir/
+
 Blazing fast gateway api for llm apis
 https://email.changelog.com/t/t-l-vuyyuuk-wjuliuuyk-dl/
 

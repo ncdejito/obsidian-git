@@ -34,6 +34,8 @@ All known robots https://robotsguide.com/
 Humanoid robots  
 [https://www.linkedin.com/posts/philip-justinus-berlin-614654161_as-were-coasting-into-the-winter-holidays-activity-7143568808849448963-1of8?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/philip-justinus-berlin-614654161_as-were-coasting-into-the-winter-holidays-activity-7143568808849448963-1of8?utm_source=share&utm_medium=member_android)
 
+OpenGrip low cost robot gripper
+https://email.changelog.com/t/t-l-ellqiy-wjuliuuyk-jd/
 ## Applications
 Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)
 [[Construction Robotics]]
