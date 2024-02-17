@@ -21,3 +21,5 @@ Delete all lines in script
 ## Intro
 [Vim Adventures](https://vim-adventures.com/)
 [VimGolf](https://www.vimgolf.com/)
+Cheatsheet
+https://www.linkedin.com/feed/update/urn:li:activity:7156221071086493697?utm_source=share&utm_medium=member_desktop

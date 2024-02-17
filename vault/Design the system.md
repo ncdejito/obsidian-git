@@ -76,6 +76,7 @@ message queue - https://github.com/wesen/summer-pasture-netflix/blob/main/messag
 
 
 ## References
+Bytebytego alex xu system design
 15min intro to distributed systems - https://www.youtube.com/watch?v=k10_trKtKNk
 Raft consensus algorithm with viz - https://raft.github.io/
 Designing Data Intensive Applications - Martin Kleppmann
