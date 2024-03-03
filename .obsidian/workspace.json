@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use Vim.md",
+                "file": "vault/Build a business.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use Vim.md",
+                "file": "vault/Mental Models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use Vim.md",
+                "file": "vault/Mental Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use Vim.md"
+                "file": "vault/Mental Models.md"
               }
             }
           },
@@ -185,8 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6afeaf98787e5086",
+  "active": "64f8d32376df785c",
   "lastOpenFiles": [
+    "How to do research.md",
+    "vault/Mental Models.md",
+    "vault/How to think clearly.md",
+    "vault/Build a business.md",
+    "vault/Evaluate your idea.md",
+    "vault/How to learn (Learning).md",
+    "vault/Manage time with Project Management.md",
+    "vault/Set goals to be productive.md",
+    "vault/Use Vim.md",
+    "Review code.md",
     "Robot foundation model.md",
     "Patents.md",
     "vault/Get promoted.md",
@@ -202,16 +211,6 @@
     "vault/Cover Letter.md",
     "vault/Draw Circuit Diagram.md",
     "vault/Build a robot.md",
-    "vault/Use Python.md",
-    "Component Based Development.md",
-    "How to do research.md",
-    "vault/NodeJS.md",
-    "vault/Apply SLAM.md",
-    "vault/How to Find a Market (Marketing).md",
-    "vault/Market Product to Customers (Marketing).md",
-    "vault/Poetry.md",
-    "vault/Transformers.md",
-    "vault/Design the system.md",
-    "Design the robot body.md"
+    "vault/Use Python.md"
   ]
 }

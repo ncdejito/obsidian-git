@@ -1,3 +1,4 @@
+
 SMART goals + principles
 Specific - definition of success, satisficing
 Measurable - milestones
@@ -119,9 +120,6 @@ simplify time tracking entries to goal oriented categories
 ## Theory
 Roadmap
 
-Project management
-
-  
 Tools  
 Asana  
 GCalendar  
@@ -139,3 +137,6 @@ Early Customer involvement
 
 Scaled Agile
 [SAFe Lean-Agile Principles - Scaled Agile Framework](https://scaledagileframework.com/safe-lean-agile-principles/)
+
+Project management methodologies choices
+https://business.adobe.com/blog/basics/methodologies

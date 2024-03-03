@@ -155,6 +155,8 @@ always add `--recurse-submodules` when working with submodules (repo within the 
 
 [The Git Rebase Handbook – A Definitive Guide to Rebasing (freecodecamp.org)](https://www.freecodecamp.org/news/git-rebase-handbook/)
 
+[Git Squash Commits – Squashing the Last N Commits into One Commit (freecodecamp.org)](https://www.freecodecamp.org/news/git-squash-commits/)
+
 Sourcehut - barebones
 Gitlab - slow
 
