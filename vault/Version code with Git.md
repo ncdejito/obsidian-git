@@ -140,6 +140,11 @@ Work on multiple branches of a single codebase
 git worktree add ../cool-app-feature-A feature/A  
 # Does not support submodules
 ```
+
+garbage collect, housekeeping
+```
+git gc
+```
 ## Errors
 #fix [[Version code with Git]] no anonymous write access
 Source of error is VSCode CLI authentication

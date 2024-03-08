@@ -5,6 +5,12 @@ Why functional -
 * restricting side effects, programs can have fewer bugs, be easier to debug and test
 * good for distributed systems
 
+[Thinking Functionally in C++ - Brian Ruth - CppCon 2023 (youtube.com)](https://www.youtube.com/watch?v=6-WH9Hnec1M)
+Code categories
+ - Actions - depends on how many times they are called
+ - Calculations - depends only on their inputs
+ - Data - stores input and output data
+
 Personal experience
 - easier unit tests, better interfaces
 

@@ -3,6 +3,9 @@ https://github.com/google/comprehensive-rust
 3 day course by ntietz
 https://www.linkedin.com/posts/tietzdev_introducing-yet-another-rust-resource-or-activity-7130532816781504512-Jlly?utm_source=share&utm_medium=member_android
 
+Rerast is a search/replace tool for Rust code using rules, by Google
+https://github.com/google/rerast
+
 Why
 Rust is faster than Go
 Good for embedded

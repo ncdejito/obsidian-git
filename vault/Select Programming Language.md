@@ -28,3 +28,6 @@ Api request
 Any language runfile
 https://github.com/LyonSyonII/run
 
+Gamified learning options
+https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/
+

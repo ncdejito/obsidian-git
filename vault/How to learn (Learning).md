@@ -121,14 +121,3 @@ Feynman like understanding
 Be able to visualize exactly what needs to be done and steps needed to be taken e.g. a data analyst gets the data, processes it, does summaries, asks questions etc.
 
 
-Research paper format
-Abstract - Goal of the study, Summary of what happened
-Introduction - Background of the problem, Statement of the problem, Scope and limitations
-Related Literature
-Methodology - Steps, Improvements
-Results and discussion
-Conclusion - Answer to the problem, Further studies
-Bibliography
-Appendix - Figures, Codes
-
-https://github.com/assafelovic/gpt-researcher

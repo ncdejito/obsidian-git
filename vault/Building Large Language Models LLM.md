@@ -79,6 +79,7 @@ Tutorial on Building LLM powered applications
 
 Stanford course  
 [https://stanford-cs324.github.io/winter2023/syllabus/](https://stanford-cs324.github.io/winter2023/syllabus/)
+- has content on foundation models
 
 Tune LLMs to your own data  
 [https://www.linkedin.com/posts/sanyambhutani_terrific-tutorial-on-tuning-llms-on-your-activity-7056445643858358272-ZcMW?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/sanyambhutani_terrific-tutorial-on-tuning-llms-on-your-activity-7056445643858358272-ZcMW?utm_source=share&utm_medium=member_android)

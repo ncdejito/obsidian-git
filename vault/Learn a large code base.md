@@ -1,6 +1,10 @@
 [[Use Nav2]]
 [[Automate development (DevOps)]]
 
+Fastest way is to fix bugs
+- unknown which part is causing problems so you have to read up on the codebase
+- youd need to understand critical paths on how things work
+
 Find instances of pattern in a folder of files
 ```
 grep --exclude-dir=deploy -r -n -B1 -A1 PATTERN *

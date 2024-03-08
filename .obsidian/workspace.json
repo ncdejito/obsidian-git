@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Mental Models.md",
-                "mode": "source",
+                "file": "vault/Apply SLAM.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "principles of robot autono",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Mental Models.md",
+                "file": "vault/Apply SLAM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Mental Models.md",
+                "file": "vault/Apply SLAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Mental Models.md"
+                "file": "vault/Apply SLAM.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "64f8d32376df785c",
   "lastOpenFiles": [
-    "How to do research.md",
     "vault/Mental Models.md",
+    "How to sell.md",
+    "How to do research.md",
     "vault/How to think clearly.md",
     "vault/Build a business.md",
     "vault/Evaluate your idea.md",
@@ -210,7 +211,6 @@
     "vault/Write a Resume.md",
     "vault/Cover Letter.md",
     "vault/Draw Circuit Diagram.md",
-    "vault/Build a robot.md",
-    "vault/Use Python.md"
+    "vault/Build a robot.md"
   ]
 }
