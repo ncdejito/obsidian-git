@@ -25,6 +25,9 @@ tarpit idea - seems solvable, but structural reason why impossible to solve
 
 Just launch and find out!
 
+Generate profitable business idea
+https://www.linkedin.com/posts/mattgray1_everyone-should-have-a-passion-business-that-activity-7158086509823164418-XsVZ?utm_source=share&utm_medium=member_android
+
 Paul Graham How to get Startup Ideas
 
 Product market fit  

@@ -11,3 +11,6 @@ https://www.linkedin.com/posts/romeen-sheth-07494427_the-worlds-most-valuable-sk
 
 Think clearly
 https://www.linkedin.com/posts/alex-brogan_25-of-the-most-powerful-psychological-tendencies-ugcPost-7143862136794984448-CaBZ?utm_source=share&utm_medium=member_desktop
+
+How to think clearly romeen sheth
+https://drive.google.com/file/d/1BVFXPmGQeK7u4RGLXobDc_RvFOvawL2p/view?usp=drive_link

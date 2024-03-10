@@ -71,3 +71,9 @@ Logistics robots: Grid markers for autonomous navigation
 Tools
 [ImMesh](https://github.com/hku-mars/ImMesh) - An Immediate LiDAR Localization and Meshing Framework
 Nerf2mesh
+
+Introduction to vslam book  
+[https://www.linkedin.com/posts/zenorobotics_this-is-a-very-comprehensive-book-on-visual-activity-7171033894929022976-p_Rh?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/zenorobotics_this-is-a-very-comprehensive-book-on-visual-activity-7171033894929022976-p_Rh?utm_source=share&utm_medium=member_android)  
+  
+Pointcloud data wrangling  
+[https://www.linkedin.com/posts/sina-pourghodrat-ab027045_robotics-ar-vr-activity-7172039403521978368-DMiV?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/sina-pourghodrat-ab027045_robotics-ar-vr-activity-7172039403521978368-DMiV?utm_source=share&utm_medium=member_android)****
