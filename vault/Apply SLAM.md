@@ -13,6 +13,9 @@ Visual odometry and slam survey
 [VSLAM by Macenski](https://arxiv.org/pdf/2107.07589.pdf) 
 https://www.linkedin.com/posts/dharun-kumar20_pythonprogramming-robotics-mobilerobots-activity-7151294203119996928-asDK?utm_source=share&utm_medium=member_desktop
 
+Basic SLAM camera concepts
+https://www.kudan.io/blog/camera-basics-visual-slam/
+
 [Code for SLAM](https://www.linkedin.com/posts/hyunggi-chang_slam-visualslam-lidarslam-ugcPost-7138388598411730945-ZL9G?utm_source=share&utm_medium=member_android)
 ROS1 algos
 [ndt-map](http://wiki.ros.org/ndt_map)

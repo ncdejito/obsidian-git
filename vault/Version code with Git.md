@@ -153,6 +153,8 @@ Source of error is VSCode CLI authentication
 #fix error: update_ref failed for ref 'refs/remotes/origin/main': cannot lock ref 'refs/remotes/origin/main': Unable to create '/.git/refs/remotes/origin/main.lock': Permission denied
 * delete folder and re-clone repo
 
+#fix error: submodule 'folder/path' has dirty index - delete folder, then git restore folder/path
+
 always add `--recurse-submodules` when working with submodules (repo within the repo)
 [Git - Submodules (git-scm.com)](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 

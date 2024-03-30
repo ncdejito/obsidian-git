@@ -207,12 +207,11 @@ Lambda expressions
 Move constructors
 l-value - memory location that identifies an object
 r-value - data value that is stored at some address in memory
+move constructor
+> work on the r-value references and move semantics(move semantics involves pointing to the already existing object in the memory)
 
 copy constructor
 > work with the l-value references and copy semantics(copy semantics means copying the actual data of the object to another object rather than making another object to point the already existing object in the heap)
-
-move constructor
-> work on the r-value references and move semantics(move semantics involves pointing to the already existing object in the memory)
 
 
 CMakeLists.txt
