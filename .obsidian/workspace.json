@@ -11,8 +11,12 @@
             "id": "6ae30ae39c4e06b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vault/Build a business.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ship",
+                "query": "finance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vault/Build a business.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vault/Build a business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vault/Build a business.md"
+              }
             }
           },
           {
@@ -166,31 +174,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/Understand Finite State Machines.md",
-    "vault/Build a product (MVP).md",
-    "vault/Apply SLAM.md",
-    "vault/Build a Habit.md",
-    "vault/How to Find a Market (Marketing).md",
-    "vault/Crypto.md",
-    "vault/UI UX.md",
-    "vault/Linux on Windows via Vagrant.md",
-    "vault/How to think clearly.md",
-    "How to Decide.md",
-    "vault/Manage time with Project Management.md",
-    "vault/How to be free.md",
-    "vault/Manage yourself.md",
-    "vault/Connect computers with Networking.md",
-    "vault/Build network infrastructure.md",
-    "vault/Mental Models.md",
+    "How to sell close a sale.md",
+    "vault/Connect with people.md",
     "How to sell.md",
-    "How to do research.md",
+    "README.md",
+    "vault/Make money.md",
     "vault/Build a business.md",
-    "vault/Evaluate your idea.md",
-    "vault/How to learn (Learning).md",
-    "vault/Set goals to be productive.md",
-    "vault/Use Vim.md",
-    "Review code.md",
-    "Robot foundation model.md",
-    "Patents.md"
+    "How to add value.md",
+    "vault/Explore Business Ideas.md",
+    "vault/Build a product (MVP).md",
+    "vault/Write a Resume.md",
+    "vault/Get a Job.md",
+    "vault/Data analysis.md",
+    "vault/Study.md",
+    "vault/Write software code.md",
+    "vault/Build technology.md",
+    "vault/Manage yourself.md",
+    "vault/Build confidence.md",
+    "vault/Handle moments of crisis.md",
+    "vault/Avoid overthinking.md",
+    "vault/How to be free.md",
+    "vault/Build a Habit.md",
+    "vault/Network with business contacts.md",
+    "vault/Negotiate.md",
+    "vault/Startup Idea.md",
+    "vault/Build a robot.md",
+    "vault/Use Excel.md"
   ]
 }

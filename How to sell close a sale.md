@@ -5,6 +5,9 @@ Urgency
 Money
 Authority
 
+Poc robotics
+https://www.linkedin.com/posts/ewaelchli_robotics-earlyadopter-technology-ugcPost-7170039159129006080-uMFE?utm_source=share&utm_medium=member_android
+
 Volume negates luck
 [https://www.youtube.com/watch?v=NcD2t9qt-fM&t=645s](https://www.youtube.com/watch?v=NcD2t9qt-fM&t=645s)
 by Alex Hormozi

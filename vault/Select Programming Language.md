@@ -5,7 +5,7 @@
 
 [[Rust]] - fast, memory safe, thread safe
 
-[[Use Go]] - good for CLI applications
+[[Use Go]] - good for backend CLI applications
 
 [[Typescript]] - Javascript with types
 
@@ -30,4 +30,5 @@ https://github.com/LyonSyonII/run
 
 Gamified learning options
 https://www.freecodecamp.org/news/12-free-coding-games-to-learn-programming-for-beginners/
+boot.dev
 

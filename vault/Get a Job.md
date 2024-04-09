@@ -17,6 +17,8 @@ Accept
 [[Keep your job]]
 [[Build a career]]
 
+[How to quit](https://www.linkedin.com/posts/stevenbartlett-123_how-to-know-when-to-quit-something-activity-7179432153070366721-KRts?utm_source=share&utm_medium=member_android)
+
 Jobs you might be interested in
 [[Build a robot]] Engineer
 [[Apply Machine Learning]] Engineer

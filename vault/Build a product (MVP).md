@@ -1,3 +1,5 @@
+10000 iterations think big build small
+
 Launch quickly and iterate!
 
 Find a working example first
