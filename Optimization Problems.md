@@ -1,4 +1,4 @@
-[[Apply battle-tested Algorithms]]
+[[Algorithms]]
 
 Knapsack Problem
 maximize the total value of the items you can carry in your knapsack without exceeding its weight capacity. In other words, you want to choose the most valuable items that fit within your knapsack

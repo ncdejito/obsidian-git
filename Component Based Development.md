@@ -1,4 +1,4 @@
-[[Design the system]]
+[[System Design]]
 
 They should be reusable.
 Fully documented.

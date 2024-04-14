@@ -1,4 +1,24 @@
+Article: when debugging your attitude matters jvns.ca
+Bad habits to avoid:
+-making random changes to my code in the hopes that it would work
+-googling a lot of things and trying them without understanding what they did
+-if something broke, reverting my changes and starting again
+Learn the basics and see if that helps
+Watch people who know what theyre doing
 
+Article: How to debug jvns.ca
+Other resources 
+-How to Debug David Agans
+Reproduce your bug
+Reproduce quickly
+Accept that its your codes fault
+Guess based on your mental model
+Start doing experiments
+Change one thing at a time
+Check your assumptions
+Write your code so its easier to debug - limit checks and error handling
+Error messages are better than silently failing
+Understand what the error messages mean
 
 Breathe
 Replicate error

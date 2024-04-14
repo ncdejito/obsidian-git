@@ -6,6 +6,6 @@ Data Governance
 
 Key problems faced
 
-[[Industries to pitch data infra to]]
+[[Join an industry]]
 
 [[Build pipelines for data (Data Engineering)]]

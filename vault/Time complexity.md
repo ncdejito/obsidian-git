@@ -1,4 +1,4 @@
-[[Build Backend Components]] [[Apply battle-tested Algorithms]]
+[[Build Backend Components]] [[Algorithms]]
 
 the amount of time taken by an algorithm to run, as a function of the length of the input
 

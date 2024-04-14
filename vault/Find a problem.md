@@ -1,3 +1,7 @@
+Loneliness
+Do things people can’t do - dangerous
+Address labor shortage in rich countries - tedious
+
 How to find something to make
 Find an industry that can be automated towards the 21st century  
 Take an unemotional look at the market. It does not care what you like doing.  

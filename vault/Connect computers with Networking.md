@@ -55,3 +55,5 @@ https://www.virtualhere.com/
 
 
 ## References
+Networking concepts in flashcards
+https://questions.wizardzines.com

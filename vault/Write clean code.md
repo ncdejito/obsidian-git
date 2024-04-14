@@ -1,5 +1,4 @@
 
-
 Principle: Quickfixes first then if gone back to, refactor to cleaner ones
 - Nonredundant - no copy paste of blocks of text
 - Modular - complex steps done in 1 function/cell
@@ -39,3 +38,24 @@ ish - scope is first introduced in https://craftinginterpreters.com/statements-a
 
 VSCode Ruler
 [configuration - Vertical rulers in Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code)
+
+Article: write code that is easy to delete
+Copy paste code, dont copy paste code
+-building reusable code is often done in hindsight so dont preempt too much with features you expect to use in the future
+-Make a function only when youve Copy pasted code a couple of times
+Make boilerplates, dont make boilerplates
+-Make templates of how to use your functions
+-If it's too long, wrap it in a simpler to use api e.g. requests vs urllib3
+-build simple to use libraries on top of simpler to implement ones
+Write a big lump of code
+-Its ok to make quick and dirty hacks, cut corners to save time resulting in long trashy code that somehow holds it together
+-You should be trying to make new mistakes each time, take new risks, and slowly build up through iteration
+-It’s easier to delete all of the code than to delete it piecewise - dont be sad when you delete your old code
+Perlis-""Everything should be built top-down, except the first time
+""Becoming a professional software developer is accumulating a back-catalogue of regrets and mistakes. You learn nothing from success. It is not that you know what good code looks like, but the scars of bad code are fresh in your mind.
+Break your code into pieces
+""We isolate the most frustrating parts to write, maintain, or delete away from each other. … We are not building modules around being able to re-use them, but being able to change them
+Loose coupling - being able to change your mind without changing too much code.
+Keep writing code
+Your code should be able to handle change, aka you can write experiments while modifying old code as little as possible
+Feature flag - or toggle, used to hide enable or disable feature at runtime

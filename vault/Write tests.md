@@ -1,9 +1,7 @@
 
 [[Identify edge cases]]
 
-
 Test-Driven Development - write tests first, then use those to drive design and development of your software
-
 ## Motivations
 Why Write Tests
 - To prove that our code works as we expect.

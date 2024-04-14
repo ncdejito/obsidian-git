@@ -58,5 +58,10 @@ To try and take out emotions in a negotiation is a fool's errand
 How to negotiate
 https://www.linkedin.com/posts/chrisrocas_negotiation-is-the-highest-roi-skill-activity-7119657269729837056-fgfJ?utm_source=share&utm_medium=member_android
 
+neuro linguistic programming
+Chris Voss negotiation
+Neuro Linguistic Programming
+Body language Julius Fast
+Influence Cialdini
 
 

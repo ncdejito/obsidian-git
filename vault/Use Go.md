@@ -1,5 +1,5 @@
 
-Good for [[Design the system]] because:
+Good for [[System Design]] because:
 easy devops
 
 Good for CLI tools because:

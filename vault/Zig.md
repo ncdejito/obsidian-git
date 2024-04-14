@@ -1,3 +1,3 @@
-[[Select Programming Language]]
+[[Programming Languages]]
 
 [ziglings](https://github.com/ratfactor/ziglings)

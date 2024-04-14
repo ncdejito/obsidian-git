@@ -1,4 +1,8 @@
 
+
+Llm marketing
+https://www.linkedin.com/posts/jessicagilmartin_have-you-ever-had-that-software-or-agency-activity-7180978675272572928-Y2p9?utm_source=share&utm_medium=member_android
+
 Media buyers will go extinct, use creative broad targeting [news](https://www.linkedin.com/posts/tyler-fyfe_media-buyers-wont-exist-in-the-next-5-years-activity-7036341501987061760-GCCB?utm_source=share&utm_medium=member_desktop)
 
 Founder flywheel - for marketing

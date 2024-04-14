@@ -1,6 +1,6 @@
 [[How to learn (Learning)]]
-[[How to think clearly]]
-[[How to do research]]
+[[Think clearly]]
+[[Research]]
 
 Mental models
 https://fs.blog/mental-models/

@@ -18,6 +18,7 @@ Write starter code with AI: [[Using LLMs ChatGPT]]
 
 ## Practice
 https://github.com/CollabCodeTech/backend-challenges
+Recreate git, docker, redis etc. using interactive challenges - https://codecrafters.io/
 
 Resources
 [Roadmap](https://roadmap.sh/backend)

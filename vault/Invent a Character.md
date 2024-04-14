@@ -7,6 +7,4 @@ Schedule when to become one with Alarms (Sahil Bloom)
 Goal:
 Combat impostor syndrome
 
-
-
 Character Invention

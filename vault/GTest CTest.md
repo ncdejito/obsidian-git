@@ -1,4 +1,4 @@
-[[C++]]
+[[Program in C++]]
 
 Steps
 1. write CMakeLists.txt

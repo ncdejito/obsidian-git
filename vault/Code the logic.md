@@ -2,9 +2,9 @@
 - [[Identify edge cases]]
 - Write pseudocode
 - [[Write tests]]
-- [[Use appropriate Data Structures]]
-- [[Apply battle-tested Algorithms]]
+- [[Data Structures]]
+- [[Algorithms]]
 
-- [[Select Programming Language]]
+- [[Programming Languages]]
 - [[Select Programming Paradigm]]
 - [[Find usable existing components]]

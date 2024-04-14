@@ -14,6 +14,20 @@ Code categories
 Personal experience
 - easier unit tests, better interfaces
 
+### Functional
+```
+// C++20
+vector<int> positives = {};
+auto get_positive = [](int num)
+{ return num > 0; };
+copy_if(A.begin(), A.end(), back_inserter(positives), get_positive);
+A = positives;
+```
+
+
+Lambda expressions
+> way of defining an anonymous function object (a _closure_) right at the location where it's invoked or passed as an argument to a function
+
 [Monad](http://www.jerf.org/iri/post/2958)
 Monad transformer
 Dependent types - a type whose definition depends on a value

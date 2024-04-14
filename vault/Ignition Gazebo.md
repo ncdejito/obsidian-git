@@ -1,4 +1,4 @@
-[[Robotics Simulation]]
+[[Simulation]]
 
 ```
 ign topic -l

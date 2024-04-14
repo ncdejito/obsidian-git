@@ -7,3 +7,6 @@ Divide into available time
 
 Understand problems first before coding
 [[Identify edge cases]]
+
+Resource
+Cracking the coding interview

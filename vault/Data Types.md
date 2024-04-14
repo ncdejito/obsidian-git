@@ -1,6 +1,6 @@
 [[Build Backend Components]]
-[[Use appropriate Data Structures]]
-[[Use Python]] [[C++]]
+[[Data Structures]]
+[[Use Python]] [[Program in C++]]
 
 Integer
 Float

@@ -3,6 +3,9 @@
 Event driven asynchronous ros2
 https://github.com/robosoft-ai/SMACC
 
+[Mohammad Luqman Intro to ROS](https://www.youtube.com/@robotisim)
+[ROS2 C++ Dev](https://www.youtube.com/watch?v=cjckvOHo8B4)
+
 ROS2 nodes
 https://www.linkedin.com/posts/steve-macenski-41a985101_impact-of-ros-2-node-composition-in-robotic-activity-7065021713142448128-Y9Lc?utm_source=share&utm_medium=member_desktop
 
@@ -139,3 +142,6 @@ https://www.linkedin.com/posts/davies-iyanuoluwa-ogunsina_github-ahmettcelik1ros
 
 Ros2 rust r2r
 https://www.linkedin.com/posts/ahcorde_ros2-rust-ros-activity-7117856391393873920-WWbE?utm_source=share&utm_medium=member_android
+
+Alternatives to ROS
+https://www.linkedin.com/posts/ilir-aliu_there-are-several-popular-open-source-robotics-activity-7116050015709450240-Jckh?utm_source=share&utm_medium=member_android

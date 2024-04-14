@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Build a business.md",
+                "file": "vault/Apply SLAM.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "finance",
+                "query": "incenti",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Build a business.md",
+                "file": "vault/Apply SLAM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Build a business.md",
+                "file": "vault/Apply SLAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Build a business.md"
+                "file": "vault/Apply SLAM.md"
               }
             }
           },
@@ -174,31 +176,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "How to sell close a sale.md",
-    "vault/Connect with people.md",
-    "How to sell.md",
-    "README.md",
-    "vault/Make money.md",
-    "vault/Build a business.md",
-    "How to add value.md",
-    "vault/Explore Business Ideas.md",
-    "vault/Build a product (MVP).md",
-    "vault/Write a Resume.md",
-    "vault/Get a Job.md",
-    "vault/Data analysis.md",
-    "vault/Study.md",
-    "vault/Write software code.md",
-    "vault/Build technology.md",
-    "vault/Manage yourself.md",
-    "vault/Build confidence.md",
-    "vault/Handle moments of crisis.md",
-    "vault/Avoid overthinking.md",
-    "vault/How to be free.md",
-    "vault/Build a Habit.md",
-    "vault/Network with business contacts.md",
-    "vault/Negotiate.md",
-    "vault/Startup Idea.md",
-    "vault/Build a robot.md",
-    "vault/Use Excel.md"
+    "vault/Robotics Software.md",
+    "vault/Find a problem.md",
+    "vault/Apply SLAM.md",
+    "vault/Point clouds.md",
+    "vault/Point cloud registration.md",
+    "vault/Global navigation satellite system GNSS.md",
+    "vault/ADAS.md",
+    "vault/Camera Calibration.md",
+    "vault/Data Structures.md",
+    "vault/Program in C++.md",
+    "vault/Apply Sensor fusion.md",
+    "vault/Use Lidar.md",
+    "vault/Perception.md",
+    "vault/Kalman Filter.md",
+    "vault/Use Radar.md",
+    "vault/Freelance.md",
+    "vault/Occupancy grid.md",
+    "vault/Robotics Engineering.md",
+    "vault/Use ROS2.md",
+    "vault/Mechanical engineering.md",
+    "Design the robot body.md",
+    "vault/Control Systems.md",
+    "vault/How to learn (Learning).md",
+    "vault/Program in Rust.md",
+    "Pointers.md",
+    "vault/Work.md"
   ]
 }

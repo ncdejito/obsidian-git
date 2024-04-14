@@ -1,4 +1,4 @@
-
+short range but accurate
 
 RPLidar 
 Official Slamtec [code](https://github.com/Slamtec/rplidar_ros/tree/ros2)

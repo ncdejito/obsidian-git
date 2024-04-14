@@ -1,4 +1,4 @@
-[[Select Programming Language]]
+[[Programming Languages]]
 
 Used for:
 web development, embedded software, data pipelines, and multimedia processing

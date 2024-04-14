@@ -34,3 +34,7 @@ https://twitter.com/AnthonyVicino/status/1604113608534888448
 
 Where to find businesses to buy
 https://www.linkedin.com/posts/codiesanchez_ive-sourced-bought-dozens-of-small-businesses-activity-7082704761182924800-nvrg?utm_source=share&utm_medium=member_desktop
+
+Gumroad book
+
+4hour workweek

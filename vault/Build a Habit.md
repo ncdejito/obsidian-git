@@ -1,3 +1,4 @@
+1% improvement each day = 378% in 1 year
 
 2 steps
 1. Define who you want to be
@@ -62,4 +63,7 @@ Atomic Habits
 [Dont just set goals, build systems](https://medium.com/swlh/dont-just-set-goals-build-systems-8158ac541df)
 [Applying what I’ve learned in Atomic Habits to coding](https://levelup.gitconnected.com/applying-what-ive-learnt-in-atomic-habits-into-coding-cb268137ea35)
 
-
+[Naval's Life formulas](https://nav.al/life-formulas-i)
+[16 habits](https://www.reddit.com/r/NoFap/comments/15lrh7/16_habits_you_should_do_everyday_this_changed_my/)
+[Daily rituals of top creative people](https://www.linkedin.com/posts/adammgrant_theres-no-such-thing-as-an-ideal-daily-routine-activity-7170428437583675392-Sx0D?utm_source=share&utm_medium=member_android)
+The book of five rings by musashi - Thomas cleary translation

@@ -1,5 +1,5 @@
 
-[[Design the system]]
+[[System Design]]
 
 A service mesh is a network of microservices that are connected using a mesh of interconnected, intelligent proxies. It is used to manage and secure communication between microservices, and it provides features such as load balancing, service discovery, and observability.
 

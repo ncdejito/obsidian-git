@@ -1,4 +1,4 @@
-[[Workspace]] [[Manage info overload (PKM)]]
+[[Workspace]] [[Take notes]]
 
 Focus: Usability for the future
 

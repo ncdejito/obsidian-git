@@ -1,4 +1,4 @@
-[[Manage yourself]]
+[[Take care of yourself]]
 
 Freedom
 What you work on

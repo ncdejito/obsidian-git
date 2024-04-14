@@ -1,4 +1,4 @@
-[[Manage info overload (PKM)]]
+[[Take notes]]
 
 Tony Robbins' Wheel of Life is a powerful tool for assessing and improving different areas of your life. The wheel is divided into different sections or "slices," each representing a different area of your life. These areas typically include:
 

@@ -2,10 +2,15 @@
 
 Launch quickly and iterate!
 
+Shippable intermediaries - comma ai
+
 Find a working example first
 Adjust it a bit to fit what you want
 If stuck, build smaller
 Build smaller, minimum viable progress!
+
+Poc robotics
+https://www.linkedin.com/posts/ewaelchli_robotics-earlyadopter-technology-ugcPost-7170039159129006080-uMFE?utm_source=share&utm_medium=member_android
 
 MVP
 https://www.linkedin.com/posts/davidvmdp_lean-startups-product-activity-7024020874991169536-ib1f?utm_source=share&utm_medium=member_android
@@ -39,12 +44,18 @@ What needs to be done to double the impact
 How to Hack  
 [https://www.nushackers.org/the-hacker-attitude/](https://www.nushackers.org/the-hacker-attitude/)
 
-[Validate with quick tech stack](https://www.linkedin.com/posts/mahmoudkhodor_productmanagement-startups-activity-6990150286346457088-MGKU?utm_source=share&utm_medium=member_desktop)
--[Webflow](https://www.linkedin.com/company/webflow-inc-/) for the front end  
--[Airtable](https://www.linkedin.com/company/airtable/) for Database  
--[Zapier](https://www.linkedin.com/company/zapier/) for backend  
--[Stripe](https://www.linkedin.com/company/stripe/) for payment gateway  
--[Memberstack (YC S20)](https://www.linkedin.com/company/memberstack/) for subscription
+
 
 No code tools for bizniz
 https://www.linkedin.com/posts/justinwelsh_11-no-code-tools-in-my-tech-stack-ugcPost-7037772455360286720-cRMS?utm_source=share&utm_medium=member_android
+
+
+Learn to build
+Understand components first principles
+Prioritize the things you have to learn
+Learn fast
+Prototype small first
+Explore motors and make them spin
+Figure out how to connect components
+Study fundamentals of how tech works like battery and solar panels
+

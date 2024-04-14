@@ -1,4 +1,4 @@
-[[Build Backend Components]] [[Design the system]]
+[[Build Backend Components]] [[System Design]]
 [[Content Delivery Networks CDN]]
 a hashmap
 

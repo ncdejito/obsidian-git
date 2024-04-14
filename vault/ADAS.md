@@ -1,4 +1,4 @@
-[[Build a robot]]
+[[Robotics Engineering]]
 
 Adas  
 Decision making techniques for autonomous vehicles  
@@ -6,3 +6,5 @@ Decision making techniques for autonomous vehicles
 
 Vision dataset
 https://motional.com/nuscenes
+
+Lane Detection to stay on sidewalks? https://paperswithcode.com/task/lane-detection

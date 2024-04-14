@@ -1,21 +1,18 @@
+[[Research]]
+[[Get a PhD]]
+[[Learn a large code base]]
 
+First principles
+Critical path
 
 Feynman technique
 1. Select a concept to learn. - What topic are you curious about? Write out everything you already know about the subject you want to understand deeper. As you learn more about the topic, add it to your sheet. Once you think you understand the topic well enough
 2. Teach it to a child.
 3. Review and refine your understanding.
 4. Organize your notes and revisit them regularly.
-
-
-
-Tools
-ChatGPT prompts
-https://www.linkedin.com/posts/alex-brogan_top-prompts-to-accelerate-your-learning-using-ugcPost-7085513673254846464-0q5h?utm_source=share&utm_medium=member_desktop
-* Explain __ in the simplest terms possible as if teaching it to a complete beginner. Identify gaps in my understanding and suggest resources to fill them
-* Help me create mental models or analogies to better understand and remember key concepts in ___
-* Guide me through a visualization exercise to help me internalize __ and imagine myself successfully applying it in real-life situations.
-
-Anki review cards [legend](https://docs.ankiweb.net/studying.html#review-cards)
+How to learn
+Feynman like understanding
+Be able to visualize exactly what needs to be done and steps needed to be taken e.g. a data analyst gets the data, processes it, does summaries, asks questions etc.
 
 Fast
 Ask why and 1 example
@@ -33,14 +30,16 @@ Retrieve it
 - Varied practice
 - Observe experts in action - watch them while they’re working
 
-Complete
-Capture
-Organize
-Distill
-Express
+Tools
+ChatGPT prompts
+https://www.linkedin.com/posts/alex-brogan_top-prompts-to-accelerate-your-learning-using-ugcPost-7085513673254846464-0q5h?utm_source=share&utm_medium=member_desktop
+* Explain __ in the simplest terms possible as if teaching it to a complete beginner. Identify gaps in my understanding and suggest resources to fill them
+* Help me create mental models or analogies to better understand and remember key concepts in ___
+* Guide me through a visualization exercise to help me internalize __ and imagine myself successfully applying it in real-life situations.
+
+Anki review cards [legend](https://docs.ankiweb.net/studying.html#review-cards)
 
 Something weird to associate thing with thing e.g. japanese symbols
-
 
 Learning How to Learn
 Chunking
@@ -51,6 +50,9 @@ Interleaving - students mix, or interleave, multiple subjects or topics while th
 Illusions of competence
 Take breaks to recall
 Change your environment
+
+ask questions to direct investigation
+use structure of courses to identify thing you dont know you dont know
 
 RIVERS
 RETRIEVAL
@@ -114,10 +116,5 @@ how to build expertise in a new field
 - Observe experts in action - watch them while they’re working
 - Seek mini experiences - identify opportunities to experience in limited fashion situations that made experts valuable to organization
 - Add visible value as soon as possible - take over small part of work expert is willing or eager to relinquish
-
-
-How to learn
-Feynman like understanding
-Be able to visualize exactly what needs to be done and steps needed to be taken e.g. a data analyst gets the data, processes it, does summaries, asks questions etc.
 
 
