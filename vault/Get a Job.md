@@ -1,5 +1,5 @@
 
-[[Pick a dream job]]
+[[Pick a job]]
 [[Find a job]]
 [[Apply for a job]]
 [[Keep your job]]

@@ -1,9 +1,7 @@
 [[Program in C++]] [[Program in Rust]]
 
 [[Pointers]]
-
-copy constructor
-> work with the l-value references and copy semantics(copy semantics means copying the actual data of the object to another object rather than making another object to point the already existing object in the heap)
+[[Move semantics]]
 
 Dynamic memory allocation
 
@@ -61,9 +59,3 @@ Heap - not the data structure, an area of a process’s virtual memory that can 
 
 Resources
 * Memory management in Computer Systems Programmer's Perspective
-
-Move constructors
-l-value - memory location that identifies an object
-r-value - data value that is stored at some address in memory
-move constructor
-> work on the r-value references and move semantics(move semantics involves pointing to the already existing object in the memory)

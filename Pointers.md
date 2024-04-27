@@ -1,3 +1,8 @@
+Smart pointers
+Unique - only 1 owner
+Shared - multiple owners
+Weak
+
 Pointers - manipulate the variable that is pointed to through the pointer. Otherwise you'll get heap-buffer-overflow error
 ```
 	int num;

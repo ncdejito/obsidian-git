@@ -4,9 +4,13 @@
 [[Virtual Memory Management]]
 [[Concurrency]]
 
-[C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) - 4months memory management and concurrency
-
 onlinegdb - quick prototyping
+
+Object modelling group
+C++ idioms
+System design patterns
+Fowler
+Alexander the great, gang of 4 gof
 
 Compile program and run (Linux)
 ```
@@ -41,6 +45,7 @@ https://github.com/TheAlgorithms/C-Plus-Plus
 
 ## References
 How to learn (start anywhere!)
+[C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) - 4months memory management and concurrency
 * C++ for the impatient
 * Effective modern c++
 * C++ for everyone coursera by Dr. Ira Pohl

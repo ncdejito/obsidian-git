@@ -17,9 +17,6 @@ Principle: Quickfixes first then if gone back to, refactor to cleaner ones
 https://codeburst.io/a-short-summary-on-clean-coding-best-practices-d8afbfa7677?gi=231d837ffe6
 https://codewithoutrules.com/2018/11/02/when-clean-up-your-code/
 
-Code review
-[AI-powered review](https://reviewify.io/)
-
 Immutable
 functional
 

@@ -1,3 +1,17 @@
+Why
+Memory safety
+Rust is faster than Go
+Good for embedded
+
+Concepts
+Ownership
+Borrow checker
+* does not exist in other languages besides Rust
+- prevents security vulnerabilities
+Lifetimes
+
+Latest descendant of C++ family
+
 https://github.com/rust-lang/rustlings
 https://github.com/google/comprehensive-rust
 3 day course by ntietz
@@ -8,17 +22,6 @@ https://benw.is/posts/full-stack-rust-with-leptos
 
 Rerast is a search/replace tool for Rust code using rules, by Google
 https://github.com/google/rerast
-
-Why
-Rust is faster than Go
-Good for embedded
-
-Concepts
-Borrow checker
-* does not exist in other languages besides Rust
-- prevents security vulnerabilities
-
-Latest descendant of C++ family
 
 ORM [Diesel](https://diesel.rs/)
 GUI [eGUI](https://github.com/emilk/egui)

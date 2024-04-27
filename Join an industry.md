@@ -9,4 +9,4 @@ Logistics
 [[Finance]]
 [[Climate sustainability]]
 
-[[Pick a dream job]]
+[[Pick a job]]

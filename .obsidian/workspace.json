@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Apply SLAM.md",
+                "file": "vault/Get a Job.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Apply SLAM.md",
+                "file": "vault/Get a Job.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Apply SLAM.md",
+                "file": "vault/Get a Job.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Apply SLAM.md"
+                "file": "vault/Get a Job.md"
               }
             }
           },
@@ -176,9 +176,16 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/Pick a job.md",
+    "vault/Get a Job.md",
+    "vault/Work.md",
+    "vault/START.md",
+    "vault/Mental health.md",
+    "vault/Take care of yourself.md",
+    "vault/Apply SLAM.md",
+    "Move semantics.md",
     "vault/Robotics Software.md",
     "vault/Find a problem.md",
-    "vault/Apply SLAM.md",
     "vault/Point clouds.md",
     "vault/Point cloud registration.md",
     "vault/Global navigation satellite system GNSS.md",
@@ -194,13 +201,6 @@
     "vault/Freelance.md",
     "vault/Occupancy grid.md",
     "vault/Robotics Engineering.md",
-    "vault/Use ROS2.md",
-    "vault/Mechanical engineering.md",
-    "Design the robot body.md",
-    "vault/Control Systems.md",
-    "vault/How to learn (Learning).md",
-    "vault/Program in Rust.md",
-    "Pointers.md",
-    "vault/Work.md"
+    "vault/Use ROS2.md"
   ]
 }

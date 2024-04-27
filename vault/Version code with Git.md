@@ -130,6 +130,11 @@ git stash pop stash@{0}
 git stash apply stash@{0}
 ```
 
+Restore accidental git clear
+```
+git fsck --unreachable | grep commit | cut -d ' ' -f3 | xargs git log --merges --no-walk --grep=WIP
+```
+
 Search commits
 ```
 git log --grep="fix bug"

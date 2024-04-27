@@ -14,3 +14,6 @@ Re-learn, dont remember - go line by line
 Use checklists for code review
 Read documentation
 Take the opportunity to write more documentation
+
+Code review
+[AI-powered review](https://reviewify.io/)
