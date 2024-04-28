@@ -1,6 +1,6 @@
 #job 
 
-Write software [[Robotics Software]]
+Write [[Robotics Software]]
 Build Body [[Mechanical engineering]]
 Connect Wiring [[Electronics Engineering]]
 

@@ -7,7 +7,6 @@
 How to stay in poverty  
 [https://www.linkedin.com/posts/alexhormozi_28-ways-to-stay-poor-ugcPost-7076433967083597824-_Lam](https://www.linkedin.com/posts/alexhormozi_28-ways-to-stay-poor-ugcPost-7076433967083597824-_Lam)
 
-
 Think and Grow Rich
 Sunday, August 27, 2017
 3:51 AM

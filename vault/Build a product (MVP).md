@@ -1,3 +1,5 @@
+[[Design Thinking]]
+
 10000 iterations think big build small
 
 Launch quickly and iterate!

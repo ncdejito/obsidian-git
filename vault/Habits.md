@@ -1,3 +1,5 @@
+[Habits](https://docs.google.com/document/d/18UtP0u3dXAMYZ-mknYobkNkY9bS7LwDy5dWIZLBi7PA/edit)
+
 1% improvement each day = 378% in 1 year
 
 2 steps

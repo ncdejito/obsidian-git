@@ -1,5 +1,7 @@
 Creates efficiency by preventing unnecessary copying of large data
 
+Return value optimization - returning in functions applies as much stdmoves as possible
+
 Move constructors
 l-value & - memory location that identifies an object
 r-value && - data value that is stored at some address in memory

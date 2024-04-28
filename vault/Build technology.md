@@ -1,4 +1,4 @@
-[[Robotics Engineering]]
+[[Robotics Engineer]]
 [[Write software]]
 
 Superintelligence by nick bostrom

@@ -10,7 +10,7 @@ Fundamentals teachyourselfcs
 
 Cutting edge
 [[Apply Machine Learning]]
-[[Robotics Engineering]]
+[[Robotics Engineer]]
 
 Applied in [[Write software]]
 

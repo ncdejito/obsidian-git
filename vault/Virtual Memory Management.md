@@ -2,7 +2,6 @@
 
 [[Pointers]]
 [[Move semantics]]
-
 Dynamic memory allocation
 
 when to use & - if with & pass by reference, can edit the value inside the function. if no & pass by value, cannot edit value inside function

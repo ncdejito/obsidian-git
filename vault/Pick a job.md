@@ -1,11 +1,11 @@
 Pick an ideal role
-* [[Robotics Engineering]]
+* [[Robotics Engineer]]
 * [[Write software]]
 * [[Build pipelines for data (Data Engineering)]]
 * [[Data analysis]]
 
 Jobs you might be interested in
-[[Robotics Engineering]] Engineer
+[[Robotics Engineer]] Engineer
 [[Apply Machine Learning]] Engineer
 [[Build Frontend UI]] Developer
 [[Build Backend Components]] Developer

@@ -1,6 +1,6 @@
 
 Deal with the day to day
-- [[Meditate]]
+- [[Meditation]]
 - [[Deal with emotions]]
 - [What to do when restless](https://www.linkedin.com/posts/stevenouri_if-you-are-stuck-with-a-problem-or-cant-activity-7055883225419694080-9WAw?utm_source=share&utm_medium=member_android)
 	- Tired -> Nap
@@ -24,7 +24,7 @@ Look forward to the future - Plan [[Play]]
 * [[Manage your time with Project Management]]
 * [[Avoid overthinking]]
 * [[Build confidence]]
-* Commitment plan - [[Set goals]] [[Build a Habit]] identity
+* Commitment plan - [[Goals]] [[Habits]] identity
 - Emulate role models using [[Invent a Character]]
-* Keep yourself busy with habits [[Build a Habit]]
+* Keep yourself busy with habits [[Habits]]
 

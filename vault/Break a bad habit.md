@@ -1,4 +1,4 @@
-[[Build a Habit]]
+[[Habits]]
 
 Make it invisible: remove the cue and remove it from your environment
 Make it unattractive: Highlight the benefits of not doing it

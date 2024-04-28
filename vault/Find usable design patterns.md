@@ -1,4 +1,17 @@
 
+System design patterns
+https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building
+https://en.wikipedia.org/wiki/A_Pattern_Language
+gang of 4 gof book
+https://martinfowler.com/articles/enterprisePatterns.html
+
+Object management group - standards for architecture https://www.omg.org/about/omg-standards-introduction.htm
+
+
+Singleton - ensure only one instance of the class exists during the whole program
+
+Factory design pattern
+
 Interface Driven Design
 
 Domain Driven Design

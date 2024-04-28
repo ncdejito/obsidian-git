@@ -4,13 +4,9 @@
 [[Virtual Memory Management]]
 [[Concurrency]]
 
+https://en.cppreference.com/w/
 onlinegdb - quick prototyping
-
-Object modelling group
-C++ idioms
-System design patterns
-Fowler
-Alexander the great, gang of 4 gof
+[[C++ Programming Techniques]]
 
 Compile program and run (Linux)
 ```
@@ -41,8 +37,6 @@ Clang compiles faster than gcc
 
 Run compiler first before building the binary - clang your_file.cpp -fsyntax-only - doesnt work with containers environment
 
-https://github.com/TheAlgorithms/C-Plus-Plus
-
 ## References
 How to learn (start anywhere!)
 [C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) - 4months memory management and concurrency
@@ -60,8 +54,7 @@ Modern C++
 * Functional c++ [blogpost](https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/august/c-functional-style-programming-in-c)
 * How to program functionally in c++ [blogpost](https://medium.com/swlh/doing-it-the-functional-way-in-c-5c392bbdd46a)
 * CTest CMake
-* GDB
-* Robotics with Sina recos
+* [[Debug errors]]
 * Top 10 courses for beginners [medium](https://medium.com/javarevisited/top-10-courses-to-learn-c-for-beginners-best-and-free-4afc262a544e)
 ## Constructs
 [[Data Structures]]

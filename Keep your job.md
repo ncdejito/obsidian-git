@@ -1,8 +1,7 @@
+[[Build a career]]
+
 Enjoy
 Better to serve under a good king than rule with an evil one
-
-[[Get a Job]]
-[[Build a career]]
 
 Perspectives on your job
 Other people earn so much less

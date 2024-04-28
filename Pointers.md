@@ -1,7 +1,18 @@
-Smart pointers
+Smart pointers - ensure objects are deleted once pointers go out of [[Scope (CS)]]
 Unique - only 1 owner
+```
+std::unique_ptr up = make_unique<objecttype>();
+up.reset();
+*up // get object itself
+```
+
 Shared - multiple owners
 Weak
+
+`*&` operators https://en.cppreference.com/w/cpp/language/operator_member_access
+
+Usual errors with pointers
+[[Dangling pointers]]
 
 Pointers - manipulate the variable that is pointed to through the pointer. Otherwise you'll get heap-buffer-overflow error
 ```

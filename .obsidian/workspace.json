@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Get a Job.md",
+                "file": "vault/Connect with people.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Get a Job.md",
+                "file": "vault/Connect with people.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Get a Job.md",
+                "file": "vault/Connect with people.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Get a Job.md"
+                "file": "vault/Connect with people.md"
               }
             }
           },
@@ -176,31 +176,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/Pick a job.md",
-    "vault/Get a Job.md",
-    "vault/Work.md",
+    "vault/Workmates.md",
+    "vault/Give feedback.md",
+    "vault/Connect with people.md",
     "vault/START.md",
-    "vault/Mental health.md",
     "vault/Take care of yourself.md",
-    "vault/Apply SLAM.md",
-    "Move semantics.md",
-    "vault/Robotics Software.md",
-    "vault/Find a problem.md",
-    "vault/Point clouds.md",
-    "vault/Point cloud registration.md",
-    "vault/Global navigation satellite system GNSS.md",
-    "vault/ADAS.md",
-    "vault/Camera Calibration.md",
-    "vault/Data Structures.md",
-    "vault/Program in C++.md",
-    "vault/Apply Sensor fusion.md",
-    "vault/Use Lidar.md",
-    "vault/Perception.md",
-    "vault/Kalman Filter.md",
-    "vault/Use Radar.md",
-    "vault/Freelance.md",
-    "vault/Occupancy grid.md",
-    "vault/Robotics Engineering.md",
-    "vault/Use ROS2.md"
+    "vault/Mental health.md",
+    "vault/Eat.md",
+    "vault/Conversations.md",
+    "vault/Make money.md",
+    "vault/Deal with emotions.md",
+    "vault/Sleep.md",
+    "vault/Meditation.md",
+    "vault/Goals.md",
+    "vault/Play.md",
+    "README.md",
+    "vault/Romance.md",
+    "vault/Speak Japanese.md",
+    "vault/Listen.md",
+    "vault/Habits.md",
+    "vault/Work.md",
+    "vault/Trace the critical path.md",
+    "Robot foundation model.md",
+    "vault/Robotics Engineer.md",
+    "vault/Electronics Engineering.md",
+    "vault/Mechanical engineering.md",
+    "vault/Program in C++.md"
   ]
 }

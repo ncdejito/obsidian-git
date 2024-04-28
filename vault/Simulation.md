@@ -1,4 +1,4 @@
-[[Robotics Engineering]]
+[[Robotics Engineer]]
 
 [[RViz]]
 [[Ignition Gazebo]]

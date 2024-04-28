@@ -1,7 +1,7 @@
 - Object
 - Class
 - Inheritance - create new classes that are based on existing classes, inheriting their properties and behaviors
-- Polymorphism - single interface to deal with different kinds of inputs
+- [[Polymorphism]] - single interface to deal with different kinds of inputs
 	- Templates - apply same class to different data types
 - Abstraction
 - Encapsulation - bundling data with the functions that use them
