@@ -1,5 +1,5 @@
 [[Trace the critical path]]
-Insert print statements to check your understanding
+Insert print statements to check your understanding, especially in [[Distributed systems]]
 
 Fastest way is to fix bugs
 - unknown which part is causing problems so you have to read up on the codebase

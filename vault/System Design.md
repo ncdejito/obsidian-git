@@ -1,41 +1,21 @@
-Scale
-- [[Connect robot to the cloud]]
-- [[Build network infrastructure]]
-* [[Measure]]
 
-System design 101 visuals
-https://email.changelog.com/t/t-l-vduihjd-wjuliuuyk-ut/
-
-Design process from research
-https://maheshba.bitbucket.io/blog/2023/07/12/Design.html
-
-Scalable systems  
-[https://www.linkedin.com/posts/garrytan_how-we-reduced-the-cost-of-building-twitter-activity-7097287204028239872-nBqn?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/garrytan_how-we-reduced-the-cost-of-building-twitter-activity-7097287204028239872-nBqn?utm_source=share&utm_medium=member_android)
-System design blogs  
-[https://www.linkedin.com/posts/ashishps1_40-blogs-to-build-a-strong-system-design-activity-7148169873565569026-T4ys?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/ashishps1_40-blogs-to-build-a-strong-system-design-activity-7148169873565569026-T4ys?utm_source=share&utm_medium=member_android)
-
-Design a system using AI
-https://github.com/geekan/MetaGPT
-
-SHDW - from System Design Interview
-Scope needs
-High level design
-Deep-dive
-Wrap up
-
-Plan
+Concerns
 Identify system needs in metrics
 * [[Make it Resilient]] - kill one vm, data is safe
 * [[Make it Scalable]] - 50 daily
 * [[Make it Maintainable]] - crisp abstractions, interfaces, inviting quickstarts
 * [[Make it Observable]] - order status dashboard
 * [[Make it Cost-aware]] - set budget, auto kill
-[[Find usable design patterns]]
-[[Find usable existing components]]
-[[Compare technology tradeoffs]]
+
+Process
+SHDW - from System Design Interview
+Scope needs [[Compare technology tradeoffs]]
+High level design [[Find usable design patterns]]
+Deep-dive [[Find usable existing components]]
+Wrap up
 
 Execute
-Trace flow of 1 small data example
+[[Trace the critical path]] of 1 small data example
 Do quickstarts after [[Find usable existing components]]
 [[Program asynchronously]]
 [[Connect computers with Networking]]
@@ -43,7 +23,6 @@ Do quickstarts after [[Find usable existing components]]
 [[Keep in mind programming principles]]
 [[Avoid common mistakes in distributed]]
 [[Document code]]
-
 
 ## Example systems
 [Twitter System from Elon](https://www.linkedin.com/posts/eric-vyacheslav-156273169_elon-just-tweeted-the-whole-twitter-back-end-activity-6999730758609170432-w-fB?utm_source=share&utm_medium=member_desktop)
@@ -79,6 +58,20 @@ message queue - https://github.com/wesen/summer-pasture-netflix/blob/main/messag
 
 
 ## References
+
+System design 101 visuals
+https://email.changelog.com/t/t-l-vduihjd-wjuliuuyk-ut/
+
+Design process from research
+https://maheshba.bitbucket.io/blog/2023/07/12/Design.html
+
+
+System design blogs  
+[https://www.linkedin.com/posts/ashishps1_40-blogs-to-build-a-strong-system-design-activity-7148169873565569026-T4ys?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/ashishps1_40-blogs-to-build-a-strong-system-design-activity-7148169873565569026-T4ys?utm_source=share&utm_medium=member_android)
+
+Design a system using AI
+https://github.com/geekan/MetaGPT
+
 Bytebytego alex xu system design
 15min intro to distributed systems - https://www.youtube.com/watch?v=k10_trKtKNk
 Raft consensus algorithm with viz - https://raft.github.io/
@@ -91,17 +84,11 @@ Designing Data Intensive Applications - Martin Kleppmann
 Paper on [Software Technologies for Developing Distributed Systems: Objects and Beyond ](https://www.dre.vanderbilt.edu/~schmidt/PDF/CSI-article.pdf)
 Topics in distributed systems https://youtu.be/BkSdD5VtyRM
 Books on System Design - https://github.com/Nitin96Bisht/System-Design/
-build state machines from code - https://stately.ai/viz
 brooker.co.za/blog - 
 Ben and Greg Linux Performance
 Every Computer Performance Book
 Berkley Packet Filter* bpf performance tools
-Observability Engineering - Liz Fong Jones
 [Conductor](https://github.com/Netflix/conductor) - microservices orchestration by Netflix
-
-
-Current
-Learn system design
 
 Links
 Daily alex xu system design posts
@@ -160,16 +147,12 @@ Updates
 Strategies for deploying to production - Alex Xu system design post
 Feature toggle - no downtime, targeted users
 
-2023
-1219
-Notes System design interview with ML Engineer
-
 Other books
 System design
 Ddia
-Design patterns by martin fowler
-Machine Learning System Design Interview by Alex Xu
 Twitter
 Netflix
 Doordash
 Bumble
+✅ Clean Architecture - Robert C. Martin  
+Principles for designing robust and scalable software architecture.

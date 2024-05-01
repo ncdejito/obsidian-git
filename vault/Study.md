@@ -2,10 +2,10 @@ Link to reading list
 
 [[How to learn (Learning)]]
 
-* Know how robots work with [[Robotics Engineer]]
+* Know how robots work with [[Robotics Engineering]]
 - Work with computers by understanding [[Computer science]]
 - Power tech with [[Electronics Engineering]]
-- Move the world with [[Mechanical engineering]]
+- Move the world with [[Mechanical Engineering]]
 - Solve problems at scale with [[Math]]
 - Learn about the natural world with [[Natural science]]
 - Master social interaction with [[Psychology]]

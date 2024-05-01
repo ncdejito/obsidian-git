@@ -2,10 +2,8 @@
 [[Use existing code]]
 Write starter code with AI: [[Using LLMs ChatGPT]]
 [[Compare technology tradeoffs]]
-
 ## Concern
 * Deliver data to frontend
-
 ## Skills
 * [[Code the logic]]
 - [[Connect APIs]]

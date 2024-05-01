@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Connect with people.md",
+                "file": "vault/START.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incenti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Connect with people.md",
+                "file": "vault/START.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Connect with people.md",
+                "file": "vault/START.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Connect with people.md"
+                "file": "vault/START.md"
               }
             }
           },
@@ -176,31 +175,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/Workmates.md",
-    "vault/Give feedback.md",
-    "vault/Connect with people.md",
+    "vault/Work.md",
+    "vault/Write clean code.md",
+    "vault/System Design.md",
+    "vault/Program in C++.md",
+    "vault/Virtual Memory Management.md",
+    "Move semantics.md",
+    "vault/Get a Job.md",
+    "vault/Get promoted.md",
+    "vault/Integrate and Deploy code with CICD.md",
+    "Pointers.md",
+    "Pointer bugs.md",
+    "vault/Factor Graph Localization.md",
+    "vault/Localization.md",
+    "vault/Program in Object-Oriented.md",
+    "vault/Classes.md",
+    "Polymorphism.md",
+    "vault/Concurrency.md",
     "vault/START.md",
     "vault/Take care of yourself.md",
     "vault/Mental health.md",
-    "vault/Eat.md",
-    "vault/Conversations.md",
-    "vault/Make money.md",
     "vault/Deal with emotions.md",
-    "vault/Sleep.md",
-    "vault/Meditation.md",
-    "vault/Goals.md",
     "vault/Play.md",
-    "README.md",
-    "vault/Romance.md",
-    "vault/Speak Japanese.md",
-    "vault/Listen.md",
-    "vault/Habits.md",
-    "vault/Work.md",
-    "vault/Trace the critical path.md",
-    "Robot foundation model.md",
-    "vault/Robotics Engineer.md",
-    "vault/Electronics Engineering.md",
-    "vault/Mechanical engineering.md",
-    "vault/Program in C++.md"
+    "Travel.md",
+    "Naga Camarines Sur.md",
+    "vault/Build confidence.md",
+    "vault/Manage your time with Project Management.md"
   ]
 }

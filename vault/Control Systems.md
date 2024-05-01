@@ -1,16 +1,25 @@
-[[Robotics Software]]
-
+[[Robotics Software Engineering]]
 [[Electronics Engineering]]
+[[State estimation]]
+
+Concern
+objective is to develop a model or algorithm governing the application of system inputs to drive the system to a desired state, while minimizing any delay, overshoot, or steady-state error and ensuring a level of control stability; often with the aim to achieve a degree of optimality.
 
 make the robot follow the path by comparing its heading with the error
 pid controller
 mpc controller - more used in industry
+ESE - from Kurt
+
+[[Adaptive control]]
+[[Optimal control]]
 
 Classic Controls, Feedback/Feedforward controllers, Cascade control systems
 fast control prototyping systems such as speedgoat, xPC, or any other type of real-time machine
 
 Feedback control systems simplified
 https://www.linkedin.com/posts/muhammad-luqman-%F0%9F%87%B5%F0%9F%87%B8-9b227a11b_controls-controlsystems-controltheory-activity-7180968275277737984-qBtI?utm_source=share&utm_medium=member_android
+
+Steve Brunton also has an awesome youtube channel on dynamic systems, control, and machine learning.
 
 
 **
@@ -134,7 +143,6 @@ Craig 2005 Intro to robotics
     
 
 Specialized  
-Murray, R.M., 2017. A mathematical introduction to robotic manipulation - screw-theory approach to kinematics and dynamics  
   
 Tsai, L.W., 1999. Robot analysis: the mechanics of serial and parallel manipulators. - very thorough on kinematics
 
@@ -164,10 +172,6 @@ Tsai, L.W., 1999. Robot analysis: the mechanics of serial and parallel manipulat
 10. Control Systems Design in State Space
     
 
-  
 
-No copy
 
 Siciliano, B., Sciavicco, L., Villani, L. and Oriolo, G., 2010. Robotics: modelling, planning and control
-
-**

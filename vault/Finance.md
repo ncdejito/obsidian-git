@@ -1,3 +1,4 @@
+put households money to work by loaning to businesses
 
 Finance - https://www.streetofwalls.com/finance-training-courses/
 market data sources

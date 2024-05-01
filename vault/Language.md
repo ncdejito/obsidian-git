@@ -1,0 +1,2 @@
+[[Speak Japanese]]
+[[Speak Bicolano]]

@@ -1,4 +1,4 @@
-[[Apply Machine Learning]]
+[[Machine Learning]]
 
 [ReSyPe](https://phdinds-aim.github.io/resype/getting_started.html#) - recommender framework in Python
 

@@ -1,4 +1,4 @@
-[[Apply Machine Learning]]
+[[Machine Learning]]
 
 https://github.com/srush/GPU-Puzzles
 

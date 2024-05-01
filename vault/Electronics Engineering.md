@@ -22,19 +22,10 @@ Hardware
 computers
 hardware and software interaction
 Batteries, solar panels
-Theoretical physics
-Maxwells equations
 Analog and digital modelling
-Chemistry Lithium ion batteries
-Physics Quantum physics
 Super conductors
 batteries
 solar panels
 circuits
-Feynman physics lectures
-feynman 6 easy pieces - math lecture
-thing explainer book - climate change
-thinking physics
-
 Electronics
 Batteries

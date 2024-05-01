@@ -4,3 +4,7 @@ Drone control software
 * Ardupilot - most popular, but difficult to configure and less modular architecture
 
 * Aerostack2 - promising features, [easy to try quickstart](https://aerostack2.github.io/_02_examples/gazebo/project_gazebo/index.html), but might be difficult later on to add features already battle-tested in other frameworks
+
+[Liquid neural networks for drones](https://spectrum.ieee.org/liquid-neural-networks)
+Survey on drone autonomy navigation
+https://www.mdpi.com/2504-446X/5/2/52

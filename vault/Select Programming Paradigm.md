@@ -1,4 +1,4 @@
 [[Program in Object-Oriented]]
-[[Program in Reactive]]
 [[Program in Functional]]
+[[Program in Reactive]]
 [[Data-driven programming]]

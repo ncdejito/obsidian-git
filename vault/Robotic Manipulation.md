@@ -1,4 +1,4 @@
-[[Robotics Engineer]]
+[[Robotics Engineering]]
 
 Amazon Robot Manipulation - challenge of dealing with large scale item sets
 3 parts: segmentation, identification and defect detection

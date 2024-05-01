@@ -6,7 +6,6 @@ Finite - limited number of states
 Deterministic - one input, one transition
 Non-deterministic - one input, multiple transitions
 
-
 For any non-deterministic state machine, there is an equivalent deterministic state machine.
 
 Example
@@ -19,3 +18,4 @@ Markov chains?
 
 References
 [FreeCodeCamp](https://www.freecodecamp.org/news/state-machines-basics-of-computer-science-d42855debc66/)
+build state machines from code - https://stately.ai/viz

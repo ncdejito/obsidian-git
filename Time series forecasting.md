@@ -1,4 +1,4 @@
-[[Apply Machine Learning]]
+[[Machine Learning]]
 
 Akkio
 Nocode forecasting ML

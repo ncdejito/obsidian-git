@@ -7,3 +7,6 @@ https://www.linkedin.com/posts/ilir-aliu_20-open-source-robotics-projects-on-act
 
 60 open source robots
 https://www.linkedin.com/posts/activity-7149671000849207296-W9Oq?utm_source=share&utm_medium=member_android
+
+OpenGrip low cost robot gripper
+https://email.changelog.com/t/t-l-ellqiy-wjuliuuyk-jd/

@@ -2,6 +2,7 @@ Why
 Memory safety
 Rust is faster than Go
 Good for embedded
+Latest descendant of C++ family
 
 Concepts
 Ownership
@@ -9,8 +10,6 @@ Borrow checker
 * does not exist in other languages besides Rust
 - prevents security vulnerabilities
 Lifetimes
-
-Latest descendant of C++ family
 
 https://github.com/rust-lang/rustlings
 https://github.com/google/comprehensive-rust

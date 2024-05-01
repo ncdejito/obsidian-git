@@ -8,4 +8,4 @@ Key problems faced
 
 [[Join an industry]]
 
-[[Build pipelines for data (Data Engineering)]]
+[[Data Engineering]]

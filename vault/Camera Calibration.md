@@ -1,4 +1,4 @@
-[[Extract info from images using Computer Vision]]
+[[Computer Vision]]
 
 Try printing out chessboard for easy calibration on CameraCal
 

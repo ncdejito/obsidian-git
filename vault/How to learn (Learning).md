@@ -2,6 +2,8 @@
 [[Get a PhD]]
 [[Learn a large code base]]
 
+How to learn (start anywhere!)
+
 First principles
 Critical path
 

@@ -1,4 +1,4 @@
-[[Apply Machine Learning]]
+[[Machine Learning]]
 
 Represented as weights, biases, and activations
 

@@ -29,8 +29,6 @@ rokr - turn 2d lidar to 3d
 Lidar datasets - for openPCL experiments?
 https://robotki.github.io/datasets.html
 
-
-
 Global lidar localization survey
 https://www.linkedin.com/posts/cyrill-stachniss-736233173_lidar-localization-mobilerobotics-activity-7176080012326924288-jpYw?utm_source=share&utm_medium=member_android
 

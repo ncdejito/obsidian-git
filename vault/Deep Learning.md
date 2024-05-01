@@ -1,4 +1,4 @@
-[[Apply Machine Learning]]
+[[Machine Learning]]
 
 neural network with >1 hidden layer
 

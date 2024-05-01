@@ -1,4 +1,4 @@
-[[Apply Machine Learning]]
+[[Machine Learning]]
 
 [Introduction](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)
 
@@ -13,8 +13,6 @@ used in Robotics
 
 Stef recommended Reinforcement Learning
 https://huyenchip.com/2023/05/02/rlhf.html
-
-Reinforcement learning maze stuff
 
 Rewardbench
 https://www.linkedin.com/posts/natolambert_excited-to-share-something-that-weve-needed-activity-7176257375597731842-EIW7?utm_source=share&utm_medium=member_android

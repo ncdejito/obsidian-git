@@ -1,5 +1,5 @@
-[[Robotics Engineer]]
-[[Write software]]
+[[Robotics Engineering]]
+[[Software Engineering]]
 
 Superintelligence by nick bostrom
 To Save Everything, Click Here by Evgeny Morozov

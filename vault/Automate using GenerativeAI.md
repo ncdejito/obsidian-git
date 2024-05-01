@@ -1,4 +1,4 @@
-[[Apply Machine Learning]]
+[[Machine Learning]]
 
 Build a Business using AI
 https://www.linkedin.com/posts/chatgptcommunity_chatgpt-ugcPost-7021452193371148288--xmB?utm_source=share&utm_medium=member_desktop

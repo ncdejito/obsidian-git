@@ -1,3 +1,4 @@
+Solves [[Localization]]
 
 Odometry as variance-weighted average of wheel encoder and laser scanner
 [Math](https://robotics.stackexchange.com/a/1953)

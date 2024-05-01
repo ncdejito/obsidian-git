@@ -1,3 +1,3 @@
-cardio
-strength
-flexibility
+cardio - jogging
+strength - weights
+flexibility - yoga

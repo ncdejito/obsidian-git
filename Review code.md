@@ -1,4 +1,4 @@
-[[Write software]]
+[[Software Engineering]]
 
 Article: change the lens, how to perform your own code review
 If your code contains simple mistakes when it gets to your reviewer, their time and energy is wasted on pointing out those things. Handle all of that stuff beforehand. This allows the reviewer to focus on things that require their expertise in the code, business domain, and system architecture

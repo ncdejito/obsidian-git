@@ -1,12 +1,10 @@
 [[Use Nav2]]
-
 ## Components
 Nodes
 Sequences
 Decorators - looping, guarding resource (someone's using the cannon now, no other agent can use it)
 Selectors
 Parallel
-
 ## Definition
 model for plan execution
 describe switchings between a finite set of tasks in a modular fashion
@@ -32,7 +30,7 @@ Visualize ROS2 trees with [Groot](https://navigation.ros.org/tutorials/docs/usin
 Hierarchical task networks - plan what to do next, same as behavior trees
 
 Alternatives
-[[Understand Finite State Machines]]
+[[Finite State Machines]]
 
 ## Intros
 Ed Younskevicius's presentation

@@ -1,5 +1,26 @@
-Why: [[Write software]]
+Why: [[Software Engineering]]
 How: [[Software processes]]
+
+Domains
+* [[Build Backend Components]]
+* [[Build Frontend UI]]
+* [[Automate development (DevOps)]]
+* [[Robotics Software Engineering]]
+
+Background: [[Computer science]]
+
+Application
+[[Code the logic]]
+
+Best practices
+[[Write tests]]
+[[Write clean code]]
+[[Version code with Git]]
+[[Debug errors]]
+[[Keep in mind programming principles]]
+
+## References
+Pragmatic programmer
 
 https://www.linkedin.com/posts/ryanlpeterman_common-things-ive-noticed-in-the-top-1-activity-7180579705065025536-KAvl?utm_source=share&utm_medium=member_android
 

@@ -5,7 +5,7 @@ Health
 - [[Eat]]
 - [[Exercise]]
 - [[Sleep]]
-- Take care of your [[Mental health]]
+- [[Mental health]]
 - Clean living space
 
 Wealth

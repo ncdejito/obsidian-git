@@ -1,4 +1,9 @@
-[[Apply Machine Learning]]
+[[Machine Learning]]
+[[Using LLMs ChatGPT]]
+
+Named Entity Recognition NER
+Bag of Words
+Tokens
 
 [Stanford course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 

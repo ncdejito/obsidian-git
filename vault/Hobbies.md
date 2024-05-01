@@ -1,2 +1,2 @@
 [[Give a great Massage]]
-[[Speak Japanese]]
+Learn a [[Language]]

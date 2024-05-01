@@ -1,6 +1,10 @@
 [[Deep Learning]]
 [[Perception]]
 
+Object Detection
+Object Segmentation
+Classification
+
 Python Rust Computer Vision - [Rerun.io](https://github.com/rerun-io)
 No-code VisualBlocks - https://github.com/google/visualblocks
 Resources for learning computer vision
@@ -40,3 +44,6 @@ Yolov1 to v8 review
 https://www.researchgate.net/publication/369760111_A_Comprehensive_Review_of_YOLO_From_YOLOv1_to_YOLOv8_and_Beyond
 
 Label Annotation - LandingAI by Andrew Ng
+
+Image classification
+**Codeless machine learning [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/)**

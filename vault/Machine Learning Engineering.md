@@ -34,3 +34,5 @@ Mle book
 https://email.changelog.com/t/t-l-vukhltk-wjuliuuyk-hi/
 
 Full Stack Deep Learning course
+
+Machine Learning System Design Interview by Alex Xu

@@ -1,18 +1,19 @@
+
+[[Pointer bugs]]
+
 Smart pointers - ensure objects are deleted once pointers go out of [[Scope (CS)]]
 Unique - only 1 owner
 ```
 std::unique_ptr up = make_unique<objecttype>();
 up.reset();
 *up // get object itself
+std::move(up) // up is automatically set to null
 ```
 
 Shared - multiple owners
 Weak
 
 `*&` operators https://en.cppreference.com/w/cpp/language/operator_member_access
-
-Usual errors with pointers
-[[Dangling pointers]]
 
 Pointers - manipulate the variable that is pointed to through the pointer. Otherwise you'll get heap-buffer-overflow error
 ```
@@ -52,3 +53,6 @@ int main() {
    cout << &pNumber << endl; // Print the address of pointer variable pNumber (0x22ccec)
 }
 ```
+
+Structured bindings (since c++17)
+> Like a reference, a structured binding is an alias to an existing object. Unlike a reference, a structured binding does not have to be of a reference type.

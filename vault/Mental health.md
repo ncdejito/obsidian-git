@@ -28,3 +28,4 @@ Look forward to the future - Plan [[Play]]
 - Emulate role models using [[Invent a Character]]
 * Keep yourself busy with habits [[Habits]]
 
+[[Psychology]]

@@ -1,2 +1,2 @@
-[[Estimate Hardware compute requirements]]
+[[Assess compute requirements]]
 [[Estimate infra cost]]

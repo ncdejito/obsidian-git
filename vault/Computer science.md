@@ -9,10 +9,10 @@ Fundamentals teachyourselfcs
 [[Connect computers with Networking]]
 
 Cutting edge
-[[Apply Machine Learning]]
-[[Robotics Engineer]]
+[[Machine Learning]]
+[[Robotics Engineering]]
 
-Applied in [[Write software]]
+Applied in [[Software Engineering]]
 
 Resources
 https://missing.csail.mit.edu/

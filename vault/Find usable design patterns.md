@@ -7,7 +7,6 @@ https://martinfowler.com/articles/enterprisePatterns.html
 
 Object management group - standards for architecture https://www.omg.org/about/omg-standards-introduction.htm
 
-
 Singleton - ensure only one instance of the class exists during the whole program
 
 Factory design pattern

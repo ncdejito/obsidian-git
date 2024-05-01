@@ -7,4 +7,4 @@ From LIDAR
 
 Wheel encoders
 
-Kiss icp - 3d lidar odometry estimation
+Kiss icp (Iterative closest point) - 3d lidar odometry estimation

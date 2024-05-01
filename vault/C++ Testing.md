@@ -1,4 +1,9 @@
 [[Program in C++]]
+[[Write tests]]
+
+cassert
+GTest
+CTest
 
 Steps
 1. write CMakeLists.txt

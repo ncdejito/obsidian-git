@@ -1,4 +1,4 @@
-[[Apply Machine Learning]]
+[[Machine Learning]]
 
 Stanford intro
 https://www.youtube.com/watch?v=JAB_plj2rbA

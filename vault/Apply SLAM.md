@@ -15,11 +15,10 @@ Jan 23, Mapping and SLAM
 Jan 26, Path Planning and Navigation
 
 [[Occupancy grid]]
-[[Point clouds]]
-[[Point cloud registration]]
+
 
 ## Theory
-[Principles of Robot Autonomy](https://stanfordasl.github.io//aa274a/)
+
 Low cost 3D [conference](https://lc3d.fbk.eu/)
 [Robotics Knowledge Base](https://roboticsknowledgebase.com/wiki/sensing/pcl/#3d-slam)
 
@@ -63,9 +62,6 @@ https://www.linkedin.com/posts/kostas-alexis-67713918_present-and-future-of-slam
 Monocular realtime navigation
 https://arxiv.org/abs/2307.00666
 
-[Liquid neural networks for drones](https://spectrum.ieee.org/liquid-neural-networks)
-Survey on drone autonomy navigation
-https://www.mdpi.com/2504-446X/5/2/52
 
 camera models, multi-view geometry, and structure-from motion
 UKF, EKF, Factor Graphs
