@@ -1,4 +1,5 @@
 [[Business history]]
+
 Lessons of History by Will and Ariel Durant
 History Explorers and inventors
 Power and Progress by Dan Acemoglu

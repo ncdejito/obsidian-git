@@ -8,7 +8,3 @@
 
 References
 Job search
-Reinventing you
-Pivot
-What color is your parachute
-Chip jt advice

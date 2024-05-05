@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/START.md",
+                "file": "vault/Get a Job.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/START.md",
+                "file": "vault/Get a Job.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/START.md",
+                "file": "vault/Get a Job.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/START.md"
+                "file": "vault/Get a Job.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/START.md",
     "vault/Work.md",
     "vault/Write clean code.md",
     "vault/System Design.md",
@@ -192,7 +193,6 @@
     "vault/Classes.md",
     "Polymorphism.md",
     "vault/Concurrency.md",
-    "vault/START.md",
     "vault/Take care of yourself.md",
     "vault/Mental health.md",
     "vault/Deal with emotions.md",
