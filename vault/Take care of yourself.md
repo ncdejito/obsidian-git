@@ -6,10 +6,12 @@ Health
 - [[Exercise]]
 - [[Sleep]]
 - [[Mental health]]
-- Clean living space
+- [[Clean living space]]
 
 Wealth
 - [[Make money]]
+- Manage your money
+- [[Treat yourself]]
 
 Good relationships
 - [[Connect with people]]

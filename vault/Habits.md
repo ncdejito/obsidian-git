@@ -1,7 +1,8 @@
 [Habits](https://docs.google.com/document/d/18UtP0u3dXAMYZ-mknYobkNkY9bS7LwDy5dWIZLBi7PA/edit)
 
-1% improvement each day = 378% in 1 year
+Goal: 1% improvement each day = 378% in 1 year
 
+## How to build habits
 2 steps
 1. Define who you want to be
 2. Prove it to yourself with small wins

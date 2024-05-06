@@ -28,8 +28,6 @@ decision why obsidian for tech notetaking
 - rolling unfinished tasks via a daily task log  
 - quicksearch of code gists with tags  
 - faster recall vs rediscovering the answer in stackoverflow searches  
-  
-focus on building the robot system  
 
 Can be used for learning CS
 gdrive CS notes are untouched bec hard to  

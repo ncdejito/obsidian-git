@@ -1,3 +1,11 @@
+Aspects of a dream job
+Autonomy
+Feedback
+Variety
+Challenge
+
+Either youre learning or youre earning - Garry Tan
+
 Pick an ideal role
 * [[Robotics Engineering]]
 * [[Software Engineering]]

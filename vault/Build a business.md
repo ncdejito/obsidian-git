@@ -12,6 +12,7 @@ Are you up to the Herculean task of building enduring businesses?
 14. If it sells, Scale your Business [[Automate using GenerativeAI]]
 15. Get [[Funding]]
 16. [[Use tested Business Model]]
+17. [[Build a company]]
 
 Lean startup
 

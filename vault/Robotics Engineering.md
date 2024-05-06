@@ -31,12 +31,15 @@ Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)
 [Security robotics](https://ubuntu.com/blog/getting-started-with-ros-security-scanning)
 [Inspection robots](https://www.linkedin.com/posts/anybotics_ip54-ip68-ip67-activity-7051451831742255105--sl8?utm_source=share&utm_medium=member_desktop)
 [Marine robotics](https://www.linkedin.com/posts/nathan-george-914b1360_a-sea-of-small-rovs-2023-info-compilation-activity-7136530603646029825-Q3uR?utm_source=share&utm_medium=member_android)
+[[Climate robotics]]
 
 ## Resources
 Springer Handbook of Robotics - survey of all your questions about robotics
 [Modern Robotics by Lynch](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 
 Andre mobile robot tweet - Read simon kalouche medium article
+https://medium.com/swlh/the-evolution-of-intelligence-in-robots-part-1-2ad38a92800
+
 [Mobile robotics algorithms UMich](https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F)
 [Beginners Robotics vid](https://www.youtube.com/watch?v=ohcacRG-Ks4)
 

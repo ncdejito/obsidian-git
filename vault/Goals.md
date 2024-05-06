@@ -1,4 +1,6 @@
 [[Take care of yourself]]
+[[Rank ideas]]
+[[Track productivity]]
 
 SMART goals + principles
 Specific - definition of success, satisficing

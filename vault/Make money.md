@@ -1,6 +1,6 @@
 
-[[Freelance]]
 [[Get a Job]]
+[[Freelance]]
 [[Build a business]]
 [[Invest]]
 

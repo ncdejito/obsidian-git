@@ -1,5 +1,7 @@
 
-[[How to learn (Learning)]]
+Why
+Dont be functionally illiterate
+Problems should be solved only once
 
 Complete
 Capture

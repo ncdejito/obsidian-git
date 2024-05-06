@@ -1,9 +1,9 @@
-Category must have an existing job opening
-Abstractions: Problem > Industry > Job > Skills > Tools
+[Journal](https://docs.google.com/document/d/1JRdXSArQOxfGhe5z5ktiiOfhQLI2EnKbtFupxJtFhys/edit)
 
+[[Manage your time with Project Management]]
+
+[[Do your job]]
 [[Robotics Software Engineering]]
-
-- [[Manage your time with Project Management]]
 
 - [[Trace the critical path]]
 - [[Learn a large code base]]
@@ -17,4 +17,9 @@ Abstractions: Problem > Industry > Job > Skills > Tools
 - [[Review code]]
 - [[Version code with Git]]
 
+[[Workmates]]
 
+
+Guideline:
+Category must have an existing job opening
+Abstractions: Problem > Industry > Job > Skills > Tools

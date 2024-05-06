@@ -25,6 +25,6 @@ https://github.com/google/rerast
 ORM [Diesel](https://diesel.rs/)
 GUI [eGUI](https://github.com/emilk/egui)
 Flamegraphs - cargo-flamegraph
-
+Candle rust ml framework
 Simple Neural network in Rust
 https://www.linkedin.com/posts/julius-hietala-8967b8a2_new-blog-post-a-gentle-introduction-to-activity-7090693568775786496-UK4o?utm_source=share&utm_medium=member_desktop

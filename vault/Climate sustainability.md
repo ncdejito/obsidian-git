@@ -1,3 +1,7 @@
+[[Climate robotics]]
+
+Sources of greenhouse gas emmissions
+https://www.c2es.org/content/international-emissions/
 
 Silent spring
 Development with sustainability book ni jay

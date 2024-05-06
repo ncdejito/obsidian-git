@@ -10,3 +10,5 @@ Geohotz fundamentals
 How do these things work
 Laptop
 Smartphone
+
+[[Electronics Engineering]]

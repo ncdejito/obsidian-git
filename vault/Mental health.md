@@ -1,6 +1,8 @@
 
+Goal: clear your mind
+
 Deal with the day to day
-- [[Meditation]]
+- [[Meditate]]
 - [[Deal with emotions]]
 - [What to do when restless](https://www.linkedin.com/posts/stevenouri_if-you-are-stuck-with-a-problem-or-cant-activity-7055883225419694080-9WAw?utm_source=share&utm_medium=member_android)
 	- Tired -> Nap

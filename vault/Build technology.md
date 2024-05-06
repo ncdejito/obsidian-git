@@ -1,7 +1,9 @@
 [[Robotics Engineering]]
 [[Software Engineering]]
+[[Patents]]
 
 Superintelligence by nick bostrom
+
 To Save Everything, Click Here by Evgeny Morozov
 Intro
 Not everything that could be fixed should be fixed

@@ -4,6 +4,8 @@ High output management
 The Path Panasonic
 The hard thing about hard things
 
+Hanlon's Razor - do not attribute to makice what can be more easily explained by stupidity
+
 Hiring
 TED 3 ways to measure adaptability
 Ask responses to what-if scenarios
@@ -20,16 +22,6 @@ Fundamental Techniques in Handling People
 Don’t criticize, condemn, or complain. (It rarely helps the situation)
 Give honest sincere appreciation.
 Arouse in the other person an eager want.
-
-Part Two
-Six Ways To Make People Like You
-
-Become genuinely interested in other people.
-Smile.
-Remember that a person’s name is to that person the sweetest and most important sound in any language.
-Be a good listener. Encourage others to talk about themselves. (This is the secret to being a great conversationalist.)
-Talk in terms of the other person’s interests.
-Make the other person feel important—and do it sincerely.
 
 Part Three
 Win People To Your Way Of Thinking

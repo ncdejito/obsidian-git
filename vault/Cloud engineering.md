@@ -1,6 +1,18 @@
-AWS
-GCP
+
+Cloud platforms
+[[AWS]]
+[[GCP]]
 Azure
+
+Infrastructure as code
+Terraform
+Pulumi
+
+[[Estimate infra cost]]
+
+References
+A Cloud Guru
+Sg email stack
 
 0411
 Practice computer networking and cloud

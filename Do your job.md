@@ -1,5 +1,3 @@
-[[Build a career]]
-
 Enjoy
 Better to serve under a good king than rule with an evil one
 
@@ -13,7 +11,7 @@ Sss pension
 
 Keep applying to keep your options open
 
-If youre that unhappy, leave
+If youre that unhappy, [[Quit]]
 
 ARTICLE: How to Keep Working When You’re Just Not Feeling It
 1. Design Goals not Chores

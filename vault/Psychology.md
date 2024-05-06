@@ -10,3 +10,5 @@ Thinking Fast and Slow
 [[Procrastination]]
 [[Happiness]]
 [[Imposter syndrome]]
+
+[[Neuro-Linguistic Programming]]

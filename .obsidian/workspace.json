@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Get a Job.md",
+                "file": "vault/Work.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Get a Job.md",
+                "file": "vault/Work.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Get a Job.md",
+                "file": "vault/Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Get a Job.md"
+                "file": "vault/Work.md"
               }
             }
           },
@@ -175,31 +175,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/START.md",
+    "vault/Program in Rust.md",
     "vault/Work.md",
+    "Do your job.md",
+    "vault/Meditate.md",
+    "Clean living space.md",
+    "Friends.md",
+    "vault/START.md",
+    "Quit.md",
+    "vault/Dream job.md",
+    "Add value.md",
+    "Work meetings.md",
+    "vault/Hobbies.md",
+    "vault/Using LLMs ChatGPT.md",
+    "vault/Building Large Language Models LLM.md",
+    "vault/Cook vegan.md",
+    "vault/Habits.md",
+    "vault/Handle moments of crisis.md",
+    "Break a bad habit.md",
+    "vault/Robotics Engineering.md",
+    "vault/Climate robotics.md",
+    "vault/Climate sustainability.md",
+    "vault/Get a Job.md",
+    "vault/Freedom.md",
     "vault/Write clean code.md",
     "vault/System Design.md",
-    "vault/Program in C++.md",
-    "vault/Virtual Memory Management.md",
-    "Move semantics.md",
-    "vault/Get a Job.md",
-    "vault/Get promoted.md",
-    "vault/Integrate and Deploy code with CICD.md",
-    "Pointers.md",
-    "Pointer bugs.md",
-    "vault/Factor Graph Localization.md",
-    "vault/Localization.md",
-    "vault/Program in Object-Oriented.md",
-    "vault/Classes.md",
-    "Polymorphism.md",
-    "vault/Concurrency.md",
-    "vault/Take care of yourself.md",
-    "vault/Mental health.md",
-    "vault/Deal with emotions.md",
-    "vault/Play.md",
-    "Travel.md",
-    "Naga Camarines Sur.md",
-    "vault/Build confidence.md",
-    "vault/Manage your time with Project Management.md"
+    "vault/Program in C++.md"
   ]
 }

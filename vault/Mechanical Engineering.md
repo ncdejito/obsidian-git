@@ -4,6 +4,7 @@ Robot modelling
 * [[Select Motor Drivers]]
 * [[Design the robot body]]
 * [[Gears]]
+[[Robotic manipulation]]
 
 Kinematics
 Dynamics of rigid bodies

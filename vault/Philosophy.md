@@ -1,5 +1,9 @@
 [[Nihilism]]
 
+[[Freedom]]
+[[Love]]
+[[Duty]]
+
 Philosophy study group
 Programs of famous schools
 By area - ancient, western, eastern

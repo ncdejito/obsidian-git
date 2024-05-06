@@ -38,7 +38,7 @@ Muzero paper - geohot said this is the road to l5 self driving autonomy
 Classic model based reinforcement learning
 https://www.linkedin.com/posts/activity-7147134285957799936-SKGt?utm_source=share&utm_medium=member_android
 
-For cleaning robots it could be one square small reward, all squares many rward
+For cleaning robots it could be one square small reward, all squares many reward
 - source quora
 
 Path planning for cleaning robots paper

@@ -1,6 +1,7 @@
 [[Research]]
 [[Get a PhD]]
 [[Learn a large code base]]
+[[Take notes]]
 
 How to learn (start anywhere!)
 

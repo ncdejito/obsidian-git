@@ -33,6 +33,9 @@ Deploy ml models on aws
 Mle book
 https://email.changelog.com/t/t-l-vukhltk-wjuliuuyk-hi/
 
+Mle google course
+https://www.linkedin.com/posts/eric-vyacheslav-156273169_google-published-15-free-courses-on-machine-activity-7192176541080965121-u8b-?utm_source=share&utm_medium=member_android
+
 Full Stack Deep Learning course
 
 Machine Learning System Design Interview by Alex Xu

@@ -7,10 +7,14 @@
 Prototype deployment
 * [[Use Flyio]]
 * [[Use Heroku]]
+* netlify
+* vercel
+* dokploy - open source
 Code in server - [[Use Vim]]
 [[Integrate and Deploy code with CICD]]
 Configuration management - Ansible, Chef, Puppet
 [[Connect computers with Networking]]
+[[Cloud engineering]]
 
 * [[Assess compute requirements]]
 * [[Learn a large code base]]

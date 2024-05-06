@@ -30,9 +30,7 @@ What did you create this week?
 Relationships
 External: How many true friends do you have?
 Internal: # of quality conversations
-Simple: # of people interacted with this week
-# of well-received added value to social contact
-# of likes in posts
+Simple: # of people interacted with this week # of well-received added value to social contact of likes in posts
 1 warm social interaction - made someone feel listened to
 Conversation turns per session chatbot
 

@@ -7,5 +7,7 @@ Trust is a risk masquerading as a promise
 Transparency is surveillance
 Building vs earning trust
 
+[[Ask questions]]
 [[Give feedback]]
 [[Make slides]]
+[[Work meetings]]
