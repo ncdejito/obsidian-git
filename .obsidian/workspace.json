@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Work.md",
+                "file": "vault/Romance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Work.md",
+                "file": "vault/Romance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Work.md",
+                "file": "vault/Romance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Work.md"
+                "file": "vault/Romance.md"
               }
             }
           },
@@ -175,8 +175,11 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/Program in Rust.md",
+    "vault/Robotics Visualization.md",
+    "vault/Simulation.md",
+    "vault/RViz.md",
     "vault/Work.md",
+    "vault/Program in Rust.md",
     "Do your job.md",
     "vault/Meditate.md",
     "Clean living space.md",
@@ -197,9 +200,6 @@
     "vault/Climate robotics.md",
     "vault/Climate sustainability.md",
     "vault/Get a Job.md",
-    "vault/Freedom.md",
-    "vault/Write clean code.md",
-    "vault/System Design.md",
-    "vault/Program in C++.md"
+    "vault/Freedom.md"
   ]
 }
