@@ -1,8 +1,11 @@
 [[Nihilism]]
+[[Stoicism]]
 
 [[Freedom]]
 [[Love]]
 [[Duty]]
+[[Time]]
+[[Death]]
 
 Philosophy study group
 Programs of famous schools

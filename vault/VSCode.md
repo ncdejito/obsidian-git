@@ -2,6 +2,9 @@
 
 1. Install Remote - WSL extension
 
+VSCode Ruler
+[configuration - Vertical rulers in Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code)
+
 ## Config
 
 [[Use Python]]

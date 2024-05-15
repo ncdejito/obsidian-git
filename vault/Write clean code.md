@@ -33,9 +33,6 @@ also lexical closure or function closure, is a technique for implementing lexica
 Mary:
 ish - scope is first introduced in https://craftinginterpreters.com/statements-and-state.html#scope and then a first pass at closures in https://craftinginterpreters.com/functions.html#local-functions-and-closures and then this chapter is more about getting it fully correct https://craftinginterpreters.com/resolving-and-binding.html 
 
-VSCode Ruler
-[configuration - Vertical rulers in Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code)
-
 Article: write code that is easy to delete
 Copy paste code, dont copy paste code
 -building reusable code is often done in hindsight so dont preempt too much with features you expect to use in the future

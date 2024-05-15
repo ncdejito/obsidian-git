@@ -5,5 +5,6 @@ Family Occupation Recreation Dreams
 
 Enrich conversations - with [[Philosophy]], [[History]], [[Religion]]
 
-Taboo topics with work because divisive
+Taboo topics at work because divisive
 Religion
+Politics

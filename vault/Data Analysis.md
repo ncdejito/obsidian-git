@@ -20,6 +20,10 @@ Treating missing data
 - in different column add missing or not missing - if absence helps predict variable
 - using the last known value
 
+Principles of tidy data - Observational units
+hadley wickham
+Dplyr R - grammar for cleaning data
+
 ## Explore data
 Ask good questions
 Collect relevant info

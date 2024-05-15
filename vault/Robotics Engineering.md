@@ -24,6 +24,7 @@ Robot arms - [PR2 Design files](https://clearpathrobotics.com/pr2-resources-2/)
 Legged Robotics - [yertle](https://github.com/Jerome-Graves/yertle), PetoiOne
 Marine Robotics - [ROS Marine Vehicle Packages](https://discourse.ros.org/t/release-of-ros-mvp/29367)
 [[Drones]]
+[[Self driving cars]]
 
 ## Applications
 Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)

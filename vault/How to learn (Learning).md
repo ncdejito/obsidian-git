@@ -1,5 +1,5 @@
 [[Research]]
-[[Get a PhD]]
+[[Get a Masters PhD]]
 [[Learn a large code base]]
 [[Take notes]]
 

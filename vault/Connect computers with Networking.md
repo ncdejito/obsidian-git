@@ -37,6 +37,8 @@ ex. HTTP, TCP, IP, UDP
 Handshaking - automated process of negotiation between two participants (example "Alice and Bob") through the exchange of information that establishes the protocols of a communication link at the start of the communication, before full communication begins.
 
 ## Commands for troubleshooting
+* `ufw` - Open a port on Linux with ufw - https://www.digitalocean.com/community/tutorials/opening-a-port-on-linux
+
 * `telnet` - used to establish the connections between different machines.This command allows us to manage the remote devices using the CLI (command-line interface).  It uses TCP port 23 which is assigned to the telnet protocol, [source](https://linuxhint.com/linux-telnet-command/)
 
 * `dig` - used to gather DNS information (Domain Information Groper) [source with examples](https://www.geeksforgeeks.org/dig-command-in-linux-with-examples/)

@@ -25,4 +25,4 @@ ELT - andle any size or type of data and is well suited for processing both stru
 Snowflake
 
 modern data stack - duckdb
-[[Build an Enterprise Data Platform]]
+[[Enterprise Data Platform]]

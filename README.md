@@ -6,3 +6,8 @@ What does it mean to be human?
 - [[Connect with people]]
 
 [[START]]!
+
+Why
+Instructive - Reduce decision fatigue
+Comprehensive - Learn from mistakes of others
+Concise - Maintain a clear mind

@@ -1,4 +1,5 @@
-[[vault/Industries to pitch data infra to|Industries to pitch data infra to]]
+
+[[Graph Theory]]
 
 TM Forum newsletter
 

@@ -10,8 +10,8 @@ Health
 
 Wealth
 - [[Make money]]
-- Manage your money
-- [[Treat yourself]]
+- [[Manage your money]]
+- [[Rewards]]
 
 Good relationships
 - [[Connect with people]]

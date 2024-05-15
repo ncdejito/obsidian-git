@@ -14,6 +14,7 @@ Best ones happen organically - play the long game
 7. Look for big industries that seem broken
 8. (bonus) find cofounder with an idea already
 
+NASA technology ready for commercialization website
 
 1 person business ideas
 [HN](https://news.ycombinator.com/item?id=35333088&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)

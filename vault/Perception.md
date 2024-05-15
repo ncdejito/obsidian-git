@@ -7,6 +7,7 @@ Problems
 Data representation
 [[Point clouds]]
 Stixel
+Voxel
 
 Physical sensors
 * [[Use Odometry]]

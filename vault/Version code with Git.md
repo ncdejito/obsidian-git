@@ -164,6 +164,12 @@ Source of error is VSCode CLI authentication
 always add `--recurse-submodules` when working with submodules (repo within the repo)
 [Git - Submodules (git-scm.com)](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
 
+Git pull is stuck
+
+git fsck && git gc --prune=now
+
+(note) useful lfs (Large File Storage) commands: "git lfs status"; "git lfs ls-files", "git lfs env"; "git lfs track/untrack "file.ext"", "git lfs prune" (use "git config --global lfs.pruneverifyremotealways true" for making sure pruning deletes files still present on server), see also "git lfs help".
+
 ## Github alternatives
 
 [The Git Rebase Handbook – A Definitive Guide to Rebasing (freecodecamp.org)](https://www.freecodecamp.org/news/git-rebase-handbook/)

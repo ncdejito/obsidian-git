@@ -1,5 +1,9 @@
 [[System Design]]
 
+Component Object Model
+IUnknown
+QueryInterface - MS kwento ni tugs
+
 They should be reusable.
 Fully documented.
 Thoroughly tested.

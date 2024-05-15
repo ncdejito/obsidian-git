@@ -1,4 +1,5 @@
 [[Understand Hardware Software Interaction]]
+[[System Integration]]
 [[Control Systems]]
 [[Use ROS2]]
 * [[Assess compute requirements]]

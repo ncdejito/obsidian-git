@@ -10,5 +10,7 @@ Thinking Fast and Slow
 [[Procrastination]]
 [[Happiness]]
 [[Imposter syndrome]]
+[[Victim mentality]]
+[[Inferiority complex]]
 
 [[Neuro-Linguistic Programming]]

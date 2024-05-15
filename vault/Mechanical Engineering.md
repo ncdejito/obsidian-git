@@ -4,6 +4,7 @@ Robot modelling
 * [[Select Motor Drivers]]
 * [[Design the robot body]]
 * [[Gears]]
+* [[Mechanical joints]]
 [[Robotic manipulation]]
 
 Kinematics

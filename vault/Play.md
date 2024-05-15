@@ -1,10 +1,7 @@
-You only live once
-
-- Treat yo self - physical rewards watch listen
-- [[Travel]]
+You only live 
 
 Hobbies
-[[Cook vegan]]
+[[Cook vegetables]]
 [[Give a great Massage]]
 Learn a [[Language]]
 [[Study]] interesting things

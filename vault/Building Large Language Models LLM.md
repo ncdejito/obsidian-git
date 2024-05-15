@@ -1,6 +1,8 @@
 https://www.linkedin.com/posts/thom-wolf_ai-openknowledge-openaccess-activity-7173356581361803265-lYWq?utm_source=share&utm_medium=member_android
 Llms training in 2024 by huggingface ceo
 
+[[Attention]]
+
 Llms from scratch
 https://email.changelog.com/t/t-l-eltjiit-wjuliuuyk-ir/
 
