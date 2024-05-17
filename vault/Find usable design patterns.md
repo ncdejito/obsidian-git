@@ -11,6 +11,8 @@ Singleton - ensure only one instance of the class exists during the whole progra
 
 Factory design pattern
 
+Adapter pattern
+
 Interface Driven Design
 
 Domain Driven Design

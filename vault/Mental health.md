@@ -10,7 +10,7 @@ Deal with the day to day
 	- Cant focus-> Cut screen time
 	- Angry -> Exercise
 	- Burnt out -> Read
-	- Anxious -> Meditate
+	- [[Anxiety]] -> Meditate
 	- Feeling lost -> Pray
 	- Overwhelmed -> Take a break
 	- Restless -> Yoga

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Explore Business Ideas.md",
+                "file": "vault/Make slides.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Explore Business Ideas.md",
+                "file": "vault/Make slides.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Explore Business Ideas.md",
+                "file": "vault/Make slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Explore Business Ideas.md"
+                "file": "vault/Make slides.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "Anxiety.md",
+    "vault/Explore Business Ideas.md",
     "vault/Connect computers with Networking.md",
     "Inferiority complex.md",
     "Victim mentality.md",
@@ -198,8 +200,6 @@
     "Ask questions.md",
     "Data visualization.md",
     "Cook vegan meat.md",
-    "vault/Cook vegetables.md",
-    "vault/Robotics Visualization.md",
-    "vault/Simulation.md"
+    "vault/Cook vegetables.md"
   ]
 }
