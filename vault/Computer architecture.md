@@ -38,7 +38,7 @@ Memory hierarchy L1 smaller faster costlier storage devices (cache inside the CP
 Operating system - provide programs with simple uniform interfaces across different types of hardware; consists of processes, virtual memory, files
 Processes
 Kernels - manages transition from one process to another
-Threads - execution units, a process can have multiple
+[[Threads]] - execution units, a process can have multiple
 Virtual memory
 Program code and data
 Heap - expands and contracts at runtime, malloc and free
@@ -52,7 +52,7 @@ Concurrency and Parallelism
 Concurrency - multiple simultaneous activities
 Parallelism - use of concurrency to make a system run faster
 3 levels
-Thread-level Parallelism - multiple programs execute at the same time
+[[Threads]]-level Parallelism - multiple programs execute at the same time
 Instruction-level Parallelism - processors execute multiple instructions at one time
 Single Instruction, Multiple Data Parallelism - lowest-level; single instruction multiple operations
 Importance of Abstractions in Computer Systems - allow programmers to use the code without having to delve into its inner workings
@@ -228,7 +228,7 @@ Summary
 Interaction & Communication
 System-Level IO - reading and writing files
 Network Programming - IP, socket, bind
-Concurrent Programming - thread execution model, semaphores, deadlocks, races!!
+[[Concurrency]] Programming - [[Threads]] execution model, semaphores, deadlocks, races!!
 
 Error Handling
 

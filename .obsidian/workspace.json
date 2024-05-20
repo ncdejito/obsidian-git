@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Make slides.md",
+                "file": "vault/Draw Circuit Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kicad",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Make slides.md",
+                "file": "vault/Draw Circuit Diagram.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Make slides.md",
+                "file": "vault/Draw Circuit Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Make slides.md"
+                "file": "vault/Draw Circuit Diagram.md"
               }
             }
           },
@@ -175,6 +176,9 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/Robotics Engineering.md",
+    "vault/Make slides.md",
+    "Threads.md",
     "Anxiety.md",
     "vault/Explore Business Ideas.md",
     "vault/Connect computers with Networking.md",
@@ -197,9 +201,6 @@
     "vault/Romance.md",
     "System Integration.md",
     "Self driving cars.md",
-    "Ask questions.md",
-    "Data visualization.md",
-    "Cook vegan meat.md",
-    "vault/Cook vegetables.md"
+    "Ask questions.md"
   ]
 }
