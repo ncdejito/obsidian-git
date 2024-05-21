@@ -1,4 +1,4 @@
-You only live 
+You only live once
 
 Hobbies
 [[Cook vegetables]]

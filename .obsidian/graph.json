@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#moc",
+      "query": "robotics",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -25,6 +25,6 @@
   "repelStrength": 3.48958333333333,
   "linkStrength": 1,
   "linkDistance": 119,
-  "scale": 0.8975481607522642,
-  "close": true
+  "scale": 0.732845004472193,
+  "close": false
 }

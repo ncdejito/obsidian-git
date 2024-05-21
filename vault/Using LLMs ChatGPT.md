@@ -2,6 +2,9 @@
 how it works [Linkedin post](https://www.linkedin.com/posts/hilarymason_chatgpt-ai-llm-activity-7037082578603909121-akFQ?utm_source=share&utm_medium=member_desktop)
 Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-awesome-chat-gpt-prompts-activity-7015708729333403648-alUj/?originalSubdomain=ee)
 
+Prompt engineering by openai
+https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
+
 Research backed improvements to prompts
 https://www.linkedin.com/posts/sahar-mor_in-the-last-three-months-alone-over-ten-activity-7139644940153667585-t70H?utm_source=share&utm_medium=member_android
 

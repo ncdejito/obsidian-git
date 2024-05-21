@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Draw Circuit Diagram.md",
+                "file": "vault/START.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Draw Circuit Diagram.md",
+                "file": "vault/START.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Draw Circuit Diagram.md",
+                "file": "vault/START.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Draw Circuit Diagram.md"
+                "file": "vault/START.md"
               }
             }
           },
@@ -176,6 +176,20 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/Take care of yourself.md",
+    "vault/Mental health.md",
+    "vault/START.md",
+    "vault/Navigation.md",
+    "vault/Work.md",
+    "vault/Motion Planning.md",
+    "vault/Mapping.md",
+    "vault/Localization.md",
+    "motionj.md",
+    "vault/Draw Circuit Diagram.md",
+    "vault/Program in C++.md",
+    "vault/Track productivity.md",
+    "vault/Measure.md",
+    "Climate tech.md",
     "vault/Robotics Engineering.md",
     "vault/Make slides.md",
     "Threads.md",
@@ -187,20 +201,6 @@
     "Chaos Theory.md",
     "Love.md",
     "Hypertension.md",
-    "Attention.md",
-    "Enterprise Data Platform.md",
-    "Write.md",
-    "Rewards.md",
-    "Manage your money.md",
-    "Risk management.md",
-    "Graph Theory.md",
-    "Operations Research.md",
-    "Mechanical joints.md",
-    "vault/Get a Masters PhD.md",
-    "Carbon removal.md",
-    "vault/Romance.md",
-    "System Integration.md",
-    "Self driving cars.md",
-    "Ask questions.md"
+    "Attention.md"
   ]
 }

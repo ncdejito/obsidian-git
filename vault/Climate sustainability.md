@@ -1,4 +1,4 @@
-[[Climate robotics]]
+[[Climate tech]]
 [[Carbon removal]]
 
 Sources of greenhouse gas emmissions
@@ -14,3 +14,6 @@ An invitation to environment sociology
 https://archive.org/details/invitationtoenvi0000bell_w1u6/page/8/mode/2up
 
 Climate town yt channel
+
+Community
+https://www.linkedin.com/posts/katiekross_earthday-climate-careers-activity-7188184122480099329-iRzx?utm_source=share&utm_medium=member_android

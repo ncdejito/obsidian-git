@@ -21,6 +21,8 @@ https://www.linkedin.com/posts/muhammad-luqman-%F0%9F%87%B5%F0%9F%87%B8-9b227a11
 
 Steve Brunton also has an awesome youtube channel on dynamic systems, control, and machine learning.
 
+Brian Douglas youtube channel on control systems
+
 
 **
 

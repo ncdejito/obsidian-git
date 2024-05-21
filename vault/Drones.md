@@ -8,3 +8,6 @@ Drone control software
 [Liquid neural networks for drones](https://spectrum.ieee.org/liquid-neural-networks)
 Survey on drone autonomy navigation
 https://www.mdpi.com/2504-446X/5/2/52
+
+Small projects
+https://www.linkedin.com/posts/activity-7197883486412652544-1Aye?utm_source=share&utm_medium=member_android
