@@ -1,8 +1,10 @@
-[Journal](https://docs.google.com/document/d/1JRdXSArQOxfGhe5z5ktiiOfhQLI2EnKbtFupxJtFhys/edit)
 
-[[Manage your time with Project Management]]
+[[Plan tomorrow]]
 
 [[Do your job]]
+[[Think clearly]]
+[[How to learn (Learning)]]
+
 [[Robotics Software Engineering]]
 
 - [[Trace the critical path]]

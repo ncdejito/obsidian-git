@@ -1,6 +1,8 @@
-[[Take care of yourself]]
-[[Rank ideas]]
-[[Track productivity]]
+[Goals](https://docs.google.com/document/d/1Bv3DdyU3YmP39BH9Fq-5Mt13awPAkwO34UIjzdeF4QA/edit)
+
+Outside your control
+An outcome
+Big hairy audacious goals
 
 SMART goals + principles
 Specific - definition of success, satisficing
@@ -23,11 +25,5 @@ What goals should look like (SMART)
 4. Relevant: Goals should be relevant to the individual or organization setting them, and aligned with their overall mission and objectives.
 5. Time-bound: Goals should have a specific deadline or time frame, so that progress can be monitored and achievements celebrated.
 
-How to actually implement goals (High Output Management Andrew Grove Intel)
-OKRs comprise an:
-* _Objective_ (a significant, concrete, clearly defined goal) and 
-* 3–5 _key results_ (measurable success criteria used to track the achievement of that goal). also called milestones
-
-Stress test your OKRs with [6 questions](https://www.linkedin.com/posts/matthewlerner_unpopular-opinion-okrs-dont-cause-problems-activity-7148644392319287296-L2-f/?utm_source=share&utm_medium=member_android) by a Paypal director
-
-[[Manage your time with Project Management]]
+Examples:
+[[OKRs]], Objectives

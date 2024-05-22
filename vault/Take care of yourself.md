@@ -1,6 +1,3 @@
-Engage in the day to day with [[Habits]]
-Connect what you do now to the future with [[Goals]]
-
 Health
 - [[Eat]]
 - [[Exercise]]

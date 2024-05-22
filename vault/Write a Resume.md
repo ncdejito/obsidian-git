@@ -31,7 +31,9 @@ How to write a resume by me
 - Growth mindset
 - Don't undersell yourself
 - If I was a 10x engineer, what would that look like 
+- Be honest about your capability using [[Assess your ability]]
 
+Technical challenges faced and technologies used for solving - chip huyen post
 ## Tools
 Use [[Using LLMs ChatGPT]]
 [tips](https://www.linkedin.com/posts/brandonturp_how-to-land-your-dream-job-with-chatgpt-ugcPost-7038513771991953408-3aO-?utm_source=share&utm_medium=member_desktop)

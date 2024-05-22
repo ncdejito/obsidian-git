@@ -105,10 +105,6 @@ How to Learn in 2 days what normally takes 6mos
 - Right tools and systems
 - Support structure
 
-Clarity is what creates motivation.
-Tracking is what creates awareness.
-Reporting is what creates accountability
-
 how to build expertise in a new field
  
 - Identify the best exemplars
@@ -120,4 +116,7 @@ how to build expertise in a new field
 - Seek mini experiences - identify opportunities to experience in limited fashion situations that made experts valuable to organization
 - Add visible value as soon as possible - take over small part of work expert is willing or eager to relinquish
 
+
+Learning direction
+Obsidian, feed learnings to gdoc then transfer if recalled, feel like growing a garden again, topics obsidian, gdocs book outlines
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/START.md",
+                "file": "vault/Projects.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kicad",
+                "query": "identity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/START.md",
+                "file": "vault/Projects.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/START.md",
+                "file": "vault/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/START.md"
+                "file": "vault/Projects.md"
               }
             }
           },
@@ -176,31 +176,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/Take care of yourself.md",
+    "Self-direction.md",
+    "vault/Projects.md",
+    "vault/Plan ahead.md",
+    "vault/Plan tomorrow.md",
+    "vault/Plan next week.md",
+    "vault/Plan next month.md",
+    "vault/Plan next quarter.md",
+    "vault/Reflect on last month.md",
+    "vault/Reflect.md",
     "vault/Mental health.md",
-    "vault/START.md",
-    "vault/Navigation.md",
-    "vault/Work.md",
-    "vault/Motion Planning.md",
-    "vault/Mapping.md",
-    "vault/Localization.md",
-    "motionj.md",
-    "vault/Draw Circuit Diagram.md",
-    "vault/Program in C++.md",
-    "vault/Track productivity.md",
+    "vault/Goals.md",
+    "vault/Identity.md",
+    "vault/Key results.md",
+    "vault/Scope (Project Management).md",
+    "vault/scop.md",
+    "vault/OKRs.md",
+    "vault/KPIs.md",
     "vault/Measure.md",
-    "Climate tech.md",
-    "vault/Robotics Engineering.md",
-    "vault/Make slides.md",
-    "Threads.md",
-    "Anxiety.md",
-    "vault/Explore Business Ideas.md",
-    "vault/Connect computers with Networking.md",
-    "Inferiority complex.md",
-    "Victim mentality.md",
-    "Chaos Theory.md",
-    "Love.md",
-    "Hypertension.md",
-    "Attention.md"
+    "vault/Reflect on today.md",
+    "vault/Write a Resume.md",
+    "vault/Track productivity.md",
+    "Dependency injection.md",
+    "Decide.md",
+    "vault/Make money.md",
+    "vault/Take care of yourself.md",
+    "vault/Sleep.md"
   ]
 }

@@ -16,6 +16,10 @@ rough probability,
 backup plan a to c
 Eisenhower Decision Matrix
 
+Criteria for taking risks
+High success rate
+Aligns with long term vision
+Unlimited upside
 
 Deciding to do something
 Simplest most important question: Will it make you happy? What makes you think so?

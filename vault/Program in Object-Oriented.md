@@ -5,6 +5,8 @@
 - Abstraction - [[Use Interfaces]]
 - Encapsulation - bundling data with the functions that use them
 
+[[Dependency injection]]
+
 Bad design patterns
 - law of demeter - too much chaining of objects inside the object
 
