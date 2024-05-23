@@ -1,4 +1,4 @@
-[[Self-direction]]
+[[Self-determination]]
 
 [[Plan tomorrow]] every night
 [[Plan next week]] every Monday

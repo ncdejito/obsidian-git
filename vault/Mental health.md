@@ -6,6 +6,6 @@ Goal: clear your mind
 - [[Play]]
 - [[Meditate]]
 
-[[Self-direction]]
+[[Self-determination]]
 
 [[Psychology]]

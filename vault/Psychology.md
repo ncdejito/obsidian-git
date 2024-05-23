@@ -14,3 +14,4 @@ Thinking Fast and Slow
 [[Inferiority complex]]
 
 [[Neuro-Linguistic Programming]]
+[[Self-Determination Theory]]

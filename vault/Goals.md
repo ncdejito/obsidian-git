@@ -1,9 +1,14 @@
 [Goals](https://docs.google.com/document/d/1Bv3DdyU3YmP39BH9Fq-5Mt13awPAkwO34UIjzdeF4QA/edit)
 
-Outside your control
+Also called objective
 An outcome
+Outside your control, but probability can be influenced
 Big hairy audacious goals
 
+[[Extrinsic vs Intrinsic Goal Framing]]
+[[Locus of Control]]
+
+## Best practices
 SMART goals + principles
 Specific - definition of success, satisficing
 Measurable - milestones
@@ -25,5 +30,6 @@ What goals should look like (SMART)
 4. Relevant: Goals should be relevant to the individual or organization setting them, and aligned with their overall mission and objectives.
 5. Time-bound: Goals should have a specific deadline or time frame, so that progress can be monitored and achievements celebrated.
 
-Examples:
+References:
 [[OKRs]], Objectives
+[[Self-determination]]

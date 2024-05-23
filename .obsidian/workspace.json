@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Projects.md",
+                "file": "Self-determination.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Projects.md",
+                "file": "Self-determination.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Projects.md",
+                "file": "Self-determination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Projects.md"
+                "file": "Self-determination.md"
               }
             }
           },
@@ -176,31 +176,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "Self-direction.md",
     "vault/Projects.md",
+    "Self-determination.md",
     "vault/Plan ahead.md",
+    "vault/Mental health.md",
+    "vault/Take care of yourself.md",
+    "vault/Identity.md",
+    "vault/Self-Determination Theory.md",
+    "Buddhism.md",
+    "vault/Habits.md",
+    "vault/Extrinsic vs Intrinsic Goal Framing.md",
+    "vault/Key results.md",
+    "vault/Goals.md",
+    "vault/Locus of Control.md",
+    "vault/Psychology.md",
+    "vault/OKRs.md",
+    "Decide.md",
+    "Avoid peer pressure.md",
+    "vault/Connect with people.md",
+    "vault/Workmates.md",
+    "Retrieval Augmented Generation RAG.md",
+    "vault/Airtable.md",
+    "vault/KPIs.md",
     "vault/Plan tomorrow.md",
     "vault/Plan next week.md",
     "vault/Plan next month.md",
-    "vault/Plan next quarter.md",
-    "vault/Reflect on last month.md",
-    "vault/Reflect.md",
-    "vault/Mental health.md",
-    "vault/Goals.md",
-    "vault/Identity.md",
-    "vault/Key results.md",
-    "vault/Scope (Project Management).md",
-    "vault/scop.md",
-    "vault/OKRs.md",
-    "vault/KPIs.md",
-    "vault/Measure.md",
-    "vault/Reflect on today.md",
-    "vault/Write a Resume.md",
-    "vault/Track productivity.md",
-    "Dependency injection.md",
-    "Decide.md",
-    "vault/Make money.md",
-    "vault/Take care of yourself.md",
-    "vault/Sleep.md"
+    "vault/Plan next quarter.md"
   ]
 }

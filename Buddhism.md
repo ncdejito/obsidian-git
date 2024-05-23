@@ -2,3 +2,6 @@ To be happy, let go of desire
 8 fold path
 
 Egakatta - single mindedness
+
+[[Extrinsic vs Intrinsic Goal Framing]]
+[[Locus of Control]]

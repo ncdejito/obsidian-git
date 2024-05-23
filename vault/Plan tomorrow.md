@@ -3,13 +3,6 @@ Output: Updated gcal events from [[Tasks]]
 5pm cutoff
 1h if stuck ask for help
 
-day - output=standup notes
-review toggl track
-review project docs
-write done doing todo blockers
-write feelings
-plan day ahead
-
 Short - tomorrow
 Tasks - process-based, gdocs daily journal, Airtable deliverables
 Time tracking - toggl

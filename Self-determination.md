@@ -3,7 +3,8 @@ Clarity is what creates motivation.
 [[Identity]]
 [[Habits]]
 [[Tasks]]
-[[Projects]]
+Responsibilities - a long-term commitment requiring ongoing attention
+[[Projects]] - short term efforts
 [[Key results]] - within my control
 [[Goals]] - outside your control
 
@@ -12,3 +13,7 @@ Tracking is what creates awareness.
 
 Reporting is what creates accountability
 [[Reflect]]
+
+
+References
+[[Self-Determination Theory]]

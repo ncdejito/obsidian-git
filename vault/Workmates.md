@@ -7,6 +7,9 @@ Trust is a risk masquerading as a promise
 Transparency is surveillance
 Building vs earning trust
 
+Weaponized incompetence
+Feigned incompetence to avoid unwanted responsibility
+
 [[Ask questions]]
 [[Give feedback]]
 [[Make slides]]
