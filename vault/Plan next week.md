@@ -4,6 +4,7 @@ Tasks
 Add to gcal
 Revisit time estimates
 Clarify details
+Move from backlog to todo
 
 Goals
 - OKR [Goals](https://docs.google.com/document/d/1Bv3DdyU3YmP39BH9Fq-5Mt13awPAkwO34UIjzdeF4QA/edit?usp=drivesdk)    

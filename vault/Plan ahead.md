@@ -1,4 +1,4 @@
-[[Self-determination]]
+[[Self-actualization]]
 
 [[Plan tomorrow]] every night
 [[Plan next week]] every Monday
@@ -15,7 +15,7 @@ Constant - resistant to change
 Well laid - distills all collected information from past lives
 
 Tools  
-Airtable
+[[Airtable]]
 Asana  
 GCalendar  
 Gdocs  

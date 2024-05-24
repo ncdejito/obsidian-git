@@ -1,17 +1,12 @@
 [Current projects](https://airtable.com/appwlcA0RJTWZ394q/tbl8RCXnru5Ps1F1Y/viwNs5z5QPeE8Yxze?blocks=hide)
 
-Choose a project
-Scope a project
-Budget for a project
-Schedule the project
-
-Decision to do - why do in the first place  [[Rank ideas]] [[Decide]] [[Avoid overthinking]]
-[[Scope (Project Management)]] - definition of done, define milestones, Roadmap
-Budget - time estimates, timebox
-Schedule - when and where will be done, schedule in google calendar
+Choose a project - why do in the first place  [[Rank ideas]] [[Decide]] [[Avoid overthinking]]
+[[Scope a project]] - definition of done, define milestones, Roadmap
+Budget for a project - time estimates, timebox
+Schedule the project - when and where will be done, schedule in google calendar
 
 Definition
-Initiatives that accomplish [[Goals]]
+Initiatives that get you closer to [[Goals]]
 Can be divided into [[Key results]] 
 Consists of multiple [[Tasks]] over a long period
 Accomplishable in a defined period, not a recurring set of tasks like [[Habits]]

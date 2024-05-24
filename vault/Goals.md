@@ -32,4 +32,4 @@ What goals should look like (SMART)
 
 References:
 [[OKRs]], Objectives
-[[Self-determination]]
+[[Self-actualization]]
