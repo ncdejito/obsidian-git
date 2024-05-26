@@ -1,5 +1,5 @@
 
-[[Program in C++]] - for speed
+[[C++]] - for speed
 
 [[Program in Rust]] - fast, memory safe, thread safe
 

@@ -8,7 +8,7 @@ Are you up to the Herculean task of building enduring businesses?
 10. [[Sell]]
 11. Improve your product
 12. [[Build a moat]]
-13. Track your progress
+13. Track your progress with [[KPIs]]
 14. If it sells, Scale your Business [[Automate using GenerativeAI]]
 15. Get [[Funding]]
 16. [[Use tested Business Model]]

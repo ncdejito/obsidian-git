@@ -6,7 +6,7 @@
 [[Concurrency]]
 
 ## Constructs
-[[Programming Techniques for C++]]
+[[C++ Programming Techniques]]
 [[Compiler]]
 [[Header files]]
 [[C++ Libraries]]

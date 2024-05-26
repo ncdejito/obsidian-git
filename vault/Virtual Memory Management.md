@@ -1,4 +1,4 @@
-[[Program in C++]] [[Program in Rust]]
+[[C++]] [[Program in Rust]]
 
 [[Pointers]]
 [[Move semantics]]

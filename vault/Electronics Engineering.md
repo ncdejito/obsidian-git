@@ -1,4 +1,5 @@
 [[Understand Hardware Software Interaction]]
+[[Embedded Systems]]
 [[System Integration]]
 [[Control Systems]]
 [[Use ROS2]]

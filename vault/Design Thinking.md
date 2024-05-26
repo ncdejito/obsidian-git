@@ -1,4 +1,8 @@
-Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions1. It involves five stages: Empathize, Define, Ideate, Prototype and Test. Here is a possible program that you can follow for one hour:
+Design thinking is a non-linear, iterative process that teams use to understand users, challenge assumptions, redefine problems and create innovative solutions. 
+
+It involves five stages: Empathize, Define, Ideate, Prototype and Test. 
+
+Here is a possible program that you can follow for one hour:
 
 Empathize (10 minutes): In this stage, you want to gain an empathic understanding of yourself and your needs. You can do this by asking yourself some questions, such as:
 What are my values, passions and goals?

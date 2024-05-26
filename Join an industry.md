@@ -1,4 +1,4 @@
-Study [great problems from MIT](https://docs.google.com/document/d/1uwCSpyThaOQcfS3bWFroKhJ_Y_31ljPj_4l782x0lZs/edit?usp=drivesdk)
+[[Find a problem]] then fix it
 
 [[Software Engineering]]
 
@@ -10,3 +10,5 @@ Construction
 [[Climate sustainability]]
 
 [[Dream job]]
+
+[[Get a Masters PhD]]

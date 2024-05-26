@@ -1,4 +1,4 @@
-[[Program in C++]]
+[[C++]]
 [[Write tests]]
 
 cassert

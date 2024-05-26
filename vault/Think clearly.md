@@ -1,5 +1,7 @@
 [[Avoid cognitive distortions]]
 [[Write]]
+[[First principles]]
+[[Mental Models]]
 
 Socratic questioning
 - Origins - Clarifying your thinking and explaining the origins of your ideas (Why do I think this? What exactly do I think?)

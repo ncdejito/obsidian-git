@@ -1,15 +1,11 @@
 
-PUMA
-Priority
-Urgency
-Money
-Authority
+
 
 Volume negates luck
 [https://www.youtube.com/watch?v=NcD2t9qt-fM&t=645s](https://www.youtube.com/watch?v=NcD2t9qt-fM&t=645s)
 by Alex Hormozi
 
-Engage Lead
+Engage Lead [[Stakeholder]]
 Qualify Lead
 Solicit Sale
 Close Sale

@@ -1,5 +1,11 @@
 NOT a family, people with shared goals and standards for excellence
 
+[[Ask questions]]
+[[Give feedback]]
+[[Make slides]]
+[[Work meetings]]
+[[Push back on more work]]
+
 Relationships at Work Adam Grant
 Power, trust
 Power is dynamic, shifting between parties
@@ -9,8 +15,3 @@ Building vs earning trust
 
 Weaponized incompetence
 Feigned incompetence to avoid unwanted responsibility
-
-[[Ask questions]]
-[[Give feedback]]
-[[Make slides]]
-[[Work meetings]]

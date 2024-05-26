@@ -10,7 +10,7 @@
 Bad design patterns
 - law of demeter - too much chaining of objects inside the object
 
-[[Program in C++]]
+[[C++]]
 
 [Notes on OOP](https://www.linkedin.com/posts/kapilyadav22_oops-object-oriented-programming-by-kapil-activity-6965887795018018816-Ftpv?utm_source=share&utm_medium=member_android)
 

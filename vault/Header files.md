@@ -11,3 +11,5 @@ bool passOrFail();
 #pragma once - define header once
 ```
 h file vs c file - header file, like a set of params shared across files
+
+hpp files - if needs [[C++ Templates]]

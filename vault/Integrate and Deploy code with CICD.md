@@ -46,7 +46,7 @@ k8s pod pulls from registry
 [source](https://www.youtube.com/watch?v=sH-trYwjkkY)
 
 ## Tools
-conan-io [[Program in C++]] package manager for easier CI
+conan-io [[C++]] package manager for easier CI
 [[Use Go]] has easy devops
 [Earthly](https://earthly.dev/) - dockerfile + makefile for easier CI CD
 Argo is great for kubernetes CD  

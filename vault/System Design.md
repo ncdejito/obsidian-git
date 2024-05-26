@@ -1,4 +1,6 @@
 
+also called System Architecture
+
 Concerns
 Identify system needs in metrics
 * [[Make it Resilient]] - kill one vm, data is safe

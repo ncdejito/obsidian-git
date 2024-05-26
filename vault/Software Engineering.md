@@ -6,10 +6,12 @@ Domains
 * [[Build Frontend UI]]
 * [[Automate development (DevOps)]]
 * [[Robotics Software Engineering]]
+[[Open source software]]
 
 Background: [[Computer science]]
 
 Application
+[[Learn a large code base]]
 [[Code the logic]]
 
 Best practices

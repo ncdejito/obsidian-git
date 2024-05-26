@@ -1,5 +1,4 @@
 
-
 Install on Linux
 [Instructions](https://docs.arduino.cc/software/ide-v1/tutorials/Linux?_gl=1*1wwebps*_ga*MjgzODEyMTg0LjE2NjEwNzA0MTE.*_ga_NEXN8H46L5*MTY2MTA3MDQxNC4xLjEuMTY2MTA3MTU2Mi4xOC4wLjA.)
 

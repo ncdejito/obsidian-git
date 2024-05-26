@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/Computer science.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/Computer science.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/Computer science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Plan tomorrow.md"
+                "file": "vault/Computer science.md"
               }
             }
           },
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 224.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,31 +177,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/Plan next month.md",
-    "vault/Plan next week.md",
-    "vault/Plan next quarter.md",
-    "vault/Reflect on last month.md",
-    "vault/Reflect on last week.md",
-    "vault/Identity.md",
-    "vault/Goals.md",
-    "vault/Projects.md",
-    "vault/Scope a project.md",
-    "vault/Plan ahead.md",
-    "vault/Plan tomorrow.md",
-    "Self-actualization.md",
-    "vault/Tasks.md",
-    "vault/Airtable.md",
-    "vault/Habits.md",
-    "vault/Take care of yourself.md",
-    "vault/Mental health.md",
-    "vault/Self-Determination Theory.md",
-    "Buddhism.md",
-    "vault/Extrinsic vs Intrinsic Goal Framing.md",
-    "vault/Key results.md",
-    "vault/Locus of Control.md",
-    "vault/Psychology.md",
-    "vault/OKRs.md",
-    "Decide.md",
-    "Avoid peer pressure.md"
+    "vault/Internet.md",
+    "27.md",
+    "vault/Virtual Memory Management.md",
+    "vault/Computer architecture.md",
+    "vault/How to Build a Chatbot.md",
+    "vault/Build a product (MVP).md",
+    "vault/Design Thinking.md",
+    "vault/Robotics Software Engineering.md",
+    "vault/System Design.md",
+    "vault/Robotics Engineering.md",
+    "vault/Electronics Engineering.md",
+    "vault/Control Systems.md",
+    "vault/Understand Hardware Software Interaction.md",
+    "System Integration.md",
+    "vault/Embedded Systems.md",
+    "vault/Select Microcontroller.md",
+    "vault/Arduino.md",
+    "vault/Field Programmable Gate Arrays (FPGAs).md",
+    "vault/Concurrency.md",
+    "vault/Distributed systems.md",
+    "vault/Integrate and Deploy code with CICD.md",
+    "vault/C++.md",
+    "vault/Program in Object-Oriented.md",
+    "vault/C++ Testing.md",
+    "vault/Header files.md",
+    "Polymorphism.md"
   ]
 }

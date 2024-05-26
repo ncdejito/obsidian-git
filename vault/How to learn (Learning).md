@@ -1,6 +1,4 @@
 [[Research]]
-[[Get a Masters PhD]]
-[[Learn a large code base]]
 [[Take notes]]
 
 How to learn (start anywhere!)
@@ -115,7 +113,6 @@ how to build expertise in a new field
 - Observe experts in action - watch them while they’re working
 - Seek mini experiences - identify opportunities to experience in limited fashion situations that made experts valuable to organization
 - Add visible value as soon as possible - take over small part of work expert is willing or eager to relinquish
-
 
 Learning direction
 Obsidian, feed learnings to gdoc then transfer if recalled, feel like growing a garden again, topics obsidian, gdocs book outlines

@@ -13,7 +13,7 @@
 - [[Distributed systems]]
 
 - [[Write clean code]]
-- [[Program in C++]]
+- [[C++]]
 - [[Debug errors]]
 - [[Write tests]]
 - [[Review code]]
