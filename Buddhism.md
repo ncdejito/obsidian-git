@@ -3,5 +3,5 @@ To be happy, let go of desire
 
 Egakatta - single mindedness
 
-[[Extrinsic vs Intrinsic Goal Framing]]
+[[Extrinsic vs Intrinsic Motivation]]
 [[Locus of Control]]

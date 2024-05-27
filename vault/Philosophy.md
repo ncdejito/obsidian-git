@@ -7,6 +7,8 @@
 [[Time]]
 [[Death]]
 
+[[Philosophy of Technology]]
+
 Philosophy study group
 Programs of famous schools
 By area - ancient, western, eastern

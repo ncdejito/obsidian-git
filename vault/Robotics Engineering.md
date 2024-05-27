@@ -38,6 +38,8 @@ Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)
 Springer Handbook of Robotics - survey of all your questions about robotics
 https://roboticsknowledgebase.com/
 
+
+
 [Modern Robotics by Lynch](https://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 
 Andre mobile robot tweet - Read simon kalouche medium article

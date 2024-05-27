@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Computer science.md",
+                "file": "vault/Scope a project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "needs",
+                "query": "wheel of life",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Computer science.md",
+                "file": "vault/Scope a project.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Computer science.md",
+                "file": "vault/Scope a project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Computer science.md"
+                "file": "vault/Scope a project.md"
               }
             }
           },
@@ -177,31 +177,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/Internet.md",
-    "27.md",
-    "vault/Virtual Memory Management.md",
-    "vault/Computer architecture.md",
-    "vault/How to Build a Chatbot.md",
-    "vault/Build a product (MVP).md",
-    "vault/Design Thinking.md",
-    "vault/Robotics Software Engineering.md",
-    "vault/System Design.md",
-    "vault/Robotics Engineering.md",
-    "vault/Electronics Engineering.md",
-    "vault/Control Systems.md",
-    "vault/Understand Hardware Software Interaction.md",
-    "System Integration.md",
-    "vault/Embedded Systems.md",
-    "vault/Select Microcontroller.md",
-    "vault/Arduino.md",
-    "vault/Field Programmable Gate Arrays (FPGAs).md",
-    "vault/Concurrency.md",
-    "vault/Distributed systems.md",
-    "vault/Integrate and Deploy code with CICD.md",
-    "vault/C++.md",
-    "vault/Program in Object-Oriented.md",
-    "vault/C++ Testing.md",
-    "vault/Header files.md",
-    "Polymorphism.md"
+    "vault/Projects.md",
+    "Communicate progress.md",
+    "vault/Scope a project.md",
+    "vault/Reflect on last month.md",
+    "vault/Reflect on last week.md",
+    "vault/Tasks.md",
+    "Self-actualization.md",
+    "vault/Key results.md",
+    "vault/Plan next week.md",
+    "vault/Apply SLAM.md",
+    "vault/Extrinsic vs Intrinsic Motivation.md",
+    "vault/Wheel of Life.md",
+    "vault/Identity.md",
+    "Dream.md",
+    "vault/Nihilism.md",
+    "Satisficing.md",
+    "Execute the project.md",
+    "Robotic AI.md",
+    "Power law.md",
+    "Consulting.md",
+    "Pareto principle.md",
+    "MECE.md",
+    "Philosophy of Technology.md",
+    "vault/Find a Market (Marketing).md",
+    "vault/Computer science.md",
+    "vault/Internet.md"
   ]
 }

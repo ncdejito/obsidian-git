@@ -3,7 +3,7 @@
 [Business Strategy Maps](https://www.linkedin.com/posts/kumli_innovation-strategy-strategymaps-activity-7001151762564800512-FRDk?utm_source=share&utm_medium=member_desktop)
 
 [[Assess the competition]]
-[[How to Find a Market (Marketing)]]
+[[Find a Market (Marketing)]]
 
 Range by David Epstein
 

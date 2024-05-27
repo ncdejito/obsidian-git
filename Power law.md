@@ -1,0 +1,5 @@
+[[Statistics]]
+
+[[Pareto principle]]
+
+[[Consulting]]

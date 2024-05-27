@@ -1,4 +1,8 @@
 Output: Gcal entries for next week populated with critical [[Tasks]] from [[Projects]]
+Label target weekday on Airtable
+Delete done tasks on Airtable
+
+Timebox to 1h
 
 Tasks
 Add to gcal

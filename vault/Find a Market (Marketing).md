@@ -1,4 +1,5 @@
 
+Its broken but people still use it
 
 Llm marketing
 https://www.linkedin.com/posts/jessicagilmartin_have-you-ever-had-that-software-or-agency-activity-7180978675272572928-Y2p9?utm_source=share&utm_medium=member_android

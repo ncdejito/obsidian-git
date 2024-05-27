@@ -1,0 +1,14 @@
+An aspiration with currently no concrete plan for attaining
+
+Make real with [[Goals]]
+
+Overcome self limiting beliefs with:
+Functional Imagery Training 20yrs of research
+https://hbr.org/2023/06/how-to-overcome-self-limiting-beliefs
+Think critically about your values
+Develop your senses
+Think about best case scenarios
+Get a cue - to trigger thinking about positive multisensory image
+
+Abraham maslows needs extrinsic vs intrinsic
+https://positivepsychology.com/life-worth-living-setting-life-goals/#hero-single

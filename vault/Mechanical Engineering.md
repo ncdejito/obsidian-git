@@ -7,6 +7,9 @@ Robot modelling
 * [[Mechanical joints]]
 [[Robotic manipulation]]
 
+How to Build Robots and Make Them Move UMich Rob 311
+https://github.com/michiganrobotics/rob311
+
 Kinematics
 Dynamics of rigid bodies
 

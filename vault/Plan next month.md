@@ -1,5 +1,7 @@
 Output: Choose or create [[Projects]] based on [[Key results]]
 
+Timebox to 2h
+
 Medium - 2weeks
 Milestones - output-based, deadlines
 

@@ -2,14 +2,14 @@
 
 Tony Robbins' Wheel of Life is a powerful tool for assessing and improving different areas of your life. The wheel is divided into different sections or "slices," each representing a different area of your life. These areas typically include:
 
-1.  Career/Business
-2.  Finances
-3.  Health/Fitness
-4.  Family/Relationships
-5.  Personal Growth
-6.  Social Life
-7.  Spiritual Life
-8.  Fun/Recreation
+1.  Career
+2.  Money
+3.  Health
+4.  Family
+5.  Love
+6.  Friends
+7.  Spirituality
+8.  Fun
 
 To use the Wheel of Life, you start by rating your level of satisfaction or fulfillment in each area on a scale of 0 to 10, with 0 being completely dissatisfied and 10 being completely satisfied. You can do this by drawing a line or shading in the corresponding slice of the wheel to represent your rating.
 

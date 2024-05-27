@@ -4,7 +4,7 @@ Are you up to the Herculean task of building enduring businesses?
 2. [[Explore Business Ideas]]
 3. Test your idea [[Evaluate your business idea]]
 7. Prototype small version of product [[Build a product (MVP)]]
-9. [[How to Find a Market (Marketing)]]
+9. [[Find a Market (Marketing)]]
 10. [[Sell]]
 11. Improve your product
 12. [[Build a moat]]

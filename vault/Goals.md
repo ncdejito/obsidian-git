@@ -5,7 +5,7 @@ An outcome
 Outside your control, but probability can be influenced
 Big hairy audacious goals
 
-[[Extrinsic vs Intrinsic Goal Framing]]
+[[Extrinsic vs Intrinsic Motivation]]
 [[Locus of Control]]
 
 ## Best practices

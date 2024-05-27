@@ -1,5 +1,7 @@
 Output: Updated gcal events from [[Tasks]]
 
+Timebox to 30m
+
 5pm cutoff
 1h if stuck ask for help
 

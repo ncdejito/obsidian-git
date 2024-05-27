@@ -1,5 +1,10 @@
 [[Decide]]
 
+Naval: productize yourself
+Product roadmap vs project roadmap
+
+Dont overplan your career khosrowshahi uber
+
 Thinking about your career  
 Optionality vs value driven  
 [https://lethain.com/forty-year-career/](https://lethain.com/forty-year-career/)
