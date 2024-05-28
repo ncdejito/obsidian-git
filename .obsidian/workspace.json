@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Scope a project.md",
+                "file": "vault/Plan tomorrow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Scope a project.md",
+                "file": "vault/Plan tomorrow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Scope a project.md",
+                "file": "vault/Plan tomorrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Scope a project.md"
+                "file": "vault/Plan tomorrow.md"
               }
             }
           },
@@ -177,12 +177,16 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/Reflect on today.md",
+    "vault/Tasks.md",
     "vault/Projects.md",
-    "Communicate progress.md",
+    "Schedule the project.md",
+    "Budget for a project.md",
+    "Execute the project.md",
     "vault/Scope a project.md",
+    "Communicate progress.md",
     "vault/Reflect on last month.md",
     "vault/Reflect on last week.md",
-    "vault/Tasks.md",
     "Self-actualization.md",
     "vault/Key results.md",
     "vault/Plan next week.md",
@@ -193,15 +197,11 @@
     "Dream.md",
     "vault/Nihilism.md",
     "Satisficing.md",
-    "Execute the project.md",
     "Robotic AI.md",
     "Power law.md",
     "Consulting.md",
     "Pareto principle.md",
     "MECE.md",
-    "Philosophy of Technology.md",
-    "vault/Find a Market (Marketing).md",
-    "vault/Computer science.md",
-    "vault/Internet.md"
+    "Philosophy of Technology.md"
   ]
 }
