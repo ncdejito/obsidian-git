@@ -48,6 +48,9 @@ used in Robotics
 Stef recommended Reinforcement Learning
 https://huyenchip.com/2023/05/02/rlhf.html
 
+Stanford Reinforcement Learning
+https://web.stanford.edu/class/cs234/modules.html
+
 Rewardbench
 https://www.linkedin.com/posts/natolambert_excited-to-share-something-that-weve-needed-activity-7176257375597731842-EIW7?utm_source=share&utm_medium=member_android
 

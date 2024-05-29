@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/How to learn (Learning).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wheel of life",
+                "query": "openpcl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "e53c00e69354e9f6",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/How to learn (Learning).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/How to learn (Learning).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Plan tomorrow.md"
+                "file": "vault/How to learn (Learning).md"
               }
             }
           },
@@ -177,31 +176,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/Reflect on today.md",
-    "vault/Tasks.md",
-    "vault/Projects.md",
-    "Schedule the project.md",
-    "Budget for a project.md",
-    "Execute the project.md",
-    "vault/Scope a project.md",
-    "Communicate progress.md",
-    "vault/Reflect on last month.md",
-    "vault/Reflect on last week.md",
-    "Self-actualization.md",
-    "vault/Key results.md",
-    "vault/Plan next week.md",
+    "vault/Robotics Engineering.md",
+    "vault/Electronics Engineering.md",
+    "vault/Mechanical Engineering.md",
+    "vault/Robotics Software Engineering.md",
+    "vault/Perception.md",
+    "vault/Behaviors.md",
+    "vault/Reinforcement Learning.md",
+    "vault/Motion Planning.md",
+    "vault/Mapping.md",
+    "vault/Localization.md",
     "vault/Apply SLAM.md",
-    "vault/Extrinsic vs Intrinsic Motivation.md",
-    "vault/Wheel of Life.md",
-    "vault/Identity.md",
-    "Dream.md",
-    "vault/Nihilism.md",
-    "Satisficing.md",
-    "Robotic AI.md",
-    "Power law.md",
-    "Consulting.md",
-    "Pareto principle.md",
-    "MECE.md",
-    "Philosophy of Technology.md"
+    "vault/Embodied AI (Robotics + AI).md",
+    "vault/Navigation.md",
+    "vault/Math.md",
+    "vault/Probability.md",
+    "vault/Control Systems.md",
+    "vault/Design the robot body.md",
+    "vault/Assess your ability.md",
+    "vault/new note.md",
+    "START.md",
+    "vault/Write.md",
+    "vault/Work meetings.md",
+    "vault/Victim mentality.md",
+    "vault/Ubuntu Server on Windows (headless).md",
+    "vault/Travel.md",
+    "vault/Time series forecasting.md"
   ]
 }

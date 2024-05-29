@@ -1,5 +1,8 @@
 short range but accurate
 
+An introduction to LIDAR by Oliver Cameron
+https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff
+
 RPLidar 
 Official Slamtec [code](https://github.com/Slamtec/rplidar_ros/tree/ros2)
 fork [code](https://github.com/babakhani/rplidar_ros2) ver: Humble Hawksbill

@@ -3,6 +3,7 @@ Problems
 * [[Apply Sensor fusion]]
 * Depth estimation
 * Freespace detection
+* [[Computer Vision]]
 
 Data representation
 [[Point clouds]]

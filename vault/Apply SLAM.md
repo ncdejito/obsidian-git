@@ -190,5 +190,3 @@ monocular depth estimation?
 - Use 3d object-based SLAM to solve monocular scale drift - https://ieeexplore.ieee.org/abstract/document/8353862
     
 - Distributed monocular SLAM - multiple robots complete the map https://ieeexplore.ieee.org/abstract/document/8688219
-
-embodied ai - https://embodied-ai.org/

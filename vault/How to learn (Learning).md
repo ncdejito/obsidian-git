@@ -117,3 +117,5 @@ how to build expertise in a new field
 Learning direction
 Obsidian, feed learnings to gdoc then transfer if recalled, feel like growing a garden again, topics obsidian, gdocs book outlines
 
+Have a 30-second answer to everything i.e double click answer - The McKinsey Edge
+

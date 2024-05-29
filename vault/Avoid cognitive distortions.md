@@ -15,3 +15,6 @@ https://www.linkedin.com/posts/romeen-sheth-07494427_the-worlds-most-valuable-sk
 https://www.linkedin.com/posts/alex-brogan_25-of-the-most-powerful-psychological-tendencies-ugcPost-7143862136794984448-CaBZ?utm_source=share&utm_medium=member_desktop
 
 https://visualcapitalist.com/50-cognitive-biases-in-the-modern-world/
+
+[[Einschtellung Mental Block]]
+[[Dunning Kruger effect]]

@@ -10,5 +10,7 @@ Liquid neural networks are much smaller and are more explainable
 Text to image to design files will shorten prototyping
 Imitation learning
 
+embodied ai - https://embodied-ai.org/
+
 YC request for startups
 https://www.ycombinator.com/rfs#applying-machine-learning-to-robotics

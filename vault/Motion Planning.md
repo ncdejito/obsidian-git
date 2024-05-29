@@ -23,8 +23,6 @@ Robustness and resilience - if robot fails
 Robotics by Cyrill Stachniss
 [https://www.youtube.com/playlist?list=PLgnQpQtFTOGSeTU35ojkOdsscnenP2Cqx](https://www.youtube.com/playlist?list=PLgnQpQtFTOGSeTU35ojkOdsscnenP2Cqx)
 
-5h basics
-18h mobile robot basics
 Basics
 
 3D Coordinates and Representations of Rotations

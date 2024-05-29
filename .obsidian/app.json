@@ -2,5 +2,6 @@
   "fileSortOrder": "alphabeticalReverse",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "vault"
 }

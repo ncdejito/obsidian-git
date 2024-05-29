@@ -16,6 +16,8 @@ High level design [[Find usable design patterns]]
 Deep-dive [[Find usable existing components]]
 Wrap up
 
+Sequence diagrams: PlanttextUML
+
 Execute
 [[Trace the critical path]] of 1 small data example
 Do quickstarts after [[Find usable existing components]]

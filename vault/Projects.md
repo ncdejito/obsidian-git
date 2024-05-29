@@ -46,3 +46,8 @@ Flexible to changes in priorities
 Harmony
 Respects my current load and prevents overcapacity
 Includes my recurring responsibilities
+
+Sources of joy
+Finishing a task before the estimate
+Having the plan so clear you are excited to do it
+Knowing each action you take is meaningful

@@ -3,6 +3,7 @@ Smallest unit of work
 ~2.5hrs
 When finishing the end, list down immediate next step for next session
 Timebox
+Work expands to fill the time that you let it
 
 Why
 Quest log
