@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/How to learn (Learning).md",
+                "file": "vault/Pointers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/How to learn (Learning).md",
+                "file": "vault/Pointers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/How to learn (Learning).md",
+                "file": "vault/Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/How to learn (Learning).md"
+                "file": "vault/Pointers.md"
               }
             }
           },
@@ -176,7 +176,11 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/Virtual Memory Management.md",
+    "vault/C++.md",
     "vault/Robotics Engineering.md",
+    "vault/How to learn (Learning).md",
+    "Vision-Language Modelling.md",
     "vault/Electronics Engineering.md",
     "vault/Mechanical Engineering.md",
     "vault/Robotics Software Engineering.md",
@@ -197,10 +201,6 @@
     "vault/new note.md",
     "START.md",
     "vault/Write.md",
-    "vault/Work meetings.md",
-    "vault/Victim mentality.md",
-    "vault/Ubuntu Server on Windows (headless).md",
-    "vault/Travel.md",
-    "vault/Time series forecasting.md"
+    "vault/Work meetings.md"
   ]
 }

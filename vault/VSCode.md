@@ -2,6 +2,9 @@
 
 1. Install Remote - WSL extension
 
+Features
+Sticky scroll - show where you are in the codebase by showing in editor the tree e g class > public > function
+
 VSCode Ruler
 [configuration - Vertical rulers in Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code)
 

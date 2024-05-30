@@ -1,5 +1,7 @@
 NOT a family, people with shared goals and standards for excellence
 
+Treat as if every second counts when you talk to them
+
 [[Ask questions]]
 [[Give feedback]]
 [[Make slides]]

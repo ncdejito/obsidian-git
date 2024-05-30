@@ -94,6 +94,9 @@ https://github.com/eugeneyan/open-llms
 Collecting data
 https://github.com/togethercomputer/RedPajama-Data
 
+Llama3 in pure numpy
+https://github.com/likejazz/llama3.np
+
 Evolutionary tree of modern LLMs  
 [https://www.linkedin.com/feed/update/urn:li:activity:7057472505057312769?utm_source=share&utm_medium=member_android](https://www.linkedin.com/feed/update/urn:li:activity:7057472505057312769?utm_source=share&utm_medium=member_android)
 
