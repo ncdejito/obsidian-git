@@ -3,7 +3,7 @@ Pick a [[Dream job]]
 [[Find a job]]
 [[Apply for a job]]
 [[Do your job]]
-[[Get promoted]]
+[[Level up]]
 [[Quit]]
 [[Build a career]]
 

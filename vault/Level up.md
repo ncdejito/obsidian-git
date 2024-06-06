@@ -1,3 +1,4 @@
+Mastery requires Feedback, Reflection, and Iteration.
 
 https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 

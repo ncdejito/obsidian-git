@@ -13,3 +13,5 @@ Soybeans, mould
 48h
 Boil mix then leave overnight
 https://youtu.be/OxG_S0Q-bAg?si=QAGYkvrXeQ0y3en9
+
+King oyster mushroom - looks like pulled pork
