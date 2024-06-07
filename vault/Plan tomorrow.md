@@ -1,4 +1,9 @@
-Output: Updated gcal events from [[Tasks]]
+Output: Updated gcal events from [[Deliverables]]
+
+Satisficing
+Ship daily
+1% improvement
+Helped someone else
 
 Timebox to 30m
 

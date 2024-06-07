@@ -20,6 +20,11 @@ Run compiler first before building the binary - clang your_file.cpp -fsyntax-onl
 CMakeLists.txt
 > defines instructions, source files and target executables in compiling c++ code
 
+If long errors, probably a template error
+
 SConscript
 
 onlinegdb
+
+Distribute compile across machines
+github:icecc/icecream

@@ -2,6 +2,7 @@
 
 [[Pointers]]
 [[Move semantics]]
+[[Copy semantics]]
 
 ## Concepts
 Stack vs Heap Memory Allocation

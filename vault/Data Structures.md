@@ -37,7 +37,7 @@ if (arr.empty())
 }
 ```
 [source](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
-
+G
 ## Hashmap
 - process of transforming any given key or a string of characters into another value (dictionary = hash map = hash table)
 ```

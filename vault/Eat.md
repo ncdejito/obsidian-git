@@ -3,6 +3,7 @@
 
 [[Cook vegetables]]
 [[Cook vegan meat]]
+[[Cook meat]]
 Buy preprocessed vegan
 
 Diet

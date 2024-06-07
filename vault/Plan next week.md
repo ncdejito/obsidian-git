@@ -1,4 +1,4 @@
-Output: Gcal entries for next week populated with critical [[Tasks]] from [[Projects]]
+Output: Gcal entries for next week populated with critical [[Deliverables]] from [[Projects]]
 Label target weekday on Airtable
 Delete done tasks on Airtable
 

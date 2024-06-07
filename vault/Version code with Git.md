@@ -1,4 +1,5 @@
 Always git stash - so with accidental git clean, can still recover
+Combine multiple stashes - add first
 
 git pull specific branch
 ```
@@ -43,6 +44,9 @@ ssh -T git@github.com
 # for each repo you push to, 
 git remote set-url origin git@github.com:ncdejito/repo
 ```
+
+Revert your changes - a diff the exact opposite of the changes
+git revert hash
 
 revert back 1 commit
 ```

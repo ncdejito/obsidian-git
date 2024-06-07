@@ -18,6 +18,9 @@ sudo vim /etc/gnome/defaults.list
 # replace application/csv,text/commaseparated,text/csv default with _csv
 ```
 
+#fix Close left hand screen auth stuck
+[20.04 - Can't close Authentication Required window after login - Ask Ubuntu](https://askubuntu.com/questions/1291732/cant-close-authentication-required-window-after-login/1291922#1291922)
+
 rotate display
 ```
 xrandr -o left

@@ -1,4 +1,5 @@
-[Current tasks](https://airtable.com/appwlcA0RJTWZ394q/tblEdXyTIiuRLvnFt/viw7q0rk1gZe6I6Nt?blocks=hide)
+[Current deliverables](https://airtable.com/appwlcA0RJTWZ394q/tblEdXyTIiuRLvnFt/viw7q0rk1gZe6I6Nt?blocks=hide)
+(Previously Tasks)
 Smallest unit of work
 ~2.5hrs
 When finishing the end, list down immediate next step for next session
@@ -10,6 +11,10 @@ Quest log
 Kanban effective  
 Dopamine  
 Getting things done  
+
+My Insight
+Plan deliverables, not tasks
+- be output based, not process focused (leads to more time)
 
 Time estimating 
 ™

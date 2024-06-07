@@ -9,5 +9,8 @@ Drone control software
 Survey on drone autonomy navigation
 https://www.mdpi.com/2504-446X/5/2/52
 
+Aerial swarm
+https://www.linkedin.com/posts/knmcguire_aerial-swarm-tools-and-applications-activity-7201498630275391488-Yz8D?utm_source=share&utm_medium=member_android
+
 Small projects
 https://www.linkedin.com/posts/activity-7197883486412652544-1Aye?utm_source=share&utm_medium=member_android

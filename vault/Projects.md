@@ -12,7 +12,7 @@ Output: Scope of Work
 Definition
 Initiatives that get you closer to [[Goals]]
 Can be divided into [[Key results]] 
-Consists of multiple [[Tasks]] over a long period
+Consists of multiple [[Deliverables]] over a long period
 Accomplishable in a defined period, not a recurring set of tasks like [[Habits]]
 
 References

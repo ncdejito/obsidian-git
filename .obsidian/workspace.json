@@ -11,8 +11,13 @@
             "id": "6ae30ae39c4e06b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vault/Plan tomorrow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vault/Plan tomorrow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vault/Plan tomorrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vault/Plan tomorrow.md"
+              }
             }
           },
           {
@@ -167,6 +176,24 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/System Design.md",
+    "vault/Plan ahead.md",
+    "vault/Plan next month.md",
+    "vault/Plan next week.md",
+    "vault/Plan tomorrow.md",
+    "vault/Plan next quarter.md",
+    "vault/Reflect on last month.md",
+    "vault/Reflect.md",
+    "vault/Reflect on today.md",
+    "vault/Reflect on last week.md",
+    "vault/The Law of Reversed Effort.md",
+    "vault/Cook meat.md",
+    "Stress.md",
+    "Ros2 control.md",
+    "C++ specifiers.md",
+    "vault/C++ Idioms.md",
+    "Copy semantics.md",
+    "vault/Deliverables.md",
     "vault/Assess your ability.md",
     "vault/Level up.md",
     "vault/Pointers.md",
@@ -174,24 +201,6 @@
     "vault/C++.md",
     "vault/Robotics Engineering.md",
     "vault/How to learn (Learning).md",
-    "Vision-Language Modelling.md",
-    "vault/Electronics Engineering.md",
-    "vault/Mechanical Engineering.md",
-    "vault/Robotics Software Engineering.md",
-    "vault/Perception.md",
-    "vault/Behaviors.md",
-    "vault/Reinforcement Learning.md",
-    "vault/Motion Planning.md",
-    "vault/Mapping.md",
-    "vault/Localization.md",
-    "vault/Apply SLAM.md",
-    "vault/Embodied AI (Robotics + AI).md",
-    "vault/Navigation.md",
-    "vault/Math.md",
-    "vault/Probability.md",
-    "vault/Control Systems.md",
-    "vault/Design the robot body.md",
-    "vault/new note.md",
-    "START.md"
+    "Vision-Language Modelling.md"
   ]
 }

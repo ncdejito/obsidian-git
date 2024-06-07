@@ -2,7 +2,7 @@
 Clarity is what creates motivation.
 [[Identity]]
 [[Habits]]
-[[Tasks]]
+[[Deliverables]]
 Responsibilities - a long-term commitment requiring ongoing attention
 [[Projects]] - short term efforts
 [[Key results]] - within my control

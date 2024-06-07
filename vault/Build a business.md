@@ -1,18 +1,19 @@
 Are you up to the Herculean task of building enduring businesses?
 
 1. [[Find a problem]]
-2. [[Explore Business Ideas]]
-3. Test your idea [[Evaluate your business idea]]
-7. Prototype small version of product [[Build a product (MVP)]]
-9. [[Find a Market (Marketing)]]
-10. [[Sell]]
-11. Improve your product
-12. [[Build a moat]]
-13. Track your progress with [[KPIs]]
-14. If it sells, Scale your Business [[Automate using GenerativeAI]]
-15. Get [[Funding]]
-16. [[Use tested Business Model]]
-17. [[Build a company]]
+2. Check the demand with small experiments
+3. [[Explore Business Ideas]]
+4. Test your idea [[Evaluate your business idea]]
+5. Prototype small version of product [[Build a product (MVP)]]
+6. [[Find a Market (Marketing)]]
+7. [[Sell]]
+8. Improve your product
+9. [[Build a moat]]
+10. Track your progress with [[KPIs]]
+11. If it sells, Scale your Business [[Automate using GenerativeAI]]
+12. Get [[Funding]]
+13. [[Use tested Business Model]]
+14. [[Build a company]]
 
 Lean startup
 

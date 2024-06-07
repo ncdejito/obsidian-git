@@ -42,6 +42,10 @@ Query replicated database
 * Channels - typed conduit through which you can send and receive values
 * Mutex - mutual exclusion, only one goroutine can access a variable at a time to avoid conflicts
 
+Software made with go
+Docker
+Mqtt
+
 References
 distributed systems from the ground up! (Go) https://www.oreilly.com/library/view/cloud-native-go/9781492076322/
 distributed services with go - https://pragprog.com/titles/tjgo/distributed-services-with-go/

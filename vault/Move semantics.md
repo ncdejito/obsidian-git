@@ -2,6 +2,8 @@ Creates efficiency by preventing unnecessary copying of large data
 
 Return value optimization - returning in functions applies as much stdmoves as possible
 
+Copy elision - omit copy and move constructirs resulting in zero-copy passbyvalue semantics
+
 Move constructors
 l-value & - memory location that identifies an object, has a name
 r-value && - data value that is stored at some address in memory, has no name
@@ -27,3 +29,8 @@ Rule of zero c20. If you can avoid defining defaults, do
 Copy semantics
 copy constructor
 > work with the l-value references and copy semantics(copy semantics means copying the actual data of the object to another object rather than making another object to point the already existing object in the heap
+
+Ref
+Back to basics move semantics
+https://youtu.be/St0MNEU5b0o?si=1lDk3WUzDCSCxFWe
+C++ move semantics by josuttis

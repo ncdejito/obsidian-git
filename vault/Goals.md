@@ -7,6 +7,7 @@ Big hairy audacious goals
 
 [[Extrinsic vs Intrinsic Motivation]]
 [[Locus of Control]]
+[[The Law of Reversed Effort]]
 
 ## Best practices
 SMART goals + principles

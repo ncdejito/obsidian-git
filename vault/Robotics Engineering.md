@@ -45,6 +45,9 @@ https://medium.com/swlh/the-evolution-of-intelligence-in-robots-part-1-2ad38a928
 
 [Mobile robotics algorithms UMich](https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F)
 [Beginners Robotics vid](https://www.youtube.com/watch?v=ohcacRG-Ks4)
+
+Robotics projects from Chandandeep
+https://www.linkedin.com/posts/activity-7202600440193028096-3jNI?utm_source=share&utm_medium=member_android
 ## Communities
 hackaday
 instructables

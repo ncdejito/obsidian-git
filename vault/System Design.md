@@ -37,6 +37,7 @@ Distributed file systems - Hadoop FS
 Distributed messaging - activeMQ, rabbitMQ, kafka, amazon sqs
 Distributed Applications
 Distributed Ledgers - bitcoin ethereum
+https://www.linkedin.com/posts/alexandre-zajac_softwareengineering-coding-programming-activity-7204368992558342145-5XNR?utm_source=share&utm_medium=member_desktop
 
 ## Definitions
 Distributed systems - focus on cross-task coordination, communication, synchronization, and failure modes. 
