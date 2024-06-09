@@ -14,6 +14,17 @@ Simple - easy to do in a tiring day
 Constant - resistant to change
 Well laid - distills all collected information from past lives
 
+Principles
+Output based
+Time estimated based on expected step by step to achieve output
+Work occupies only the time that you let it
+
+Sources of joy
+Kanban
+Movable deadlines
+Great feeling of beating deadline
+Paste output on card
+
 Tools  
 [[Airtable]]
 Asana  

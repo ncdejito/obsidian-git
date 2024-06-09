@@ -13,6 +13,19 @@ Keep applying to keep your options open
 
 If youre that unhappy, [[Quit]]
 
+Workday
+5pm cutoff
+1h if stuck ask for help
+
+Cutoff work at 5pm
+Just show up, 
+do as much as you can
+
+If overwhelmed and procrastinating against a deadline: spend the time you allocated, and see if you can make progress
+
+run timer for planned timeblocks no pausing
+On the day itself, run toggl trigger and just show up no matter how inefficient you think youre working
+
 ARTICLE: How to Keep Working When You’re Just Not Feeling It
 1. Design Goals not Chores
 	1. make it concrete

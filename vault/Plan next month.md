@@ -1,4 +1,11 @@
-Output: Choose or create [[Projects]] based on [[Key results]]
+Output: Choose or create [[Projects]]/Commitments based on [[Key results]]
+calendar of deliverables for each project? What if just gcal lel
+
+Concerns:
+What am I doing this month 
+What can I accomodate given my capacity?
+What are realistic milestones I can reach?
+Any tight work days to watch out for?
 
 Timebox to 2h
 
@@ -9,6 +16,5 @@ Milestones
 Output-based
 Deadlined - with reminder, Easy to move deadlines
 Sign of progress - cards
-Great feeling of beating deadline
-Paste output on card
+
 Mobile app ease of use

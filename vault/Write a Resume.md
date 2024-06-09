@@ -1,4 +1,5 @@
-
+Satisficing
+Matching skills
 STAR - situation task action result
 ## Concrete steps
 ATS - converts resume text to data fields

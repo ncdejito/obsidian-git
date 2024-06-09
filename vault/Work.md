@@ -1,5 +1,5 @@
 
-[[Plan tomorrow]]
+[[Plan ahead]]
 
 [[Do your job]]
 [[Think clearly]]

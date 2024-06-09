@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/Apply for a job.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/Apply for a job.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/Apply for a job.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Plan tomorrow.md"
+                "file": "vault/Apply for a job.md"
               }
             }
           },
@@ -176,31 +176,31 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/System Design.md",
-    "vault/Plan ahead.md",
+    "vault/Get a Job.md",
+    "vault/Find a job.md",
+    "vault/Apply abroad.md",
+    "vault/Dream job.md",
+    "vault/Apply for a job.md",
+    "vault/Cover Letter.md",
+    "vault/Write a Resume.md",
+    "vault/Connect with people.md",
+    "vault/Conversations.md",
     "vault/Plan next month.md",
+    "vault/Vision-Language Modelling.md",
+    "vault/Stress.md",
+    "vault/Ros2 control.md",
+    "vault/Copy semantics.md",
+    "vault/C++ specifiers.md",
+    "vault/Plan ahead.md",
     "vault/Plan next week.md",
-    "vault/Plan tomorrow.md",
     "vault/Plan next quarter.md",
+    "vault/Plan tomorrow.md",
+    "vault/Projects.md",
+    "vault/System Design.md",
     "vault/Reflect on last month.md",
     "vault/Reflect.md",
     "vault/Reflect on today.md",
     "vault/Reflect on last week.md",
-    "vault/The Law of Reversed Effort.md",
-    "vault/Cook meat.md",
-    "Stress.md",
-    "Ros2 control.md",
-    "C++ specifiers.md",
-    "vault/C++ Idioms.md",
-    "Copy semantics.md",
-    "vault/Deliverables.md",
-    "vault/Assess your ability.md",
-    "vault/Level up.md",
-    "vault/Pointers.md",
-    "vault/Virtual Memory Management.md",
-    "vault/C++.md",
-    "vault/Robotics Engineering.md",
-    "vault/How to learn (Learning).md",
-    "Vision-Language Modelling.md"
+    "vault/The Law of Reversed Effort.md"
   ]
 }

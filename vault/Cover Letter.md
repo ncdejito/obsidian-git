@@ -1,6 +1,8 @@
 [[Get a Job]]
 
-How to write a cover letter
+Satisficing
+Proof of good fit
+Career objective
 
 From Tito Ico
 
