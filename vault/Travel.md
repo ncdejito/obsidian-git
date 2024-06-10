@@ -3,6 +3,11 @@ Holidays
 Seat sales
 Weather/season
 
+Recharge
+Voluntourism
+Ecotourism
+Support local businesses
+
 Seat sales
 Skyscanner
 Airasia

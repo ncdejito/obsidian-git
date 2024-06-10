@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Apply for a job.md",
+                "file": "vault/Key results.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e20f29b3f300fe55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Reflect on last week.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Apply for a job.md",
+                "file": "vault/Reflect on last week.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Apply for a job.md",
+                "file": "vault/Reflect on last week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Apply for a job.md"
+                "file": "vault/Reflect on last week.md"
               }
             }
           },
@@ -174,15 +188,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ae30ae39c4e06b2",
+  "active": "e20f29b3f300fe55",
   "lastOpenFiles": [
-    "vault/Get a Job.md",
-    "vault/Find a job.md",
-    "vault/Apply abroad.md",
-    "vault/Dream job.md",
+    "vault/Take risks.md",
+    "vault/Decide.md",
     "vault/Apply for a job.md",
     "vault/Cover Letter.md",
     "vault/Write a Resume.md",
+    "vault/Apply abroad.md",
+    "vault/Avoid overthinking.md",
+    "vault/Risk management.md",
+    "vault/Risk-taking.md",
+    "vault/Get a Job.md",
+    "vault/Embodied AI (Robotics + AI).md",
+    "vault/Robot foundation model.md",
+    "vault/KPIs.md",
+    "vault/Plan next quarter.md",
+    "vault/Macroeconomics.md",
+    "vault/Find a job.md",
+    "vault/Dream job.md",
     "vault/Connect with people.md",
     "vault/Conversations.md",
     "vault/Plan next month.md",
@@ -191,16 +215,6 @@
     "vault/Ros2 control.md",
     "vault/Copy semantics.md",
     "vault/C++ specifiers.md",
-    "vault/Plan ahead.md",
-    "vault/Plan next week.md",
-    "vault/Plan next quarter.md",
-    "vault/Plan tomorrow.md",
-    "vault/Projects.md",
-    "vault/System Design.md",
-    "vault/Reflect on last month.md",
-    "vault/Reflect.md",
-    "vault/Reflect on today.md",
-    "vault/Reflect on last week.md",
-    "vault/The Law of Reversed Effort.md"
+    "vault/Plan ahead.md"
   ]
 }

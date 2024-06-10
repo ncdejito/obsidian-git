@@ -29,6 +29,8 @@ Visual odometry and slam survey
 [https://github.com/klintan/vo-survey](https://github.com/klintan/vo-survey)
 [VSLAM by Macenski](https://arxiv.org/pdf/2107.07589.pdf) 
 https://www.linkedin.com/posts/dharun-kumar20_pythonprogramming-robotics-mobilerobots-activity-7151294203119996928-asDK?utm_source=share&utm_medium=member_desktop
+Vslam by ieee will be full by 2025
+https://www.ieee-ras.org/publications/t-ro/special-issues/visual-slam
 
 Basic SLAM camera concepts
 https://www.kudan.io/blog/camera-basics-visual-slam/

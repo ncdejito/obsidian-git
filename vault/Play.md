@@ -1,6 +1,7 @@
 You only live once
 
 Hobbies
+[[Travel]]
 [[Cook vegetables]]
 [[Give a great Massage]]
 Learn a [[Language]]

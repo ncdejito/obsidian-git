@@ -41,14 +41,14 @@ Simple: # of people interacted with this week # of well-received added value to 
 1 warm social interaction - made someone feel listened to
 Conversation turns per session chatbot
 
-How do companies track this numerically?
-SWE metrics
-VC metrics
 
-Locus of control: Internal vs External
+[[Locus of Control]]
 
 
 References
+How do companies track this numerically?
+SWE metrics
+VC metrics
 **[Measures of engineering impact. | Irrational Exuberance](https://lethain.com/measures-of-engineering-impact/)**
 Delivery robot metric - Miles per disengagement
 

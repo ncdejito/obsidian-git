@@ -4,7 +4,7 @@ Finalize in Goals gdoc first then put to Airtable
 Timebox planning to 30m
 
 Fulfills needs to keep going and not change course:
-Uniqueness Frontiers
-Impact product
-Clarity acceptance criteria, timebox
+Uniqueness - Frontiers, indispensability
+Impact - product
+Clarity - acceptance criteria, timebox
 Harmony

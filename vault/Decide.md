@@ -1,6 +1,7 @@
 [[Think clearly]]
 [[Avoid overthinking]]
 [[Avoid peer pressure]]
+[[Take risks]]
 
 [5 variables in every situation](https://www.linkedin.com/posts/romeen-sheth-07494427_every-situation-comes-down-to-5-variables-activity-7147942854600904705-uL3R?utm_source=share&utm_medium=member_android)
 Incentives
@@ -16,11 +17,6 @@ best-worst case scenarios,
 rough probability, 
 backup plan a to c
 Eisenhower Decision Matrix
-
-Criteria for taking risks
-High success rate
-Aligns with long term vision
-Unlimited upside
 
 Deciding to do something
 Simplest most important question: Will it make you happy? What makes you think so?
