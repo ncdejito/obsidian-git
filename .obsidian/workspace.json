@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Reflect on last week.md",
+                "file": "vault/Scope a project.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Reflect on last week.md",
+                "file": "vault/Scope a project.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Reflect on last week.md",
+                "file": "vault/Scope a project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Reflect on last week.md"
+                "file": "vault/Scope a project.md"
               }
             }
           },
@@ -190,6 +190,9 @@
   },
   "active": "e20f29b3f300fe55",
   "lastOpenFiles": [
+    "vault/Reflect on last week.md",
+    "vault/Productivity.md",
+    "vault/Hormones.md",
     "vault/Take risks.md",
     "vault/Decide.md",
     "vault/Apply for a job.md",
@@ -212,9 +215,6 @@
     "vault/Plan next month.md",
     "vault/Vision-Language Modelling.md",
     "vault/Stress.md",
-    "vault/Ros2 control.md",
-    "vault/Copy semantics.md",
-    "vault/C++ specifiers.md",
-    "vault/Plan ahead.md"
+    "vault/Ros2 control.md"
   ]
 }

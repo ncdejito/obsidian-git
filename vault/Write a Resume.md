@@ -1,6 +1,9 @@
 Satisficing
 Matching skills
 STAR - situation task action result
+
+Source of joy
+Recognize how previous experience might help other people
 ## Concrete steps
 ATS - converts resume text to data fields
 Increasing your match score

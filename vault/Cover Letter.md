@@ -4,6 +4,9 @@ Satisficing
 Proof of good fit
 Career objective
 
+Source of joy
+Developing relationships with strangers
+
 From Tito Ico
 
 Sino ka ba?

@@ -44,5 +44,8 @@ The Flow
 - [[Deal with uncertainty]]
 - [[Handle moments of crisis]]
 [[Stress]]
+
+[[Hormones]]
+
 References
 Emotional Intelligence by Daniel Goleman

@@ -37,6 +37,7 @@ This cycle of interaction, feedback, and learning allows the agent to discover t
 [Introduction by David Silver](https://youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&si=_v95K7g6UCToQ2eX)
 
 Introduction to RL by Sutton and Barto - seminal work
+[RLbook2020.pdf (incompleteideas.net)](http://incompleteideas.net/book/RLbook2020.pdf)
 
 Rl baselines
 https://github.com/DLR-RM/stable-baselines3
