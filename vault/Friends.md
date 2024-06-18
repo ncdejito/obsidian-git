@@ -1,5 +1,5 @@
 Talk about interests
-Keep in touch
+[[Keep in touch with Friends]]
 
 Guidelines
 Part Two Six Ways To Make People Like You

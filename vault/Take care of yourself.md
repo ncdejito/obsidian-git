@@ -11,5 +11,5 @@ Wealth
 - [[Rewards]]
 
 Good relationships
-- [[Connect with people]]
+- [[Connect with people (Relationships)]]
 

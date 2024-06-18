@@ -6,6 +6,7 @@
 * [[Assess compute requirements]]
 * [[Draw Circuit Diagram]]
 * [[Select Single-Board Computer]]
+* [[Select GPU]]
 * [[Select Microcontroller]]
 * [[Select Regulator]]
 

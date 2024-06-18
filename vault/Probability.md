@@ -26,3 +26,7 @@ Does not imply marginal independence
 Normal distribution
 Gaussian Mixture - multi-modal, combination of multiple normal distributions
 Summary - probability theory is essential tool to solve state estimation, used for recursive bayes filter
+
+References
+Probability statistics 110 by harvard
+http://youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo

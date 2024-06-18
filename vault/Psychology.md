@@ -12,6 +12,7 @@ Thinking Fast and Slow
 [[Imposter syndrome]]
 [[Victim mentality]]
 [[Inferiority complex]]
+[[Fear of missing out FOMO]]
 
 [[Neuro-Linguistic Programming]]
 [[Self-Determination Theory]]

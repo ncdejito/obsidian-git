@@ -1,7 +1,7 @@
 
 Problems
 * [[Apply Sensor fusion]]
-* Depth estimation
+* [[Depth estimation]]
 * Freespace detection
 * [[Computer Vision]]
 

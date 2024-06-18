@@ -8,6 +8,8 @@ Treat as if every second counts when you talk to them
 [[Work meetings]]
 [[Push back on more work]]
 
+[[Keep in touch with Colleagues]]
+
 Relationships at Work Adam Grant
 Power, trust
 Power is dynamic, shifting between parties

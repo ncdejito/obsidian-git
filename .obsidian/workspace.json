@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Scope a project.md",
+                "file": "vault/Fear of missing out FOMO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -88,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Scope a project.md",
+                "file": "vault/Fear of missing out FOMO.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Scope a project.md",
+                "file": "vault/Fear of missing out FOMO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Scope a project.md"
+                "file": "vault/Fear of missing out FOMO.md"
               }
             }
           },
@@ -190,7 +189,20 @@
   },
   "active": "e20f29b3f300fe55",
   "lastOpenFiles": [
+    "vault/Psychology.md",
+    "vault/Fear of missing out FOMO.md",
     "vault/Reflect on last week.md",
+    "vault/Depth estimation.md",
+    "vault/KPIs.md",
+    "vault/Select GPU.md",
+    "vault/Electronics Engineering.md",
+    "vault/Select Single-Board Computer.md",
+    "vault/Accounting.md",
+    "vault/Keep in touch with Colleagues.md",
+    "vault/Keep in touch with Friends.md",
+    "vault/Connect with people (Relationships).md",
+    "vault/Scope a project.md",
+    "vault/Code generation.md",
     "vault/Productivity.md",
     "vault/Hormones.md",
     "vault/Take risks.md",
@@ -202,19 +214,6 @@
     "vault/Avoid overthinking.md",
     "vault/Risk management.md",
     "vault/Risk-taking.md",
-    "vault/Get a Job.md",
-    "vault/Embodied AI (Robotics + AI).md",
-    "vault/Robot foundation model.md",
-    "vault/KPIs.md",
-    "vault/Plan next quarter.md",
-    "vault/Macroeconomics.md",
-    "vault/Find a job.md",
-    "vault/Dream job.md",
-    "vault/Connect with people.md",
-    "vault/Conversations.md",
-    "vault/Plan next month.md",
-    "vault/Vision-Language Modelling.md",
-    "vault/Stress.md",
-    "vault/Ros2 control.md"
+    "vault/Get a Job.md"
   ]
 }

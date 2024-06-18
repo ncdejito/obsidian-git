@@ -21,3 +21,6 @@ entrepreneurconnect
 startupnation
 partnerup
 biznik
+
+Linkedin contents what it should look like
+https://www.linkedin.com/posts/marvinsangines_b2bcontent-contentengine-personalbranding-activity-7206596788135378946-84Tt?utm_source=share&utm_medium=member_android

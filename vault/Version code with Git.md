@@ -174,6 +174,13 @@ git fsck && git gc --prune=now
 
 (note) useful lfs (Large File Storage) commands: "git lfs status"; "git lfs ls-files", "git lfs env"; "git lfs track/untrack "file.ext"", "git lfs prune" (use "git config --global lfs.pruneverifyremotealways true" for making sure pruning deletes files still present on server), see also "git lfs help".
 
+#fix
+fatal: loose object
+https://stackoverflow.com/a/40098509
+
+#fix
+error: Couldn't look up commit object for
+
 ## Github alternatives
 
 [The Git Rebase Handbook – A Definitive Guide to Rebasing (freecodecamp.org)](https://www.freecodecamp.org/news/git-rebase-handbook/)
