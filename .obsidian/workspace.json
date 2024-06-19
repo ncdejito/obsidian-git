@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Key results.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e20f29b3f300fe55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vault/Fear of missing out FOMO.md",
+                "file": "vault/Raspberry Pi (RPi).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Fear of missing out FOMO.md",
+                "file": "vault/Raspberry Pi (RPi).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Fear of missing out FOMO.md",
+                "file": "vault/Raspberry Pi (RPi).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Fear of missing out FOMO.md"
+                "file": "vault/Raspberry Pi (RPi).md"
               }
             }
           },
@@ -187,10 +173,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e20f29b3f300fe55",
+  "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
-    "vault/Psychology.md",
+    "vault/Key results.md",
+    "vault/Get data.md",
+    "vault/C++.md",
+    "vault/Program in Functional.md",
+    "vault/Localization.md",
+    "vault/Prepare for job interview.md",
+    "vault/Poetry.md",
+    "vault/Use Python.md",
     "vault/Fear of missing out FOMO.md",
+    "vault/Psychology.md",
     "vault/Reflect on last week.md",
     "vault/Depth estimation.md",
     "vault/KPIs.md",
@@ -206,14 +200,6 @@
     "vault/Productivity.md",
     "vault/Hormones.md",
     "vault/Take risks.md",
-    "vault/Decide.md",
-    "vault/Apply for a job.md",
-    "vault/Cover Letter.md",
-    "vault/Write a Resume.md",
-    "vault/Apply abroad.md",
-    "vault/Avoid overthinking.md",
-    "vault/Risk management.md",
-    "vault/Risk-taking.md",
-    "vault/Get a Job.md"
+    "vault/Decide.md"
   ]
 }

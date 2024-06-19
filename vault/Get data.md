@@ -1,6 +1,8 @@
 [[Data Analysis]]
 
-Web scraping
+Web scraping - beautiful soup, selenium
+LLM for creating scrape pipelines for websites
+https://www.linkedin.com/posts/dat-tran-a1602320_scrapegraphai-you-only-scrape-once-activity-7209116059583283202-jPYM?utm_source=share&utm_medium=member_desktop
 
 Download from gdrive using
 
