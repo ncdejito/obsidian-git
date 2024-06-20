@@ -5,6 +5,7 @@ Doing, Done, Todo, Blockers
 
 Feelings
 - How are you feeling?
+- what good thing are you grateful for today?
 - What made you come alive today?
 - How did you 1% improve today?
 - Is it world class?

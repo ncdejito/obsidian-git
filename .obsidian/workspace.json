@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Raspberry Pi (RPi).md",
+                "file": "vault/Poetry.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Raspberry Pi (RPi).md",
+                "file": "vault/Poetry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Raspberry Pi (RPi).md",
+                "file": "vault/Poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Raspberry Pi (RPi).md"
+                "file": "vault/Poetry.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/Linux.md",
+    "vault/Raspberry Pi (RPi).md",
     "vault/Key results.md",
     "vault/Get data.md",
     "vault/C++.md",
@@ -198,8 +200,6 @@
     "vault/Scope a project.md",
     "vault/Code generation.md",
     "vault/Productivity.md",
-    "vault/Hormones.md",
-    "vault/Take risks.md",
-    "vault/Decide.md"
+    "vault/Hormones.md"
   ]
 }

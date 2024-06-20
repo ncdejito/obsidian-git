@@ -25,6 +25,8 @@ used for implementing distributed event handling systems
 provides a way to access the elements of an aggregate object without exposing its underlying representation e.g. if your dataset changed from list to tree, e.g. commits in ros data structure change for efficiency
 decouples data iteration e.g. for loop if list, from algorithms
 
+Model-view-viewmodel - rostopic
+Wi
 Resources
 Head First Design Patterns (book)
 patterns in distributed systems - https://martinfowler.com/articles/patterns-of-distributed-systems/
