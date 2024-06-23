@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Poetry.md",
+                "file": "vault/Use Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Poetry.md",
+                "file": "vault/Use Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Poetry.md",
+                "file": "vault/Use Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Poetry.md"
+                "file": "vault/Use Python.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/Poetry.md",
     "vault/Linux.md",
     "vault/Raspberry Pi (RPi).md",
     "vault/Key results.md",
@@ -183,7 +184,6 @@
     "vault/Program in Functional.md",
     "vault/Localization.md",
     "vault/Prepare for job interview.md",
-    "vault/Poetry.md",
     "vault/Use Python.md",
     "vault/Fear of missing out FOMO.md",
     "vault/Psychology.md",
