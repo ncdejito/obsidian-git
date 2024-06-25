@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/Reflect on last week.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/Reflect on last week.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "vault/Reflect on last week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use Python.md"
+                "file": "vault/Reflect on last week.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "6ae30ae39c4e06b2",
   "lastOpenFiles": [
+    "vault/Use Python.md",
     "vault/Poetry.md",
     "vault/Linux.md",
     "vault/Raspberry Pi (RPi).md",
@@ -184,7 +185,6 @@
     "vault/Program in Functional.md",
     "vault/Localization.md",
     "vault/Prepare for job interview.md",
-    "vault/Use Python.md",
     "vault/Fear of missing out FOMO.md",
     "vault/Psychology.md",
     "vault/Reflect on last week.md",

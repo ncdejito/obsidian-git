@@ -26,7 +26,8 @@ provides a way to access the elements of an aggregate object without exposing it
 decouples data iteration e.g. for loop if list, from algorithms
 
 Model-view-viewmodel - rostopic
-Wi
+Wiki software design patterns
+
 Resources
 Head First Design Patterns (book)
 patterns in distributed systems - https://martinfowler.com/articles/patterns-of-distributed-systems/
