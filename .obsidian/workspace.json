@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Reflect on last week.md",
+                "file": "vault/Use Docker.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e39bef5b41441aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Use Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "openpcl",
+                "query": "whitespace",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Reflect on last week.md",
+                "file": "vault/Use Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Reflect on last week.md",
+                "file": "vault/Use Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Reflect on last week.md"
+                "file": "vault/Use Python.md"
               }
             }
           },
@@ -173,9 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ae30ae39c4e06b2",
+  "active": "e39bef5b41441aff",
   "lastOpenFiles": [
     "vault/Use Python.md",
+    "vault/Version code with Git.md",
+    "vault/Reflect on last week.md",
     "vault/Poetry.md",
     "vault/Linux.md",
     "vault/Raspberry Pi (RPi).md",
@@ -187,7 +204,6 @@
     "vault/Prepare for job interview.md",
     "vault/Fear of missing out FOMO.md",
     "vault/Psychology.md",
-    "vault/Reflect on last week.md",
     "vault/Depth estimation.md",
     "vault/KPIs.md",
     "vault/Select GPU.md",
@@ -199,7 +215,6 @@
     "vault/Connect with people (Relationships).md",
     "vault/Scope a project.md",
     "vault/Code generation.md",
-    "vault/Productivity.md",
-    "vault/Hormones.md"
+    "vault/Productivity.md"
   ]
 }
