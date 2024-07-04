@@ -4,22 +4,6 @@ STAR - situation task action result
 
 Source of joy
 Recognize how previous experience might help other people
-## Concrete steps
-ATS - converts resume text to data fields
-Increasing your match score
-1. keywords - tech hard skills
-1. titles - job titles
-1. degree
-1. resume formatting
-
-Formatting to avoid for the ATS
-1. tables and columns
-1. header and footer
-1. complicated section titles
-summary
-key skills
-professional experience
-
 ## Principles
 Fundamentals of an awesome resume
 1. it's a marketing document, not your autobiography - dont list everything down, what will convince them to invite you for an interview
@@ -38,6 +22,23 @@ How to write a resume by me
 - Be honest about your capability using [[Assess your ability]]
 
 Technical challenges faced and technologies used for solving - chip huyen post
+
+## Concrete steps
+ATS - converts resume text to data fields
+Increasing your match score
+1. keywords - tech hard skills
+1. titles - job titles
+1. degree
+1. resume formatting
+
+Formatting to avoid for the ATS
+1. tables and columns
+1. header and footer
+1. complicated section titles
+summary
+key skills
+professional experience
+
 ## Tools
 Use [[Using LLMs ChatGPT]]
 [tips](https://www.linkedin.com/posts/brandonturp_how-to-land-your-dream-job-with-chatgpt-ugcPost-7038513771991953408-3aO-?utm_source=share&utm_medium=member_desktop)

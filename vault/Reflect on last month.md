@@ -17,8 +17,6 @@ Sahil Bloom’s review (spend 1-2mins each question)
 	- Are my current systems and habits aligned with my most important thing?
 	- What is creating a drag on my progress right now?
 - Adjust
-    
-
 - What are the energy creating activities I need to spend more time on? How can I carve out more time for these activities?
     
 - What are the energy-draining activities I need to delegate, delete, or minimize? How can I execute against that?

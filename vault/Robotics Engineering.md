@@ -19,7 +19,7 @@ A robot is machine that can (sense-think-act)
 All known robots https://robotsguide.com/
 [[Open source robots]]
 Wheeled Robots
-[Humanoid robots](https://www.linkedin.com/posts/philip-justinus-berlin-614654161_as-were-coasting-into-the-winter-holidays-activity-7143568808849448963-1of8?utm_source=share&utm_medium=member_android)
+[[Humanoid robots]]
 Robot arms - [PR2 Design files](https://clearpathrobotics.com/pr2-resources-2/)
 Legged Robotics - [yertle](https://github.com/Jerome-Graves/yertle), PetoiOne
 Marine Robotics - [ROS Marine Vehicle Packages](https://discourse.ros.org/t/release-of-ros-mvp/29367)

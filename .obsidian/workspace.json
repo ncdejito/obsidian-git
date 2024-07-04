@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Poetry.md",
+                "file": "vault/Write a Resume.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Poetry.md",
+                "file": "vault/Write a Resume.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Poetry.md",
+                "file": "vault/Write a Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Poetry.md"
+                "file": "vault/Write a Resume.md"
               }
             }
           },
@@ -190,10 +190,14 @@
   },
   "active": "e39bef5b41441aff",
   "lastOpenFiles": [
+    "vault/Cover Letter.md",
+    "vault/Write a Resume.md",
+    "vault/Poetry.md",
+    "vault/Humanoid robots.md",
+    "vault/Mcap.md",
     "vault/Use Python.md",
     "vault/Version code with Git.md",
     "vault/Reflect on last week.md",
-    "vault/Poetry.md",
     "vault/Linux.md",
     "vault/Raspberry Pi (RPi).md",
     "vault/Key results.md",
@@ -211,10 +215,6 @@
     "vault/Select Single-Board Computer.md",
     "vault/Accounting.md",
     "vault/Keep in touch with Colleagues.md",
-    "vault/Keep in touch with Friends.md",
-    "vault/Connect with people (Relationships).md",
-    "vault/Scope a project.md",
-    "vault/Code generation.md",
-    "vault/Productivity.md"
+    "vault/Keep in touch with Friends.md"
   ]
 }
