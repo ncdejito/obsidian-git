@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Buddhism.md",
+                "file": "vault/Model quantization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Buddhism.md",
+                "file": "vault/Model quantization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Buddhism.md",
+                "file": "vault/Model quantization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Buddhism.md"
+                "file": "vault/Model quantization.md"
               }
             }
           },
@@ -174,8 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12c7ab0a01470f0",
+  "active": "e39bef5b41441aff",
   "lastOpenFiles": [
+    "vault/Linux.md",
+    "vault/Model quantization.md",
+    "vault/Reflect on last month.md",
+    "vault/Reflect.md",
+    "vault/Rewards.md",
+    "vault/Reflect on last week.md",
+    "vault/Reflect on today.md",
+    "vault/Cook meat.md",
+    "vault/Buddhism.md",
     "vault/Fear of missing out FOMO.md",
     "vault/Text-to-Speech.md",
     "vault/Write a Resume.md",
@@ -185,8 +194,6 @@
     "vault/Mcap.md",
     "vault/Use Python.md",
     "vault/Version code with Git.md",
-    "vault/Reflect on last week.md",
-    "vault/Linux.md",
     "vault/Raspberry Pi (RPi).md",
     "vault/Key results.md",
     "vault/Get data.md",
@@ -194,13 +201,6 @@
     "vault/Program in Functional.md",
     "vault/Localization.md",
     "vault/Prepare for job interview.md",
-    "vault/Psychology.md",
-    "vault/Depth estimation.md",
-    "vault/KPIs.md",
-    "vault/Select GPU.md",
-    "vault/Electronics Engineering.md",
-    "vault/Select Single-Board Computer.md",
-    "vault/Accounting.md",
-    "vault/Keep in touch with Colleagues.md"
+    "vault/Psychology.md"
   ]
 }

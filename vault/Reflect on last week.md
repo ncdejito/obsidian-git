@@ -1,6 +1,5 @@
-Update at Key Results on Airtable
-Delete Done tasks on Airtable
 
+Why:
 Address sunday night anxiety
 
 Check time spent last week on Toggl
@@ -12,4 +11,7 @@ Wins - [[KPIs]] list done tasks here
 Learnings
 Feelings
 - Gratitude   
-- Needs: clarity, impact, originality, harmony
+- Missing needs? clarity, impact, originality, harmony
+Goals
+* Update at Key Results on Airtable
+* Delete Done tasks on Airtable

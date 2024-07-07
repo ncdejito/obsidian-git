@@ -1,5 +1,8 @@
 You only live once
 
+Guiding principle
+Main motivation is enjoyment in and of itself, not external motivation (be honest)
+
 Hobbies
 [[Travel]]
 [[Cook vegetables]]

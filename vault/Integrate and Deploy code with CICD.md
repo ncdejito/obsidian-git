@@ -38,6 +38,8 @@ Problem:
 1. Load testing
 1. Deployment
 
+Load testing
+stress command in linux
 ## Way to do it
 make docker
 push to docker registry
