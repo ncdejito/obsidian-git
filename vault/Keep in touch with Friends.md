@@ -1,4 +1,3 @@
-
 Just say hi! 
 Comment on how quickly time flies 
 Recall your happy moments together  

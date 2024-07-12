@@ -1,5 +1,7 @@
 [[Building Large Language Models LLM]]
 
+[[Graph RAG]]
+
 Golden RAGtriever
 https://github.com/weaviate/Verba
 

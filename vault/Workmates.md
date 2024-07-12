@@ -7,6 +7,7 @@ Treat as if every second counts when you talk to them
 [[Make slides]]
 [[Work meetings]]
 [[Push back on more work]]
+[[Say sorry less]]
 
 [[Keep in touch with Colleagues]]
 

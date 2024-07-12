@@ -1,0 +1,1 @@
+https://www.linkedin.com/posts/donnellychris_the-average-person-says-im-sorry-8-10-activity-7215323868498948096-w1nM?utm_source=share&utm_medium=member_android

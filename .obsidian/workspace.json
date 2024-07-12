@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Model quantization.md",
+                "file": "vault/Cover Letter.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Model quantization.md",
+                "file": "vault/Cover Letter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Model quantization.md",
+                "file": "vault/Cover Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Model quantization.md"
+                "file": "vault/Cover Letter.md"
               }
             }
           },
@@ -176,8 +176,12 @@
   },
   "active": "e39bef5b41441aff",
   "lastOpenFiles": [
-    "vault/Linux.md",
+    "vault/Retrieval Augmented Generation RAG.md",
+    "vault/Graph RAG.md",
+    "vault/Cover Letter.md",
+    "vault/Say sorry less.md",
     "vault/Model quantization.md",
+    "vault/Linux.md",
     "vault/Reflect on last month.md",
     "vault/Reflect.md",
     "vault/Rewards.md",
@@ -188,7 +192,6 @@
     "vault/Fear of missing out FOMO.md",
     "vault/Text-to-Speech.md",
     "vault/Write a Resume.md",
-    "vault/Cover Letter.md",
     "vault/Poetry.md",
     "vault/Humanoid robots.md",
     "vault/Mcap.md",
@@ -198,9 +201,6 @@
     "vault/Key results.md",
     "vault/Get data.md",
     "vault/C++.md",
-    "vault/Program in Functional.md",
-    "vault/Localization.md",
-    "vault/Prepare for job interview.md",
-    "vault/Psychology.md"
+    "vault/Program in Functional.md"
   ]
 }
