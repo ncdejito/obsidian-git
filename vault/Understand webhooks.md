@@ -1,1 +1,0 @@
-automated messages sent from apps when something happens

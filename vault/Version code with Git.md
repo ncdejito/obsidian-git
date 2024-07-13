@@ -179,6 +179,10 @@ fatal: loose object
 https://stackoverflow.com/a/40098509
 
 #fix
+fatal: bad object
+git fetch
+
+#fix
 error: Couldn't look up commit object for
 
 ## Github alternatives

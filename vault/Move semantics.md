@@ -9,6 +9,10 @@ l-value & - memory location that identifies an object, has a name
 r-value && - data value that is stored at some address in memory, has no name
 xvalue - expiring value v2=stdmovev1; xvalue is stdmovev1
 
+Lvalue reference &
+Rvalue reference &&
+Universal reference - && with type deduction (either template T&& or auto&&)
+
 E.g. 
 s+s=s;
 Left is rvalue, right is lvalue

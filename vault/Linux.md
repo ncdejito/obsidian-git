@@ -114,6 +114,10 @@ screen -d -r 183382 #fix
 ```
 screen -X -S [session # you want to kill] quit
 ```
+
+Scroll up in screen  
+Ctrl a then [
+
 * delete apt repo
 ```
 sudo add-apt-repository --remove https://ppa.hub.org

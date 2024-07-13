@@ -1,5 +1,7 @@
 [[Ubuntu Server on Windows (headless)]]
 
+Add git branch to shell terminal
+https://stackoverflow.com/a/20309062
 ### Software
 Note taking
 * Tasks -> Google Keep
@@ -56,7 +58,6 @@ pip install jupyterlab
 ```
 
 [Increase Virtual Memory](https://thegeekpage.com/increase-ram/) - 1.5 * 1024 * Installed RAM
-
 
 #fix no grub dual boot menu after windows update
 1. plug and boot to Ubuntu USB

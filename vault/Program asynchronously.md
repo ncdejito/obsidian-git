@@ -1,6 +1,6 @@
 
 - Asynchronous programming - [ways to write](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview#asynchronous_programming)
-	* [[Callbacks]] - function passed to a function, triggered once function is done
+	* [[Callback]] - function passed to a function, triggered once function is done
 	* promise - an object that will return a value in future, well-suited for asynchronous operations
 	* async/await
 	

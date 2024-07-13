@@ -6,7 +6,7 @@ Why use it
 How it works 
 * [[Program in Functional]] + Observer pattern
 - an observer subscribes to an Observable. Then that observer reacts to whatever item or sequence of items the Observable emits
-* Composition prevents nested [[Callbacks]]
+* Composition prevents nested [[Callback]]
 
 * C++ observable [code](https://github.com/ddinu/observable)
 

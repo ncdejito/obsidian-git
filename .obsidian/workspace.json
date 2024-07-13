@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Cover Letter.md",
+                "file": "vault/Keep in touch with Colleagues.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fuzzy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Cover Letter.md",
+                "file": "vault/Keep in touch with Colleagues.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Cover Letter.md",
+                "file": "vault/Keep in touch with Colleagues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Cover Letter.md"
+                "file": "vault/Keep in touch with Colleagues.md"
               }
             }
           },
@@ -176,31 +176,31 @@
   },
   "active": "e39bef5b41441aff",
   "lastOpenFiles": [
+    "vault/Connect APIs.md",
+    "vault/FastAPI.md",
+    "vault/Webhook.md",
+    "vault/Callback.md",
+    "vault/Macroeconomics.md",
+    "vault/Economics.md",
+    "vault/Game theory.md",
+    "vault/ROS networking.md",
+    "vault/Subscribe to job boards.md",
+    "vault/Find a job.md",
+    "vault/Get a Job.md",
+    "vault/Workspace.md",
+    "vault/Use Vim.md",
+    "vault/Linux.md",
+    "vault/Version code with Git.md",
+    "vault/Cover Letter.md",
+    "vault/Speech-to-Speech.md",
+    "vault/Influence without Authority.md",
     "vault/Retrieval Augmented Generation RAG.md",
     "vault/Graph RAG.md",
-    "vault/Cover Letter.md",
     "vault/Say sorry less.md",
     "vault/Model quantization.md",
-    "vault/Linux.md",
     "vault/Reflect on last month.md",
     "vault/Reflect.md",
     "vault/Rewards.md",
-    "vault/Reflect on last week.md",
-    "vault/Reflect on today.md",
-    "vault/Cook meat.md",
-    "vault/Buddhism.md",
-    "vault/Fear of missing out FOMO.md",
-    "vault/Text-to-Speech.md",
-    "vault/Write a Resume.md",
-    "vault/Poetry.md",
-    "vault/Humanoid robots.md",
-    "vault/Mcap.md",
-    "vault/Use Python.md",
-    "vault/Version code with Git.md",
-    "vault/Raspberry Pi (RPi).md",
-    "vault/Key results.md",
-    "vault/Get data.md",
-    "vault/C++.md",
-    "vault/Program in Functional.md"
+    "vault/Reflect on last week.md"
   ]
 }
