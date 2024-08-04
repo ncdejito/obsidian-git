@@ -14,6 +14,7 @@ Physical sensors
 * [[Use Odometry]]
 * [[Use Lidar]]
 * [[Use Radar]]
+* [[Use Stereo Camera]]
 
 [Low Cost 3D Workshop](https://lc3d.fbk.eu/)
 

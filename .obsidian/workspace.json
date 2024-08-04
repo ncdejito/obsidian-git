@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Keep in touch with Colleagues.md",
+                "file": "vault/Use Python.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Keep in touch with Colleagues.md",
+                "file": "vault/Use Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Keep in touch with Colleagues.md",
+                "file": "vault/Use Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Keep in touch with Colleagues.md"
+                "file": "vault/Use Python.md"
               }
             }
           },
@@ -176,6 +176,11 @@
   },
   "active": "e39bef5b41441aff",
   "lastOpenFiles": [
+    "vault/Model quantization.md",
+    "vault/Use Stereo Camera.md",
+    "vault/Linux.md",
+    "vault/Use Python.md",
+    "vault/Keep in touch with Colleagues.md",
     "vault/Connect APIs.md",
     "vault/FastAPI.md",
     "vault/Webhook.md",
@@ -189,7 +194,6 @@
     "vault/Get a Job.md",
     "vault/Workspace.md",
     "vault/Use Vim.md",
-    "vault/Linux.md",
     "vault/Version code with Git.md",
     "vault/Cover Letter.md",
     "vault/Speech-to-Speech.md",
@@ -197,10 +201,6 @@
     "vault/Retrieval Augmented Generation RAG.md",
     "vault/Graph RAG.md",
     "vault/Say sorry less.md",
-    "vault/Model quantization.md",
-    "vault/Reflect on last month.md",
-    "vault/Reflect.md",
-    "vault/Rewards.md",
-    "vault/Reflect on last week.md"
+    "vault/Reflect on last month.md"
   ]
 }
