@@ -6,6 +6,9 @@
 [[Duty]]
 [[Time]]
 [[Death]]
+[[Values]]
+[[Discipline]]
+[[Agency]]
 
 [[Philosophy of Technology]]
 

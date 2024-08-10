@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f1bac683eb8a55e",
+        "id": "1b0f5b663f007376",
         "type": "tabs",
         "children": [
           {
-            "id": "e39bef5b41441aff",
+            "id": "4ec83c8b4780ce30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "START.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "START.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Use Python.md",
+                "file": "START.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Use Python.md"
+                "file": "START.md"
               }
             }
           },
@@ -174,33 +173,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e39bef5b41441aff",
+  "active": "4ec83c8b4780ce30",
   "lastOpenFiles": [
-    "vault/Model quantization.md",
-    "vault/Use Stereo Camera.md",
-    "vault/Linux.md",
-    "vault/Use Python.md",
-    "vault/Keep in touch with Colleagues.md",
-    "vault/Connect APIs.md",
-    "vault/FastAPI.md",
-    "vault/Webhook.md",
-    "vault/Callback.md",
-    "vault/Macroeconomics.md",
-    "vault/Economics.md",
-    "vault/Game theory.md",
-    "vault/ROS networking.md",
-    "vault/Subscribe to job boards.md",
+    "vault/Take care of yourself.md",
+    "START.md",
+    "vault/Work.md",
+    "vault/Robotics Software Engineering.md",
+    "vault/Software Engineering.md",
+    "vault/Connect with people (Relationships).md",
+    "vault/Mental health.md",
+    "vault/Write clean code.md",
+    "vault/Play.md",
+    "vault/Study.md",
+    "vault/Physics.md",
+    "vault/Toggl.md",
+    "vault/Open source software.md",
+    "vault/Listen to music.md",
+    "vault/Hobbies.md",
+    "vault/Read news.md",
+    "vault/Zig.md",
+    "vault/Data-driven programming.md",
+    "vault/Zerotier.md",
+    "vault/Goal-oriented action planning GOAP.md",
+    "vault/Understand Behavior Trees.md",
+    "vault/Find a job abroad.md",
     "vault/Find a job.md",
     "vault/Get a Job.md",
-    "vault/Workspace.md",
-    "vault/Use Vim.md",
-    "vault/Version code with Git.md",
-    "vault/Cover Letter.md",
-    "vault/Speech-to-Speech.md",
-    "vault/Influence without Authority.md",
-    "vault/Retrieval Augmented Generation RAG.md",
-    "vault/Graph RAG.md",
-    "vault/Say sorry less.md",
-    "vault/Reflect on last month.md"
+    "vault/Apply for a job.md",
+    "vault/Subscribe to job boards.md"
   ]
 }

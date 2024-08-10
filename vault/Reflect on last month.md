@@ -1,5 +1,4 @@
 
-
 Check [Goals](https://docs.google.com/document/d/1Bv3DdyU3YmP39BH9Fq-5Mt13awPAkwO34UIjzdeF4QA/edit)
 Review [Last month time](https://track.toggl.com/reports/summary/6878663/period/prevMonth)
 Review/Update [Key Results](https://docs.google.com/document/d/1AQkprCU75l3t9k2utay5LLzeVp_UTizBpkGObih4170/edit)

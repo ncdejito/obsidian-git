@@ -1,3 +1,4 @@
+
 There is nothing to find, only to create. - Kurt Vonnegut
 
 Nihilist guide to meaning

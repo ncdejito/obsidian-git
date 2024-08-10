@@ -52,4 +52,7 @@ VC metrics
 **[Measures of engineering impact. | Irrational Exuberance](https://lethain.com/measures-of-engineering-impact/)**
 Delivery robot metric - Miles per disengagement
 
+Business metrics
+https://www.linkedin.com/posts/charlestenot_sometimes-the-simplest-metrics-are-the-most-activity-7224760846839681024-Z8MC?utm_source=share&utm_medium=member_android
+
 How to Measure Anything Drucker

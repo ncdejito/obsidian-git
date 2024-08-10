@@ -1,6 +1,7 @@
 Link to reading list
 
 [[How to learn (Learning)]]
+[[Read news]]
 
 * Know how robots work with [[Robotics Engineering]]
 - Work with computers by understanding [[Computer science]]

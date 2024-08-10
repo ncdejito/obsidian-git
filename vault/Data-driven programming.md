@@ -8,3 +8,6 @@ Data flow graph
 Dataflow programming
 
 Data flow analysis
+
+Data oriented design book by richard fabian
+

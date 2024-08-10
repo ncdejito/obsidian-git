@@ -3,7 +3,7 @@
 - Family 
 - [[Friends]]
 - [[Workmates]]
-- Community
+- [[Community]]
 - Society
 
 * [[Listen]] actively - make people feel heard

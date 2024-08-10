@@ -25,6 +25,7 @@ Legged Robotics - [yertle](https://github.com/Jerome-Graves/yertle), PetoiOne
 Marine Robotics - [ROS Marine Vehicle Packages](https://discourse.ros.org/t/release-of-ros-mvp/29367)
 [[Drones]]
 [[Self driving cars]]
+Soft robotics https://github.com/villekuosmanen/voyage-touch
 
 ## Applications
 Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)

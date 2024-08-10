@@ -26,3 +26,6 @@ Snowflake
 
 modern data stack - duckdb
 [[Enterprise Data Platform]]
+
+References
+Data warehousing toolkit book suggested by stef

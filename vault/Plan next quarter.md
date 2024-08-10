@@ -8,3 +8,5 @@ Uniqueness - Frontiers, indispensability
 Impact - product
 Clarity - acceptance criteria, timebox
 Harmony
+
+Airtable **delete** all goals every quarter

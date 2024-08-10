@@ -184,6 +184,14 @@ git fetch
 
 #fix
 error: Couldn't look up commit object for
+https://stackoverflow.com/a/36996404
+
+#fix
+fatal: not a git repository submodule
+https://stackoverflow.com/a/23634016
+rm -r .git/modules/submodulefolder
+git submodule update --init --recursive
+git pull --rec
 
 ## Github alternatives
 

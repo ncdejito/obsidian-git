@@ -61,3 +61,4 @@ thread backtrace
 ChatGDB
 
 Valgrind+gdb detects segfaults
+Helgrind detects concurrency issues

@@ -1,10 +1,10 @@
 [[Use Nav2]]
 ## Components
-Nodes
-Sequences
-Decorators - looping, guarding resource (someone's using the cannon now, no other agent can use it)
-Selectors
-Parallel
+- Nodes - 1 action, only needs to output success or failure, no need to pass info about next action
+- Selectors/Fallback - try each child node until first success
+- Sequences - arrow, do all child nodes sequentially
+- Parallel - runs child nodes in parallel
+- Decorators - looping, guarding resource (someone's using the cannon now, no other agent can use it)
 ## Definition
 model for plan execution
 describe switchings between a finite set of tasks in a modular fashion

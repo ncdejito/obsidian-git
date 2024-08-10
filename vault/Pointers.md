@@ -2,6 +2,7 @@
 [[Pointer bugs]]
 
 Smart pointers - ensure objects are deleted once pointers go out of [[Scope (CS)]]
+
 Unique - only 1 owner
 ```
 std::unique_ptr up = make_unique<objecttype>();

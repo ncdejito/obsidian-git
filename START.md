@@ -1,6 +1,8 @@
 
-1. [[Take care of yourself]]
-2. [[Connect with people (Relationships)]]
-3. [[Play]]
-4. [[Work]]
+1. [[Work]]
+2. [[Take care of yourself]]
+3. [[Connect with people (Relationships)]]
+4. [[Play]]
 5. [[Study]]
+
+

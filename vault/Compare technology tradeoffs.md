@@ -14,3 +14,5 @@ Test Recovery behavior when nodes fail
 Simulate network latency
 Stress testing
 
+Choosing technology
+https://hybridhacker.email/p/how-to-choose-technology
