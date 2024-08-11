@@ -2,7 +2,7 @@ Extrinsic
 * motivated by external rewards
 * e.g., wealth, image, and fame
 Intrinsic
-- pursuits that are driven by personal interest, enjoyment, and fulfillment
+- pursuits that are driven by personal interest, enjoyment, and fulfillment [[Values]]
 - leads to better mental health
 - e.g., autonomy, growth, and health
 Self-motivation

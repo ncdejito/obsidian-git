@@ -1,8 +1,12 @@
 
 1. [[Work]]
-2. [[Take care of yourself]]
-3. [[Connect with people (Relationships)]]
-4. [[Play]]
-5. [[Study]]
+2. [[Eat]]
+3. [[Exercise]]
+4. [[Clean living space]]
+5. [[Connect with people (Relationships)]]
+6. [[Have fun]]
+8. [[Reflect]]
+9. [[Plan ahead]]
+
 
 

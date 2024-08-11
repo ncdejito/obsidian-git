@@ -3,6 +3,7 @@
 [[First principles]]
 [[Mental Models]]
 
+Test you assumptions
 Socratic questioning
 - Origins - Clarifying your thinking and explaining the origins of your ideas (Why do I think this? What exactly do I think?)
 - Assumptions - Challenging assumptions (How do I know this is true? What if I thought the opposite?)

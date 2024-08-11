@@ -10,5 +10,6 @@ Feelings
 - How did you 1% improve today?
 - Is it world class?
 - What is bothering you today?
+- Did you live out your [[Values]]?
 
 Plan tomorrow - visualize exact steps you will be doing, with time estimates

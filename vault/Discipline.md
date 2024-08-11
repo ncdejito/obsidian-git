@@ -1,3 +1,5 @@
+Chase freedom and be a slave to your desires. Chase discipline and find your liberty
+
 Automatic do
 
 When:

@@ -23,6 +23,8 @@ onlinegdb - quick prototyping
 * C++ for everyone coursera by Dr. Ira Pohl
 * Learncpp .com
 
+Back to Basics CppCon
+
 
 
 

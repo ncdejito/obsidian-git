@@ -1,17 +1,19 @@
 [Identity](https://docs.google.com/document/d/1BQ7Iy6VZucspCwe_AXidL1SyY_d7zp2kj6-prZBfj18/edit#heading=h.5tv9ytkhns1z)
 
+Definition
+What makes you unique, shapes outcomes
 Identity > Process > Outcomes
 
-What makes you unique
+Components
+[[Priorities]]
+[[Values]]
+[[Traits]]
+[[Experiences]]
+[[Dreams]]
+[[Fears]]
 
-Mission-Vision
-Values
-Likes and dislikes
-Strengths and weaknesses
-
-Emulate role models using [[Invent a Character]]
-[[Freedom]]
-
+How to build
+* Emulate role models using [[Invent a Character]]
 * [[Build confidence]]
 
 ChatGPT

@@ -5,6 +5,8 @@ An outcome
 Outside your control, but probability can be influenced
 Big hairy audacious goals
 
+Align with [[Values]] and [[Priorities]]
+
 [[Extrinsic vs Intrinsic Motivation]]
 [[Locus of Control]]
 [[The Law of Reversed Effort]]

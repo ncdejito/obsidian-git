@@ -2,6 +2,7 @@
 
 Table of contents from seminal books
 
+https://storm.genie.stanford.edu/
 https://github.com/assafelovic/gpt-researcher
 https://github.com/mshumer/ai-researcher/blob/main/Claude_Researcher.ipynb
 https://github.com/stanford-oval/storm synthesis of topic outlines through retrieval and multiperspective question asking

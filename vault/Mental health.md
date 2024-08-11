@@ -3,7 +3,7 @@ Goal: clear your mind
 * [[Reflect]]
 * [[Plan ahead]]
 - [[Deal with emotions]]
-- [[Play]]
+- [[Have fun]]
 - [[Meditate]]
 
 [[Self-actualization]]

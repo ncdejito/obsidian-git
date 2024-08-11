@@ -1,4 +1,5 @@
 [Habits](https://docs.google.com/document/d/18UtP0u3dXAMYZ-mknYobkNkY9bS7LwDy5dWIZLBi7PA/edit)
+Be regular in your everyday life and incredibly violent in your work
 
 Goal: 1% improvement each day = 378% in 1 year
 

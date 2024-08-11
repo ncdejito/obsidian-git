@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "START.md",
+                "file": "vault/Research.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "START.md",
+                "file": "vault/Research.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "START.md",
+                "file": "vault/Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "START.md"
+                "file": "vault/Research.md"
               }
             }
           },
@@ -175,31 +175,31 @@
   },
   "active": "4ec83c8b4780ce30",
   "lastOpenFiles": [
-    "vault/Take care of yourself.md",
-    "START.md",
-    "vault/Work.md",
-    "vault/Robotics Software Engineering.md",
-    "vault/Software Engineering.md",
-    "vault/Connect with people (Relationships).md",
-    "vault/Mental health.md",
-    "vault/Write clean code.md",
-    "vault/Play.md",
-    "vault/Study.md",
-    "vault/Physics.md",
+    "vault/Dreams.md",
+    "vault/Traits.md",
+    "vault/Experiences.md",
+    "vault/Fears.md",
+    "vault/Priorities.md",
+    "vault/Be a generalist.md",
+    "vault/Assess the situation.md",
+    "vault/Use Nav2.md",
+    "vault/Deal with rejection.md",
+    "vault/Deal with disappointment.md",
+    "vault/Open-endedness.md",
+    "vault/tf2.md",
+    "vault/Time series forecasting.md",
     "vault/Toggl.md",
-    "vault/Open source software.md",
-    "vault/Listen to music.md",
-    "vault/Hobbies.md",
-    "vault/Read news.md",
-    "vault/Zig.md",
-    "vault/Data-driven programming.md",
-    "vault/Zerotier.md",
-    "vault/Goal-oriented action planning GOAP.md",
-    "vault/Understand Behavior Trees.md",
-    "vault/Find a job abroad.md",
-    "vault/Find a job.md",
-    "vault/Get a Job.md",
-    "vault/Apply for a job.md",
-    "vault/Subscribe to job boards.md"
+    "vault/Unblock yourself.md",
+    "vault/Workspace.md",
+    "vault/C++.md",
+    "vault/Program in Object-Oriented.md",
+    "vault/C++ Idioms.md",
+    "vault/Have fun.md",
+    "START.md",
+    "vault/Family.md",
+    "vault/Society.md",
+    "vault/Take care of yourself.md",
+    "vault/Work.md",
+    "vault/Robotics Software Engineering.md"
   ]
 }

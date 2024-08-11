@@ -1,3 +1,5 @@
+Functional + generic data types (no custom types)
+
 Data driven programming Book oreilly
 
 Data driven science and engineering

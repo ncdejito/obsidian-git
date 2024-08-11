@@ -5,11 +5,10 @@ Main motivation is enjoyment in and of itself, not external motivation (be hones
 
 [[Travel]]
 [[Cook vegetables]]
-[[Give a great Massage]]
 Learn a [[Language]]
 [[Study]] interesting things
 Drive a car
-Tinker - Experiment with random tech repos
+Tinker - [[Open source software]]
 
 [Read](https://docs.google.com/document/d/1UUmWddjcJk3P6oKj67oCg4ZInA_sowbZOefW_LItzV4/edit)
 [Watch](https://docs.google.com/document/d/1MGLRWqwM0nM5qDPNFNq0t7-jcwfN6IFHlXpE9-8DDFo/edit)

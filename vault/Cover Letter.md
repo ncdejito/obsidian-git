@@ -3,9 +3,12 @@
 Satisficing
 Proof of good fit
 Career objective
+When can you start
 
 Source of joy
 Developing relationships with strangers
+
+Chatgpt then proofread
 
 From Tito Ico
 

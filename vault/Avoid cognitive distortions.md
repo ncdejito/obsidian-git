@@ -16,5 +16,7 @@ https://www.linkedin.com/posts/alex-brogan_25-of-the-most-powerful-psychological
 
 https://visualcapitalist.com/50-cognitive-biases-in-the-modern-world/
 
+Apophenia - seeing connections where there is none, e.g. pareidolia
+
 [[Einschtellung Mental Block]]
 [[Dunning Kruger effect]]
