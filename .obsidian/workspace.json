@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Research.md",
+                "file": "vault/Dreams.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Research.md",
+                "file": "vault/Dreams.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Research.md",
+                "file": "vault/Dreams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Research.md"
+                "file": "vault/Dreams.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "4ec83c8b4780ce30",
   "lastOpenFiles": [
+    "vault/Research.md",
     "vault/Dreams.md",
     "vault/Traits.md",
     "vault/Experiences.md",
@@ -199,7 +200,6 @@
     "vault/Family.md",
     "vault/Society.md",
     "vault/Take care of yourself.md",
-    "vault/Work.md",
-    "vault/Robotics Software Engineering.md"
+    "vault/Work.md"
   ]
 }
