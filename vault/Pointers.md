@@ -1,7 +1,7 @@
 
 [[Pointer bugs]]
 
-Smart pointers - ensure objects are deleted once pointers go out of [[Scope (CS)]]
+Smart pointers - ensure objects are deleted once pointers go out of scope
 
 Unique - only 1 owner
 ```
@@ -54,6 +54,3 @@ int main() {
    cout << &pNumber << endl; // Print the address of pointer variable pNumber (0x22ccec)
 }
 ```
-
-Structured bindings (since c++17)
-> Like a reference, a structured binding is an alias to an existing object. Unlike a reference, a structured binding does not have to be of a reference type.

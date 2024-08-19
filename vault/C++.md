@@ -1,29 +1,31 @@
 #job 
-
-## Why
-[[Program in Object-Oriented]]
+## Concerns
 [[Virtual Memory Management]]
+[[Object-Oriented Programming]]
 [[Concurrency]]
-
-## Constructs
-[[C++ Idioms]]
+## Components
 [[Compiler]]
-[[Header files]]
-[[C++ Libraries]]
-[[C++ Testing]]
-[[Debug errors]]
+[[Header file]]
+[[Namespaces]]
 [[C++ specifiers]]
+[[C++ Libraries]]
+## Methods
+[[C++ Idioms]]
+[[C++ Testing]]
+[[Debug errors in C++]]
+[[Exception-safe C++]]
 
+Notes
+* Modern C++ is C++11 and above - smart pointers, templates, move semantics
+* onlinegdb - quick prototyping
 ## References
-https://en.cppreference.com/w/
-onlinegdb - quick prototyping
-* [C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) - 4months memory management and concurrency
+* https://en.cppreference.com/w/
 * C++ for the impatient
 * Effective modern c++
 * C++ for everyone coursera by Dr. Ira Pohl
 * Learncpp .com
-
-Back to Basics CppCon
+* [C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) - 4months memory management and concurrency
+* Back to Basics CppCon YT
 
 
 

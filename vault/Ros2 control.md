@@ -1,2 +1,2 @@
-[[Program in Object-Oriented]]
-[[Control Systems]]
+[[Object-Oriented Programming]]
+[[Motion Control]]

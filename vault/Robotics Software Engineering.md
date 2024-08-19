@@ -1,10 +1,15 @@
 #job 
 
 [[Perception]]
-[[Motion Planning]]
+[[Localization]]
+[[Mapping]]
+[[Path Planning]]
+[[Motion Control]]
 [[Behaviors]]
-[[Control Systems]]
 
-[[C++]]
-[[Software Engineering]]
-[[System Design]]
+For breaking
+[[Apply SLAM]]
+[[Motion Planning]]
+
+Reference
+Springer Handbook of Robotics

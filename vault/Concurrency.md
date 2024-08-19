@@ -1,12 +1,23 @@
 [[Distributed systems]]
 
-Goal: Prevent Race conditions i.e. program behavior differs based on which statement ran first, ran first out of random chance
+Concerns
+Synchronize processes
+Prevent [[Concurrency bugs]] like Deadlocks and Race Conditions
 
-Solutions: Synchronize processes with semaphores
+Tools
 Mutexes - a binary semaphore ex. m.Lock critical section m.Unlock
 Semaphores - counting semaphore ex. Give(2) Take(1)
+Coroutines
+
+Atomic
 
 Async
 Await
 Promises
 Futures
+
+References
+[[Computer architecture]]
+[[Operating systems]]
+Concurrency patterns: https://en.wikipedia.org/wiki/Concurrency_pattern
+Concurrency API chapter in Effective Modern C++

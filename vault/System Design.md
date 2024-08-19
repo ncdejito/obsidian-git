@@ -24,7 +24,7 @@ Do quickstarts after [[Find usable existing components]]
 [[Program asynchronously]]
 [[Connect computers with Networking]]
 
-[[Keep in mind programming principles]]
+[[Apply software design principles]]
 [[Avoid common mistakes in distributed]]
 [[Document code]]
 

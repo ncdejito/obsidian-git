@@ -1,7 +1,8 @@
 [[Build Backend Components]]
 
-OWASP 10
-chatgpt description
+Concern: Prevent unwanted risky behavior by making good use of memory
+
+OWASP 10 - definition and major event example
 
 1.  Injection: Description: Injection flaws, such as SQL, NoSQL, OS, and LDAP injection, occur when untrusted data is sent to an interpreter as part of a command or query. The attacker's malicious input tricks the interpreter into executing unintended commands or accessing unauthorized data. Examples: A famous example of injection is the 2017 Equifax data breach, which was caused by an unpatched vulnerability in Apache Struts. The vulnerability allowed attackers to inject malicious code into Equifax's systems, resulting in the theft of personal and financial information of 143 million people. Mitigation: To mitigate injection attacks, applications should use prepared statements, parameterized queries, or object-relational mapping tools, which sanitize user input and prevent attackers from manipulating the code. Developers can also use tools such as SQLMap, which can test for injection vulnerabilities.
     

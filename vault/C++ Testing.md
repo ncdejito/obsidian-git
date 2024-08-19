@@ -1,5 +1,5 @@
 [[C++]]
-[[Write tests]]
+[[Write unit tests]]
 
 cassert
 GTest
@@ -15,6 +15,7 @@ cd build
 ctest
 ```
 [Sample test file .cc](https://google.github.io/googletest/quickstart-cmake.html#create-and-run-a-binary)
+
 ```
 #include <gtest/gtest.h>
 

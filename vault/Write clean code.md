@@ -53,3 +53,7 @@ Loose coupling - being able to change your mind without changing too much code.
 Keep writing code
 Your code should be able to handle change, aka you can write experiments while modifying old code as little as possible
 Feature flag - or toggle, used to hide enable or disable feature at runtime
+
+
+References
+Clean Code by Robert C Martin

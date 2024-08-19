@@ -1,23 +1,5 @@
-[[Localization]]
-[[Mapping]]
-[[Navigation]]
-
-[[Apply SLAM]]
 
 [Principles of Robot Autonomy](https://stanfordasl.github.io//aa274a/)
-
-Small projects
-https://www.linkedin.com/posts/activity-7194954386467442688-jV-b?utm_source=share&utm_medium=member_android
-
-Planning and Control Framework
-Control decentralization level - one command center or each robot can decide on its own?
-Number and type of vehicles - can the robot handle heavy loads, if many vehicles wouldn’t you have trouble fitting the traffic
-Zoning and service points - where to put recharge stations
-Resource management - how to intelligently 
-Scheduling
-Dispatching - assign robot to which order
-Path planning - what to do if there’s a corridor and there are 2 robots
-Robustness and resilience - if robot fails
 
 
 Robotics by Cyrill Stachniss

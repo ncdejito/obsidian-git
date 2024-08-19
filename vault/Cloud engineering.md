@@ -34,3 +34,6 @@ possible projects
 Levels.fyi aws backend
 distributed beeping
 
+Amazon free badges
+events and workflows, kubernetes
+https://www.linkedin.com/posts/semaan_cloudcomputing-freecourses-aws-activity-7137432861502033920-TUfz?utm_source=share&utm_medium=member_android

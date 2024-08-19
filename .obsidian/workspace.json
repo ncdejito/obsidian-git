@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b0f5b663f007376",
+        "id": "0f1547de3f47fb27",
         "type": "tabs",
         "children": [
           {
-            "id": "4ec83c8b4780ce30",
+            "id": "a2597c0eb4a34986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Dreams.md",
+                "file": "vault/Robotics Software Engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Dreams.md",
+                "file": "vault/Robotics Software Engineering.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Dreams.md",
+                "file": "vault/Robotics Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Dreams.md"
+                "file": "vault/Robotics Software Engineering.md"
               }
             }
           },
@@ -173,33 +173,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ec83c8b4780ce30",
+  "active": "a2597c0eb4a34986",
   "lastOpenFiles": [
-    "vault/Research.md",
-    "vault/Dreams.md",
-    "vault/Traits.md",
-    "vault/Experiences.md",
-    "vault/Fears.md",
-    "vault/Priorities.md",
-    "vault/Be a generalist.md",
-    "vault/Assess the situation.md",
-    "vault/Use Nav2.md",
-    "vault/Deal with rejection.md",
-    "vault/Deal with disappointment.md",
-    "vault/Open-endedness.md",
-    "vault/tf2.md",
-    "vault/Time series forecasting.md",
-    "vault/Toggl.md",
-    "vault/Unblock yourself.md",
-    "vault/Workspace.md",
+    "vault/Localization.md",
+    "vault/Robotics Software Engineering.md",
+    "vault/Path Planning.md",
+    "vault/Motion Planning.md",
+    "vault/Perception.md",
+    "vault/Linear Algebra.md",
+    "vault/Motion Control.md",
+    "vault/Robotics Engineering.md",
+    "vault/Move semantics.md",
+    "vault/Virtual Memory Management.md",
     "vault/C++.md",
-    "vault/Program in Object-Oriented.md",
+    "vault/Exception-safe C++.md",
+    "vault/Debug errors in C++.md",
     "vault/C++ Idioms.md",
-    "vault/Have fun.md",
-    "START.md",
-    "vault/Family.md",
-    "vault/Society.md",
-    "vault/Take care of yourself.md",
-    "vault/Work.md"
+    "vault/Find usable design patterns.md",
+    "vault/Cloud engineering.md",
+    "vault/Copy semantics.md",
+    "vault/Pointers.md",
+    "vault/References.md",
+    "vault/Concurrency.md",
+    "vault/Object-Oriented Programming.md",
+    "vault/Object.md",
+    "vault/Lifetime.md",
+    "vault/Rule of Five Three Zero.md",
+    "Rule of 5/3/0.md",
+    "Rule of 5/3",
+    "Rule of 5",
+    "vault/Concurrency bugs.md"
   ]
 }

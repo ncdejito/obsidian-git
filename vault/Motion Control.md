@@ -10,6 +10,12 @@ pid controller
 mpc controller - more used in industry
 ESE - from Kurt
 
+Obstacle avoidance
+Vector pursuit
+Dynamic window approach DWA
+Vector Pursuit
+https://www.blackcoffeerobotics.com/blog/vector-pursuit-controller-plugin-for-ros2-navigation
+
 [[Adaptive control]]
 [[Optimal control]]
 

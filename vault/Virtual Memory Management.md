@@ -1,8 +1,8 @@
-[[C++]] [[Program in Rust]]
 
-[[Pointers]]
-[[Move semantics]]
-[[Copy semantics]]
+- Access memory locations with [[Pointers]] and [[References]]
+- Avoid unnecessary copying with [[Move semantics]]
+- Copy objects with [[Copy semantics]]
+- Ensure objects are destroyed with [[Ownership]] and [[Lifetime]]
 
 ## Concepts
 Stack vs Heap Memory Allocation

@@ -15,11 +15,11 @@ Application
 [[Code the logic]]
 
 Best practices
-[[Write tests]]
+[[Apply Test Driven Development]]
 [[Write clean code]]
 [[Version code with Git]]
 [[Debug errors]]
-[[Keep in mind programming principles]]
+[[Apply software design principles]]
 
 ## References
 Pragmatic programmer

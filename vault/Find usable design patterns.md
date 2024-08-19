@@ -34,6 +34,3 @@ patterns in distributed systems - https://martinfowler.com/articles/patterns-of-
 Patterns of Enterprise Applications - https://martinfowler.com/books/eaa.html
 [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 
-Amazon free badges
-events and workflows, kubernetes
-https://www.linkedin.com/posts/semaan_cloudcomputing-freecourses-aws-activity-7137432861502033920-TUfz?utm_source=share&utm_medium=member_android

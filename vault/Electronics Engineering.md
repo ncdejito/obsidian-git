@@ -1,7 +1,7 @@
 [[Understand Hardware Software Interaction]]
 [[Embedded Systems]]
 [[System Integration]]
-[[Control Systems]]
+[[Motion Control]]
 [[Use ROS2]]
 * [[Assess compute requirements]]
 * [[Draw Circuit Diagram]]

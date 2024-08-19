@@ -1,7 +1,7 @@
 * Break down problems
 - [[Identify edge cases]]
 - Write pseudocode
-- [[Write tests]]
+- [[Apply Test Driven Development]]
 - [[Data Structures]]
 - [[Algorithms]]
 

@@ -1,6 +1,6 @@
 [[Select Microcontroller]]
 
-[[Control Systems]]
+[[Motion Control]]
 
 Firmware
 Middleware

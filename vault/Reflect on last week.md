@@ -8,10 +8,11 @@ Wins - [[KPIs]] list done tasks here
 - Money    
 - Code    
 - Friends
+- [[Values]] and [[Traits]] upheld
 Learnings
+* How would you 1% improve next week?
 Feelings
-- Gratitude   
-- Missing needs? clarity, impact, originality, harmony
+- Gratitude
 Goals
 * Update at Key Results on Airtable
 * Delete Done tasks on Airtable

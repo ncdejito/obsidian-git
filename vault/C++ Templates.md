@@ -14,8 +14,10 @@ Operator overloading
 
 Sfinae - substitution failure is not an error, when deducing a template specialization fails, dont cause compile error
 
-Protip
-If so many errors in compiler, probably a template
+Template specialization - select template to use by specifying type
+
+Variadic templates - templates with variable inputs
+
 
 Advanced exploration
 Modern c++ book by andrei alexandrescu

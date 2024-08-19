@@ -1,3 +1,5 @@
+Modern compilers have [[Preprocessor]]s built right into compiler itself
+
 Compile program and run (Linux)
 ```
 g++ -o hello hello.cpp
@@ -25,6 +27,9 @@ If long errors, probably a template error
 SConscript
 
 onlinegdb
+
+Godbolt compiler explorer
+- shows assembly code of compiled languages
 
 Distribute compile across machines
 github:icecc/icecream

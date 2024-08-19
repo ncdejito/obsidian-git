@@ -1,10 +1,8 @@
-Combining functions and data in one object with [[Use Interfaces]]
+Combining functions and data in one object
+Enables [[Interfaces]]
 
-Virtual functions
-required for base classes and necessary for polymorphism
 
 Class - private by default
-> There is only one difference between class and struct, and it is that the data members inside a struct keyword will be declared public by default, while in a class keyword the data members inside the class will be declared private by default.
 ```
 class Player
 {
@@ -28,3 +26,13 @@ int main()
     me.position.x = me.position.y = me.position.z = 0;
 }
 ```
+Union - class that can only hold one of its data members at a time, default is public
+
+
+Access specifiers
+Public
+Private
+Protected - inaccessible outside class but accessible by derived classes, "family secrets"
+
+Friend class - can access private members of another class
+

@@ -1,4 +1,4 @@
-[[Program in Object-Oriented]]
+[[Object-Oriented Programming]]
 
 Interfaces
 - description of actions that an object can do
@@ -15,4 +15,10 @@ class FeatureGenerator
     @abc.abstractmethod
     def process(self, tile, area_raster):
         pass
+
+C++:
+def Parent
+	virtual BeHuman()
+def Child : Parent
+	bool BeHuman()
 
