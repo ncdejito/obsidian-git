@@ -1,6 +1,6 @@
 [[Select Microcontroller]]
 
-[[Motion Control]]
+[[Control theory]]
 
 Firmware
 Middleware

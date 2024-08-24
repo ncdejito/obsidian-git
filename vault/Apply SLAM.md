@@ -1,5 +1,10 @@
 #job 
 
+Simultaneous [[Localization]] and [[Mapping]]
+
+Concern
+Solves chicken and egg problem of map availability vs no movement history
+
 Feb 4, Bayesian Thinking
 Feb 11, Working with Matrices
 Feb 18, C++ Basics
@@ -72,7 +77,7 @@ visual odometry, bundle adjustment, place recognition / loop detection algorithm
 
 SLAM Toolbox in [[Use Nav2]]
 Modes
-- Offline - Mapping is done without realtime data, for instamnce using bag files
+- Offline - Mapping is done without realtime data, for instance using bag files
 - Synchronous - It makes sure if processes all the incoming laser measurements. It can lag over time.
 - Asynchronous - It processes incoming laser measurements in real time
 - Lifelong - It allows to build a map partially over time. For instance, get a 1st version of a map and update it.

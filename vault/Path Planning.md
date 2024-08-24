@@ -1,6 +1,16 @@
-Path Planning
+Concern
+Fastest path towards the goal
+
+Problems
+* Obstacle avoidance
+
+Components
+Path - positions
+
+Methods
 Waypoints
 Global and local planner
+Costmap
 
 Floodfill maze stuff
 

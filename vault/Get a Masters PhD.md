@@ -8,3 +8,7 @@ https://anabin.kmk.org/no_cache/filter/hochschulabschluesse.html
 
 Mit free courses
 https://www.linkedin.com/posts/endritrestelica_mit-university-offers-11-free-online-courses-activity-7200888495437971456--H7D?utm_source=share&utm_medium=member_android
+
+Sources:
+robotics-world-wide
+https://www.lists.kit.edu/sympa/info/robotics-worldwide

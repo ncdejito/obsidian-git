@@ -1,2 +1,2 @@
 [[Object-Oriented Programming]]
-[[Motion Control]]
+[[Control theory]]

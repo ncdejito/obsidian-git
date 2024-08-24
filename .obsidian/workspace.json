@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Robotics Software Engineering.md",
+                "file": "vault/Community.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Robotics Software Engineering.md",
+                "file": "vault/Community.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Robotics Software Engineering.md",
+                "file": "vault/Community.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Robotics Software Engineering.md"
+                "file": "vault/Community.md"
               }
             }
           },
@@ -175,33 +175,33 @@
   },
   "active": "a2597c0eb4a34986",
   "lastOpenFiles": [
-    "vault/Localization.md",
+    "vault/Get a Masters PhD.md",
+    "vault/Stay updated on tech trends.md",
+    "vault/Move semantics.md",
+    "vault/Defense.md",
+    "vault/Control Systems.md",
+    "vault/Check for Security Risks.md",
+    "vault/Write tests.md",
+    "vault/Keep in mind programming principles.md",
+    "vault/Program in Object-Oriented.md",
+    "vault/Use Interfaces.md",
+    "vault/Navigation.md",
+    "vault/Header files.md",
+    "vault/Array.md",
+    "vault/Use Monocular Camera.md",
+    "vault/Landmark detection.md",
+    "vault/Control theory.md",
+    "vault/Image Classification.md",
+    "vault/Freespace detection.md",
+    "vault/Semantic Segmentation.md",
+    "vault/Sensor fusion.md",
+    "vault/State Estimation.md",
     "vault/Robotics Software Engineering.md",
+    "vault/Localization.md",
     "vault/Path Planning.md",
     "vault/Motion Planning.md",
     "vault/Perception.md",
-    "vault/Linear Algebra.md",
-    "vault/Motion Control.md",
-    "vault/Robotics Engineering.md",
-    "vault/Move semantics.md",
-    "vault/Virtual Memory Management.md",
-    "vault/C++.md",
-    "vault/Exception-safe C++.md",
-    "vault/Debug errors in C++.md",
-    "vault/C++ Idioms.md",
-    "vault/Find usable design patterns.md",
-    "vault/Cloud engineering.md",
-    "vault/Copy semantics.md",
-    "vault/Pointers.md",
-    "vault/References.md",
-    "vault/Concurrency.md",
-    "vault/Object-Oriented Programming.md",
-    "vault/Object.md",
-    "vault/Lifetime.md",
-    "vault/Rule of Five Three Zero.md",
-    "Rule of 5/3/0.md",
     "Rule of 5/3",
-    "Rule of 5",
-    "vault/Concurrency bugs.md"
+    "Rule of 5"
   ]
 }

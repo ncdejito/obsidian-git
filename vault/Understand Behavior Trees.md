@@ -26,6 +26,7 @@ Naive version also always traverses from root
 Slow to respond to urgent events (try monitor-style parallels - e.g. if a player shoots me i should stop doing , did i lose health? do something different)
 
 ## Resources
+Behavior Trees in AI and Robotics by M. Colledanchise
 Visualize ROS2 trees with [Groot](https://navigation.ros.org/tutorials/docs/using_groot.html)
 Hierarchical task networks - plan what to do next, same as behavior trees
 

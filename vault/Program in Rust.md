@@ -35,3 +35,6 @@ https://benw.is/posts/full-stack-rust-with-leptos
 
 Rerast is a search/replace tool for Rust code using rules, by Google
 https://github.com/google/rerast
+
+Rust in nvidia repos
+https://github.com/NVIDIA?q=&type=all&language=rust&sort=

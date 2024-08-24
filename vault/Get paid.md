@@ -5,3 +5,5 @@ negotiate to near aspirational
 Pay
 levels.fyi
 https://www.comprehensive.io/
+
+Treat salary as performance based feedback - Intel

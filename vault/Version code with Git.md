@@ -190,8 +190,11 @@ https://stackoverflow.com/a/36996404
 fatal: not a git repository submodule
 https://stackoverflow.com/a/23634016
 rm -r .git/modules/submodulefolder
+rm -r submodulefolder
+git restore submodulefolder
 git submodule update --init --recursive
-git pull --rec
+##git pull --recurse-submodules # <-do NOT do this
+
 
 ## Github alternatives
 

@@ -1,20 +1,29 @@
+Concern
+Interpret sensor data
+Detect obstacles
+Recognize landmarks
 
 Problems
-* [[Apply Sensor fusion]]
+* [[Obstacle detection]]
+* [[Landmark detection]]
+* [[Freespace detection]]
+* [[Sensor fusion]]
 * [[Depth estimation]]
-* Freespace detection
-* [[Computer Vision]]
+
+Physical sensors
+* [[Use Odometry]]
+* [[Use Lidar]]
+* [[Use Radar]]
+* [[Use Monocular Camera]]
+* [[Use Stereo Camera]]
 
 Data representation
 [[Point clouds]]
 Stixel
 Voxel
 
-Physical sensors
-* [[Use Odometry]]
-* [[Use Lidar]]
-* [[Use Radar]]
-* [[Use Stereo Camera]]
+Methods
+VIO - Camera + IMU
 
 [Low Cost 3D Workshop](https://lc3d.fbk.eu/)
 

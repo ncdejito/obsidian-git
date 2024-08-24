@@ -1,3 +1,5 @@
+Concern
+Represent expected action of robot throughout its run
 
 Hierarchical [[Finite State Machines]]
 [[Understand Behavior Trees]]

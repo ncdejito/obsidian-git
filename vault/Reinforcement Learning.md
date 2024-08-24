@@ -1,4 +1,7 @@
 [[Machine Learning]]
+
+Rl in robotics:
+https://ca.indeed.com/m/viewjob?jk=1a8eb71732e805f3&from=ja&alid=64243327ba375a12cbeb59cc&tk=1i5ifke0hgl0o801&xpse=SoAn67I39y3ARNTSxx0LbzkdCdPP&xfps=83f740d7-5d85-471b-b1a3-ee976969e58c&utm_campaign=job_alerts&utm_medium=email&utm_source=jobseeker_emails&rgtk=1i5ifke0hgl0o801&xkcb=SoAg67M39yXd1s1yXB0JbzkdCdPP
 # Concern
 Reinforcement learning aims to solve complex problems by training models to make decisions in dynamic environments to maximize rewards. 
 

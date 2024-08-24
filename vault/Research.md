@@ -7,6 +7,9 @@ https://github.com/assafelovic/gpt-researcher
 https://github.com/mshumer/ai-researcher/blob/main/Claude_Researcher.ipynb
 https://github.com/stanford-oval/storm synthesis of topic outlines through retrieval and multiperspective question asking
 
+Ai scientist
+https://github.com/SakanaAI/AI-Scientist
+
 ## Read papers
 https://medium.com/@jasoncorso/how-to-read-conference-papers-fa78c75f78aa
 https://www.linkedin.com/posts/activity-7137712229801439232-8U4b?utm_source=share&utm_medium=member_desktop
