@@ -10,4 +10,5 @@ Layered Costmap David Lu
 WorldModel by Wolfram Burgard
 
 Method
+Scan matching andrea censi
 Kiss-ICP

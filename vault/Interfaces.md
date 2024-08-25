@@ -18,7 +18,7 @@ class FeatureGenerator
 
 C++:
 def Parent
-	virtual BeHuman()
+	virtual BeHuman() = 0
 def Child : Parent
 	bool BeHuman()
 

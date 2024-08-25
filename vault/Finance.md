@@ -12,11 +12,6 @@ https://www.linkedin.com/posts/audreywxy_marketdata-investingtips-bloombergalter
 Fix - financial information exchange protocol
 Stock pubsub
 
-Random walk
 
-Stochastic processes - random but has target
-Geometric Brownian Motion
-Ornstein-Uhlenbeck process - the drunk man with a dog
-
-Black Derman Toy tree
-Black Scholes model
+OpenBB market data + ai financial analyst
+https://github.com/OpenBB-finance/OpenBB

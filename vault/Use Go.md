@@ -33,6 +33,7 @@ Tools
 Load balancer
 Dispatch
 Query replicated database
+Reduce golang inage from 45mb to 4mb with this hack: https://www.linkedin.com/posts/anton-putra_i-didnt-know-it-was-possible-to-reduce-a-activity-7232847713954938880-7PNS?utm_source=share&utm_medium=member_android
 
 ## Concepts
 * Concurrency - composition of independently executing things, vs parallel - simultaneous execution of independent things

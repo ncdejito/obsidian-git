@@ -12,6 +12,7 @@ Function specifiers
 Object specifiers
 * static - object exists in the whole lifetime of the program
 * const param - object cannot be modified
+	* Const cannot be changed in body, but can be changed in constructor initialization list
 * typedef - defines a custom type
 * constexpr
 

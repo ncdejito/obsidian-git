@@ -36,3 +36,9 @@ When stuck:
 Break down smaller subtasks  
 Understand core concepts  
 Try solving another problem
+
+Approaches
+Top down
+Bottom up
+Rules of thumb - most likely areas affected
+Verbose logging

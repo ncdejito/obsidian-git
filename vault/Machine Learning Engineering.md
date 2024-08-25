@@ -1,3 +1,4 @@
+[[Model quantization]]
 
 0. Preface
 Who this Book is For - leverage ML to solve real-world problems

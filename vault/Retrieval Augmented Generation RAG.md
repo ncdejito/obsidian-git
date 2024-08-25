@@ -1,6 +1,10 @@
 [[Building Large Language Models LLM]]
+[[Convert PDF to Markdown]]
 
 [[Graph RAG]]
+
+Ragflow
+https://github.com/infiniflow/ragflow
 
 Golden RAGtriever
 https://github.com/weaviate/Verba

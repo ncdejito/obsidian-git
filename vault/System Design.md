@@ -164,3 +164,6 @@ Doordash
 Bumble
 ✅ Clean Architecture - Robert C. Martin  
 Principles for designing robust and scalable software architecture.
+
+Think like an architect
+https://www.infoq.com/presentations/architect-lessons/
