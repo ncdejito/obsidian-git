@@ -3,18 +3,19 @@ Clarity is what creates motivation.
 [[Identity]]
 [[Habits]]
 [[Deliverables]]
-Responsibilities - a long-term commitment requiring ongoing attention
-[[Projects]] - short term efforts
-[[Key results]] - within my control
-[[Goals]] - outside your control
+[[Responsibilities]]
+[[Projects]]
+[[Key results]]
+[[Goals]]
+[[Priorities]]
 
 Tracking is what creates awareness.
-[[KPIs]]
+[[Reflect]]
 
 Reporting is what creates accountability
-[[Reflect]]
-Stay accountable to your [[Dreams]]
+Write down your [[Dreams]]
 Align with your [[Values]]
+Define your [[Fears]]
 
 References
 [[Self-Determination Theory]]

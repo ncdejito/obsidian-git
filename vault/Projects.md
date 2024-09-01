@@ -10,7 +10,7 @@ Output: Scope of Work
 [[Communicate progress]]
 
 Definition
-Initiatives that get you closer to [[Goals]]
+Short-term initiatives that get you closer to [[Goals]]
 Can be divided into [[Key results]] 
 Consists of multiple [[Deliverables]] over a long period
 Accomplishable in a defined period, not a recurring set of tasks like [[Habits]]

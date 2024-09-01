@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f1547de3f47fb27",
+        "id": "2579acc7cbe956df",
         "type": "tabs",
         "children": [
           {
-            "id": "a2597c0eb4a34986",
+            "id": "8517b4ffa59e2485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Robotics Engineering.md",
+                "file": "vault/Apply SLAM.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Robotics Engineering.md",
+                "file": "vault/Apply SLAM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Robotics Engineering.md",
+                "file": "vault/Apply SLAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Robotics Engineering.md"
+                "file": "vault/Apply SLAM.md"
               }
             }
           },
@@ -174,34 +174,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2597c0eb4a34986",
+  "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
-    "vault/Retrieval Augmented Generation RAG.md",
-    "vault/Robotics Software Engineering.md",
-    "vault/Perception.md",
-    "vault/Convert PDF to Markdown.md",
+    "vault/Self-actualization.md",
+    "vault/Reflect.md",
+    "vault/Reflect on last month.md",
+    "vault/Self-Determination Theory.md",
+    "vault/Goals.md",
+    "vault/Values.md",
+    "vault/Responsibilities.md",
+    "vault/Projects.md",
+    "vault/Key results.md",
+    "vault/Priorities.md",
+    "vault/Fears.md",
+    "vault/Decide.md",
+    "vault/Fear-setting.md",
+    "vault/Mental health.md",
+    "vault/Stoicism.md",
+    "vault/Philosophy.md",
+    "vault/Use Go.md",
+    "vault/Graph Theory.md",
+    "vault/Data prediction.md",
+    "vault/Negotiate.md",
+    "vault/Unblock yourself.md",
+    "vault/Logging.md",
+    "vault/Deep Learning.md",
+    "vault/Volition.md",
+    "vault/Compare technology tradeoffs.md",
     "vault/Robotics Engineering.md",
-    "vault/Find usable design patterns.md",
-    "vault/com.grabtaxi.passenger.md",
-    "vault/Virtual function.md",
-    "vault/Polymorphism.md",
-    "vault/C++ specifiers.md",
-    "vault/Community.md",
-    "vault/Prisoners dilemma.md",
-    "vault/Get a Masters PhD.md",
-    "vault/Stay updated on tech trends.md",
-    "vault/Move semantics.md",
-    "vault/Defense.md",
-    "vault/Control Systems.md",
-    "vault/Check for Security Risks.md",
-    "vault/Write tests.md",
-    "vault/Keep in mind programming principles.md",
-    "vault/Program in Object-Oriented.md",
-    "vault/Use Interfaces.md",
-    "vault/Navigation.md",
-    "vault/Header files.md",
-    "vault/Array.md",
-    "vault/Use Monocular Camera.md",
     "Rule of 5/3",
     "Rule of 5"
   ]
