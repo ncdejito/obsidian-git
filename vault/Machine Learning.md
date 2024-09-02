@@ -18,6 +18,7 @@ Applications
 [[Reinforcement Learning]]
 
 [[Machine Learning Engineering]]
+[[Machine Learning Operations]]
 
 Ram framework
 accuracy

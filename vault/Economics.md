@@ -1,20 +1,15 @@
-[[Macroeconomics]]
-[[Microeconomics]] 
-[[Game theory]]
+a social science that studies the production, distribution, and consumption of goods and services.
 
-Reading list
-Why Nations Fail - kurt reco
-Yc podcasts
-shark tank
-Case in Point
-Mein Kampf
-Das Kapital
-Wealth of Nations
-Micro econ
-Behavioral economics
+Owned by one vs owned by everybody
+- [[Capitalism]]
+- [[Socialism]]
+- [[Communism]]
+
+Breadth vs depth
+- [[Microeconomics]] 
+- [[Macroeconomics]]
+
+References
 Works of nobel laureats in econ
-supply chain
-psychology of money morgan housel
-
-The hype cycle - invest after hype, during disillusionment phase
 Poor charlies almanac
+

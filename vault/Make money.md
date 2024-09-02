@@ -21,7 +21,6 @@ Imagination
 Decision
 Tell the world what you intend to do, but first show it
  
- 
 Rich Dad Poor Dad
 Tuesday, October 24, 2017
 9:16 PM

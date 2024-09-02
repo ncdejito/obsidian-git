@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Apply SLAM.md",
+                "file": "vault/Ethics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Apply SLAM.md",
+                "file": "vault/Ethics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Apply SLAM.md",
+                "file": "vault/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Apply SLAM.md"
+                "file": "vault/Ethics.md"
               }
             }
           },
@@ -176,32 +176,32 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
-    "vault/Self-actualization.md",
-    "vault/Reflect.md",
-    "vault/Reflect on last month.md",
-    "vault/Self-Determination Theory.md",
-    "vault/Goals.md",
-    "vault/Values.md",
-    "vault/Responsibilities.md",
-    "vault/Projects.md",
-    "vault/Key results.md",
-    "vault/Priorities.md",
-    "vault/Fears.md",
+    "vault/Collectivism.md",
+    "vault/Ethics.md",
+    "vault/Individualism.md",
+    "vault/Politics.md",
+    "vault/Human rights.md",
+    "vault/Libertarianism.md",
+    "vault/Liberalism.md",
+    "vault/Macroeconomics.md",
+    "vault/Make money.md",
+    "vault/Manage your money.md",
+    "vault/Take care of yourself.md",
+    "vault/Economics.md",
+    "vault/Microeconomics.md",
+    "vault/Build a business.md",
+    "vault/Sell.md",
+    "vault/Communism.md",
+    "vault/Fascism.md",
+    "vault/Game theory.md",
+    "vault/Capitalism.md",
+    "vault/Anarchism.md",
+    "vault/Consulting.md",
     "vault/Decide.md",
-    "vault/Fear-setting.md",
-    "vault/Mental health.md",
-    "vault/Stoicism.md",
-    "vault/Philosophy.md",
-    "vault/Use Go.md",
-    "vault/Graph Theory.md",
-    "vault/Data prediction.md",
-    "vault/Negotiate.md",
-    "vault/Unblock yourself.md",
-    "vault/Logging.md",
-    "vault/Deep Learning.md",
-    "vault/Volition.md",
-    "vault/Compare technology tradeoffs.md",
-    "vault/Robotics Engineering.md",
+    "vault/Skin in the game.md",
+    "vault/Conservatism.md",
+    "vault/Altruism.md",
+    "vault/Progressivism.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

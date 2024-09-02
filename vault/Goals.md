@@ -5,7 +5,7 @@ An outcome
 Outside your control, but probability can be influenced
 Big hairy audacious goals
 
-Align with [[Values]] and [[Priorities]]
+Align with [[Values]], [[Priorities]] and [[Purpose]]
 
 [[Extrinsic vs Intrinsic Motivation]]
 [[Locus of Control]]

@@ -1,8 +1,11 @@
+studies the behavior of an [overall economy], encompassing markets, businesses, consumers, and governments.It examines economy-wide phenomena such as inflation, economic growth, national income, GDP, and unemployment
 
-1. **Macroeconomics**:
-    
-    - **Definition**: Macroeconomics studies the behavior of an overall economy, encompassing markets, businesses, consumers, and governments.It examines economy-wide phenomena such as inflation, economic growth, national income, GDP, and unemployment1.
-    
+Schools of thought
+- Classical - Advocates for free markets with minimal government intervention, Classical economists assume that the most important factor in a product's price is its cost of production.
+- Neoclassical - Assumes individuals act rationally to maximize their utility, Believes markets are efficient and tend towards equilibrium, Neoclassical economists argue that the consumer's perception of a product's value is the driving factor in its price.
+- Keynesian - Argues government intervention through fiscal and monetary policy is needed to boost demand and stabilize the economy in the short-run, Focuses on the role of uncertainty, expectations and institutions in economic decision making
+
+Components
 1. **Aggregate Demand (AD)**:
     
     - **Definition**: AD represents the total demand for goods and services in an economy at a given price level.
@@ -18,9 +21,18 @@
 6. **Inflation Rate**:
     
     - **Definition**: The rate at which the general price level of goods and services rises over time.
-7. **Monetary Policy**:
+
+1. **Monetary Policy**:
     
     - **Definition**: Policies set by a central bank (e.g., interest rates) to influence money supply, credit availability, and economic activity.
-8. **Fiscal Policy**:
+
+1. **Fiscal Policy**:
     
     - **Definition**: Government decisions regarding taxation, spending, and borrowing to manage the economy.
+
+Models
+Law of Supply and Demand
+IS-LM model - relationship between interest rates and output in the short run in a closed economy
+The business cycle
+The hype cycle - invest after hype, during disillusionment phase
+Tragedy of the commons

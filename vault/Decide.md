@@ -7,6 +7,7 @@
 [[Assess the situation]]
 
 Tools
+[[Skin in the game]]
 Deciding
 pros and cons, 
 best-worst case scenarios, 

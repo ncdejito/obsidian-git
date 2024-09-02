@@ -1,8 +1,4 @@
 
-Volume negates luck
-[https://www.youtube.com/watch?v=NcD2t9qt-fM&t=645s](https://www.youtube.com/watch?v=NcD2t9qt-fM&t=645s)
-by Alex Hormozi
-
 Engage Lead [[Stakeholder]]
 Qualify Lead
 Solicit Sale
@@ -71,3 +67,9 @@ Self
 		* both cases risk free - if you fail you learn, if you succeed great
 		* if you're gonna eventually, might as well start today
 		* instead of this is it decisions, let's just get closer in the right direction
+
+References
+shark tank
+Volume negates luck
+[https://www.youtube.com/watch?v=NcD2t9qt-fM&t=645s](https://www.youtube.com/watch?v=NcD2t9qt-fM&t=645s)
+by Alex Hormozi

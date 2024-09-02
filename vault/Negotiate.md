@@ -65,4 +65,7 @@ Neuro Linguistic Programming
 Body language Julius Fast
 Influence Cialdini
 
+Harvard models
+https://www.linkedin.com/posts/thetobioluwole_you-will-continue-to-lose-money-if-you-never-activity-7235290131467780097-1bIn?utm_source=share&utm_medium=member_android
+
 
