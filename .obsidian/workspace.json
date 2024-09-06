@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Ethics.md",
+                "file": "vault/Sinking seaweed.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Ethics.md",
+                "file": "vault/Sinking seaweed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Ethics.md",
+                "file": "vault/Sinking seaweed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Ethics.md"
+                "file": "vault/Sinking seaweed.md"
               }
             }
           },
@@ -176,8 +176,16 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
-    "vault/Collectivism.md",
+    "vault/Climate tech.md",
+    "vault/Sinking seaweed.md",
+    "vault/Cover Letter.md",
+    "vault/Behaviors.md",
+    "vault/Understand Behavior Trees.md",
     "vault/Ethics.md",
+    "vault/How to make anything.md",
+    "vault/Music.md",
+    "vault/Make a case.md",
+    "vault/Collectivism.md",
     "vault/Individualism.md",
     "vault/Politics.md",
     "vault/Human rights.md",
@@ -194,14 +202,6 @@
     "vault/Communism.md",
     "vault/Fascism.md",
     "vault/Game theory.md",
-    "vault/Capitalism.md",
-    "vault/Anarchism.md",
-    "vault/Consulting.md",
-    "vault/Decide.md",
-    "vault/Skin in the game.md",
-    "vault/Conservatism.md",
-    "vault/Altruism.md",
-    "vault/Progressivism.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

@@ -10,3 +10,8 @@ Hierarchical [[Finite State Machines]]
 Automate robot decisions - ADAS
 
 [[Robot foundation model]]
+
+Tools
+SMACH
+BehaviorTrees
+ROSPlan

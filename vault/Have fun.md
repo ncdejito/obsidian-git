@@ -14,5 +14,5 @@ Tinker - [[Open source software]]
 [Watch](https://docs.google.com/document/d/1MGLRWqwM0nM5qDPNFNq0t7-jcwfN6IFHlXpE9-8DDFo/edit)
 [Listen](https://docs.google.com/document/d/1dJ-gBjTR1hrmAwYm1c7bICnUJqRTQYf7-BUhWXzzLa4/edit)
 [Play video games](https://docs.google.com/document/d/112QuURW5R3NgG2x5O8qJQ9_NrxyHQFwGSndXqm1poJc/edit)
-[[Listen to music]]
+Listen to [[Music]]
 
