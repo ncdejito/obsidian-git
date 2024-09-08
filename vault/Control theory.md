@@ -8,6 +8,8 @@ ESE - from Kurt
 [[Adaptive control]]
 [[Optimal control]]
 
+Lyapunov stability theorem - used for evaluating the stability of a system
+
 Classic Controls, Feedback/Feedforward controllers, Cascade control systems
 fast control prototyping systems such as speedgoat, xPC, or any other type of real-time machine
 

@@ -155,3 +155,5 @@ Solution: https://askubuntu.com/a/192388
 ## References
 [Expert-level linux commands](https://peterlyons.com/leveling-up/)
 Log parsing commands like sed grep [linkedin](https://www.linkedin.com/posts/sahnlam_log-parsing-commands-are-very-useful-activity-7037304369268101120-0fsU?utm_source=share&utm_medium=member_desktop)
+Linux file systems explained - what the folders mean
+https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7237675339085230080-E6XX?utm_source=share&utm_medium=member_android

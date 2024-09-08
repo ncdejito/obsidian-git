@@ -67,6 +67,9 @@ message queue - https://github.com/wesen/summer-pasture-netflix/blob/main/messag
 27 vetted resources by ryan peterman
 https://www.linkedin.com/posts/ryanlpeterman_27-vetted-resources-to-help-you-master-system-activity-7191886942844653568-AkX_?utm_source=share&utm_medium=member_android
 
+Togaf
+Open group architecture framework
+
 System design 101 visuals
 https://email.changelog.com/t/t-l-vduihjd-wjuliuuyk-ut/
 

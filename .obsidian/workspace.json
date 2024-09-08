@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Sinking seaweed.md",
+                "file": "vault/Optimal control.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Sinking seaweed.md",
+                "file": "vault/Optimal control.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Sinking seaweed.md",
+                "file": "vault/Optimal control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Sinking seaweed.md"
+                "file": "vault/Optimal control.md"
               }
             }
           },
@@ -176,8 +176,11 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
-    "vault/Climate tech.md",
+    "vault/Control theory.md",
     "vault/Sinking seaweed.md",
+    "vault/Efficient ML.md",
+    "vault/Bezier curve.md",
+    "vault/Climate tech.md",
     "vault/Cover Letter.md",
     "vault/Behaviors.md",
     "vault/Understand Behavior Trees.md",
@@ -199,9 +202,6 @@
     "vault/Microeconomics.md",
     "vault/Build a business.md",
     "vault/Sell.md",
-    "vault/Communism.md",
-    "vault/Fascism.md",
-    "vault/Game theory.md",
     "Rule of 5/3",
     "Rule of 5"
   ]
