@@ -5,6 +5,11 @@ An outcome
 Outside your control, but probability can be influenced
 Big hairy audacious goals
 
+Influence probability of success with [[Projects]]
+
+Write down your [[Dreams]]
+Align with your [[Values]]
+Define your [[Fears]]
 Align with [[Values]], [[Priorities]] and [[Purpose]]
 
 [[Extrinsic vs Intrinsic Motivation]]

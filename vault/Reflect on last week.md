@@ -5,8 +5,8 @@ Address sunday night anxiety
 Check time spent last week on Toggl
 
 Wins - [[KPIs]] list done tasks here
-- Money    
-- Code    
+- Money
+- Code
 - Friends
 - [[Values]] and [[Traits]] upheld
 Learnings

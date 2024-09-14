@@ -1,9 +1,9 @@
 
-Check [Goals](https://docs.google.com/document/d/1Bv3DdyU3YmP39BH9Fq-5Mt13awPAkwO34UIjzdeF4QA/edit)
-Review [Last month time](https://track.toggl.com/reports/summary/6878663/period/prevMonth)
-Review/Update [Key Results](https://docs.google.com/document/d/1AQkprCU75l3t9k2utay5LLzeVp_UTizBpkGObih4170/edit)
-Check qualified [[Rewards]]
 [10min] Wheel of life: [make chart](https://www.amcharts.com/demos/wheel-of-life/) [track](https://docs.google.com/presentation/d/1STBZYKC4TOQa14X2U3oelZ5MI1gdsMEMnG3DgaaubMw/edit#slide=id.g22e75040914_0_0)
+Check [Goals](https://docs.google.com/document/d/1Bv3DdyU3YmP39BH9Fq-5Mt13awPAkwO34UIjzdeF4QA/edit)
+Review/Update [Key Results](https://docs.google.com/document/d/1AQkprCU75l3t9k2utay5LLzeVp_UTizBpkGObih4170/edit)
+Review [Last month time](https://track.toggl.com/reports/summary/6878663/period/prevMonth)
+Check qualified [[Rewards]]
 
 Answer questions
 Empty contents to [2024](https://docs.google.com/document/d/1KgtHuckZezMVBkk5xbbx2q1XPvaIG4-jSdAvFKnI89o/edit#heading=h.i61esp638ds0) journal

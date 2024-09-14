@@ -3,6 +3,10 @@ Be regular in your everyday life and incredibly violent in your work
 
 Goal: 1% improvement each day = 378% in 1 year
 
+How to use habits
+Progress on [[Projects]]
+Manage [[Responsibilities]]
+
 ## How to build habits
 2 steps
 1. Define who you want to be

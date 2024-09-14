@@ -2,6 +2,8 @@
 https://github.com/vpetrigo/caches
 LRU https://leetcode.com/problems/lru-cache/solutions/3171305/solution/
 
+Edge cases/Ways cache systems can go wrong
+https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7238422879611023360-ChEh?utm_source=share&utm_medium=member_android
 
 ## System design
 Why

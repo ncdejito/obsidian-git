@@ -1,7 +1,13 @@
 [Current projects](https://airtable.com/appwlcA0RJTWZ394q/tbl8RCXnru5Ps1F1Y/viwNs5z5QPeE8Yxze?blocks=hide)
 
-Output: Scope of Work
+Definition
+Short-term initiatives that get you closer to [[Goals]]
+Within your control
+Achieves [[Key results]] 
+Consists of multiple [[Deliverables]] over a long period
+Accomplishable in a defined period, not a recurring set of tasks like [[Habits]]
 
+How to create a project
 [[Choose to do a project]]
 [[Scope a project]]
 [[Schedule the project]]
@@ -9,11 +15,10 @@ Output: Scope of Work
 [[Execute the project]]
 [[Communicate progress]]
 
-Definition
-Short-term initiatives that get you closer to [[Goals]]
-Can be divided into [[Key results]] 
-Consists of multiple [[Deliverables]] over a long period
-Accomplishable in a defined period, not a recurring set of tasks like [[Habits]]
+Sources of joy
+Finishing a task before the estimate
+Having the plan so clear you are excited to do it
+Knowing each action you take is meaningful
 
 References
 Add a name to it, makes it more identifiable in your mind - Smart
@@ -47,7 +52,3 @@ Harmony
 Respects my current load and prevents overcapacity
 Includes my recurring responsibilities
 
-Sources of joy
-Finishing a task before the estimate
-Having the plan so clear you are excited to do it
-Knowing each action you take is meaningful

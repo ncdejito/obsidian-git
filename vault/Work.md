@@ -6,6 +6,7 @@
 * Deal with [[Workmates]]
 * [[Level up]]
 
+[[Using Pomodoro at work]]
 
 Guideline:
 Category must have an existing job opening

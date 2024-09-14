@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Optimal control.md",
+                "file": "vault/Plan tomorrow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Optimal control.md",
+                "file": "vault/Plan tomorrow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Optimal control.md",
+                "file": "vault/Plan tomorrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Optimal control.md"
+                "file": "vault/Plan tomorrow.md"
               }
             }
           },
@@ -176,6 +176,18 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
+    "vault/Reflect on today.md",
+    "vault/Reflect on last month.md",
+    "vault/Reflect.md",
+    "vault/Rewards.md",
+    "vault/Reflect on last week.md",
+    "vault/Work.md",
+    "vault/Using Pomodoro at work.md",
+    "vault/Workspace.md",
+    "vault/Physical workspace.md",
+    "vault/Travel.md",
+    "vault/Coworking spaces.md",
+    "vault/Optimal control.md",
     "vault/Control theory.md",
     "vault/Sinking seaweed.md",
     "vault/Efficient ML.md",
@@ -190,18 +202,6 @@
     "vault/Make a case.md",
     "vault/Collectivism.md",
     "vault/Individualism.md",
-    "vault/Politics.md",
-    "vault/Human rights.md",
-    "vault/Libertarianism.md",
-    "vault/Liberalism.md",
-    "vault/Macroeconomics.md",
-    "vault/Make money.md",
-    "vault/Manage your money.md",
-    "vault/Take care of yourself.md",
-    "vault/Economics.md",
-    "vault/Microeconomics.md",
-    "vault/Build a business.md",
-    "vault/Sell.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

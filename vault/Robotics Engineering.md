@@ -27,6 +27,8 @@ Marine Robotics - [ROS Marine Vehicle Packages](https://discourse.ros.org/t/rele
 [[Self driving cars]]
 Soft robotics https://github.com/villekuosmanen/voyage-touch
 Industrial robots https://www.linkedin.com/posts/hmorvaridifa_robotics-cobots-industrialabrarms-activity-7231623545426984960-5pP-?utm_source=share&utm_medium=member_android
+List of all ros companies by victor mayoral vilches
+
 
 ## Applications
 Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)
