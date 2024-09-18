@@ -36,6 +36,7 @@ When stuck:
 Break down smaller subtasks  
 Understand core concepts  
 Try solving another problem
+Binary search debugging - comment out half of codebase then check if can reproduce the bug
 
 Approaches
 Top down

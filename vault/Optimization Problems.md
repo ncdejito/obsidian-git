@@ -10,3 +10,5 @@ Travelling Salesman Problem
 
 Capacitated Vehicle Routing Problem
  finding the most efficient way to deliver goods or services to multiple locations using a fleet of vehicles with limited carrying capacities
+
+[[Graph optimization]]

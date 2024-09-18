@@ -3,9 +3,10 @@ Estimate uncertainty with [[Statistics]]
 Optimize inputs subject to constraints with [[Operations Research]]
 Model relationships with [[Graph Theory]]
 Find underlying patterns in chaos with [[Chaos Theory]]
+Solve geometry problems with [[Computational Geometry]]
+Think about uncertainty using [[Probability]]
 
-[[Computational Geometry]]
-[[Probability]]
-
+Future topics
 Math Fundamentals for Robotics
 https://www.cs.cmu.edu/~me/811/
+Mathematical programming (Linear programming, Mixed-integer programming), (Meta)Heuristic algorithms, Stochastic Process, or Combinatorial Optimization.

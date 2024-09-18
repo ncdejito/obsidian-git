@@ -3,12 +3,18 @@ objective is to develop a model or algorithm governing the application of system
 
 pid controller
 mpc controller - more used in industry
-ESE - from Kurt
+ESC - electronic speed controllers
 
+Control method
 [[Adaptive control]]
 [[Optimal control]]
 
-Lyapunov stability theorem - used for evaluating the stability of a system
+Nonlinear control techniques
+Feedback linearization
+Sliding mode control
+Backstepping
+
+[[Lyapunov stability]]
 
 Classic Controls, Feedback/Feedforward controllers, Cascade control systems
 fast control prototyping systems such as speedgoat, xPC, or any other type of real-time machine
@@ -20,6 +26,39 @@ Steve Brunton also has an awesome youtube channel on dynamic systems, control, a
 
 Brian Douglas youtube channel on control systems
 
+
+Gradient descent
+Lipschitz continuity
+Probabilistic robotics book
+X Ros2 controller papers
+Hyunggi optimization resources
+X Robotics graduate books
+
+Siam books on adaptive control
+Backstepping
+Feedback linearization
+Control lyapunov functions
+
+Spong multivariable control chapter
+Feedback linearization
+Passivity based robust/adaptive control
+
+Ogata stability analysis
+Nyquist criterion - only for time invariant systems
+
+Craig lyapunov stability analysis
+Mathematical proving
+
+Khatib tracking control
+Options for adaptive control
+Passivity - quality of a system than ensures stability
+Robust control - same as optimal?
+Input to state stability ISS
+adaptive motion control of rigid robots a tutorial - spong
+
+Rupert
+Way to stabilizie
+Phase margin
 
 **
 

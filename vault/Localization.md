@@ -5,6 +5,7 @@ Problems
 Drift
 Dead reckoning
 [[State Estimation]]
+[[Bundle adjustment]]
 
 method - 3 paradigms
 

@@ -10,6 +10,7 @@ Best practices
 GraphQL - open-source data query language and data manipulation language for APIs, and a query runtime engine
 
 [[Webhook]]
+Shim - a library that transparently intercepts API calls and changes the arguments passed
 
 Popular API architecture styles
 https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7069336767346159616-Nb1x?utm_source=share&utm_medium=member_desktop

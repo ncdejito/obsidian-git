@@ -33,3 +33,6 @@ Camera basics
 
 Best free resources to get started - William Sitch
 https://www.linkedin.com/pulse/best-free-resources-get-started-robotic-perception-william-sitch
+
+Sensors
+https://www.pcb-hero.com/blogs/lickys-column/different-types-of-sensors-and-their-working?utm_source=licky&utm_medium=Linkedin&utm_campaign=post20240831164648&utm_content=native_video

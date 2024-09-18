@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/Control theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/Control theory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Plan tomorrow.md",
+                "file": "vault/Control theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Plan tomorrow.md"
+                "file": "vault/Control theory.md"
               }
             }
           },
@@ -176,32 +176,32 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
+    "vault/Avoid overthinking.md",
+    "vault/Choose to do a project.md",
+    "vault/Rank ideas.md",
+    "vault/Decide.md",
+    "vault/Object-Oriented Programming.md",
+    "vault/Program in Reactive.md",
+    "vault/Sleep.md",
+    "vault/Use Mesh Networks.md",
+    "vault/Math.md",
+    "vault/Probability.md",
+    "vault/Computational Geometry.md",
+    "vault/Guidance Navigation and Controls (GNC).md",
+    "vault/Control Systems.md",
+    "vault/Control theory.md",
+    "vault/Camera Calibration.md",
+    "vault/AWS.md",
+    "vault/Lyapunov stability.md",
+    "vault/Bundle adjustment.md",
+    "Graph optimization.md",
+    "vault/Plan tomorrow.md",
+    "vault/Swarm planning.md",
     "vault/Reflect on today.md",
     "vault/Reflect on last month.md",
     "vault/Reflect.md",
     "vault/Rewards.md",
     "vault/Reflect on last week.md",
-    "vault/Work.md",
-    "vault/Using Pomodoro at work.md",
-    "vault/Workspace.md",
-    "vault/Physical workspace.md",
-    "vault/Travel.md",
-    "vault/Coworking spaces.md",
-    "vault/Optimal control.md",
-    "vault/Control theory.md",
-    "vault/Sinking seaweed.md",
-    "vault/Efficient ML.md",
-    "vault/Bezier curve.md",
-    "vault/Climate tech.md",
-    "vault/Cover Letter.md",
-    "vault/Behaviors.md",
-    "vault/Understand Behavior Trees.md",
-    "vault/Ethics.md",
-    "vault/How to make anything.md",
-    "vault/Music.md",
-    "vault/Make a case.md",
-    "vault/Collectivism.md",
-    "vault/Individualism.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

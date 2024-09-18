@@ -1,5 +1,8 @@
 [[Robotics Engineering]] [[Machine Learning]]
 
+Rum - no finetuning/training
+http://robotutilitymodels.com/
+
 Survey on foundation models
 https://arxiv.org/html/2312.07843v1
 

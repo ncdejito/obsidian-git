@@ -23,5 +23,8 @@ https://www.linkedin.com/posts/felipe-jeon-491773226_moveit-navigation-icra-acti
 Small projects
 https://www.linkedin.com/posts/activity-7194954386467442688-jV-b?utm_source=share&utm_medium=member_android
 
+Nature inspired path planners
+https://onlinelibrary.wiley.com/doi/full/10.1155/2018/8269698
+
 Reference
 Planning Algorithms by LaValle
