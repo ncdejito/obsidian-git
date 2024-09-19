@@ -3,7 +3,7 @@
 Satisficing
 Proof of good fit
 Career objective
-When can you start
+Proposed idea for product improvement
 
 Source of joy
 Developing relationships with strangers

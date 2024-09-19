@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Control theory.md",
+                "file": "vault/Pointers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Control theory.md",
+                "file": "vault/Pointers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Control theory.md",
+                "file": "vault/Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Control theory.md"
+                "file": "vault/Pointers.md"
               }
             }
           },
@@ -176,6 +176,11 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
+    "vault/Virtual Memory Management.md",
+    "vault/C++.md",
+    "vault/Cover Letter.md",
+    "vault/Agritech.md",
+    "vault/Control theory.md",
     "vault/Avoid overthinking.md",
     "vault/Choose to do a project.md",
     "vault/Rank ideas.md",
@@ -189,7 +194,6 @@
     "vault/Computational Geometry.md",
     "vault/Guidance Navigation and Controls (GNC).md",
     "vault/Control Systems.md",
-    "vault/Control theory.md",
     "vault/Camera Calibration.md",
     "vault/AWS.md",
     "vault/Lyapunov stability.md",
@@ -198,10 +202,6 @@
     "vault/Plan tomorrow.md",
     "vault/Swarm planning.md",
     "vault/Reflect on today.md",
-    "vault/Reflect on last month.md",
-    "vault/Reflect.md",
-    "vault/Rewards.md",
-    "vault/Reflect on last week.md",
     "Rule of 5/3",
     "Rule of 5"
   ]
