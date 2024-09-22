@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Pointers.md",
+                "file": "vault/Lyapunov stability.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Pointers.md",
+                "file": "vault/Lyapunov stability.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Pointers.md",
+                "file": "vault/Lyapunov stability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Pointers.md"
+                "file": "vault/Lyapunov stability.md"
               }
             }
           },
@@ -176,11 +176,17 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
+    "vault/Control theory.md",
+    "vault/Lyapunov stability.md",
+    "vault/C++ specifiers.md",
+    "vault/Motion Control.md",
+    "vault/Smoothers.md",
+    "vault/Use Nav2.md",
+    "vault/Pointers.md",
     "vault/Virtual Memory Management.md",
     "vault/C++.md",
     "vault/Cover Letter.md",
     "vault/Agritech.md",
-    "vault/Control theory.md",
     "vault/Avoid overthinking.md",
     "vault/Choose to do a project.md",
     "vault/Rank ideas.md",
@@ -196,12 +202,6 @@
     "vault/Control Systems.md",
     "vault/Camera Calibration.md",
     "vault/AWS.md",
-    "vault/Lyapunov stability.md",
-    "vault/Bundle adjustment.md",
-    "Graph optimization.md",
-    "vault/Plan tomorrow.md",
-    "vault/Swarm planning.md",
-    "vault/Reflect on today.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

@@ -11,6 +11,8 @@ Methods
 * Vector Pursuit - better for self driving cars with not much obstacles
 https://www.blackcoffeerobotics.com/blog/vector-pursuit-controller-plugin-for-ros2-navigation
 * effort controllers - reduce jerkiness of motion https://get-help.theconstruct.ai/t/understanding-the-effort-controller-jointtrajectorycontroller/20787
+* Graceful controller - a [[Lyapunov stability]] controller
+	* https://github.com/ros-navigation/navigation2/tree/main/nav2_graceful_controller
 
 A convergent dynamic window approach to obstacle avoidance by Ogren  
 Done only in simulation
