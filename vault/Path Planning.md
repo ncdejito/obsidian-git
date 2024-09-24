@@ -14,6 +14,8 @@ Costmap
 
 Floodfill maze stuff
 
+[[Coverage path planning]]
+
 [[Use Nav2]]
 [[Global navigation satellite system GNSS]]
 

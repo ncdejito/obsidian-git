@@ -1,5 +1,9 @@
 [[Programming Languages]]
 
+Not garbage collected
+Defer keyword - clever sabi ni Joel
+
+Exercises
 [ziglings](https://github.com/ratfactor/ziglings)
 
 Zig vs rust

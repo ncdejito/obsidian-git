@@ -39,3 +39,17 @@ https://github.com/ros-navigation/navigation2/blob/main/nav2_mppi_controller/src
 
 Modern ml control
 https://www.linkedin.com/posts/ardalantajbakhsh_robotics-roboticsresearch-reinforcementlearning-activity-7238311854278651905-Tv25
+
+Nice to know
+Reverse is opposite spot turn, cannot both enable
+Smac planner no need for optimization based smoothing
+Speed limits are masks applied over the whole map
+Different method of funneling the control signal
+Graceful controller - lyapunov stable, has stability analysis
+
+What are these and can I use them?
+softmax mppi - how does mppi enable multi objective function without needing convex and differentiable?
+rotate to goal critic - hypotenuse squared (why?)
+https://github.com/ros-navigation/navigation2/blob/771eca41bb7b6ad26856c434dd79e48a399c4601/nav2_dwb_controller/dwb_critics/src/rotate_to_goal.cpp#L103C23-L103C31
+path inversion in smac
+Regulated pure pursuit carrot - used to avoid oscillating when exceeding the goal

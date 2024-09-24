@@ -13,3 +13,9 @@ Dynamic window approach DWA
 
 Motion planners
 https://www.linkedin.com/posts/felipe-jeon-491773226_moveit-navigation-icra-activity-7096390677759987712-D13U?utm_source=share&utm_medium=member_android
+
+Lm-nav
+Visual navigation
+
+More to search
+Llms and vlms for semantic mapping and graph based navigation techniques

@@ -6,9 +6,7 @@
 [[Cook meat]]
 Buy preprocessed vegan
 
-Diet
-Intermittent fasting - eat only at specific time periods
-Paleo - avoid processed bec too many unhealthy additives
+[[Diet]]
 
 Lifestyle caused diseases
 High cholesterol - too much oil

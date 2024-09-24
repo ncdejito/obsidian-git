@@ -1,3 +1,8 @@
+
+Bayesian vs frequentist
+Updating belief of the world
+Apriori
+
 Probability primer
 Recurring definitions
 State estimation - where am I, what does the world look like

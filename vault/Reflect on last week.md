@@ -14,5 +14,4 @@ Learnings
 Feelings
 - Gratitude
 Goals
-* Update at Key Results on Airtable
-* Delete Done tasks on Airtable
+* View Goals gdoc

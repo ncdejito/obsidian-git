@@ -1,4 +1,6 @@
 #job 
+
+Why: zero overhead cost
 ## Concerns
 [[Virtual Memory Management]]
 [[Object-Oriented Programming]]

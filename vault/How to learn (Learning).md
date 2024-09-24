@@ -91,7 +91,8 @@ Reflecting on new learning and questioning what you think are how you build new 
  
 SPACED REPETITION
 When you learn a new concept or fact, make sure to revisit it every once in a while to make sure that it sticks in your memory. This kind of practice is most effective when it is spaced out (leaving time between practice sessions) and interleaved with other kinds of learning of subjects.
- 
+
+ Forgetting curve by ebbinghaus
 "To be most effective, retrieval must be repeated again and again, in spaced out sessions so that the recall requires some cognitive effort. Repeated recall appears to help memory consolidate into a cohesive representation in the brain and to strengthen and multiply the neural routes by which the knowledge can later be retrieved"
 
 
