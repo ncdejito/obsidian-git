@@ -17,5 +17,8 @@ https://www.linkedin.com/posts/felipe-jeon-491773226_moveit-navigation-icra-acti
 Lm-nav
 Visual navigation
 
+Gnm general navigation to drive any robot
+https://ieeexplore.ieee.org/abstract/document/10161227
+
 More to search
 Llms and vlms for semantic mapping and graph based navigation techniques

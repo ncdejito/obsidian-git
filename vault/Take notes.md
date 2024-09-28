@@ -18,15 +18,6 @@ Tools
 [[Use Obsidian]]
 
 References
-
-Personal
-Write stray thoughts (RAM)
-* GKeep note
-During day review, summarize and save to appropriate project (RAM)
-* Gdoc
-During week review, summarize and save usable processes (ROM)
-* [[Use Obsidian]]
-
 Building a second brain by Tiago Forte
 
 Capture what resonates

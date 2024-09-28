@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Ethics.md",
+                "file": "vault/Structured binding.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Ethics.md",
+                "file": "vault/Structured binding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Ethics.md",
+                "file": "vault/Structured binding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Ethics.md"
+                "file": "vault/Structured binding.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
+    "vault/Llm programming.md",
+    "vault/Ethics.md",
     "vault/Coverage path planning.md",
     "vault/Path Planning.md",
     "vault/Agritech.md",
@@ -200,8 +202,6 @@
     "vault/Use Mesh Networks.md",
     "vault/Math.md",
     "vault/Probability.md",
-    "vault/Computational Geometry.md",
-    "vault/Guidance Navigation and Controls (GNC).md",
     "Rule of 5/3",
     "Rule of 5"
   ]

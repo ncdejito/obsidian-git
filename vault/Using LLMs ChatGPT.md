@@ -1,3 +1,4 @@
+[[Llm programming]]
 
 Building gpt2 git repo andrej karpathy
 https://www.linkedin.com/posts/liorsinclair_karpathy-just-dropped-a-new-must-watch-activity-7205970653034770432-j5U6?utm_source=share&utm_medium=member_android

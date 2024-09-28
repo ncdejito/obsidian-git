@@ -3,6 +3,9 @@
 Rum - no finetuning/training
 http://robotutilitymodels.com/
 
+Blogpost by arm bot guy
+https://medium.com/@mjvogelsong/unlocking-the-future-of-robotic-intelligence-991e151bffe9
+
 Survey on foundation models
 https://arxiv.org/html/2312.07843v1
 

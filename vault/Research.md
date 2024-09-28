@@ -1,3 +1,6 @@
+## Understand the problem
+Introduction section of survey papers usually explain it well
+
 ## Get a survey of the field
 
 Table of contents from seminal books
