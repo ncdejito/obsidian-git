@@ -12,6 +12,8 @@ Just feel it, making it important but not overwhelming, until it eventually goes
 	- Restless -> Yoga
 	- Nervous -> Deep breaths
 	- Unmotivated -> Set small goals
+
+[[Cant sleep]]
  
 Mood lifters
 . Crying - must not lead to further rumination

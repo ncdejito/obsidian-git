@@ -3,6 +3,9 @@ Llms training in 2024 by huggingface ceo
 
 [[Attention]]
 
+Llama3 1 memory requirements
+https://huggingface.co/blog/llama31#inference-memory-requirements
+
 Llms from scratch
 https://email.changelog.com/t/t-l-eltjiit-wjuliuuyk-ir/
 

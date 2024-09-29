@@ -1,6 +1,5 @@
 
-UK visa sponsors list of companies
-https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers
+[[Find a job in the UK]]
 
 Japan jobs
 Onlineservices dmw gov ph

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Structured binding.md",
+                "file": "vault/Real estate.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Structured binding.md",
+                "file": "vault/Real estate.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Structured binding.md",
+                "file": "vault/Real estate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Structured binding.md"
+                "file": "vault/Real estate.md"
               }
             }
           },
@@ -176,6 +176,14 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
+    "vault/TOPS.md",
+    "vault/Embedded AI.md",
+    "vault/Real estate.md",
+    "vault/Invest.md",
+    "vault/Manage your money.md",
+    "vault/Cant sleep.md",
+    "vault/Find a job in the UK.md",
+    "vault/Structured binding.md",
     "vault/Llm programming.md",
     "vault/Ethics.md",
     "vault/Coverage path planning.md",
@@ -194,14 +202,6 @@
     "vault/Cover Letter.md",
     "vault/Avoid overthinking.md",
     "vault/Choose to do a project.md",
-    "vault/Rank ideas.md",
-    "vault/Decide.md",
-    "vault/Object-Oriented Programming.md",
-    "vault/Program in Reactive.md",
-    "vault/Sleep.md",
-    "vault/Use Mesh Networks.md",
-    "vault/Math.md",
-    "vault/Probability.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

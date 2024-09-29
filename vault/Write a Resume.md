@@ -4,6 +4,10 @@ STAR - situation task action result
 
 Source of joy
 Recognize how previous experience might help other people
+
+Hacks
+Delete grad year to prevent ageism
+
 ## Principles
 Fundamentals of an awesome resume
 1. it's a marketing document, not your autobiography - dont list everything down, what will convince them to invite you for an interview
