@@ -15,6 +15,7 @@ Components
 How to build
 * Emulate role models using [[Invent a Character]]
 * [[Build confidence]]
+* Self-awareness - avoid humiliation through honesty on limitations
 
 ChatGPT
 Creativity: Entrepreneurs must be able to come up with new and innovative ideas that will set them apart from competitors.

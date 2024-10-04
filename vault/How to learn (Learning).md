@@ -33,13 +33,7 @@ Retrieve it
 - Observe experts in action - watch them while they’re working
 
 Tools
-ChatGPT prompts
-https://www.linkedin.com/posts/alex-brogan_top-prompts-to-accelerate-your-learning-using-ugcPost-7085513673254846464-0q5h?utm_source=share&utm_medium=member_desktop
-* Explain __ in the simplest terms possible as if teaching it to a complete beginner. Identify gaps in my understanding and suggest resources to fill them
-* Help me create mental models or analogies to better understand and remember key concepts in ___
-* Guide me through a visualization exercise to help me internalize __ and imagine myself successfully applying it in real-life situations.
 
-Anki review cards [legend](https://docs.ankiweb.net/studying.html#review-cards)
 
 Something weird to associate thing with thing e.g. japanese symbols
 
@@ -67,7 +61,10 @@ Repeatedly retrieving concepts from memory is one of the best ways to learn them
 Repeated retrieval can embed knowledge pretty deep so that it becomes reflexive.
  
 ~ "Rereading is time consuming and doesn’t result in durable memory. And it often involves a kind of unwitting self-deception, as growing familiarity with the text comes to feel like mastery of the content. One of the best habits a learner can instill is regular self quizzing to calibrate understanding of what you do and do not know"
- 
+
+[[Forgetting curve]]
+Anki review cards [legend](https://docs.ankiweb.net/studying.html#review-cards)
+
 INTERLEAVING
 Switching between related learning tasks in a single session can help solidify learning.
  
@@ -115,6 +112,12 @@ how to build expertise in a new field
 - Observe experts in action - watch them while they’re working
 - Seek mini experiences - identify opportunities to experience in limited fashion situations that made experts valuable to organization
 - Add visible value as soon as possible - take over small part of work expert is willing or eager to relinquish
+
+How to study whole fields - by me
+Common sense - start with questions, concern, first principles
+Graduate textbook/encyclopedia/survey paper - for basics, systematic scan of field
+Money - where is the money coming from
+Research papers/conferences - cutting edge
 
 Learning direction
 Obsidian, feed learnings to gdoc then transfer if recalled, feel like growing a garden again, topics obsidian, gdocs book outlines

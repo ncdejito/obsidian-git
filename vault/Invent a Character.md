@@ -11,3 +11,7 @@ Develop the Physicality
 Practice
 
 Schedule when to become one with Alarms (Sahil Bloom)
+
+Types of players according to [[Game design]]
+BrainHex
+Bartle taxonomy of player types

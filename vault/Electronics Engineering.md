@@ -25,7 +25,8 @@ Lessons
 Hardware
 computers
 hardware and software interaction
-Batteries, solar panels
+[[Batteries]]
+solar panels
 Analog and digital modelling
 Super conductors
 batteries

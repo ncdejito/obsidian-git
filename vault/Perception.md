@@ -4,7 +4,7 @@ Detect obstacles
 Recognize landmarks
 
 Problems
-* [[Obstacle detection]]
+* [[Obstacle avoidance]]
 * [[Landmark detection]]
 * [[Freespace detection]]
 * [[Sensor fusion]]

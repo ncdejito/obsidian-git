@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Real estate.md",
+                "file": "vault/Market Product to Customers (Marketing).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Real estate.md",
+                "file": "vault/Market Product to Customers (Marketing).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Real estate.md",
+                "file": "vault/Market Product to Customers (Marketing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Real estate.md"
+                "file": "vault/Market Product to Customers (Marketing).md"
               }
             }
           },
@@ -176,9 +176,25 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
+    "vault/How to learn (Learning).md",
+    "vault/Forgetting curve.md",
+    "vault/Reflect on last month.md",
+    "vault/Reflect.md",
+    "vault/Reflect on last week.md",
+    "vault/Conferences.md",
+    "vault/Motion Planning.md",
+    "vault/Obstacle avoidance.md",
+    "vault/Perception.md",
+    "vault/Calculus.md",
+    "vault/Math.md",
+    "vault/Batteries.md",
+    "vault/Electronics Engineering.md",
+    "vault/Sequence diagram.md",
+    "vault/Real estate.md",
+    "vault/Game design.md",
+    "vault/Solve a problem.md",
     "vault/TOPS.md",
     "vault/Embedded AI.md",
-    "vault/Real estate.md",
     "vault/Invest.md",
     "vault/Manage your money.md",
     "vault/Cant sleep.md",
@@ -186,22 +202,6 @@
     "vault/Structured binding.md",
     "vault/Llm programming.md",
     "vault/Ethics.md",
-    "vault/Coverage path planning.md",
-    "vault/Path Planning.md",
-    "vault/Agritech.md",
-    "vault/Diet.md",
-    "vault/Lyapunov stability.md",
-    "vault/Control theory.md",
-    "vault/C++ specifiers.md",
-    "vault/Motion Control.md",
-    "vault/Smoothers.md",
-    "vault/Use Nav2.md",
-    "vault/Pointers.md",
-    "vault/Virtual Memory Management.md",
-    "vault/C++.md",
-    "vault/Cover Letter.md",
-    "vault/Avoid overthinking.md",
-    "vault/Choose to do a project.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

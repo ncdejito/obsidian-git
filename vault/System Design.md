@@ -16,8 +16,6 @@ High level design [[Find usable design patterns]]
 Deep-dive [[Find usable existing components]]
 Wrap up
 
-Sequence diagrams: PlanttextUML
-
 Execute
 [[Trace the critical path]] of 1 small data example
 Do quickstarts after [[Find usable existing components]]
@@ -27,6 +25,7 @@ Do quickstarts after [[Find usable existing components]]
 [[Apply software design principles]]
 [[Avoid common mistakes in distributed]]
 [[Document code]]
+Document with [[Sequence diagram]]
 
 ## Example systems
 [Twitter System from Elon](https://www.linkedin.com/posts/eric-vyacheslav-156273169_elon-just-tweeted-the-whole-twitter-back-end-activity-6999730758609170432-w-fB?utm_source=share&utm_medium=member_desktop)

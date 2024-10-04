@@ -2,6 +2,7 @@
 [[Write]]
 [[First principles]]
 [[Mental Models]]
+[[Solve a problem]]
 
 Test you assumptions
 Socratic questioning

@@ -5,6 +5,7 @@ Model relationships with [[Graph Theory]]
 Find underlying patterns in chaos with [[Chaos Theory]]
 Solve geometry problems with [[Computational Geometry]]
 Think about uncertainty using [[Probability]]
+Analyze rates of change using [[Calculus]]
 
 Future topics
 Math Fundamentals for Robotics
