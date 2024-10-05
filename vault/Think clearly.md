@@ -13,4 +13,5 @@ Socratic questioning
 - Implications - Examining consequences and implications (What if I am wrong? What are the consequences if I am?)
 - Conclusions - Questioning the original questions (Why did I think that? Was I correct? What conclusions can I draw from the reasoning process?)
 
+References
 Clear thinking shane parrish

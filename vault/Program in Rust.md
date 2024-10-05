@@ -22,6 +22,9 @@ https://github.com/google/comprehensive-rust
 3 day course by ntietz
 https://www.linkedin.com/posts/tietzdev_introducing-yet-another-rust-resource-or-activity-7130532816781504512-Jlly?utm_source=share&utm_medium=member_android
 
+Exercises in rust
+https://email.changelog.com/t/t-l-syhykld-wjuliuuyk-ui/
+
 ## Applications
 Embedded
 ORM [Diesel](https://diesel.rs/)

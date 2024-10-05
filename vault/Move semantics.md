@@ -62,3 +62,5 @@ Rule of 3/5/0 - from recap section of https://web.stanford.edu/class/cs106l/lect
 C++ move semantics by josuttis
 * Core features for move semantics
 * ways to apply move semantics (2.4 overloading by different references)
+
+Quiz for move semantics - klaus iglberger yt cppcon 2019~

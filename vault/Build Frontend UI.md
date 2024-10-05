@@ -48,3 +48,7 @@ Add fb messenger plugin [tutorial](https://www.youtube.com/watch?v=NCM0f0uChQQ)
 https://the-collab-lab.codes/ - collab projects for frontend
 https://github.com/felipefialho/frontend-challenges
 [[P5JS]] - creative coding
+
+References
+Odin Project - fundamentals up to react course
+w3.org web accessibility standards

@@ -53,3 +53,7 @@ Test Suite - collection of tests
 
 Tools
 gcov - coverage
+
+References
+Intro to GTest and GMock
+https://www.linkedin.com/posts/polychronis-k-7a121912_nice-introductory-course-recommended-activity-7247883592133992448-VHyB?utm_source=share&utm_medium=member_desktop

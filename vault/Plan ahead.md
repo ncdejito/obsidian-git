@@ -31,6 +31,7 @@ GCalendar
 Gdocs  
 GithubProjects
 Fer - Just notes and gcal lel
+Toggl - time tracking
 
 References for Project Management
 [Time Management for Mortals](https://www.sloww.co/four-thousand-weeks/)

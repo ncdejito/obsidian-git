@@ -3,6 +3,12 @@
 * classic essay
 * mid-batch pivots
 
+Choices for strategy
+Hackathons as potential first strategy for founding
+Like Theseus
+
+Launching a landing page to estimate demand
+
 Things that create value
 Software that generates rev duh
 Saves so much time

@@ -45,7 +45,7 @@ The Flow
 - [[Deal with envy]]
 - [[Deal with uncertainty]]
 - [[Handle moments of crisis]]
-[[Stress]]
+- Deal with [[Stress]]
 
 [[Hormones]]
 

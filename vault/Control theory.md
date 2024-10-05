@@ -34,7 +34,9 @@ X Ros2 controller papers
 Hyunggi optimization resources
 X Robotics graduate books
 
-
+References
+All you need to know about control theory
+https://youtu.be/lBC1nEq0_nk?si=Bkm_v5Pg89YezVYF
 
 **
 

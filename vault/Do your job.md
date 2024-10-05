@@ -26,6 +26,11 @@ If overwhelmed and procrastinating against a deadline: spend the time you alloca
 run timer for planned timeblocks no pausing
 On the day itself, run toggl trigger and just show up no matter how inefficient you think youre working
 
+How to enjoy work
+Contribution
+Connection
+Growth
+
 ARTICLE: How to Keep Working When You’re Just Not Feeling It
 1. Design Goals not Chores
 	1. make it concrete

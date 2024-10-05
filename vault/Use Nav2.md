@@ -14,7 +14,6 @@ https://www.linkedin.com/posts/steve-macenski-41a985101_from-the-desks-of-ros-ma
 * [[Nav2 Services]]
 * [[Nav2 Actions]]
 
-
 ## Concepts
 * [[Use ROS2]]
 	* Lifecycle Nodes
@@ -31,7 +30,7 @@ https://www.linkedin.com/posts/steve-macenski-41a985101_from-the-desks-of-ros-ma
 
 
 ## Errors
-usual problems  
+Usual problems  
 Different topic name  
 Different frame name
 

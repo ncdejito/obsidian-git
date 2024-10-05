@@ -5,6 +5,8 @@ Simultaneous [[Localization]] and [[Mapping]]
 Concern
 Solves chicken and egg problem of map availability vs no movement history
 
+[[VSLAM]]
+
 Feb 4, Bayesian Thinking
 Feb 11, Working with Matrices
 Feb 18, C++ Basics
@@ -26,6 +28,9 @@ Jan 26, Path Planning and Navigation
 
 Low cost 3D [conference](https://lc3d.fbk.eu/)
 [Robotics Knowledge Base](https://roboticsknowledgebase.com/wiki/sensing/pcl/#3d-slam)
+
+Structure from Motion
+https://50sfm.fbk.eu/
 
 SLAM roadmap
 https://github.com/changh95/visual-slam-roadmap

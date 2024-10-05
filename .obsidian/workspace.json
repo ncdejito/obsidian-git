@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Market Product to Customers (Marketing).md",
+                "file": "vault/Dream job.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Market Product to Customers (Marketing).md",
+                "file": "vault/Dream job.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Market Product to Customers (Marketing).md",
+                "file": "vault/Dream job.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Market Product to Customers (Marketing).md"
+                "file": "vault/Dream job.md"
               }
             }
           },
@@ -176,32 +176,32 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
-    "vault/How to learn (Learning).md",
-    "vault/Forgetting curve.md",
-    "vault/Reflect on last month.md",
-    "vault/Reflect.md",
-    "vault/Reflect on last week.md",
-    "vault/Conferences.md",
-    "vault/Motion Planning.md",
-    "vault/Obstacle avoidance.md",
-    "vault/Perception.md",
-    "vault/Calculus.md",
-    "vault/Math.md",
-    "vault/Batteries.md",
-    "vault/Electronics Engineering.md",
-    "vault/Sequence diagram.md",
-    "vault/Real estate.md",
-    "vault/Game design.md",
-    "vault/Solve a problem.md",
-    "vault/TOPS.md",
-    "vault/Embedded AI.md",
-    "vault/Invest.md",
-    "vault/Manage your money.md",
-    "vault/Cant sleep.md",
-    "vault/Find a job in the UK.md",
-    "vault/Structured binding.md",
-    "vault/Llm programming.md",
-    "vault/Ethics.md",
+    "vault/Software Engineering.md",
+    "vault/Dream job.md",
+    "vault/Robotics Engineering.md",
+    "vault/Build a career.md",
+    "vault/Get a Job.md",
+    "vault/Do your job.md",
+    "vault/Apply for a job.md",
+    "vault/Cover Letter.md",
+    "vault/Add value.md",
+    "vault/Find a job.md",
+    "vault/C++ Testing.md",
+    "vault/Kalman Filter.md",
+    "vault/VSLAM.md",
+    "vault/Space SLAM.md",
+    "vault/Structure from Motion.md",
+    "vault/FastAPI.md",
+    "vault/Accounting.md",
+    "vault/Interfaces.md",
+    "vault/Make it Cost-aware.md",
+    "vault/Optimization Problems.md",
+    "vault/Control theory.md",
+    "vault/Pointer bugs.md",
+    "vault/Study.md",
+    "vault/Use Go.md",
+    "vault/Family.md",
+    "vault/Join an industry.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

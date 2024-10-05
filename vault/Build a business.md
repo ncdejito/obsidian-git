@@ -14,7 +14,7 @@ Are you up to the Herculean task of building enduring businesses?
 12. Get [[Funding]]
 13. [[Use tested Business Model]]
 14. [[Build a company]]
-
+[[Build a single person business]]
 Lean startup
 
 free pos app - https://loyverse.com/

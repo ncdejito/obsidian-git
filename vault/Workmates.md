@@ -1,14 +1,16 @@
-NOT a family, people with shared goals and standards for excellence
+NOT a family, people with shared goals and standards for excellence, a "sports team"
 
 Treat as if every second counts when you talk to them
 
+Concrete interactions
 [[Ask questions]]
 [[Give feedback]]
 [[Make slides]]
 [[Work meetings]]
+
+Soft skills
 [[Push back on more work]]
 [[Say sorry less]]
-
 [[Keep in touch with Colleagues]]
 
 Relationships at Work Adam Grant

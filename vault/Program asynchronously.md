@@ -4,9 +4,9 @@
 	* promise - an object that will return a value in future, well-suited for asynchronous operations
 	* async/await
 	
-## Make objects immutable
+Make objects immutable
 immutability prevents race conditions
-single instruction multiple data (SIMD) principle
+single instruction multiple data ([[SIMD]]) principle
 
 Proponents
 - John Carmack quake doom rage - c++ programmer that advocates for immutability
