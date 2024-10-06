@@ -111,3 +111,6 @@ https://github.com/iryna-kondr/scikit-llm
 
 Mistral RS rust blazingly fast inference
 https://www.linkedin.com/posts/anant-gupta_llms-llms-rust-activity-7191759485839765504-ALI1?utm_source=share&utm_medium=member_desktop
+
+Handson LLM by oreilly
+https://github.com/HandsOnLLM/Hands-On-Large-Language-Models

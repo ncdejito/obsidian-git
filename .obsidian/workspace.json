@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Dream job.md",
+                "file": "vault/Nav2 GPS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Dream job.md",
+                "file": "vault/Nav2 GPS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Dream job.md",
+                "file": "vault/Nav2 GPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Dream job.md"
+                "file": "vault/Nav2 GPS.md"
               }
             }
           },
@@ -176,8 +176,12 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
-    "vault/Software Engineering.md",
+    "vault/Global navigation satellite system GNSS.md",
+    "vault/Nav2 GPS.md",
+    "vault/Depth estimation.md",
+    "vault/Find a job abroad.md",
     "vault/Dream job.md",
+    "vault/Software Engineering.md",
     "vault/Robotics Engineering.md",
     "vault/Build a career.md",
     "vault/Get a Job.md",
@@ -198,10 +202,6 @@
     "vault/Optimization Problems.md",
     "vault/Control theory.md",
     "vault/Pointer bugs.md",
-    "vault/Study.md",
-    "vault/Use Go.md",
-    "vault/Family.md",
-    "vault/Join an industry.md",
     "Rule of 5/3",
     "Rule of 5"
   ]
