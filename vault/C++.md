@@ -28,6 +28,7 @@ Notes
 * Learncpp .com
 * [C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) - 4months memory management and concurrency
 * Back to Basics CppCon YT
+* c++ roadmap sh
 
 cpppnow
 

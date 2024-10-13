@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Nav2 GPS.md",
+                "file": "vault/Statistics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Nav2 GPS.md",
+                "file": "vault/Statistics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Nav2 GPS.md",
+                "file": "vault/Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Nav2 GPS.md"
+                "file": "vault/Statistics.md"
               }
             }
           },
@@ -176,10 +176,16 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
-    "vault/Global navigation satellite system GNSS.md",
-    "vault/Nav2 GPS.md",
-    "vault/Depth estimation.md",
+    "vault/KL divergence.md",
     "vault/Find a job abroad.md",
+    "vault/Statistics.md",
+    "vault/Math.md",
+    "vault/Databases.md",
+    "vault/Design pattern.md",
+    "vault/C++.md",
+    "vault/Nav2 GPS.md",
+    "vault/Global navigation satellite system GNSS.md",
+    "vault/Depth estimation.md",
     "vault/Dream job.md",
     "vault/Software Engineering.md",
     "vault/Robotics Engineering.md",
@@ -196,12 +202,6 @@
     "vault/Space SLAM.md",
     "vault/Structure from Motion.md",
     "vault/FastAPI.md",
-    "vault/Accounting.md",
-    "vault/Interfaces.md",
-    "vault/Make it Cost-aware.md",
-    "vault/Optimization Problems.md",
-    "vault/Control theory.md",
-    "vault/Pointer bugs.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

@@ -13,6 +13,7 @@ https://www.linkedin.com/posts/danleedata_in-data-science-its-the-boring-stuff-a
 4. Simpson's Paradox
 5. Hypothesis Testing
 6. Standard Deviation, Variance, Standard Error
+	1. [[KL divergence]]
 7. Central Limit Theorem
 8. Ordinary Least Squares
 9. Bayes Theorem

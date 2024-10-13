@@ -30,6 +30,10 @@ decouples data iteration e.g. for loop if list, from algorithms
 Model-view-viewmodel - rostopic
 Wiki software design patterns
 
+Object pool design pattern - software creational design pattern that uses a set of initialized objects kept ready to use – a "pool" – rather than allocating and destroying them on demand
+
+Visitor pattern
+
 Resources
 Head First Design Patterns (book)
 patterns in distributed systems - https://martinfowler.com/articles/patterns-of-distributed-systems/

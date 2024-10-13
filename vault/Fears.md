@@ -6,7 +6,7 @@ Why:
 * Prepare better for worst cases by defining what they are
 * Have a sense of urgency
 
-Steps
+Steps (once a quarter)
 - Define prevent repair
 - What might partial/smallest success look like?
 - Cost of inaction, 3mo, 6mo, 12mo

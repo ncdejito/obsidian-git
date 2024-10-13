@@ -57,3 +57,5 @@ Feature flag - or toggle, used to hide enable or disable feature at runtime
 
 References
 Clean Code by Robert C Martin
+Cognitive load
+https://github.com/zakirullin/cognitive-load

@@ -7,7 +7,7 @@ a hashmap
 ## Tools
 Dbeaver
 Jdbc odbc connectors
-
+ScyllaDB - c++ discord megafast
 ## Concepts
 ACID - What databases must have/be
 - Atomicity - each transaction is treated as a single "unit"
@@ -25,7 +25,10 @@ BASE - given CAP, best approximation of ACID
 - Soft state — The system could change over time, even during times of no input (due to eventual consistency)
 - Eventual consistency — In the absence of input, the data will spread to every node sooner or later — thus becoming consistent
 
-
+Improving authentication performance
+Session pool (faster) vs connection pool
+https://docs.oracle.com/en/database/oracle/oracle-database/21/lnoci/session-and-connection-pooling.html#GUID-F9662FFB-EAEF-495C-96FC-49C6D1D9625C
+Object Pool [[Design pattern]] - In connection pooling, the pool element is a connection and in session pooling, the pool element is a session. 
 
 Database Index - improve performance of db by 
 
