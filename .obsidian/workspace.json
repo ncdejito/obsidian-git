@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Statistics.md",
+                "file": "vault/Study.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7fa6e2996569cb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Volition.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "virtual fun",
+                "query": "Airtable",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Statistics.md",
+                "file": "vault/Volition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Statistics.md",
+                "file": "vault/Volition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Statistics.md"
+                "file": "vault/Volition.md"
               }
             }
           },
@@ -174,34 +188,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8517b4ffa59e2485",
+  "active": "d7fa6e2996569cb3",
   "lastOpenFiles": [
-    "vault/KL divergence.md",
-    "vault/Find a job abroad.md",
-    "vault/Statistics.md",
-    "vault/Math.md",
-    "vault/Databases.md",
-    "vault/Design pattern.md",
-    "vault/C++.md",
-    "vault/Nav2 GPS.md",
-    "vault/Global navigation satellite system GNSS.md",
-    "vault/Depth estimation.md",
-    "vault/Dream job.md",
-    "vault/Software Engineering.md",
-    "vault/Robotics Engineering.md",
-    "vault/Build a career.md",
-    "vault/Get a Job.md",
-    "vault/Do your job.md",
-    "vault/Apply for a job.md",
-    "vault/Cover Letter.md",
-    "vault/Add value.md",
-    "vault/Find a job.md",
-    "vault/C++ Testing.md",
-    "vault/Kalman Filter.md",
-    "vault/VSLAM.md",
-    "vault/Space SLAM.md",
-    "vault/Structure from Motion.md",
-    "vault/FastAPI.md",
+    "vault/Data-driven programming.md",
+    "vault/Study.md",
+    "vault/Organizational Studies.md",
+    "vault/Complexity Theory.md",
+    "vault/Microeconomics.md",
+    "vault/Psychology.md",
+    "vault/Climate tech.md",
+    "vault/Make it Scalable.md",
+    "vault/Stay updated on tech trends.md",
+    "vault/Machine Learning.md",
+    "vault/Design the robot body.md",
+    "vault/Avoid cognitive distortions.md",
+    "vault/Dunning Kruger effect.md",
+    "vault/Einschtellung Mental Block.md",
+    "vault/System Design.md",
+    "vault/Microservices.md",
+    "vault/Service Mesh.md",
+    "vault/Build a full stack app.md",
+    "vault/Give a great Massage.md",
+    "vault/Use ROS2.md",
+    "vault/Plan ahead.md",
+    "vault/Deliverables.md",
+    "vault/Projects.md",
+    "vault/Behaviors.md",
+    "vault/Airtable.md",
+    "vault/Deal with despair.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

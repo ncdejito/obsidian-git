@@ -1,5 +1,3 @@
-[Current deliverables](https://airtable.com/appwlcA0RJTWZ394q/tblEdXyTIiuRLvnFt/viw7q0rk1gZe6I6Nt?blocks=hide)
-
 Definition
 (Previously Tasks)
 Smallest unit of work

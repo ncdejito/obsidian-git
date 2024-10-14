@@ -32,6 +32,7 @@ ACID
 CAP Theorem
 PAC ELC
 ## Example systems
+[[Microservices]]
 [Twitter System from Elon](https://www.linkedin.com/posts/eric-vyacheslav-156273169_elon-just-tweeted-the-whole-twitter-back-end-activity-6999730758609170432-w-fB?utm_source=share&utm_medium=member_desktop)
 Categories
 Distributed Data Stores - databases, Cassandra, MongoDB
@@ -45,7 +46,6 @@ https://www.linkedin.com/posts/alexandre-zajac_softwareengineering-coding-progra
 ## Definitions
 Distributed systems - focus on cross-task coordination, communication, synchronization, and failure modes. 
 System design - managing the complexity of large bodies of software
-Microservices - example of a distributed systems where each component is modelled as a service which can be deployed independently
 Race conditions - an undesirable situation that occurs when a device or system attempts to perform two or more operations at the same time (e.g. 5 days Nav2 bug)
 
 [Why distributed?](https://microservices.io/patterns/microservices.html)
@@ -90,8 +90,9 @@ Bytebytego alex xu system design
 15min intro to distributed systems - https://www.youtube.com/watch?v=k10_trKtKNk
 Raft consensus algorithm with viz - https://raft.github.io/
 Designing Data Intensive Applications - Martin Kleppmann
-[Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
-[Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU) - James Quigley 
+
+
+
 [MIT 6.824](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 [DockerSwarm vs Kubernetes](https://circleci.com/blog/docker-swarm-vs-kubernetes/)
 [Thorough Introduction to Distributed Systems](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
@@ -102,7 +103,6 @@ brooker.co.za/blog -
 Ben and Greg Linux Performance
 Every Computer Performance Book
 Berkley Packet Filter* bpf performance tools
-[Conductor](https://github.com/Netflix/conductor) - microservices orchestration by Netflix
 
 Links
 Daily alex xu system design posts

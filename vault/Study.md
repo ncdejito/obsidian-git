@@ -16,7 +16,7 @@ Link to reading list
 - Understand good and evil with [[Literature]]
 - Think larger with [[Philosophy]]
 - Connect with the Infinite with [[Religion]]
-- Learn organization dynamics with [[Organizational Studies]]
+- Learn organization dynamics with [[Complexity Theory]]
 
 Abstraction: schools > fields > topics > concepts
 Must have a school dedicated to it 

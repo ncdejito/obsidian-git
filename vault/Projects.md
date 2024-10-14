@@ -1,5 +1,3 @@
-[Current projects](https://airtable.com/appwlcA0RJTWZ394q/tbl8RCXnru5Ps1F1Y/viwNs5z5QPeE8Yxze?blocks=hide)
-
 Definition
 Short-term initiatives that get you closer to [[Goals]]
 Within your control
@@ -28,7 +26,6 @@ https://medium.com/@andrewng_63446/a-summary-project-management-for-the-unoffici
 Product roadmap - strategic direction, longer term than project roadmap
 
 Current implementation
-[[Airtable]]
 
 Fun
 Simple

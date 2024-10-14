@@ -15,3 +15,5 @@ Tools
 SMACH
 BehaviorTrees
 ROSPlan
+SkillTree in ROS
+https://github.com/RobotLabLTH/skiros2?tab=readme-ov-file

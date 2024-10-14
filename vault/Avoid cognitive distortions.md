@@ -18,5 +18,5 @@ https://visualcapitalist.com/50-cognitive-biases-in-the-modern-world/
 
 Apophenia - seeing connections where there is none, e.g. pareidolia
 
-[[Einschtellung Mental Block]]
-[[Dunning Kruger effect]]
+Einschtellung Mental Block
+Dunning Kruger effect - People with less knowledge overestimate their knowledge or competence

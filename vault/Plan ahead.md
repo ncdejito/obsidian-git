@@ -25,7 +25,7 @@ Great feeling of beating deadline
 Paste output on card
 
 Tools  
-[[Airtable]]
+Airtable
 Asana  
 GCalendar  
 Gdocs  

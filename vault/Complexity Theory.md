@@ -1,3 +1,6 @@
+study of complexity systems in the field of strategic management and organizational studies
+
+draws from research in the natural sciences that examines uncertainty and non-linearity.
 
 
 Key ideas

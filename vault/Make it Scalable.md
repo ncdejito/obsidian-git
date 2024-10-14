@@ -3,6 +3,7 @@ Orchestrate multiple VMs
 [[Kubernetes (k8s)]] - is complex but powerful and provides self-healing, auto-scaling capabilities out of the box
 
 Load testing after [[Connect APIs]]
+Sample implementation - single server local run, multiple client requests from docker containers deployed on cloud vms querying your local
 Locus test on kubernetes gcp
 JMeter
 Gatling

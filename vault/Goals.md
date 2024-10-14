@@ -21,7 +21,7 @@ SMART goals + principles
 Specific - definition of success, satisficing
 Measurable - milestones
 Actionable - subtasks
-Realistic - scoped, buffered on uncertainty
+Realistic - scoped, buffered on uncertainty, so clear you want to do them now
 Time bound - deadlines, timeboxes
 
 5 requirements in picking a goal according to [Locke and Latham](https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance)
