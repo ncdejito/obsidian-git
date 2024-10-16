@@ -17,10 +17,5 @@ Are you up to the Herculean task of building enduring businesses?
 [[Build a single person business]]
 Lean startup
 
-free pos app - https://loyverse.com/
-Qashier - pos machine portable
-
-Learn from the mistakes of others [[Business history]]
-
-
-
+References
+Case in Point - tried and tested

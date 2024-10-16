@@ -1,4 +1,4 @@
-[[Business strategy]]
+
 
 Competition is for losers
 Your product should be orders of magnitude better than the next best thing

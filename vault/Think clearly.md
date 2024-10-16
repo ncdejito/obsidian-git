@@ -3,6 +3,7 @@
 [[First principles]]
 [[Mental Models]]
 [[Solve a problem]]
+Change your [[Perspective]]
 
 Test you assumptions
 Socratic questioning

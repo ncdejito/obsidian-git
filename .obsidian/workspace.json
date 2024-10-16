@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Volition.md",
+                "file": "vault/Depth estimation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Volition.md",
+                "file": "vault/Depth estimation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Volition.md",
+                "file": "vault/Depth estimation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Volition.md"
+                "file": "vault/Depth estimation.md"
               }
             }
           },
@@ -190,6 +190,14 @@
   },
   "active": "d7fa6e2996569cb3",
   "lastOpenFiles": [
+    "vault/Perception.md",
+    "vault/Use Monocular Camera.md",
+    "vault/Volition.md",
+    "vault/monocul.md",
+    "vault/Perspective.md",
+    "vault/Become an expert.md",
+    "vault/Strategy.md",
+    "vault/Single purpose OS.md",
     "vault/Data-driven programming.md",
     "vault/Study.md",
     "vault/Organizational Studies.md",
@@ -208,14 +216,6 @@
     "vault/Microservices.md",
     "vault/Service Mesh.md",
     "vault/Build a full stack app.md",
-    "vault/Give a great Massage.md",
-    "vault/Use ROS2.md",
-    "vault/Plan ahead.md",
-    "vault/Deliverables.md",
-    "vault/Projects.md",
-    "vault/Behaviors.md",
-    "vault/Airtable.md",
-    "vault/Deal with despair.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

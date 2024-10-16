@@ -7,6 +7,7 @@ Concrete interactions
 [[Give feedback]]
 [[Make slides]]
 [[Work meetings]]
+[[Manage people]]
 
 Soft skills
 [[Push back on more work]]

@@ -1,5 +1,6 @@
 [[Research]]
 [[Take notes]]
+[[Become an expert]]
 
 How to learn (start anywhere!)
 
@@ -101,17 +102,6 @@ How to Learn in 2 days what normally takes 6mos
 - Hard and fast timeline
 - Right tools and systems
 - Support structure
-
-how to build expertise in a new field
- 
-- Identify the best exemplars
-- Assess the gap between you and them - consider if you have the courage and resolve to bridge it
-- Study on your own
-- Persuade experts to share - get foundational knowledge, emphasize benefit for them (offer to take tasks tiresome for them but new to you)
-- Learn to pull knowledge - ask why and 1 example
-- Observe experts in action - watch them while they’re working
-- Seek mini experiences - identify opportunities to experience in limited fashion situations that made experts valuable to organization
-- Add visible value as soon as possible - take over small part of work expert is willing or eager to relinquish
 
 How to study whole fields - by me
 Common sense - start with questions, concern, first principles

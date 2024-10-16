@@ -1,14 +1,18 @@
 Concern
 objective is to develop a model or algorithm governing the application of system inputs to drive the system to a desired state, while minimizing any delay, overshoot, or steady-state error and ensuring a level of control stability; often with the aim to achieve a degree of optimality.
 
+Control algorithms
 pid controller
 mpc controller - more used in industry
 ESC - electronic speed controllers
 
-Control method
+Paradigms
 [[Adaptive control]]
 [[Optimal control]]
 
+Concepts
+gravity and dynamics compensation control laws, force control, impedance control
+Control architecture design
 Nonlinear control techniques
 Feedback linearization
 Sliding mode control

@@ -16,3 +16,6 @@ https://github.com/apple/ml-depth-pro
 
 Depth pro webui
 https://github.com/spacewalk01/depth-pro-webui
+
+Marigold E2E - pretty
+https://www.linkedin.com/posts/chris-offner-28a8381a3_here-is-a-comparison-of-three-recent-monocular-activity-7250520687306498053-w1q_?utm_source=share&utm_medium=member_desktop
