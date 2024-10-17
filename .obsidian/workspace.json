@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Depth estimation.md",
+                "file": "vault/Perception.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Depth estimation.md",
+                "file": "vault/Perception.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Depth estimation.md",
+                "file": "vault/Perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Depth estimation.md"
+                "file": "vault/Perception.md"
               }
             }
           },
@@ -190,6 +190,10 @@
   },
   "active": "d7fa6e2996569cb3",
   "lastOpenFiles": [
+    "vault/Neuromorphic AI.md",
+    "vault/Remote control.md",
+    "vault/Equivariant robotics.md",
+    "vault/Depth estimation.md",
     "vault/Perception.md",
     "vault/Use Monocular Camera.md",
     "vault/Volition.md",
@@ -212,10 +216,6 @@
     "vault/Avoid cognitive distortions.md",
     "vault/Dunning Kruger effect.md",
     "vault/Einschtellung Mental Block.md",
-    "vault/System Design.md",
-    "vault/Microservices.md",
-    "vault/Service Mesh.md",
-    "vault/Build a full stack app.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

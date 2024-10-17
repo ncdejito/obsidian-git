@@ -40,6 +40,8 @@ Lesson 4: Ideas are cheap and everyone has a lot of them. Execution is expensive
 
 Lesson 5: Don’t collaborate with assholes. 
 
+How to write a paper people love to read
+https://www.linkedin.com/posts/cyrill-stachniss-736233173_slides-ugcPost-7252296936437739521-KSb6
 ## Submit
 https://github.com/paperswithcode/ai-deadlines
 

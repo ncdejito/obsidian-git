@@ -6,7 +6,12 @@ pid controller
 mpc controller - more used in industry
 ESC - electronic speed controllers
 
+Fundamental problems
+Lqr
+Lqg
+
 Paradigms
+Classical control - stick with this first
 [[Adaptive control]]
 [[Optimal control]]
 
@@ -41,6 +46,9 @@ X Robotics graduate books
 References
 All you need to know about control theory
 https://youtu.be/lBC1nEq0_nk?si=Bkm_v5Pg89YezVYF
+
+By MIT
+https://underactuated.csail.mit.edu/
 
 **
 

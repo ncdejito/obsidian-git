@@ -6,6 +6,7 @@ Llms for planning
 Vlms for perception
 Code generation into actuation
 https://www.linkedin.com/posts/gabriella-garcia-mit_we-will-soon-populate-our-real-environments-activity-7201653463905124352-_h2A?utm_source=share&utm_medium=member_android
+[[Neuromorphic AI]]
 
 [[Computer Vision]]
 [[Reinforcement Learning]]

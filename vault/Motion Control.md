@@ -1,4 +1,5 @@
 Or path integration or tracking
+Or [[Remote control]]
 
 Make the robot follow the path by comparing its heading with the error, [[Control theory]] applied on mobile robots
 
