@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Study"
             }
           },
           {
@@ -30,11 +32,28 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Perception"
+            }
+          },
+          {
+            "id": "fac769596f75bd4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vault/Think clearly.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Think clearly"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +90,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -85,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -109,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/Perception.md",
+                "file": "vault/Think clearly.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Think clearly"
             }
           },
           {
@@ -126,10 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vault/Perception.md",
+                "file": "vault/Think clearly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Think clearly"
             }
           },
           {
@@ -140,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -149,8 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vault/Perception.md"
-              }
+                "file": "vault/Think clearly.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Think clearly"
             }
           },
           {
@@ -158,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -170,7 +207,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -188,8 +227,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7fa6e2996569cb3",
+  "active": "fac769596f75bd4f",
   "lastOpenFiles": [
+    "vault/WebRTC.md",
+    "vault/Deal with frustration.md",
     "vault/Neuromorphic AI.md",
     "vault/Remote control.md",
     "vault/Equivariant robotics.md",
@@ -214,8 +255,6 @@
     "vault/Machine Learning.md",
     "vault/Design the robot body.md",
     "vault/Avoid cognitive distortions.md",
-    "vault/Dunning Kruger effect.md",
-    "vault/Einschtellung Mental Block.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

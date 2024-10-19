@@ -1,0 +1,3 @@
+Forgive yourself
+
+Change [[Strategy]]

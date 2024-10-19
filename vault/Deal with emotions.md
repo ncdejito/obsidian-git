@@ -47,6 +47,7 @@ The Flow
 - [[Handle moments of crisis]]
 - Deal with [[Stress]]
 - [[Deal with despair]]
+- [[Deal with frustration]]
 
 [[Hormones]]
 
