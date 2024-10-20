@@ -7,6 +7,7 @@ Concerns
 - Data Processing - cleaning filtering transforming as prep for analyzing
 - Data Quality - check if your data is clean: dbt, DataForm
 - Data Security - 
+- Data Access and Governance
 
 Problems usually encountered
 
@@ -19,7 +20,6 @@ Glossary
 - Talend Informatica
 - ELT - andle any size or type of data and is well suited for processing both structured and unstructured big data
 - Snowflake
-- [[Enterprise Data Platform]]
 
 
 References

@@ -16,3 +16,6 @@ particle filter
 graph-based - e.g. [[Factor Graph Localization]]
 
 Bundle adjustment
+
+References
+Probabilistic Robotics by Thrun

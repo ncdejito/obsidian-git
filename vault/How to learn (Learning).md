@@ -114,3 +114,8 @@ Obsidian, feed learnings to gdoc then transfer if recalled, feel like growing a 
 
 Have a 30-second answer to everything i.e double click answer - The McKinsey Edge
 
+Karpathy on shortification of learning
+Must be the mental equivalent of sweating
+Skip snacking, prefer the meal
+https://x.com/karpathy/status/1756380066580455557
+

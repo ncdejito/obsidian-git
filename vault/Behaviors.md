@@ -1,7 +1,8 @@
 Concern
 Represent expected action of robot throughout its run
 
-Hierarchical [[Finite State Machines]]
+Methods
+Hierarchical [[Finite State Machine]]
 [[Understand Behavior Trees]]
 [[Goal-oriented action planning GOAP]]
 [[Reinforcement Learning]]

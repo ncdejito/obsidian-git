@@ -18,7 +18,7 @@ https://www.linkedin.com/posts/danleedata_in-data-science-its-the-boring-stuff-a
 8. Ordinary Least Squares
 9. Bayes Theorem
 10. Sampling - Random, Stratified, Cohort
-11. Power Analysis
+11. [[Power law]] Analysis
 12. Sample Size Determination
 13. Regression Modeling and Assumptions
 14. Mean, Median, Mode

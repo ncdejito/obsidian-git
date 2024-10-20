@@ -1,7 +1,7 @@
 In group
 Recency
 Proximity
-Halo/horn
+[[Halo effect]]/horn
 Bandwagon
 Confirmation
 Stereotypes

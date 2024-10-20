@@ -9,8 +9,6 @@ Infrastructure as code
 Terraform
 Pulumi
 
-[[Estimate infra cost]]
-
 References
 A Cloud Guru
 Sg email stack

@@ -3,7 +3,6 @@ Why
 Dont be functionally illiterate
 Problems should be solved only once
 
-Complete
 Capture
 Organize
 Distill
@@ -13,12 +12,6 @@ Projects
 Areas
 Resources
 Archives
-
-Tools
-[[Use Obsidian]]
-
-References
-Building a second brain by Tiago Forte
 
 Capture what resonates
 Organize for action
@@ -44,8 +37,6 @@ Collect
 Capture what resonates
 -curate, select best ones
 
-genai second brain
-**[https://github.com/StanGirard/quivr](https://github.com/StanGirard/quivr)**
 
 **Organizing life in notebooks
 
@@ -86,3 +77,11 @@ genai second brain
 	5. Research bible - papers
 	6. Time log - hours spent on doing good work
 	7. Brainstorming notebook - ideas notebook
+
+Tools
+[[Use Obsidian]]
+genai second brain
+[https://github.com/StanGirard/quivr](https://github.com/StanGirard/quivr)
+
+References
+Building a second brain by Tiago Forte

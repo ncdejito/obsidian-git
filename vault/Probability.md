@@ -2,6 +2,8 @@
 Bayesian vs frequentist
 Updating belief of the world
 Apriori
+[[Markov process]]
+[[Martingale]]
 
 Probability primer
 Recurring definitions

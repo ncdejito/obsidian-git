@@ -12,3 +12,4 @@ WorldModel by Wolfram Burgard
 Method
 Scan matching andrea censi
 Kiss-ICP
+Kinematic ICP

@@ -1,8 +1,10 @@
 Concern
-Fastest path towards the goal
+What path to take towards the goal
 
 Problems
+* Fastest path to the goal
 * Obstacle avoidance
+* [[Coverage path planning]] - maximize coverage of path
 
 Components
 Path - positions
@@ -13,8 +15,6 @@ Global and local planner
 Costmap
 
 Floodfill maze stuff
-
-[[Coverage path planning]]
 
 [[Use Nav2]]
 [[Global navigation satellite system GNSS]]

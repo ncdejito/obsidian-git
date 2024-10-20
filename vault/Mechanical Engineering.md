@@ -4,7 +4,6 @@ Robot modelling
 * [[Select Motor Drivers]]
 * [[Design the robot body]]
 * [[Gears]]
-* [[Mechanical joints]]
 [[Robotic manipulation]]
 
 How to Build Robots and Make Them Move UMich Rob 311
@@ -15,6 +14,9 @@ Dynamics of rigid bodies
 
 Weights, loads, shapes
 How to make robot go through cracks - mech engg?
+
+20 mechanical joints
+https://www.linkedin.com/posts/amine-bouder_legoengineering-handsonlearning-innovativeplay-ugcPost-7194327917005295617-ind_?utm_source=share&utm_medium=member_android
 
 Hardware
 Sensors - get data from environment to know how to move

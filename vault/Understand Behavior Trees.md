@@ -31,7 +31,7 @@ Visualize ROS2 trees with [Groot](https://navigation.ros.org/tutorials/docs/usin
 Hierarchical task networks - plan what to do next, same as behavior trees
 
 Alternatives
-[[Finite State Machines]]
+[[Finite State Machine]]
 
 ## Intros
 Ed Younskevicius's presentation
