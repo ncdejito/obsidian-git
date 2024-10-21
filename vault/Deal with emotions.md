@@ -22,7 +22,7 @@ Mood lifters
 . Treats and sensual pleasures - alcohol no, tv leads to more depression
 . Clearing a long delayed task
 . Boosts to self-image
-1 Cognitive reframing - things arent so bad
+1 Cognitive reframing - [things arent so bad](https://media.npr.org/assets/img/2023/01/14/this-is-fine_custom-b7c50c845a78f5d7716475a92016d52655ba3115.jpg)
 2 Helping others in need
 . Turning to a transcendent power
 
@@ -49,7 +49,7 @@ The Flow
 - [[Deal with despair]]
 - [[Deal with frustration]]
 
-[[Hormones]]
+Understand how [[Hormones]] work
 
 References
 Emotional Intelligence by Daniel Goleman

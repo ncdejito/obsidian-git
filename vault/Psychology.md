@@ -7,12 +7,17 @@ Jordan Peterson 12 rules for life
 Nudge
 Thinking Fast and Slow
 
-[[Procrastination]]
+Focusing on something right (positive psychology)
 [[Happiness]]
+[[Synchronicity]]
+
+Fixing something wrong
+[[Procrastination]]
 [[Imposter syndrome]]
 [[Victim mentality]]
 [[Inferiority complex]]
 [[Fear of missing out FOMO]]
+
 
 [[Neuro-Linguistic Programming]]
 [[Self-Determination Theory]]

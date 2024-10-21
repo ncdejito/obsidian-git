@@ -13,6 +13,7 @@ systematic study of general and fundamental questions concerning topics like exi
 [[Values]]
 [[Discipline]]
 [[Agency]]
+[[Failure]]
 
 [[Philosophy of Technology]]
 

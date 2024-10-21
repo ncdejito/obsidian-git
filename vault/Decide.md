@@ -3,7 +3,7 @@
 [[Avoid peer pressure]]
 [[Take risks]]
 [[Discipline]]
-[[Volition]]
+[[Agency]]
 [[Assess the situation]]
 
 Tools
