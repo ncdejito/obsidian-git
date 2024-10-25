@@ -7,6 +7,8 @@
 - [[Community]]
 - [[Society]]
 
+[[Convince]]
+[[Negotiate]]
 * [[Listen]] actively - make people feel heard
 * [[Ask questions]]
 * Engage in [[Conversations]]

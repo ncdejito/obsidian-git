@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Robotics Engineering.md",
+                "file": "vault/Gsplines.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Robotics Engineering"
+              "title": "Gsplines"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feel good producti",
+                "query": "b spline",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,8 +198,11 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
-    "vault/Robotics infrastructure.md",
+    "vault/Bezier curve.md",
+    "vault/Gsplines.md",
     "vault/Robotics Engineering.md",
+    "vault/Convince.md",
+    "vault/Robotics infrastructure.md",
     "vault/Robotics Software Engineering.md",
     "vault/Deal with emotions.md",
     "vault/Productivity.md",
@@ -221,9 +224,6 @@
     "vault/Motion Control.md",
     "vault/Path Planning.md",
     "vault/Mapping.md",
-    "vault/Localization.md",
-    "vault/Hormones.md",
-    "vault/Markov process.md",
     "Rule of 5/3",
     "Rule of 5"
   ]
