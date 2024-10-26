@@ -7,4 +7,3 @@
 
 - [[Programming Languages]]
 - [[Select Programming Paradigm]]
-- [[Find usable existing components]]

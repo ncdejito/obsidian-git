@@ -10,6 +10,7 @@ Conglomerates five forces analysis
 
 Learn from the mistakes of others [[Business history]]
 
-
+Avoid strategy myopia by seth godin
+https://hbr.org/2024/10/how-to-avoid-strategy-myopia
 
 Range by David Epstein

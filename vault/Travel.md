@@ -18,6 +18,11 @@ Travel hacks
 After a major calamity flights are cheaper
 Buy tickets during travel fair
 Splitwise - split the budget with friends
+Central Asia - ph > malaysia > kazakhstan
+
+Experiences
+Airbnb experiences
+Klook - short tours
 
 europe america asia ph
 [[Naga Camarines Sur]]

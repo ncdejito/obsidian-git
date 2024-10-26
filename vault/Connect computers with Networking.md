@@ -1,4 +1,6 @@
 [[Automate development (DevOps)]]
+[[Protocols]]
+[[Protocol buffers]]
 
 ## Special addresses
 * 127.0.0.1 - your computer (localhost) 'fake' local only network - it can only be accessed internally (ie. not from outside the machine)
@@ -21,20 +23,6 @@ Datagram - basic unit associated with a packet-switched network (packet switchin
 Endpoint - an interface exposed by a communicating party or by a communication channel. An example of the latter type of a communication endpoint is a publish-subscribe topic or a group in group communication systems.
 
 Webhooks [tutorial](https://www.youtube.com/watch?v=41NOoEz3Tzc)
-
-## Protocols
-Protocols - defines the rules, syntax, semantics and synchronization of communication and possible error recovery methods.
-ex. HTTP, TCP, IP, UDP
-
-* UDP - 
-	no handshaking dialogues, and thus exposes the user's program to any [unreliability](https://en.wikipedia.org/wiki/Reliability_(computer_networking) "Reliability (computer networking)") of the underlying network; there is no guarantee of delivery, ordering, or duplicate protection.
-	Time-sensitive applications often use UDP because dropping packets is preferable to waiting for packets delayed
-
-* TCP
-	 connection between client and server is established before data can be sent
-	 Three-way handshake (active open), retransmission, and error detection adds to reliability but lengthens latency
-
-Handshaking - automated process of negotiation between two participants (example "Alice and Bob") through the exchange of information that establishes the protocols of a communication link at the start of the communication, before full communication begins.
 
 ## Commands for troubleshooting
 * `ufw` - Open a port on Linux with ufw - https://www.digitalocean.com/community/tutorials/opening-a-port-on-linux

@@ -16,6 +16,7 @@ Apply for Workshops
 
 Tools
 Aideadlin.es - https://aideadlin.es/?sub=RO
+Ieee spectrum weekly selection has conferences
 Overleaf
 
 

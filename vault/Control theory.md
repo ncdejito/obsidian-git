@@ -28,6 +28,9 @@ Backstepping
 Classic Controls, Feedback/Feedforward controllers, Cascade control systems
 fast control prototyping systems such as speedgoat, xPC, or any other type of real-time machine
 
+Mdp - Markov decision process [[Markov process]]
+Maximize future reward with decision making under uncertainty
+
 Feedback control systems simplified
 https://www.linkedin.com/posts/muhammad-luqman-%F0%9F%87%B5%F0%9F%87%B8-9b227a11b_controls-controlsystems-controltheory-activity-7180968275277737984-qBtI?utm_source=share&utm_medium=member_android
 

@@ -103,6 +103,7 @@ screen -S jl
 ```
 screen -ls
 screen -r 10835
+# sc
 # error
 There is a screen on:
         183382.asdf    (09812347)     (Attached)

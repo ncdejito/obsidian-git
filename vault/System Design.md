@@ -13,12 +13,12 @@ Process
 SHDW - from System Design Interview
 Scope needs [[Compare technology tradeoffs]]
 High level design [[Design pattern]]
-Deep-dive [[Find usable existing components]]
+Deep-dive - Find usable existing components
 Wrap up
 
 Execute
 [[Trace the critical path]] of 1 small data example
-Do quickstarts after [[Find usable existing components]]
+Do quickstarts after finding usable existing components
 [[Program asynchronously]]
 [[Connect computers with Networking]]
 

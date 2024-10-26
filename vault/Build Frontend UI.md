@@ -43,6 +43,8 @@ Personas
 Social proof - ceo testimonials, press quotes
 
 Add fb messenger plugin [tutorial](https://www.youtube.com/watch?v=NCM0f0uChQQ)
+Fastest webpage stack as of 20241023
+https://github.com/ethanniser/NextMaster
 
 ## Exercises
 https://the-collab-lab.codes/ - collab projects for frontend

@@ -1,4 +1,3 @@
-
 [[Pointer bugs]]
 
 Smart pointers - ensure objects are deleted once pointers go out of scope

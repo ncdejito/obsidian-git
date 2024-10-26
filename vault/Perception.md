@@ -24,6 +24,8 @@ Voxel
 
 Methods
 VIO - Camera + IMU
+Vo using recurrent asynchronous massively parallel encoders
+https://www.linkedin.com/posts/davidescaramuzza_iros2024-ugcPost-7255259137280724995-jCZT
 
 [Low Cost 3D Workshop](https://lc3d.fbk.eu/)
 

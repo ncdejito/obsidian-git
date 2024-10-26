@@ -19,7 +19,7 @@ A robot is machine that can (sense-think-act)
 ## Forms
 All known robots https://robotsguide.com/
 [[Open source robots]]
-Wheeled Robots
+[[Indoor wheeled robots]]
 [[Humanoid robots]]
 Robot arms - [PR2 Design files](https://clearpathrobotics.com/pr2-resources-2/)
 Legged Robotics - [yertle](https://github.com/Jerome-Graves/yertle), PetoiOne

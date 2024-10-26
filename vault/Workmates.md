@@ -11,7 +11,7 @@ Concrete interactions
 
 Soft skills
 [[Push back on more work]]
-[[Say sorry less]]
+Say sorry less
 [[Keep in touch with Colleagues]]
 
 Relationships at Work Adam Grant
