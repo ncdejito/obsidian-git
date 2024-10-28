@@ -41,6 +41,8 @@ trends
 nulls
 duplicates
 
+https://github.com/ydataai/ydata-profiling
+
 
 ## Analytics
 [10 startup metrics for assessing business situation  ](https://www.linkedin.com/posts/a-banks_10-startup-metrics-every-business-owner-must-ugcPost-7022206726217072640-3z-X?utm_source=share&utm_medium=member_android)

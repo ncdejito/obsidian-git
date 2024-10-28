@@ -1,5 +1,6 @@
 [[Subscribe to job boards]]
 [[Find a job abroad]]
+[[Find a remote job]]
 [[Network with business contacts]]
 
 Satisficing

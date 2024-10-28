@@ -79,6 +79,8 @@ https://email.changelog.com/t/t-l-vduihjd-wjuliuuyk-ut/
 Design process from research
 https://maheshba.bitbucket.io/blog/2023/07/12/Design.html
 
+System design primer
+https://github.com/donnemartin/system-design-primer
 
 System design blogs  
 [https://www.linkedin.com/posts/ashishps1_40-blogs-to-build-a-strong-system-design-activity-7148169873565569026-T4ys?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/ashishps1_40-blogs-to-build-a-strong-system-design-activity-7148169873565569026-T4ys?utm_source=share&utm_medium=member_android)
@@ -91,6 +93,8 @@ Bytebytego alex xu system design
 Raft consensus algorithm with viz - https://raft.github.io/
 Designing Data Intensive Applications - Martin Kleppmann
 
+Clone Wars - replicas of existing apps
+https://github.com/GorvGoyl/Clone-Wars
 
 
 [MIT 6.824](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)

@@ -33,3 +33,4 @@ https://arxiv.org/pdf/2108.02497.pdf
 
 References
 Elements of Statistical Learning by Tibshirani
+Machine Learning Applications in Industry https://github.com/firmai/industry-machine-learning

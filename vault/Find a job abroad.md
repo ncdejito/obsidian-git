@@ -19,5 +19,3 @@ https://swissdevjobs.ch/
 
 US visas
 https://debarghyadas.com/writes/eb1-ultimate-guide/#what-is-an-eb-1a-and-why-get-one
-
-https://github.com/remoteintech/remote-jobs
