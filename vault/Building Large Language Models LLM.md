@@ -114,3 +114,6 @@ https://www.linkedin.com/posts/anant-gupta_llms-llms-rust-activity-7191759485839
 
 Handson LLM by oreilly
 https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
+
+Building gpt2 git repo andrej karpathy
+https://www.linkedin.com/posts/liorsinclair_karpathy-just-dropped-a-new-must-watch-activity-7205970653034770432-j5U6?utm_source=share&utm_medium=member_android

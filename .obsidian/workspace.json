@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Find a remote job.md",
+                "file": "vault/Transformers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Find a remote job"
+              "title": "Transformers"
             }
           }
         ]
@@ -198,7 +198,13 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
+    "vault/Prepare for job interview.md",
+    "gRPC.md",
+    "vault/Create a 3D map.md",
+    "vault/GPU Programming.md",
     "vault/Find a remote job.md",
+    "vault/MicroROS.md",
+    "vault/Prompt engineering.md",
     "vault/Data Analysis.md",
     "vault/Project-based learning.md",
     "vault/Find a job.md",
@@ -218,12 +224,6 @@
     "vault/Build Frontend UI.md",
     "vault/Nextjs.md",
     "vault/Use React.md",
-    "vault/Get a Masters PhD.md",
-    "vault/Connect robot to the cloud.md",
-    "vault/Robotics infrastructure.md",
-    "vault/Christianity.md",
-    "vault/Philosophy.md",
-    "vault/Hormones.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

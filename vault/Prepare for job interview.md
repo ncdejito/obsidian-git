@@ -21,7 +21,6 @@ https://email.changelog.com/t/t-l-vuhnc-wjuliuuyk-kt/
 * Blind 75 Neetcode
 * https://malisper.me/an-algorithm-for-passing-programming-interviews/
 
-
 * spot a good technology culture:
 
 Ask the interviewer how Engineering and Product work together in detail.

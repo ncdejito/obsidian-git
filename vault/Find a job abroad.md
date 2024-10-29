@@ -1,4 +1,7 @@
 
+SW
+https://swissdevjobs.ch/
+
 [[Find a job in the UK]]
 
 Japan jobs
@@ -13,9 +16,6 @@ SG Glints
 DE
 xing
 stepstone
-
-SW
-https://swissdevjobs.ch/
 
 US visas
 https://debarghyadas.com/writes/eb1-ultimate-guide/#what-is-an-eb-1a-and-why-get-one

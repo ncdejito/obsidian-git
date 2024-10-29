@@ -1,23 +1,14 @@
 [[Coding assistants]]
+[[Prompt engineering]]
 
-Building gpt2 git repo andrej karpathy
-https://www.linkedin.com/posts/liorsinclair_karpathy-just-dropped-a-new-must-watch-activity-7205970653034770432-j5U6?utm_source=share&utm_medium=member_android
+
 
 how it works [Linkedin post](https://www.linkedin.com/posts/hilarymason_chatgpt-ai-llm-activity-7037082578603909121-akFQ?utm_source=share&utm_medium=member_desktop)
-Official:[Prompts for chatgpt](https://www.linkedin.com/posts/jackgierlich_50-awesome-chat-gpt-prompts-activity-7015708729333403648-alUj/?originalSubdomain=ee)
-
-Prompt engineering by openai
-https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
-
-Research backed improvements to prompts
-https://www.linkedin.com/posts/sahar-mor_in-the-last-three-months-alone-over-ten-activity-7139644940153667585-t70H?utm_source=share&utm_medium=member_android
 
 ChatGPT for robotics
 https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf
 https://github.com/GT-RIPL/Awesome-LLM-Robotics
 
-[Prompting course](https://learnprompting.org/) 
-Prompt engineering for developers[https://www.linkedin.com/posts/andrewyng_thrilled-to-announce-our-new-course-chatgpt-activity-7057374526451445760-kA1T?utm_source=share&utm_medium=member_android](https://www.linkedin.com/posts/andrewyng_thrilled-to-announce-our-new-course-chatgpt-activity-7057374526451445760-kA1T?utm_source=share&utm_medium=member_android)
 
 Chatgpt cheat sheet  
 [https://www.linkedin.com/posts/zainkahn_the-only-chatgpt-guide-youll-ever-need-activity-7075084649441501184-5z90](https://www.linkedin.com/posts/zainkahn_the-only-chatgpt-guide-youll-ever-need-activity-7075084649441501184-5z90)

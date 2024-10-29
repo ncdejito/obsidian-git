@@ -1,7 +1,7 @@
 
 [[Write a Resume]]
 [[Cover Letter]]
-[[Study]]
+[[Study]] or do [[Project-based learning]]
 [[Pass coding exams]]
 [[Prepare for job interview]]
 [[Negotiate]] good to [[Get paid]] well
