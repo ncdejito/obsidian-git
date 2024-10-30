@@ -6,7 +6,7 @@ Azure
 [Cloud services across different platforms](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7197615696631996416-ve9w?utm_source=share&utm_medium=member_android)
 
 Infrastructure as code
-Terraform
+[[Terraform]]
 Pulumi
 
 possible projects

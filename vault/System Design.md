@@ -67,6 +67,8 @@ message queue - https://github.com/wesen/summer-pasture-netflix/blob/main/messag
 
 ## References
 
+https://roadmap.sh/software-design-architecture
+
 27 vetted resources by ryan peterman
 https://www.linkedin.com/posts/ryanlpeterman_27-vetted-resources-to-help-you-master-system-activity-7191886942844653568-AkX_?utm_source=share&utm_medium=member_android
 

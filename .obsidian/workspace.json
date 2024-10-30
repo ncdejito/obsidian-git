@@ -198,6 +198,8 @@
   },
   "active": "8517b4ffa59e2485",
   "lastOpenFiles": [
+    "vault/Machine Learning Operations (MLOps).md",
+    "vault/Terraform.md",
     "vault/Prepare for job interview.md",
     "gRPC.md",
     "vault/Create a 3D map.md",
@@ -222,8 +224,6 @@
     "vault/Automate development (DevOps).md",
     "vault/Build Backend Components.md",
     "vault/Build Frontend UI.md",
-    "vault/Nextjs.md",
-    "vault/Use React.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

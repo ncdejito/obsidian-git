@@ -33,10 +33,10 @@ Tools
 Load balancer
 Dispatch
 Query replicated database
-Reduce golang inage from 45mb to 4mb with this hack: https://www.linkedin.com/posts/anton-putra_i-didnt-know-it-was-possible-to-reduce-a-activity-7232847713954938880-7PNS?utm_source=share&utm_medium=member_android
+Reduce golang image from 45mb to 4mb with this hack: https://www.linkedin.com/posts/anton-putra_i-didnt-know-it-was-possible-to-reduce-a-activity-7232847713954938880-7PNS?utm_source=share&utm_medium=member_android
 
 ## Concepts
-* Concurrency - composition of independently executing things, vs parallel - simultaneous execution of independent things
+* [[Concurrency]] - composition of independently executing things, vs parallel - simultaneous execution of independent things
 	* no need to wait for something to finish
 	* no need to start at the same time
 * Goroutines - lightweight thread managed by Go runtime
@@ -44,8 +44,10 @@ Reduce golang inage from 45mb to 4mb with this hack: https://www.linkedin.com/po
 * Mutex - mutual exclusion, only one goroutine can access a variable at a time to avoid conflicts
 
 Software made with go
-Docker
+[[Use Docker]]
 Mqtt
+[[Kubernetes (k8s)]]
+[[Terraform]]
 
 References
 distributed systems from the ground up! (Go) https://www.oreilly.com/library/view/cloud-native-go/9781492076322/

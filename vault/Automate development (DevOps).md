@@ -15,7 +15,7 @@ Code in server - [[Use Vim]]
 Configuration management - Ansible, Chef, Puppet
 [[Connect computers with Networking]]
 [[Cloud engineering]]
-
+[[Terraform]]
 * [[Assess compute requirements]]
 * [[Learn a large code base]]
 * Estimate infra cost with InfraCost CI

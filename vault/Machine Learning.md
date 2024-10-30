@@ -18,7 +18,7 @@ Applications
 [[Reinforcement Learning]]
 
 [[Machine Learning Engineering]]
-[[Machine Learning Operations]]
+[[Machine Learning Operations (MLOps)]]
 
 Ram framework
 accuracy
