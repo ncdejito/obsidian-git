@@ -17,6 +17,8 @@ Perl - text processing
 
 Speed comparisons [chart](https://github.com/niklas-heer/speed-comparison) - C++ is fastest
 
+[[Mojo]]
+
 How to learn a language quickly: first principles
 Main advantages of language, code examples
 reading from other files

@@ -37,6 +37,8 @@ Communication robotics - [Stack-chan](https://github.com/meganetaaan/stack-chan)
 [Inspection robots](https://www.linkedin.com/posts/anybotics_ip54-ip68-ip67-activity-7051451831742255105--sl8?utm_source=share&utm_medium=member_desktop)
 [Marine robotics](https://www.linkedin.com/posts/nathan-george-914b1360_a-sea-of-small-rovs-2023-info-compilation-activity-7136530603646029825-Q3uR?utm_source=share&utm_medium=member_android)
 [[Climate robotics]]
+[[Mining robotics]]
+
 
 ## References
 Springer Handbook of Robotics - survey of all your questions about robotics

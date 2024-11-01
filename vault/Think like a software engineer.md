@@ -1,5 +1,5 @@
 Pragmatic programmer
-
+Laying bricks to build a cathedral
 https://www.linkedin.com/posts/ryanlpeterman_common-things-ive-noticed-in-the-top-1-activity-7180579705065025536-KAvl?utm_source=share&utm_medium=member_android
 
 https://github.com/charlax/professional-programming

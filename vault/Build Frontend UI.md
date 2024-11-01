@@ -24,6 +24,7 @@ npm install rxjs
 - Website - [[Use React]]
 - Mobile - [[Use React-Native]]
 * ML - [Streamlit](https://streamlit.io/), [Gradio](https://github.com/gradio-app/gradio/)
+* MERN stack
 
 ## Definition
 - [[Javascript]] Library - collection of scripts e.g. React, P5JS

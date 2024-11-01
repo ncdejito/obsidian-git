@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8517b4ffa59e2485",
+            "id": "26dc6b042bed0089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Transformers.md",
+                "file": "vault/Prepare for job interview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformers"
+              "title": "Prepare for job interview"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clone wars",
+                "query": "owasp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -196,34 +196,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8517b4ffa59e2485",
+  "active": "26dc6b042bed0089",
   "lastOpenFiles": [
+    "vault/Mojo.md",
+    "vault/Building Large Language Models LLM.md",
+    "vault/Programming Languages.md",
+    "vault/LLM Unit testing.md",
+    "vault/Secure Code (Security).md",
+    "vault/Get a Job.md",
+    "vault/Software Engineering.md",
+    "vault/Prepare for job interview.md",
+    "vault/Think like a software engineer.md",
+    "vault/System Design.md",
+    "vault/Machine Learning Engineering.md",
+    "vault/Machine Learning.md",
+    "vault/Protocol buffers.md",
+    "vault/Databases.md",
+    "gRPC.md",
+    "vault/Build Frontend UI.md",
+    "vault/Transformers.md",
+    "vault/Using LLMs ChatGPT.md",
+    "vault/Vector databases.md",
+    "vault/Generative AI.md",
+    "vault/Natural Language Processing (NLP).md",
+    "vault/Deep Learning.md",
+    "vault/Classical ML.md",
+    "vault/Mining robotics.md",
     "vault/Machine Learning Operations (MLOps).md",
     "vault/Terraform.md",
-    "vault/Prepare for job interview.md",
-    "gRPC.md",
-    "vault/Create a 3D map.md",
-    "vault/GPU Programming.md",
-    "vault/Find a remote job.md",
-    "vault/MicroROS.md",
-    "vault/Prompt engineering.md",
-    "vault/Data Analysis.md",
-    "vault/Project-based learning.md",
-    "vault/Find a job.md",
-    "vault/Find a job abroad.md",
-    "vault/Apply for a job.md",
-    "vault/Jupyter.md",
-    "vault/AWS.md",
-    "vault/Connect APIs.md",
-    "vault/Full-Stack Web Development.md",
-    "vault/Think like a software engineer.md",
-    "vault/Software Engineering.md",
-    "vault/System Design.md",
-    "vault/Machine Learning.md",
-    "vault/Data Structures.md",
-    "vault/Automate development (DevOps).md",
-    "vault/Build Backend Components.md",
-    "vault/Build Frontend UI.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

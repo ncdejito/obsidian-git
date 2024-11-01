@@ -22,6 +22,9 @@ Applications https://github.com/ai-collection/ai-collection
 GenerativeAI Landscape
 https://www.linkedin.com/posts/erika-fille-legara_ai-digital-innovation-activity-7020037338193936385-cBnc?utm_source=share&utm_medium=member_android
 
+GenAI survey
+https://www.linkedin.com/posts/alphasignal_theres-a-great-new-survey-that-summarizes-activity-7146189427399139328-bfsJ?utm_source=share&utm_medium=member_android
+
 Funding
 https://www.techinasia.com/visual-story/mapping-funding-flows-generative-ai?utm_source=Tech+in+Asia+Main+List&utm_campaign=62bcd5b069-ontherise&utm_medium=email&utm_term=0_7f08f27dbf-62bcd5b069-53954558&goal=0_7f08f27dbf-62bcd5b069-53954558&mc_cid=62bcd5b069&mc_eid=7881fab6c7
 

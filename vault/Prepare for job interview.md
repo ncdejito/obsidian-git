@@ -11,6 +11,8 @@ Products - Figure out how you will add value to their business
 Research current events and [[Stay updated on tech trends]]
 
 ## Tech interviews
+What problems are you dealing with right now? (then answer how you would solve them)
+
 [[Software Engineering]] 
 [[Algorithms]]
 [Mock Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)

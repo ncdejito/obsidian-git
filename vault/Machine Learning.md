@@ -13,6 +13,7 @@ Transfer learning - applying weights trained in one dataset then applying to ano
 
 Applications
 [[Classical ML]]
+[[Deep Learning]]
 [[Computer Vision]]
 [[Natural Language Processing (NLP)]]
 [[Reinforcement Learning]]

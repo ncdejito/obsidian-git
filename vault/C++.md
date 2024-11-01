@@ -20,6 +20,11 @@ Why: zero overhead cost
 Notes
 * Modern C++ is C++11 and above - smart pointers, templates, move semantics
 * onlinegdb - quick prototyping
+
+Projects
+Build an http server from scratch
+https://www.codementor.io/@osamudiamenazamegbe/looking-back-at-building-an-http-server-from-scratch-in-c-21gflnv6aq
+
 ## References
 * https://en.cppreference.com/w/
 * C++ for the impatient
@@ -30,7 +35,8 @@ Notes
 * Back to Basics CppCon YT
 * c++ roadmap sh
 
-cpppnow
+cppnow
+
 
 
 

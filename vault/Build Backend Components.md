@@ -10,7 +10,7 @@ Write starter code with AI: [[Using LLMs ChatGPT]]
 - Save to [[Databases]]
 - [[Deliver data faster with Caching]]
 - [[Use Message Queues for Resiliency]]
-- [[Secure Code]]
+- [[Secure Code (Security)]]
 - [[Compare technology tradeoffs]]
 * [[Connect computers with Networking]]
 

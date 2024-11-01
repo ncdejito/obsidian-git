@@ -2,6 +2,7 @@ Concern
 Making a model production ready
 
 [[Model quantization]]
+Gradient accumulation
 
 0. Preface
 Who this Book is For - leverage ML to solve real-world problems
