@@ -11,7 +11,7 @@ DDS (FastDDS in ROS) - for fanning out data across embedded
 
   
 
-Remote Procedure Invocation (RPI) vs Messaging
+[[Remote Procedure Invocation (RPI)]] vs Messaging
 -   RPI - (popular example: REST APIs i.e. put get post) waits for response before moving to the next job. If the job takes too long, memory occupied by the job stays even after the job is done, making the next job slower, creating more memory occupancy.
 -   Messaging - producer passes message to an exchange which distributes to consumers ([example diagram](https://www.youtube.com/watch?v=deG25y_r6OY)); benefits: asynchronous, increased availability because exchange passes to consumers only once consumers are available to receive the message
   

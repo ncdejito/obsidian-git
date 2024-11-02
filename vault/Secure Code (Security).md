@@ -1,6 +1,10 @@
 [[Build Backend Components]]
+[[Cloud security best practices]]
 
 Concern: Prevent unwanted risky behavior by making good use of memory
+
+Chapter on security here:
+[Online book](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 OWASP 10 - definition and major event example
 

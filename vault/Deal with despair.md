@@ -1,2 +1,2 @@
-Gain perspective
+(Re)Gain [[Perspective]]
 Read books

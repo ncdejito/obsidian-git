@@ -10,5 +10,4 @@
 	1. I/O devices
 	2. Fsck
 
-6. Security - solves other programs using your resources without you knowing
-    
+6. [[Secure Code (Security)]] - solves other programs using your resources without you knowing

@@ -21,6 +21,7 @@
 - [LangKit for Observability and Safety](https://www.linkedin.com/posts/whylabsai_whylabs-launches-langkit-to-make-large-language-activity-7074790438624231424-GJY_?utm_source=share&utm_medium=member_desktop)
 - [Building Applications with LLMs Through Composability - LangChain](https://github.com/hwchase17/langchain)
 - **(Lacks Links)** Version Control for LLM Applications
+- https://github.com/kennethreitz/simplemind - for simple use cases vs using langchain and langgraph
 
 ### **Production & Deployment**
 - [LLMs for Production by Chip Huyen](https://www.linkedin.com/posts/chiphuyen_llms-promptengineering-mlops-activity-7051955337221844992-oG7a?utm_source=share&utm_medium=member_android) - describes challenges in MLOps

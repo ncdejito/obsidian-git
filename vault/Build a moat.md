@@ -1,3 +1,5 @@
+aka differentiate to the point of monopoly
+
 Network effects
 The Cold Start Problem by Andrew Chen
 

@@ -48,6 +48,7 @@ The Flow
 - Deal with [[Stress]]
 - [[Deal with despair]]
 - [[Deal with frustration]]
+- [[Deal with info overload]]
 
 Understand how [[Hormones]] work
 

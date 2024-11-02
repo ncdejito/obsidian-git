@@ -1,5 +1,7 @@
 [[Workspace]]
 
+TRANSFER here: https://github.com/ncdejito/config/tree/main/vscode
+
 1. Install Remote - WSL extension
 
 Features

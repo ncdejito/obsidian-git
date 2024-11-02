@@ -1,6 +1,5 @@
 [[Machine Learning]]
 
-
 https://github.com/facebookresearch/fairseq/tree/main/examples/mms
 
 Translate with AI
@@ -10,7 +9,7 @@ Fast transcription
 https://www.linkedin.com/posts/sanchit-gandhi_life-is-too-short-to-wait-for-slow-transcription-activity-7054823001292177408-Jxs-?utm_source=share&utm_medium=member_android
 
 
-Melfrequency cepstral coefficients
+Melfrequency cepstral coefficients - representation of the short-term power spectrum of a sound
 
 Plp perceptual linear prediction
 

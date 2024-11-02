@@ -7,6 +7,9 @@ Solve geometry problems with [[Computational Geometry]]
 Think about uncertainty using [[Probability]]
 Analyze rates of change using [[Calculus]]
 
+Tools
+[[Matrix libraries]]
+
 Future topics
 Math Fundamentals for Robotics
 https://www.cs.cmu.edu/~me/811/

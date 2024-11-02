@@ -8,7 +8,7 @@ Problems
 Data representation
 [[Occupancy grid]]
 Layered Costmap David Lu
-WorldModel by Wolfram Burgard
+[[WorldModel]]
 
 Method
 Iterative closest point

@@ -18,7 +18,7 @@ Configuration management - Ansible, Chef, Puppet
 [[Terraform]]
 * [[Assess compute requirements]]
 * [[Learn a large code base]]
-* Estimate infra cost with InfraCost CI
+* [[Make it Cost-aware]]
 
 [[Understand Hardware Software Interaction]]
 

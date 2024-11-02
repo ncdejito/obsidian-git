@@ -12,6 +12,7 @@ Finetuning - changing the weights of the top layer prediction part
 Transfer learning - applying weights trained in one dataset then applying to another dataset
 
 Applications
+[[Matrix libraries]]
 [[Classical ML]]
 [[Deep Learning]]
 [[Computer Vision]]

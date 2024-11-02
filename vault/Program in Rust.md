@@ -7,6 +7,7 @@ Borrow checker
 * does not exist in other languages besides Rust
 - prevents security vulnerabilities
 [[Lifetime]]
+Atomic reference counter Arc - for 1 pointer to data, if 2 threads increment data, makes sure data incremented correctly ie 2x
 
 ## Comparisons
 Rust vs c++
@@ -25,6 +26,7 @@ https://www.linkedin.com/posts/tietzdev_introducing-yet-another-rust-resource-or
 Exercises in rust
 https://email.changelog.com/t/t-l-syhykld-wjuliuuyk-ui/
 
+Zero to Production by luca palmieri
 ## Applications
 Embedded
 ORM [Diesel](https://diesel.rs/)

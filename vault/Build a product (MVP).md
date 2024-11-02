@@ -1,4 +1,9 @@
 [[Design Thinking]]
+[[How to make anything]]
+
+Good product:
+Its broken but people still use it
+People complain about the price but still pay for it
 
 10000 iterations think big build small
 
@@ -46,11 +51,8 @@ What needs to be done to double the impact
 How to Hack  
 [https://www.nushackers.org/the-hacker-attitude/](https://www.nushackers.org/the-hacker-attitude/)
 
-
-
 No code tools for bizniz
 https://www.linkedin.com/posts/justinwelsh_11-no-code-tools-in-my-tech-stack-ugcPost-7037772455360286720-cRMS?utm_source=share&utm_medium=member_android
-
 
 Learn to build
 Understand components first principles

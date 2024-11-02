@@ -81,13 +81,8 @@ Apply on different samples of the data
 # Incremental
 ## Well-documented
 Keeping track of experiments
-
+[[Machine Learning Operations (MLOps)]]
 **Hypothesis Driven Workflow** from [How to Do Good Research](https://docs.google.com/presentation/d/1A6C_6cIfkDEQ2PWP0Udx761pmpziJKOxZXR2iWQ9G6A/edit#slide=id.g62b0006b7b_0_0)
-![](https://storage.googleapis.com/tm-codimd/uploads/upload_099e6ee1152fc684bee21fbf9f6252a1.png)
-
-**An implementation** (OMH Experiments GSheets)
-![](https://storage.googleapis.com/tm-codimd/uploads/upload_bd1dc90401e8d1f963d4be24fe7a1e3c.png)
-
 * Tools
     * WandB
     * MLFlow

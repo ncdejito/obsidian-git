@@ -7,6 +7,9 @@ Robotics by Cyrill Stachniss
 Adjacent possibles
 [[Reinforcement Learning]]
 
+Optimized motion planning with vectorization, 2 papers from rice
+https://www.linkedin.com/posts/riceengineering_making-motion-planning-faster-cheaper-and-activity-7257115999349415936-iay3?utm_source=share&utm_medium=member_desktop
+
 Basics
 
 3D Coordinates and Representations of Rotations

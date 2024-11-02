@@ -8,6 +8,7 @@ Feelings
 - What good thing are you grateful for today?
 - What made you come alive today?
 - Did you do world class work?
+- How did you 1% improve today?
 - What is bothering you today?
 
 [[Plan tomorrow]] - visualize exact steps you will be doing, with time estimates

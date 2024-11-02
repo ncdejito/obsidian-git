@@ -16,6 +16,10 @@ High level design [[Design pattern]]
 Deep-dive - Find usable existing components
 Wrap up
 
+Components
+[[Messaging]]
+[[Safety critical systems]]
+
 Execute
 [[Trace the critical path]] of 1 small data example
 Do quickstarts after finding usable existing components

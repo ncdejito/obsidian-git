@@ -5,4 +5,4 @@ OKRs comprise an:
 
 Stress test your OKRs with [6 questions](https://www.linkedin.com/posts/matthewlerner_unpopular-opinion-okrs-dont-cause-problems-activity-7148644392319287296-L2-f/?utm_source=share&utm_medium=member_android) by a Paypal director
 
-Are they really what you want or are you peer pressured?
+Are they really what you want or are you peer pressured? [[Avoid peer pressure]]

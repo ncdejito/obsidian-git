@@ -5,8 +5,12 @@
 How to learn (start anywhere!)
 
 First principles
-Critical path
+[[Trace the critical path]]
 On-demand, as needed
+
+Avoid pitfalls
+* [[Learning for learning's sake]]
+* [[Functional illiteracy]]
 
 Feynman technique
 1. Select a concept to learn. - What topic are you curious about? Write out everything you already know about the subject you want to understand deeper. As you learn more about the topic, add it to your sheet. Once you think you understand the topic well enough
@@ -32,9 +36,6 @@ Practice
 Retrieve it
 - Varied practice
 - Observe experts in action - watch them while they’re working
-
-Tools
-
 
 Something weird to associate thing with thing e.g. japanese symbols
 

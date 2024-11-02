@@ -1,3 +1,2 @@
 Forgive yourself
-
-Change [[Strategy]]
+Change [[Strategy]] to Play to win

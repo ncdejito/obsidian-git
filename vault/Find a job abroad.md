@@ -3,10 +3,8 @@ SW
 https://swissdevjobs.ch/
 
 [[Find a job in the UK]]
+[[Find a job in Japan]]
 
-Japan jobs
-Onlineservices dmw gov ph
-https://github.com/remote-jp/remote-in-japan
 
 AU
 seek.com.au

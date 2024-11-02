@@ -23,7 +23,7 @@ script_dir = Path(__file__).resolve()
 utils_dir = Path(__file__).resolve().parent
 root_dir = Path(__file__).resolve().parent.parent
 ```
-Manage dependencies with [[Poetry]]
+Manage dependencies with [[Poetry (Python)]]
 [benchmarks](https://lincolnloop.github.io/python-package-manager-shootout/)
 [blogpost](https://aseifert.com/p/python-environments/)
 

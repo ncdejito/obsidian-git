@@ -1,4 +1,4 @@
-Person who determins success or failure of a project
+Person who determines success or failure of a project
 
 PUMA
 Priority

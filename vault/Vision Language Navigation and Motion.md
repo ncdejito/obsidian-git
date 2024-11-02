@@ -2,5 +2,5 @@
 +[[Navigation]]
 +[[Motion Planning]]
 
-Vlmnm workshop icra github io
+Vlmnm workshop icra github io 2024
 

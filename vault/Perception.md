@@ -16,6 +16,7 @@ Physical sensors
 * [[Use Radar]]
 * [[Use Monocular Camera]]
 * [[Use Stereo Camera]]
+* [[Touch sensors]]
 
 Data representation
 [[Point clouds]]

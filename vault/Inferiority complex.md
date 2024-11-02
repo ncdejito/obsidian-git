@@ -11,7 +11,12 @@ Key signs that someone might have an inferiority complex include:
 * Being extremely sensitive to criticism and reacting defensively
 * Lacking self-esteem and feeling like one does not measure up[1][2]
 
-To move past an inferiority complex, it's essential to practice positive self-talk, engage in physical activity to boost self-esteem, and consider seeking professional help through therapy, such as cognitive behavioral therapy (CBT)[1]. Recognizing and addressing the underlying causes of the complex, which may stem from childhood experiences or relationships, is also crucial[2]. By acknowledging and working through these feelings, individuals can develop a more positive and realistic self-image, leading to improved mental health and well-being[1][2].
+To move past an inferiority complex, it's essential to 
+* practice positive self-talk, 
+* engage in physical activity to boost self-esteem, and 
+* consider seeking professional help through therapy, such as cognitive behavioral therapy (CBT)[1]. 
+* Recognizing and addressing the underlying causes of the complex, which may stem from childhood experiences or relationships, is also crucial[2]. 
+By acknowledging and working through these feelings, individuals can develop a more positive and realistic self-image, leading to improved mental health and well-being[1][2].
 
 Citations:
 [1] Chronic Low Self-Esteem? It Could Be an Inferiority Complex - Greatist https://greatist.com/health/inferiority-complex

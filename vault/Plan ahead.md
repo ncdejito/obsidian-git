@@ -1,4 +1,4 @@
-
+Make a [[Strategy]] then execute:
 [[Plan tomorrow]] every night
 [[Plan next week]] every Monday
 [[Plan next month]] every start of month
@@ -23,6 +23,10 @@ Kanban
 Movable deadlines
 Great feeling of beating deadline
 Paste output on card
+
+Pitfalls
+* Spending all your time planning and ending up doing nothing
+* Planning as procrastination
 
 Tools  
 Airtable

@@ -7,6 +7,8 @@ https://www.nand2tetris.org/
 
 Geohotz fundamentals
 
+https://www.nandgame.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fun
+
 How do these things work
 Laptop
 Smartphone

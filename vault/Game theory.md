@@ -1,6 +1,6 @@
 
 Concepts
-[[Assymetric opportunities]]
+[[Asymmetric opportunities]]
 [[Reinforcement Learning]]
 [[Rewards]]
 [[Prisoners dilemma]]

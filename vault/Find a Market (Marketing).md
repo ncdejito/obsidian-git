@@ -1,26 +1,13 @@
+[[Sell]]
 
-Its broken but people still use it
+[[Forgetting curve]]
 
-Llm marketing
+AI automated marketing tools
 https://www.linkedin.com/posts/jessicagilmartin_have-you-ever-had-that-software-or-agency-activity-7180978675272572928-Y2p9?utm_source=share&utm_medium=member_android
 
-Media buyers will go extinct, use creative broad targeting [news](https://www.linkedin.com/posts/tyler-fyfe_media-buyers-wont-exist-in-the-next-5-years-activity-7036341501987061760-GCCB?utm_source=share&utm_medium=member_desktop)
-
-Founder flywheel - for marketing
+Steps for content creation - seems relevant for research and OSS also
 https://www.linkedin.com/posts/mattgray1_the-key-marketing-system-the-founder-flywheel-ugcPost-7039579925200166912-k9mk?utm_source=share&utm_medium=member_android
 
-## 5Cs and 4Ps
-5C
-Customer (customer needs, segments, consumer behavior)
-Company Skills (brand name, image, production capability, financial strengths, organization, etc.)
-Competition (actions are interrelated, market environment)
-Collaborators (downstream wholesalers or retailers, upstream suppliers)
-
-4P
-Product (features, quality, service, support, product line etc.) 
-Promotion (advertising, sales force, brochures, coupons, etc.) 
-Price (list price, discount, deals, both end-user and channel) 
-Place (channel of distribution, exclusive vs. intensive, etc.)
 
 # Digital marketing
 How do I increase site visits to my website?
@@ -69,9 +56,6 @@ Measure results: Use analytics tools to measure the success of your paid adverti
 By following these steps, you can effectively utilize paid advertising to increase site visits to your website and achieve your advertising goals.
 
 
-
-
-
 User
 What audience do I target to sell flowers for Mother's Day?
 ChatGPT
@@ -116,3 +100,5 @@ SEO and SEM are both related to digital marketing, specifically to the practice 
 SEO, or Search Engine Optimization, involves optimizing a website's content, structure, and other factors to make it more attractive to search engines and rank higher in organic (unpaid) search results. This can involve optimizing keywords, creating high-quality content, improving website speed and mobile-friendliness, and building links to the website from other reputable sources.
 
 SEM, or Search Engine Marketing, involves paying for ads that appear on search engine results pages. This can involve bidding on specific keywords and phrases that users are likely to search for, and creating targeted ad campaigns that appear when those keywords are searched. SEM can be a more immediate way to generate traffic to a website, but it can also be more expensive and require ongoing investment to maintain ad visibility.
+
+[[Build a business]]

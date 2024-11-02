@@ -10,9 +10,10 @@ Wins - [[KPIs]] list done tasks here
 - Friends
 - [[Values]] and [[Traits]] upheld
 Learnings
-* How would you 1% improve next week?
+* How did you improve this week?
 * Check learnings in obsidian - https://github.com/ncdejito/obsidian-git/commits/main/
 Feelings
 - Gratitude
 Goals
+* How would you improve next week?
 * View Goals gdoc

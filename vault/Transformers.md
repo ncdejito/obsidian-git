@@ -14,7 +14,7 @@ https://www.linkedin.com/posts/sanyambhutani_incredible-summary-of-the-transform
 Transformers by hand analytic
 https://www.linkedin.com/posts/eric-vyacheslav-156273169_transformer-by-hand-one-of-the-best-exercise-activity-7209571085837594625-UxEM?utm_source=share&utm_medium=member_android
 
-What are transformers
+LLM robotics - has transformers from scratch by brandon rohrer
 https://github.com/jrin771/Everything-LLMs-And-Robotics/tree/main#llms-educational-resources-
 
 Transformers from scratch pytorch kaggle notebook [https://www.linkedin.com/feed/update/urn:li:activity:7148379049566900224?utm_source=share&utm_medium=member_android](https://www.linkedin.com/feed/update/urn:li:activity:7148379049566900224?utm_source=share&utm_medium=member_android)

@@ -15,6 +15,7 @@ Write starter code with AI: [[Using LLMs ChatGPT]]
 * [[Connect computers with Networking]]
 
 ## Practice
+https://www.boot.dev/
 https://github.com/CollabCodeTech/backend-challenges
 Recreate git, docker, redis etc. using interactive challenges - https://codecrafters.io/
 
