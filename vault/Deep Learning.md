@@ -1,6 +1,8 @@
 
 neural network with >1 hidden layer
 
+[[Convolutional Neural Networks CNNs]]
+
 The little book of deep learning
 https://www.linkedin.com/posts/skalskip92_deeplearning-book-activity-7158430642651774979-Axdo?utm_source=share&utm_medium=member_android
 

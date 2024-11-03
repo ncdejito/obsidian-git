@@ -8,3 +8,5 @@ Cloud CTO claim: Faster than Go and Rust
 https://github.com/modularml/mojo
 
 https://github.com/mojicians/awesome-mojo
+
+https://docs.modular.com/mojo/playground

@@ -1,4 +1,5 @@
 [[Robotics Engineering]]
+[[WorldModel]]
 
 [[RViz]]
 [[Ignition Gazebo]]

@@ -1,4 +1,6 @@
 
+https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns
+
 System design patterns
 https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building
 https://en.wikipedia.org/wiki/A_Pattern_Language
@@ -16,6 +18,8 @@ Abstract factory pattern
 Adapter pattern
 
 Interface Driven Design
+
+[[Facade]] - Creating a wrapper interfaces on top of existing interfaces to help client applications.
 
 Domain Driven Design
 Why decompose by business capability? For cohesive, meaningful distinction

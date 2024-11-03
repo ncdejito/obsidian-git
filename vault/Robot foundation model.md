@@ -1,5 +1,8 @@
 [[Robotics Engineering]] [[Machine Learning]]
 
+Crossformer - Cross embodied transformer, one policy for multiple [[Form factor (Robotics)]]
+https://crossformer-model.github.io/
+
 Rum - no finetuning/training
 http://robotutilitymodels.com/
 

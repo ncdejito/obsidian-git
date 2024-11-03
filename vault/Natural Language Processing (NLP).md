@@ -1,9 +1,9 @@
 
 
-Large Language Models
+[[Large Language Model (LLM)]]
 [[Using LLMs ChatGPT]]
-[[Building Large Language Models LLM]]
-[[Transformers]]
+[[LLM Engineering]]
+
 
 Problems
 Named Entity Recognition NER

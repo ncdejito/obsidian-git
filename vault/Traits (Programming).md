@@ -1,0 +1,1 @@
+a set of methods that can be used to extend the functionality of a class

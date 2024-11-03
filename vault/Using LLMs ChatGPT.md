@@ -31,6 +31,3 @@
 - [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) - Fully autonomous AI
 - [Private GPT for Internal Documents](https://www.linkedin.com/posts/pkghosh_github-imartinezprivategpt-interact-privately-activity-7063225855006699521-wftV?utm_source=share&utm_medium=member_desktop)
 - [ZeroGPT: Check if GPT-generated](https://www.zerogpt.com/)
-  
-### Fundamentals of LLMs
-- [[Building Large Language Models LLM]]

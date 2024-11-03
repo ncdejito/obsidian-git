@@ -8,6 +8,8 @@ Obstacle avoidance
 Intersecting circles
 Dynamic window approach DWA
 
+[[Apply SLAM]]
+[[VSLAM]]
 [[Use Nav2]]
 [[Global navigation satellite system GNSS]]
 
@@ -16,9 +18,13 @@ https://www.linkedin.com/posts/felipe-jeon-491773226_moveit-navigation-icra-acti
 
 Lm-nav
 Visual navigation
+ViNT A foundation model for visual navigation
 
-Gnm general navigation to drive any robot
+GNM model - general navigation to drive any robot
 https://ieeexplore.ieee.org/abstract/document/10161227
+
+XMobility - Generalizable navigation via World Modeling
+https://arxiv.org/pdf/2410.17491
 
 More to search
 Llms and vlms for semantic mapping and graph based navigation techniques

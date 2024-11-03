@@ -1,2 +1,2 @@
 [[Expert systems]]
-[[Neural Networks]]
+[[Neural Network]]

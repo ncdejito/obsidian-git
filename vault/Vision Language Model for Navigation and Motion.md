@@ -1,4 +1,4 @@
-[[Vision-Language Modelling]]
+[[Vision-Language Model (VLM)]]
 +[[Navigation]]
 +[[Motion Planning]]
 
