@@ -30,3 +30,5 @@ Sense of calm from never changing
 efficient communication with less distraction
 
 Icons - flaticon . com
+
+BCG slide deck an analysis of our relationship

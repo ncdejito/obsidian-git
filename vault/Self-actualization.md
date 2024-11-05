@@ -5,7 +5,7 @@ Clarity is what creates motivation.
 [[Goals]]
 
 Tracking is what creates awareness.
-[[Reflect]]
+[[Plan ahead]]
 
 Reporting is what creates accountability
 [[Key results]]

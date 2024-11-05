@@ -7,6 +7,8 @@ Confirmation
 Stereotypes
 Availability
 
+[[Hype]]
+
 [[Planning fallacy]]
 Clarity of thought - list of mental distortions
 https://www.linkedin.com/posts/romeen-sheth-07494427_the-worlds-most-valuable-skill-clarity-activity-7059280882133561344-ZDRg/?utm_source=share&utm_medium=member_desktop

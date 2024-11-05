@@ -3,6 +3,7 @@
 	* [[Callback]] - function passed to a function, triggered once function is done
 	* promise - an object that will return a value in future, well-suited for asynchronous operations
 	* async/await
+* [[Multi-threading]]
 	
 Make objects immutable
 immutability prevents race conditions

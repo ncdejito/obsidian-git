@@ -400,6 +400,7 @@ int main()
 
 // improved by Vishnudev C
 ```
+Speed up depth first search with dancing links https://arxiv.org/abs/cs/0011047
 ### Graph search
 Find shortest path
 Dijkstra greedy

@@ -1,3 +1,5 @@
+[Volition journal](https://docs.google.com/document/d/1JRdXSArQOxfGhe5z5ktiiOfhQLI2EnKbtFupxJtFhys/edit?tab=t.0)
+
 Definition
 (Previously Tasks)
 Smallest unit of work

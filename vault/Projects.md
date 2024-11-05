@@ -10,7 +10,7 @@ How to create a project
 [[Scope a project]]
 [[Schedule the project]]
 [[Budget for a project]]
-[[Execute the project]]
+[[Execute]] the project
 [[Communicate progress]]
 
 Sources of joy
@@ -32,20 +32,20 @@ Simple
 Clear
 SMART
 
-Criteria for Project management system
-Clarity
-Clear on small step that needs to be done next
-Can answer when something is projected to be done
-Prioritized
-Helps me identify easily unnecessary tasks
-Impact
-Connected to long term goals
-Prevents decision fatigue
-Individuality
-Enjoyable
-Honest about what I want to do
-Flexible to changes in priorities
-Harmony
-Respects my current load and prevents overcapacity
-Includes my recurring responsibilities
+Satisficing Criteria for Project management system
+- Clarity
+	- Clear on small step that needs to be done next
+	- Can answer when something is projected to be done
+- Prioritized
+	- Helps me identify easily unnecessary tasks
+- Impact
+	- Connected to long term goals
+	- Prevents decision fatigue
+- Individuality
+	- Enjoyable
+	- Honest about what I want to do
+	- Flexible to changes in priorities
+- Harmony
+	- Respects my current load and prevents overcapacity
+	- Includes my recurring responsibilities
 
