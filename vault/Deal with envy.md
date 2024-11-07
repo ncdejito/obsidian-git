@@ -4,3 +4,6 @@
 * Practice self-compassion - you are not less worthy in anyway just because other people have what you want that you do not yet have
 * Consume social media mindfully - social media is designed to highlight the good parts of other people's lives, and not show the bad (because it is looked down upon). there will always be someone better at something, just be the best version of yourself that you can be.
 * Avoid feeling like a victim of the unfairness of the world - it is easier to say I am cursed because of my circumstance, rather than commit to the work you can do to change it
+
+Relative deprivation theory - belief that you are worse off because others in immediate surroundings are better, even if you and surroundings are better off vs population
+https://psycnet.apa.org/record/1985-28039-001
