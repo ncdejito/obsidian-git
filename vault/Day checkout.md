@@ -13,7 +13,7 @@ Feelings
 - How did you 1% improve today?
 - What is bothering you today?
 
-[[Day checkout]] - 
+[[Day checkout]]
 
 ## Plan
 Output: Updated gcal events from [[Deliverables]]

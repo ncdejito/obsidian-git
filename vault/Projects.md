@@ -49,3 +49,5 @@ Satisficing Criteria for Project management system
 	- Respects my current load and prevents overcapacity
 	- Includes my recurring responsibilities
 
+Sldc examples
+https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7259793621313286144-JzUG?utm_source=share&utm_medium=member_android

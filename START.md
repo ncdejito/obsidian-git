@@ -5,8 +5,8 @@
 4. [[Clean living space]]
 5. [[Connect with people (Relationships)]]
 6. [[Have fun]]
-8. [[Plan ahead]]
-9. [[Plan ahead]]
+8. [[Planning]]
+9. [[Planning]]
 
 
 

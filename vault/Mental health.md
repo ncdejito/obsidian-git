@@ -1,6 +1,6 @@
 Goal: clear your mind
 
-* [[Plan ahead]]
+* [[Planning]]
 - [[Deal with emotions]]
 - [[Have fun]]
 - [[Meditate]]

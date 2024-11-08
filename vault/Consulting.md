@@ -5,3 +5,4 @@ consultant sees aggregate behavior of individual actors, then passes best practi
 
 References
 Case in Point
+Harvard Business Review

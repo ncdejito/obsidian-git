@@ -1,4 +1,6 @@
-Make a [[Strategy]] then stay accountable:
+Not [[Strategy]]
+
+then stay accountable:
 [[Day checkout]] every night
 [[Week checkout]] on Sundays
 [[Month checkout]] every end of month
@@ -18,6 +20,7 @@ Sources of joy
 Pitfalls
 * Spending all your time planning and ending up doing nothing
 * Planning as procrastination
+* [[Planning fallacy]]
 
 Best practices
 - Prioritized - impactful

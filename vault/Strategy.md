@@ -1,4 +1,10 @@
-Concern: creating a plan to achieve long term goal under uncertainty
+Concern: a plan to achieve long term goal under uncertainty
+An integrative set of choices that position you in a playing field of your choice in a way that you win
+
+Key ideas
+* Not [[Planning]], which is more list of things that you control
+* Must be coherent
+* an outcome outside your control
 
 Output: A strategy map with [[OKRs]]
 * Future state [[Goals]]
@@ -34,6 +40,8 @@ Place (channel of distribution, exclusive vs. intensive, etc.)
 
 Learn from the mistakes of others [[Business history]]
 Avoid strategy myopia by seth godin https://hbr.org/2024/10/how-to-avoid-strategy-myopia
+A Plan is not a Strategy https://www.youtube.com/watch?v=iuYlGRnC7J8
+
 Range by David Epstein
 Case In Point by Marc Cosentino
 Case Interview Secrets Victor Cheng

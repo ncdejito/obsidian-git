@@ -21,7 +21,7 @@ Components
 - [[Vector databases]]
 - [[LLM Unit testing]]
 - [Gateway API for Fast LLM Access](https://github.com/Portkey-AI/gateway)
-- [Mistral RS: Fast Rust-Based Inference](https://www.linkedin.com/posts/anant-gupta_llms-llms-rust-activity-7191759485839765504-ALI1?utm_source=share&utm_medium=member_desktop)
+- [Mistral RS: Fast Rust-Based Inference](https://www.linkedin.com/posts/anant-gupta_llms-llms-rust-activity-7191759485839765504-ALI1?utm_source=share&utm_medium=member_desktop) - ideas for optimization
 - [LangKit for Observability and Safety](https://www.linkedin.com/posts/whylabsai_whylabs-launches-langkit-to-make-large-language-activity-7074790438624231424-GJY_?utm_source=share&utm_medium=member_desktop)
 - [LangChain - Building Applications with LLMs Through Composability](https://github.com/hwchase17/langchain)
 
