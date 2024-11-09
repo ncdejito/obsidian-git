@@ -2,4 +2,6 @@
 
 What will you do differently?
 
+Reframe as incompatibility
+
 [[Deal with disappointment]]

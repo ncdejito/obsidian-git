@@ -47,6 +47,9 @@ Add fb messenger plugin [tutorial](https://www.youtube.com/watch?v=NCM0f0uChQQ)
 Fastest webpage stack as of 20241023
 https://github.com/ethanniser/NextMaster
 
+Making frontend faster
+https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7260521652571049984-n9zh?utm_source=share&utm_medium=member_android
+
 ## Exercises
 https://the-collab-lab.codes/ - collab projects for frontend
 https://github.com/felipefialho/frontend-challenges

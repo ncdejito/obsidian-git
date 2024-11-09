@@ -19,7 +19,7 @@ Best practices
 [[Write clean code]]
 [[Version code with Git]]
 [[Debug errors]]
-[[Apply software design principles]]
+[[Keep in mind programming principles]]
 
 How to learn
 [[Project-based learning]]

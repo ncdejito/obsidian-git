@@ -7,6 +7,8 @@ Applications
 Open humanoid
 Marine rovers
 
+Check how to start using ideas in gsoc
+
 Github accelerator - funds projects
 https://github.blog/2023-04-12-github-accelerator-our-first-cohort-and-whats-next/
 

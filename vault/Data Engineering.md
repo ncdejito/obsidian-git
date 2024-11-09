@@ -25,4 +25,7 @@ Glossary
 References
 Data warehousing toolkit book suggested by stef
 modern data stack - duckdb
-Dataeng school https://email.changelog.com/t/t-l-vkhdikk-wjuliuuyk-uk/
+Data eng school
+https://github.com/DataTalksClub/data-engineering-zoomcamp
+
+https://github.com/DataExpert-io/data-engineer-handbook

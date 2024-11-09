@@ -1,4 +1,4 @@
-Concern: a plan to achieve long term goal under uncertainty
+Concern: Winning
 An integrative set of choices that position you in a playing field of your choice in a way that you win
 
 Key ideas
@@ -41,6 +41,7 @@ Place (channel of distribution, exclusive vs. intensive, etc.)
 Learn from the mistakes of others [[Business history]]
 Avoid strategy myopia by seth godin https://hbr.org/2024/10/how-to-avoid-strategy-myopia
 A Plan is not a Strategy https://www.youtube.com/watch?v=iuYlGRnC7J8
+Life Strategy https://hbr.org/2023/12/use-strategic-thinking-to-create-the-life-you-want
 
 Range by David Epstein
 Case In Point by Marc Cosentino

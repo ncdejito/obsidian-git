@@ -26,5 +26,11 @@ https://ieeexplore.ieee.org/abstract/document/10161227
 XMobility - Generalizable navigation via World Modeling
 https://arxiv.org/pdf/2410.17491
 
+[LeLaN: Learning Language-conditioned Navigation Policy](https://learning-language-navigation.github.io/)
+
 More to search
 Llms and vlms for semantic mapping and graph based navigation techniques
+
+
+
+MIT Robotics – Tim Barfoot - Robot Navigation When Lighting, Weather, and Geometry Won’t Cooperate

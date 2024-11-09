@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "robotics",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 3.48958333333333,
   "linkStrength": 1,
   "linkDistance": 119,
-  "scale": 0.9159300849922533,
+  "scale": 0.4070800377743347,
   "close": true
 }

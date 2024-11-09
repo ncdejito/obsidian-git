@@ -1,6 +1,6 @@
 Are you up to the Herculean task of building enduring businesses?
 
-1. [[Find a problem]]
+1. [[Identify a problem]]
 2. Check the demand with small experiments
 3. [[Explore Business Ideas]]
 4. Test your idea [[Evaluate your business idea]]

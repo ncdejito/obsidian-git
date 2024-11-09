@@ -1,5 +1,4 @@
 
-
 Why Messaging model (RabbitMQ) for microservice communication?
 [Stability for high throughput](https://particular.net/blog/rpc-vs-messaging-which-is-faster)
 * If receiver node fails, the message queue can hold the message until the node is ready to receive

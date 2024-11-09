@@ -1,5 +1,5 @@
 [[Think clearly]]
-[[Avoid analysis paralysis]]
+[[Deal with info overload]]
 [[Avoid peer pressure]]
 [[Take risks]]
 [[Discipline]]

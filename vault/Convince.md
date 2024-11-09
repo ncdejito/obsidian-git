@@ -1,4 +1,3 @@
-How to Win Friends and Influence People
 
 Part One
 Fundamental Techniques in Handling People
@@ -24,3 +23,5 @@ Appeal to the nobler motives. (Even if deep down they make the decision based on
 Dramatize your ideas. (A picture and a story are worth a thousand words.)
 Throw down a challenge. (Do this when all else fails.) 
 
+Reference
+How to Win Friends and Influence People

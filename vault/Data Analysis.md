@@ -1,8 +1,5 @@
 Goal: actionable insights
 
-VizWiz
-https://www.linkedin.com/posts/acecanacan_will-ai-replace-data-analysts-im-very-ugcPost-7087030110964387840-54QO?utm_source=share&utm_medium=member_desktop
-
 Get data
 Prep data
 Explore data

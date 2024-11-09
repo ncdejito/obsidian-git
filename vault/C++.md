@@ -34,6 +34,7 @@ https://www.codementor.io/@osamudiamenazamegbe/looking-back-at-building-an-http-
 * [C++ Developer](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) - 4months memory management and concurrency
 * Back to Basics CppCon YT
 * c++ roadmap sh
+* https://github.com/federico-busato/Modern-CPP-Programming
 
 cppnow
 
