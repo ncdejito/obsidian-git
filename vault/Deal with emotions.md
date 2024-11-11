@@ -35,6 +35,8 @@ Sadness
 - think of more positive alternatives
 - schedule purposely distracting pleasant events
 
+Negative energy is wasted energy.
+
 Upbeat denial
  
 Master Aptitude

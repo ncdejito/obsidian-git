@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Planning.md",
+                "file": "vault/Deal with emotions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planning"
+              "title": "Deal with emotions"
             }
           }
         ]
@@ -196,34 +196,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d12c7ab0a01470f0",
+  "active": "1cf1835a4f316fad",
   "lastOpenFiles": [
-    "vault/Wheel of Life.md",
-    "vault/Persuade.md",
-    "vault/Influence without Authority.md",
-    "vault/Colcon.md",
-    "vault/Take care of yourself.md",
-    "vault/Conversations.md",
-    "vault/Asymmetric opportunities.md",
-    "vault/Values.md",
-    "vault/Anarchism.md",
-    "vault/Deliver data faster with Caching.md",
-    "vault/Community.md",
-    "vault/Economics.md",
-    "vault/Connect APIs.md",
-    "vault/Probability.md",
-    "vault/Polymorphism.md",
-    "vault/Get data.md",
-    "vault/Sequence diagram.md",
-    "vault/Avoid cognitive distortions.md",
-    "vault/Embedded AI.md",
-    "vault/Typescript.md",
-    "vault/Use Flyio.md",
+    "vault/Object.md",
+    "vault/The Law of Reversed Effort.md",
+    "vault/Terraform.md",
+    "vault/Virtual Memory Management.md",
+    "vault/Drones.md",
+    "vault/Consulting.md",
+    "vault/Real estate.md",
+    "vault/Interfaces.md",
+    "vault/Program in Functional.md",
+    "vault/SSH.md",
+    "vault/Use Lidar.md",
+    "vault/Generative AI.md",
+    "vault/Mojo.md",
+    "vault/Buddhism.md",
+    "vault/C++ Templates.md",
+    "vault/Psychology.md",
+    "vault/SIMD.md",
+    "vault/Data visualization.md",
+    "vault/References.md",
+    "vault/Select Motors.md",
+    "vault/Lifetime.md",
+    "vault/Fears.md",
+    "vault/Use Monocular Camera.md",
+    "vault/Philosophy of Technology.md",
+    "vault/Guidance Navigation and Controls (GNC).md",
     "vault/Procrastination.md",
-    "vault/Pass coding exams.md",
-    "vault/Invent a Character.md",
-    "vault/Identity.md",
-    "vault/Microeconomics.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

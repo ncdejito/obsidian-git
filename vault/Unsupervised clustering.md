@@ -5,4 +5,4 @@ tSNE
 Umap
 
 References
-Elements of StatisticalLearning Tibshirani
+Elements of Statistical Learning Tibshirani
