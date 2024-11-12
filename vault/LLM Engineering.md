@@ -24,6 +24,8 @@ Components
 - [Mistral RS: Fast Rust-Based Inference](https://www.linkedin.com/posts/anant-gupta_llms-llms-rust-activity-7191759485839765504-ALI1?utm_source=share&utm_medium=member_desktop) - ideas for optimization
 - [LangKit for Observability and Safety](https://www.linkedin.com/posts/whylabsai_whylabs-launches-langkit-to-make-large-language-activity-7074790438624231424-GJY_?utm_source=share&utm_medium=member_desktop)
 - [LangChain - Building Applications with LLMs Through Composability](https://github.com/hwchase17/langchain)
+- Making llm follow logic described as state machines
+https://arxiv.org/html/2406.13892v1
 
 Development & Tooling
 - [Tools for Building LLM Applications](https://saharh.notion.site/saharh/1e4a35681007464faaa7cc5fe00dbd34?v=0e2f8309375c4f8d885f6221354576f3)

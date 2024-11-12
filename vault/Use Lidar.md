@@ -35,5 +35,8 @@ https://robotki.github.io/datasets.html
 Global lidar localization survey
 https://www.linkedin.com/posts/cyrill-stachniss-736233173_lidar-localization-mobilerobotics-activity-7176080012326924288-jpYw?utm_source=share&utm_medium=member_android
 
+Camera vs lidar comparison
+https://www.linkedin.com/posts/peter-soetens_is-anyone-believing-that-when-cameras-dont-activity-7257047284922642433-MtN_
+
 #fix Cannot start scan: '80008002'
 Remove then reconnect wire

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Deal with emotions.md",
+                "file": "vault/Model quantization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deal with emotions"
+              "title": "Model quantization"
             }
           }
         ]
@@ -198,6 +198,17 @@
   },
   "active": "1cf1835a4f316fad",
   "lastOpenFiles": [
+    "vault/Form factor (Robotics).md",
+    "vault/Robotics Engineering.md",
+    "vault/Apply for a job.md",
+    "vault/Write a Resume.md",
+    "vault/Find a job.md",
+    "vault/Get a Job.md",
+    "vault/Strategy.md",
+    "vault/Deal with emotions.md",
+    "vault/Siamese networks.md",
+    "vault/Scaling laws.md",
+    "vault/Hope.md",
     "vault/Object.md",
     "vault/The Law of Reversed Effort.md",
     "vault/Terraform.md",
@@ -213,17 +224,6 @@
     "vault/Mojo.md",
     "vault/Buddhism.md",
     "vault/C++ Templates.md",
-    "vault/Psychology.md",
-    "vault/SIMD.md",
-    "vault/Data visualization.md",
-    "vault/References.md",
-    "vault/Select Motors.md",
-    "vault/Lifetime.md",
-    "vault/Fears.md",
-    "vault/Use Monocular Camera.md",
-    "vault/Philosophy of Technology.md",
-    "vault/Guidance Navigation and Controls (GNC).md",
-    "vault/Procrastination.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

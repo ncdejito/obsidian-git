@@ -7,4 +7,8 @@ Memento mori
 Hold yourself in high regard
 Honor your teachers, seniors, bosses
 
+Openness and possibility [[Hope]]
+
+Zoom out
+
 The present is all we have

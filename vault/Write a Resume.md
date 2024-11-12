@@ -51,6 +51,9 @@ Rezi - write a technical resume
 Job hunting using AI  
 [https://www.linkedin.com/posts/jvmsangkal_activity-7073190466640363520-cpAA](https://www.linkedin.com/posts/jvmsangkal_activity-7073190466640363520-cpAA)
 
+Prompt for LinkedInAIHawk
+https://github.com/AIHawk-co/Auto_Jobs_Applier/blob/36aa851d33d3c37fabdff4c20fd7641824b5616f/src/ai_hawk/llm/llm_manager.py#L435
+
 Autoapply
 LoopCV pro
 Ramped Careers

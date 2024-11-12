@@ -1,3 +1,4 @@
+Stop passively consuming feeds
 Take a break
 Take a step back, ask why you need to do this
 Retrace your steps

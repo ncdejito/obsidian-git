@@ -5,6 +5,7 @@ All known robots https://robotsguide.com/
 [[Indoor wheeled robots]]
 [[Humanoid robots]]
 Robot arms - [PR2 Design files](https://clearpathrobotics.com/pr2-resources-2/)
+https://github.com/TheRobotStudio/SO-ARM100
 Legged Robotics - [yertle](https://github.com/Jerome-Graves/yertle), PetoiOne
 [[Marine Robotics]]
 [[Drones]]
