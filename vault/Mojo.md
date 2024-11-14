@@ -9,5 +9,8 @@ https://github.com/modularml/mojo
 
 https://github.com/mojicians/awesome-mojo
 - has data structures examples
+* has useful libraries
+https://github.com/rd4com/mojo-learning
+* Undocumented routines
 
 https://docs.modular.com/mojo/playground

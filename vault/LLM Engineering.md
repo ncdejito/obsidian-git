@@ -20,6 +20,7 @@ Components
 - https://github.com/LMCache/LMCache
 - [[Vector databases]]
 - [[LLM Unit testing]]
+- 24x serving speed with PagedAttention https://blog.vllm.ai/2023/06/20/vllm.html
 - [Gateway API for Fast LLM Access](https://github.com/Portkey-AI/gateway)
 - [Mistral RS: Fast Rust-Based Inference](https://www.linkedin.com/posts/anant-gupta_llms-llms-rust-activity-7191759485839765504-ALI1?utm_source=share&utm_medium=member_desktop) - ideas for optimization
 - [LangKit for Observability and Safety](https://www.linkedin.com/posts/whylabsai_whylabs-launches-langkit-to-make-large-language-activity-7074790438624231424-GJY_?utm_source=share&utm_medium=member_desktop)

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Model quantization.md",
+                "file": "vault/Machine Learning Compilers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Model quantization"
+              "title": "Machine Learning Compilers"
             }
           }
         ]
@@ -198,6 +198,12 @@
   },
   "active": "1cf1835a4f316fad",
   "lastOpenFiles": [
+    "vault/Transformers.md",
+    "vault/Machine Learning Compilers.md",
+    "vault/Machine Learning Operations (MLOps).md",
+    "vault/Psychology.md",
+    "vault/Optimize code.md",
+    "vault/Model quantization.md",
     "vault/Form factor (Robotics).md",
     "vault/Robotics Engineering.md",
     "vault/Apply for a job.md",
@@ -218,12 +224,6 @@
     "vault/Real estate.md",
     "vault/Interfaces.md",
     "vault/Program in Functional.md",
-    "vault/SSH.md",
-    "vault/Use Lidar.md",
-    "vault/Generative AI.md",
-    "vault/Mojo.md",
-    "vault/Buddhism.md",
-    "vault/C++ Templates.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

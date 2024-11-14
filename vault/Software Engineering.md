@@ -20,6 +20,7 @@ Best practices
 [[Version code with Git]]
 [[Debug errors]]
 [[Keep in mind programming principles]]
+[[Optimize code]]
 
 How to learn
 [[Project-based learning]]

@@ -14,7 +14,7 @@ Components
 	* Multi-head - because softmax considers only one candidate word, useful to consider many
 * Feed forward - calculate nn intermediate output as sum product of weights and biases
 * Add & Norm - [[Skip connections]]
-* Masked Multi-Head
+- Masked Multi-Head
 	* Masking - force the unhelpful features to zero, like a filter
 * Linear
 * [[Softmax]]

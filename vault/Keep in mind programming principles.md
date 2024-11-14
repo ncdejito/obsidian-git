@@ -7,6 +7,4 @@
 Separation of concerns
 Loose coupling
 
-[[Law of Demeter]]
-
 Defensive programming - ensures the continuing function of a piece of software under unforeseen circumstances

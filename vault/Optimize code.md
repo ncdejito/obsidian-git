@@ -1,0 +1,3 @@
+- Use appropriate [[Data Structures]] and [[Algorithms]]
+- Optimization chapter compute systems programmers perspective
+- Optimization chapter Crafting interpreters
