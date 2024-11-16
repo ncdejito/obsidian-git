@@ -1,12 +1,11 @@
-[[Research]]
-[[Take notes]]
-[[Become an expert]]
-
 How to learn (start anywhere!)
 
 First principles
-[[Trace the critical path]]
 On-demand, as needed
+[[Trace the critical path]]
+[[Become an expert]]
+[[Research]]
+[[Take notes]]
 
 Avoid pitfalls
 * [[Learning for learning's sake]]

@@ -11,6 +11,10 @@ https://github.com/robosoft-ai/SMACC
 ROS2 nodes
 https://www.linkedin.com/posts/steve-macenski-41a985101_impact-of-ros-2-node-composition-in-robotic-activity-7065021713142448128-Y9Lc?utm_source=share&utm_medium=member_desktop
 
+Unit and integration testing
+https://arnebaeyens.com/blog/2024/ros2-integration-testing/
+
+
 ## Gists
 ```
 colcon build --symlink-install

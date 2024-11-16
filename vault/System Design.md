@@ -11,10 +11,10 @@ Identify system needs in metrics
 
 Process
 SHDW - from System Design Interview
-Scope needs [[Compare technology tradeoffs]]
-High level design [[Design pattern]]
-Deep-dive - Find usable existing components
-Wrap up
+1. Scope needs [[Compare technology tradeoffs]]
+2. High level design [[Design pattern]]
+3. Deep-dive - Find usable existing components
+4. Wrap up
 
 Components
 [[Messaging]]
