@@ -1,3 +1,4 @@
+https://fs.blog/great-talks/richard-hamming-your-research/
 ## Understand the problem
 Introduction section of survey papers usually explain it well
 

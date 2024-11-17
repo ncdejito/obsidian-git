@@ -5,6 +5,8 @@ Simultaneous [[Localization]] and [[Mapping]]
 Concern
 Solves chicken and egg problem of map availability vs no movement history
 
+https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release/
+
 [[VSLAM]]
 
 Feb 4, Bayesian Thinking

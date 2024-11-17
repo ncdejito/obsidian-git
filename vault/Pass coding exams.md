@@ -6,7 +6,7 @@ Count items
 Divide into available time
 
 Understand problems first before coding
-[[Identify edge cases]]
+[[Data Structures]]
 
 Resource
 Cracking the coding interview

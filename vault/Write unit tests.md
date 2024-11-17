@@ -3,7 +3,7 @@ Enables code refactoring
 Saves the state of your code
 
 How
-[[Identify edge cases]]
+[[Data Structures]]
 Test input output of 1 function/class
 
 Glossary
