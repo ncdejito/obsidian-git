@@ -1,2 +1,2 @@
 [[Object-Oriented Programming]]
-[[Control theory]]
+[[Control Systems]]

@@ -1,6 +1,6 @@
 [[Select Microcontroller]]
 
-[[Control theory]]
+[[Control Systems]]
 
 Firmware
 Middleware
