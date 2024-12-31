@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Vision-Language Model (VLM).md",
+                "file": "vault/Transformers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vision-Language Model (VLM)"
+              "title": "Transformers"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "bc729948bc9c9637",
   "lastOpenFiles": [
+    "vault/Vision-Language Model (VLM).md",
     "vault/Navigation.md",
     "vault/Open-endedness.md",
     "vault/Control Systems.md",
@@ -223,7 +224,6 @@
     "vault/Law of Demeter.md",
     "vault/Nextjs.md",
     "vault/Use Excel.md",
-    "vault/Make it Scalable.md",
     "Rule of 5/3",
     "Rule of 5"
   ]
