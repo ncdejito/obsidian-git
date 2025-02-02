@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Transformers.md",
+                "file": "vault/Month checkout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformers"
+              "title": "Month checkout"
             }
           }
         ]
@@ -198,6 +198,11 @@
   },
   "active": "bc729948bc9c9637",
   "lastOpenFiles": [
+    "vault/Quarter checkout.md",
+    "vault/Week checkout.md",
+    "vault/Planning.md",
+    "vault/Day checkout.md",
+    "vault/Transformers.md",
     "vault/Vision-Language Model (VLM).md",
     "vault/Navigation.md",
     "vault/Open-endedness.md",
@@ -219,11 +224,6 @@
     "vault/Marine Robotics.md",
     "vault/Kubernetes (k8s).md",
     "vault/Point clouds.md",
-    "vault/Stress.md",
-    "vault/Carbon removal.md",
-    "vault/Law of Demeter.md",
-    "vault/Nextjs.md",
-    "vault/Use Excel.md",
     "Rule of 5/3",
     "Rule of 5"
   ]
