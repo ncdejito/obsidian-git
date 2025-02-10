@@ -1,5 +1,5 @@
 
-### [[Coding Assistants]]
+### [[LLM Coding assistants]]
 - [ChatGPT + Google Sheets](https://www.linkedin.com/posts/alexxubyte_systemdesign-coding-interviewtips-activity-7039997195453898752-4z_2?utm_source=share&utm_medium=member_desktop)
 - [AutoGPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [FastChat](https://github.com/lm-sys/FastChat) - Open-source alternative to ChatGPT

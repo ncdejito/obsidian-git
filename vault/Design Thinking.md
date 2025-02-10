@@ -36,3 +36,6 @@ Test (15 minutes): In this stage, you want to try your solutions out and get fee
 - How does my learning plan help me achieve my goals and learn new skills?
 - Your output for this stage should be a list of feedback and learnings that you can use to improve your solutions.
 - I hope this program helps you build a vision for your ideal life. Remember, design thinking is a non-linear and iterative process, so you can always go back and forth between the stages and refine your solutions until you are satisfied. Good luck and have fun!
+
+References
+https://www.amazon.com/Designing-Your-Life-Well-Lived-Joyful-ebook/dp/B01BJSRSEC/ref=zg_m_bs_g_2576_m_sccl_8/138-0287738-4445037?psc=1

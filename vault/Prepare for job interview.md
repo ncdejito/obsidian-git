@@ -49,3 +49,5 @@ Do you think 1 satellite is accurate enough for robot applications like autonomo
 Can you think of approaches that might be more accurate for a robotics application?
 Have you ever implemented a particle filter or kalman filter?
 What about filters make them better than GPS?
+
+

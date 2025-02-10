@@ -6,6 +6,8 @@
 [[Pass coding exams]]
 [[Prepare for job interview]]
 [[Negotiate]] good to [[Get paid]] well
+
+[[Stay sane during the job search]]
 [[Deal with rejection]]
 
 Describe exactly how you're going to [[Add value]] - specifics not required, just MECE topics and potential specific steps to try

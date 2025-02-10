@@ -1,19 +1,19 @@
 Concern: Winning
-An integrative set of choices that position you in a playing field of your choice in a way that you win
+An integrative/unifying set of choices that position you in a playing field of your choice in a way that you win
 
 Key ideas
 * Not [[Planning]], which is more list of things that you control
 * Must be coherent
 * an outcome outside your control
 
-Output: A strategy map with [[OKRs]]
-* Future state [[Goals]]
+Output: A strategy map
+* Future state [[Dreams]]
 * Current state 
 	* [[Assess the situation]] you are in
 	* Possibilities and chance of happening [[Take risks]]
 	* Understand your [[Locus of Control]]
-* Plan how to get there [[Projects]]
-* Execute
+* Plan how to get there [[Planning]]
+* Execute [[Projects]]
 	* Test and validate multiple directions, switch when have proof
 	* Avoid switching direction often by being ok with [[Fear of missing out FOMO]]
 

@@ -13,3 +13,6 @@ High cholesterol - too much oil
 High blood - too much sugar
 Uric acid - too much salt
 [[Hypertension]]
+
+Handle hunger - drink water, keep busy to take mind off food
+https://www.reddit.com/r/Fitness/comments/bazp0a/community_campfire_managing_hunger_while_losing/

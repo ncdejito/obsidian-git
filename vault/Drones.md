@@ -13,3 +13,6 @@ https://www.mdpi.com/2504-446X/5/2/52
 
 Small projects
 https://www.linkedin.com/posts/activity-7197883486412652544-1Aye?utm_source=share&utm_medium=member_android
+
+Russian shahid drone
+https://www.linkedin.com/posts/yehorshytikov_ukrainian-developers-landed-a-russian-shahid-activity-7281454911819526146-pPGm?utm_source=share&utm_medium=member_android

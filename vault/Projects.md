@@ -7,8 +7,8 @@ Accomplishable in a defined period, not a recurring set of tasks like [[Habits]]
 
 How to create a project
 [[Choose to do a project]]
-[[Scope a project]]
-[[Schedule the project]]
+[[Scope a project]] - Roadmap
+[[Schedule the project]] - Timeline
 [[Budget for a project]]
 [[Execute]] the project
 [[Communicate progress]]

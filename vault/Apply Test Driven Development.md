@@ -1,5 +1,6 @@
 
 [[Write unit tests]]
+[[Write mocks]]
 
 Test-Driven Development - write tests first, then use those to drive design and development of your software
 ## Motivations

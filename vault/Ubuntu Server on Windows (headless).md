@@ -85,8 +85,6 @@ Error: VM keeps turning off after going through guided VBox setup
 Not in a hypervisor partition (HVP=0) (VERR_NEM_NOT_AVAILABLE). VT-x is disabled in the BIOS for all CPU modes (VERR_VMX_MSR_ALL_VMX_DISABLED). 
 Solution:
 
-Ask admin access from @security-team
-
 Enter BIOS video 1:26 onwards
 
 Enable virtualization in BIOS

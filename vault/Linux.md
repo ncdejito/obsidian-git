@@ -153,6 +153,9 @@ How do processes work? Why cant I access processes inside a screen?
 #fix sudo apt update results in >> E: Failed to fetch http://ph.archive.ubuntu.com/ubuntu/dists/focal/InRelease 403 Forbidden
 Solution: https://askubuntu.com/a/192388
 
+#fix not in sudoers file
+https://stackoverflow.com/a/47807036
+
 ## References
 [Expert-level linux commands](https://peterlyons.com/leveling-up/)
 Log parsing commands like sed grep [linkedin](https://www.linkedin.com/posts/sahnlam_log-parsing-commands-are-very-useful-activity-7037304369268101120-0fsU?utm_source=share&utm_medium=member_desktop)

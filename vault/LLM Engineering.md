@@ -12,6 +12,7 @@ Training & Tuning
 - [LLM Architecture](https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/)
 - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - https://barryz-architecture-of-agentic-llm.notion.site/Almost-Everything-I-know-about-LLMs-d117ca25d4624199be07e9b0ab356a77
+- https://martinfowler.com/articles/gen-ai-patterns/
 
 Components
 - [[LLM Memory]]

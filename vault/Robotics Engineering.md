@@ -44,6 +44,12 @@ https://medium.com/swlh/the-evolution-of-intelligence-in-robots-part-1-2ad38a928
 
 Robotics projects from Chandandeep
 https://www.linkedin.com/posts/activity-7202600440193028096-3jNI?utm_source=share&utm_medium=member_android
+
+Why robotics companies fail by piknik
+https://picknik.ai/2025/01/06/ROS-Hardware-Ecosystems-Announcement.html
+
+Cobots - key ide:
+[[Series Elastic Actuators]]
 ## Communities
 hackaday
 instructables

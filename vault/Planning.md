@@ -1,4 +1,5 @@
 Not [[Strategy]]
+Make a roadmap and timeline with [[Projects]] management
 
 then stay accountable:
 [[Day checkout]] every night
