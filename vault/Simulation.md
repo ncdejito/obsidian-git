@@ -1,5 +1,6 @@
 [[Robotics Engineering]]
 [[WorldModel]]
+[[Robot model]]
 
 Tools
 [[Gazebo Classic]]

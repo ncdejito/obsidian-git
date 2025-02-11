@@ -10,3 +10,5 @@ sudo -u postgres -i
 psql
 create database ncdejito;
 ```
+
+https://www.postgresql.org/docs/current/index.html

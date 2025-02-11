@@ -13,6 +13,7 @@ Write starter code with AI: [[Using LLMs ChatGPT]]
 - [[Secure Code (Security)]]
 - [[Compare technology tradeoffs]]
 * [[Connect computers with Networking]]
+* Build performant apps with [[WebAssembly]]
 
 ## Practice
 https://www.boot.dev/

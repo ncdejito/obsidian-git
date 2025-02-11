@@ -50,4 +50,7 @@ Can you think of approaches that might be more accurate for a robotics applicati
 Have you ever implemented a particle filter or kalman filter?
 What about filters make them better than GPS?
 
+## Questions to ask them
+
+https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/
 

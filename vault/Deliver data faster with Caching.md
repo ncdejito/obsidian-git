@@ -31,3 +31,6 @@ cache miss - the data point does not exist in the cache
 Options
 Redis - often utilized as a primary database or a message broker and offers a clear growth path to an enterprise-hardened solution
 memcached - cache-focused key/value store
+
+Considerations
+https://www.linkedin.com/posts/bytebytego_systemdesign-coding-interviewtips-activity-7293885383551954944-uktg?utm_source=share&utm_medium=member_android

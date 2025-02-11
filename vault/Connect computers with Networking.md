@@ -14,7 +14,7 @@ Packets - small segment of a larger message. Data sent over computer networks*, 
 DNS - domain name system, is the phonebook of the Internet, used to identify computers reachable through the Internet
 
 Network Sockets - endpoint for sending and receiving data across the network
-WebSockets - is a computer communications protocol, providing full-duplex (2-way) communication channels over a single TCP connection
+[[WebSockets]] - is a computer communications protocol, providing full-duplex (2-way) communication channels over a single TCP connection
 
 Broadcast address - network address used to transmit to all devices connected to a multiple-access communications network. A message sent to a broadcast address may be received by all network-attached hosts. (like a group list email)
 

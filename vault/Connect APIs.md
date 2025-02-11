@@ -7,7 +7,7 @@ Implementations
 
 Best practices
 [[gRPC]]
-REST - [[FastAPI]]
+[[REST APIs]] - [[FastAPI]]
 GraphQL - open-source data query language and data manipulation language for APIs, and a query runtime engine
 
 [[Webhook]]

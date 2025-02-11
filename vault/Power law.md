@@ -1,5 +1,4 @@
 
-
 [[Pareto principle]]
 
 [[Consulting]]

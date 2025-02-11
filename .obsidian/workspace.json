@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Month checkout.md",
+                "file": "vault/Prepare for job interview.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Month checkout"
+              "title": "Prepare for job interview"
             }
           }
         ]
@@ -53,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "merge",
+                "query": "websock",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,32 +207,32 @@
   },
   "active": "bc729948bc9c9637",
   "lastOpenFiles": [
+    "vault/Pyodide.md",
+    "vault/Build Frontend UI.md",
+    "vault/Program asynchronously.md",
+    "vault/WebSockets.md",
+    "vault/Typescript.md",
+    "vault/Javascript.md",
+    "vault/Connect computers with Networking.md",
+    "vault/ROS networking.md",
+    "vault/Build Backend Components.md",
+    "vault/Full-Stack Web Development.md",
+    "vault/WebAssembly.md",
+    "vault/Content Delivery Networks CDN.md",
+    "vault/Databases.md",
+    "vault/PostgreSQL.md",
+    "vault/DuckDB.md",
+    "vault/Data Engineering.md",
+    "vault/FastAPI.md",
+    "vault/REST APIs.md",
+    "vault/Connect APIs.md",
+    "vault/Robot model.md",
+    "vault/Lagrangian mechanics.md",
+    "vault/Month checkout.md",
     "vault/Codegen.md",
     "vault/Go.md",
     "vault/Stay sane during the job search.md",
     "vault/LLM Coding assistants.md",
-    "vault/Yocto.md",
-    "vault/Build system.md",
-    "vault/Write mocks.md",
-    "vault/Seams.md",
-    "vault/Series Elastic Actuators.md",
-    "vault/Quarter checkout.md",
-    "vault/Week checkout.md",
-    "vault/Planning.md",
-    "vault/Day checkout.md",
-    "vault/Transformers.md",
-    "vault/Vision-Language Model (VLM).md",
-    "vault/Navigation.md",
-    "vault/Open-endedness.md",
-    "vault/Control Systems.md",
-    "vault/Robot foundation model.md",
-    "vault/Foundation model.md",
-    "vault/Safety critical systems.md",
-    "vault/ADCS.md",
-    "vault/Machine Learning Compilers.md",
-    "vault/Research.md",
-    "vault/Aggregator.md",
-    "vault/Motion Control.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

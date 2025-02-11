@@ -18,3 +18,6 @@ BehaviorTrees
 ROSPlan
 SkillTree in ROS
 https://github.com/RobotLabLTH/skiros2?tab=readme-ov-file
+
+Task planning sebastian castro
+https://github.com/sea-bass/learn-task-planning

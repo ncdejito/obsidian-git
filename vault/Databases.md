@@ -3,6 +3,8 @@
 a hashmap
 
 [[NoSQL]]
+[[PostgreSQL]]
+[[DuckDB]]
 
 ## Tools
 Dbeaver
