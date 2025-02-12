@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Prepare for job interview.md",
+                "file": "vault/Learn a large code base.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Prepare for job interview"
+              "title": "Learn a large code base"
             }
           }
         ]
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "websock",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -207,6 +207,8 @@
   },
   "active": "bc729948bc9c9637",
   "lastOpenFiles": [
+    "vault/REST APIs.md",
+    "vault/Prepare for job interview.md",
     "vault/Pyodide.md",
     "vault/Build Frontend UI.md",
     "vault/Program asynchronously.md",
@@ -224,7 +226,6 @@
     "vault/DuckDB.md",
     "vault/Data Engineering.md",
     "vault/FastAPI.md",
-    "vault/REST APIs.md",
     "vault/Connect APIs.md",
     "vault/Robot model.md",
     "vault/Lagrangian mechanics.md",
@@ -232,7 +233,6 @@
     "vault/Codegen.md",
     "vault/Go.md",
     "vault/Stay sane during the job search.md",
-    "vault/LLM Coding assistants.md",
     "Rule of 5/3",
     "Rule of 5"
   ]
