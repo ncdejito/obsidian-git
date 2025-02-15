@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Learn a large code base.md",
+                "file": "vault/Data Analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Learn a large code base"
+              "title": "Data Analysis"
             }
           }
         ]
@@ -207,6 +207,9 @@
   },
   "active": "bc729948bc9c9637",
   "lastOpenFiles": [
+    "vault/Data Science.md",
+    "vault/Data.md",
+    "vault/Learn a large code base.md",
     "vault/REST APIs.md",
     "vault/Prepare for job interview.md",
     "vault/Pyodide.md",
@@ -230,9 +233,6 @@
     "vault/Robot model.md",
     "vault/Lagrangian mechanics.md",
     "vault/Month checkout.md",
-    "vault/Codegen.md",
-    "vault/Go.md",
-    "vault/Stay sane during the job search.md",
     "Rule of 5/3",
     "Rule of 5"
   ]

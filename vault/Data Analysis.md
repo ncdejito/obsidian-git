@@ -18,6 +18,7 @@ Treating missing data
 - using the last known value
 
 Principles of tidy data - Observational units
+https://vita.had.co.nz/papers/tidy-data.pdf
 hadley wickham
 Dplyr R - grammar for cleaning data
 
