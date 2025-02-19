@@ -1,4 +1,5 @@
  [Intro](https://www.youtube.com/watch?v=xGGfTgHp6Ik) [Industry report map](https://medium.com/@ZacuaVentures/construction-robotics-the-new-frontier-in-construction-afb4fe856816), [China construction robotics plan](https://www.linkedin.com/posts/amprather_how-many-use-cases-exist-for-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-activity-7025809850043355136-j-f_?utm_source=share&utm_medium=member_android)
+https://www.linkedin.com/posts/bencunnah_ai-specialists-in-construction-activity-7289567896224059392-7kcs?utm_source=share&utm_medium=member_android&rcm=ACoAAA3LMbwBL0fl-duGsr6F6kypgy-g-ik7Whc
 
 Construction themed robotics podcast  
 [https://www.linkedin.com/posts/polymath-robotics_automate-it-activity-7045439195581992960-cP1Y?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/polymath-robotics_automate-it-activity-7045439195581992960-cP1Y?utm_source=share&utm_medium=member_desktop)

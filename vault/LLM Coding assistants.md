@@ -15,6 +15,9 @@ https://www.augmentcode.com/blog/amp-streamlines-robotics-software-development-w
 
 [[Using LLMs ChatGPT]]
 
+Agent based coding specific workflow
+https://www.linkedin.com/posts/engnadeau_ive-been-using-agent-based-ai-coding-assistance-activity-7294533215166320640-RHrx?utm_source=share&utm_medium=member_android
+
 Starcoder stanford presentation
 https://www.linkedin.com/posts/loubna-ben-allal-238690152_stanford-cs25-llms-starcoder-activity-7205973335350935552-GSqD?utm_source=share&utm_medium=member_android
 

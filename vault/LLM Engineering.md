@@ -4,7 +4,6 @@ How to build a [[Large Language Model (LLM)]] application
 
 Training & Tuning
 - [LLMs Training in 2024 by Hugging Face CEO](https://www.linkedin.com/posts/thom-wolf_ai-openknowledge-openaccess-activity-7173356581361803265-lYWq?utm_source=share&utm_medium=member_android)
-- [Tune LLMs to Your Own Data](https://www.linkedin.com/posts/sanyambhutani_terrific-tutorial-on-tuning-llms-on-your-activity-7056445643858358272-ZcMW?utm_source=share&utm_medium=member_android)
 - [Lamini: LLM Fine-Tuning Made Easy](https://www.linkedin.com/posts/zhousharon_im-super-excited-to-announce-lamini-the-activity-7057754782249193472-1MKd?utm_source=share&utm_medium=member_desktop)
 - [Collecting Data for LLMs](https://github.com/togethercomputer/RedPajama-Data)
 

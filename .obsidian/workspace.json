@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vault/Data Analysis.md",
+                "file": "vault/LLM Coding assistants.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Analysis"
+              "title": "LLM Coding assistants"
             }
           }
         ]
@@ -207,6 +207,10 @@
   },
   "active": "bc729948bc9c9637",
   "lastOpenFiles": [
+    "vault/Write a Resume.md",
+    "vault/Apply for a job.md",
+    "vault/Get a Job.md",
+    "vault/Data Analysis.md",
     "vault/Data Science.md",
     "vault/Data.md",
     "vault/Learn a large code base.md",
@@ -229,10 +233,6 @@
     "vault/DuckDB.md",
     "vault/Data Engineering.md",
     "vault/FastAPI.md",
-    "vault/Connect APIs.md",
-    "vault/Robot model.md",
-    "vault/Lagrangian mechanics.md",
-    "vault/Month checkout.md",
     "Rule of 5/3",
     "Rule of 5"
   ]
